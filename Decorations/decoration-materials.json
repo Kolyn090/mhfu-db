@@ -2,8 +2,20 @@
     "rarity-4": [
         {
             "name": "Attack Jewel",
-            "slots": 1,
-            "price": 200
+            "materials": [
+                {
+                    "name": "Suiko Jewel",
+                    "amount": 1
+                },
+                {
+                    "name": "Power Seed",
+                    "amount": 1
+                },
+                {
+                    "name": "Kut-Ku Scale",
+                    "amount": 1
+                }
+            ]
         }
     ],
     "rarity-5": [

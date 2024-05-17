@@ -6,15 +6,21 @@
         },
         {
             "id": 11,
-            "materials": {
-                "anteka-pelt": 1
-            }
+            "materials": [
+                {
+                    "name": "anteka-pelt",
+                    "amount": 1
+                }
+            ]
         },
         {
             "id": 12,
-            "materials": {
-                "disk-stone": 1
-            }
+            "materials": [
+                {
+                    "name": "disk-stonet",
+                    "amount": 1
+                }
+            ]
         }
     ],
     "rarity-2": [
