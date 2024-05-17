@@ -2,21 +2,19 @@
     "rarity-1": [
         {
             "id": 0,
-            "name": "",
-            "price": 0,
-            "hunter-type": ""
+            "materials": {}
         },
         {
             "id": 11,
-            "name": "Mafumofu Hood",
-            "price": 50,
-            "hunter-type": "bg"
+            "materials": {
+                "anteka-pelt": 1
+            }
         },
         {
             "id": 12,
-            "name": "Leather Helm",
-            "price": 150,
-            "hunter-type": "bg"
+            "materials": {
+                "disk-stone": 1
+            }
         }
     ],
     "rarity-2": [
