@@ -1,17 +1,18 @@
 {
     "rarity-1": [
         {
+            "id": 0,
             "name": "",
+            "price": 0,
             "hunter-type": "",
-            "slots": 0,
-            "defense": 0,
-            "fire-res": 0,
-            "thundr-res": 0,
-            "dragon-res": 0,
-            "water-res": 0,
-            "ice-res": 0,
-            "description": "",
-            "skill-points": {}
+            "defense": 0
+        },
+        {
+            "id": 11,
+            "name": "Mafumofu Hood",
+            "price": 50,
+            "hunter-type": "bg",
+            "defense": 1
         }
     ],
     "rarity-2": [
