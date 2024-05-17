@@ -2,16 +2,28 @@
     "rarity-1": [
         {
             "id": 0,
-            "skill-points": {}
+            "skill-points": []
         },
         {
             "id": 11,
-            "skill-points": {
-                "protection": 2,
-                "heat-res": -2,
-                "cold-res": 4,
-                "psychicVis": 3
-            }
+            "skill-points": [
+                {
+                    "name": "Protection",
+                    "level": 2
+                },
+                {
+                    "name": "Heat-res",
+                    "level": -2
+                },
+                {
+                    "name": "Cold-res",
+                    "level": 4
+                },
+                {
+                    "name": "PsychicVis",
+                    "level": 3
+                }
+            ]
         }
     ],
     "rarity-2": [
