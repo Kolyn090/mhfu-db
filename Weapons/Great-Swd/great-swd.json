@@ -1,33 +1,27 @@
-{
-    "rarity-1": [
-        {
-            "id": 0,
-            "name": "",
-            "price": 0
-        }
-    ],
-    "rarity-2": [
-
-    ],
-    "rarity-3": [
-
-    ],
-    "rarity-4": [
-
-    ],
-    "rarity-5": [
-
-    ],
-    "rarity-6": [
-
-    ],
-    "rarity-7": [
-
-    ],
-    "rarity-8": [
-
-    ],
-    "rarity-9": [
-
-    ]
-}
+[
+    {
+        "id": 0,
+        "name": "",
+        "price": 0,
+        "rare": 1,
+        "upgrade-to": [
+            {
+                "id": 0,
+                "price": 0,
+                "materials": [
+                    {
+                        "name": "",
+                        "amount": 0
+                    }
+                ]
+            }
+        ],
+        "materials": [
+            {
+                "name": "",
+                "amount": 0
+            }
+        ],
+        "description": ""
+    }
+]
