@@ -1,0 +1,5998 @@
+[
+    {
+        "id": 0,
+        "name": "Attack Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Attack",
+                "points": 1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Power Seed",
+                "amount": 1
+            },
+            {
+                "name": "Kut-Ku Scale",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Fierce Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Attack",
+                "points": 3
+            },
+            {
+                "name": "Defense",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Fire Wyvern Claw",
+                "amount": 1
+            },
+            {
+                "name": "Demondrug",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Strongest Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Attack",
+                "points": 5
+            },
+            {
+                "name": "Defense",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "HrdFireWyvernClw",
+                "amount": 4
+            },
+            {
+                "name": "Mega Demondrug",
+                "amount": 3
+            },
+            {
+                "name": "Lthr Pelagus Plt",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Defense Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Defense",
+                "points": 1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Turtle Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Defense",
+                "points": 3
+            },
+            {
+                "name": "All Resist",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Blk Gravios Shl",
+                "amount": 1
+            },
+            {
+                "name": "Hermitaur Claw",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Turtle Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Defense",
+                "points": 3
+            },
+            {
+                "name": "All Resist",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Steadfast Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": 1
+            },
+            {
+                "name": "Paralysis",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Velociprey Fang",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Anti-Faint Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": 3
+            },
+            {
+                "name": "Paralysis",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Velocidrome Claw",
+                "amount": 2
+            },
+            {
+                "name": "Pur Rubbery Hide",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Steadfast Jewel+",
+        "rare": 4,
+        "slots": 0,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "LthrC.BlangoTail",
+                "amount": 1
+            },
+            {
+                "name": "ThkBullfangoPelt",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Paralysis Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Paralysis",
+                "points": 1
+            },
+            {
+                "name": "Poison",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Genprey Fang",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "AntiParalyzJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Paralysis",
+                "points": 3
+            },
+            {
+                "name": "Poison",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Paralysis Sac",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Paralysis Jewel+",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Paralysis",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "VespoidQn'sCrown",
+                "amount": 1
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Pep Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sleep",
+                "points": 1
+            },
+            {
+                "name": "Water Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Sleep Herb",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Jolt Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sleep",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Sleep Sac",
+                "amount": 1
+            },
+            {
+                "name": "Sleepyfish",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Antidote Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Poison",
+                "points": 1
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Ioprey Fang",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Antivenin Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Poison",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 2
+            },
+            {
+                "name": "Herbal Medicine",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Antidote Jewel+",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Poison",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 1
+            },
+            {
+                "name": "SpecRemobraSkin+",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Retroviral Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Antiseptic",
+                "points": 1
+            },
+            {
+                "name": "Sneak",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Conga Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Bitterbug",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Antiviral Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Antiseptic",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Congalala Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Antiseptic Stone",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Antiviral Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Antiseptic",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "HrdCongalalaPlt+",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Tireless Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fatigue",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Fire Drgn Webbng",
+                "amount": 1
+            },
+            {
+                "name": "Sunset Herb",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Tireless Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fatigue",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "ThickFireDrgnScl",
+                "amount": 2
+            },
+            {
+                "name": "Energy Drink",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Anchor Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Quake Res",
+                "points": 1
+            },
+            {
+                "name": "Sleep",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Blangonga Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Power Pill",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Tectonic Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Quake Res",
+                "points": 3
+            },
+            {
+                "name": "Sleep",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Pincer",
+                "amount": 1
+            },
+            {
+                "name": "Blangonga Tail",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Tectonic Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Quake Res",
+                "points": 3
+            },
+            {
+                "name": "Sleep",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Hard Gaoren Claw",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Snowblower Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Snow Res",
+                "points": 1
+            },
+            {
+                "name": "Terrain",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Giaprey Scale",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Snowplow Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Snow Res",
+                "points": 3
+            },
+            {
+                "name": "Terrain",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Blangonga Fang",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "SnowblowerJewel+",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Snow",
+                "points": 4
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "LeathrBlangoTail",
+                "amount": 1
+            },
+            {
+                "name": "Giaprey Scale+",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Tip Toe Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 1
+            },
+            {
+                "name": "Ivy",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Ninja Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Chameleos Hide",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Strength Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Artisan Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Artisan",
+                "points": 1
+            },
+            {
+                "name": "Potential",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Monoblos Heart",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Artisan Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Artisan",
+                "points": 1
+            },
+            {
+                "name": "Potential",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 1
+            },
+            {
+                "name": "Lao-ShanCarapace",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Master Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Artisan",
+                "points": 4
+            },
+            {
+                "name": "Potential",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Akantor Claw",
+                "amount": 1
+            },
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 2
+            },
+            {
+                "name": "Basarios Wing",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Fencer Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fencing",
+                "points": 1
+            },
+            {
+                "name": "Recovery",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Rathalos Plate",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Fencer Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fencing",
+                "points": 1
+            },
+            {
+                "name": "Recovery",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Azure LaoS Shell",
+                "amount": 2
+            },
+            {
+                "name": "Slver Rthalos Tail",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Swordsman Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fencing",
+                "points": 4
+            },
+            {
+                "name": "Recovery",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Slvr Rthlos Wing",
+                "amount": 1
+            },
+            {
+                "name": "Fatalis Eye",
+                "amount": 1
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Razor Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sharpness",
+                "points": 1
+            },
+            {
+                "name": "Defense",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "amount": 1
+            },
+            {
+                "name": "Sharpened Beak",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Cutter Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sharpness",
+                "points": 4
+            },
+            {
+                "name": "Defense",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gravios BrainStm",
+                "amount": 1
+            },
+            {
+                "name": "Black Blos Tail",
+                "amount": 2
+            },
+            {
+                "name": "Garuga Wing",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Sword Draw Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sword Draw",
+                "points": 1
+            },
+            {
+                "name": "Expert",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "MonoblosCarapace",
+                "amount": 2
+            },
+            {
+                "name": "Rathalos Wing",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Sword Draw Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sword Draw",
+                "points": 1
+            },
+            {
+                "name": "Expert",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "StrRathalosWing",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "UnsheathingJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Sword Draw",
+                "points": 3
+            },
+            {
+                "name": "Expert",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 3
+            },
+            {
+                "name": "Rathalos Ruby",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "ShortChargeJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ShortCharg",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Daora Horn",
+                "amount": 1
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "ShortChargeJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ShortCharg",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Rajang Horn",
+                "amount": 1
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "RapidChargeJewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ShortCharg",
+                "points": 4
+            },
+            {
+                "name": "Constitutn",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "amount": 2
+            },
+            {
+                "name": "ThckDaoraDrgnScl",
+                "amount": 3
+            },
+            {
+                "name": "HvyLavasiothFang",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Expert Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Expert",
+                "points": 1
+            },
+            {
+                "name": "Health",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Blue Kut-Ku Shl",
+                "amount": 1
+            },
+            {
+                "name": "Anteka Antlers",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Celebrity Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Expert",
+                "points": 3
+            },
+            {
+                "name": "Health",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Shell",
+                "amount": 1
+            },
+            {
+                "name": "Twisted Horn",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Celebrity Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Expert",
+                "points": 3
+            },
+            {
+                "name": "Health",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Horn+",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Hermit Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Expert",
+                "points": 5
+            },
+            {
+                "name": "Health",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Fire Dragon Pwdr",
+                "amount": 2
+            },
+            {
+                "name": "Splendid Beak",
+                "amount": 1
+            },
+            {
+                "name": "Giadrome Skull",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Grinder Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "SwrShrpner",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 1
+            },
+            {
+                "name": "Giadrome Claw",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Stone Wall Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guard",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Basarios Shell",
+                "amount": 1
+            },
+            {
+                "name": "Hermitaur Shell",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "name": "IronCurtainJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guard",
+                "points": 3
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Spine",
+                "amount": 1
+            },
+            {
+                "name": "Gravios Skl Shl",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "IronCurtainJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guard",
+                "points": 3
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gravios Carapace",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Claw",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Hard Wall Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guard Up",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Blk Gravios Shl",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "StrongWall Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guard Up",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Blk Gravios Cpc",
+                "amount": 1
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 4
+            },
+            {
+                "name": "Lunastra Shell",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Wall Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guard Up",
+                "points": 3
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 2
+            },
+            {
+                "name": "HvyGraviosShell",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "name": "HvnlyShieldJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Auto-Guard",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Hardball Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Throw",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Blango Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Conga Pelt",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Early Bird Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Load",
+                "points": 1
+            },
+            {
+                "name": "Hunger",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Sm Ceanataur Shl",
+                "amount": 1
+            },
+            {
+                "name": "Kelbi Hide",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "High Speed Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Load",
+                "points": 3
+            },
+            {
+                "name": "Hunger",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Kirin Hide",
+                "amount": 1
+            },
+            {
+                "name": "Lao-Shan's Horn",
+                "amount": 1
+            },
+            {
+                "name": "TwstBlkBlosHrn",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "High Speed Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Load",
+                "points": 3
+            },
+            {
+                "name": "Hunger",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 1
+            },
+            {
+                "name": "Blk Blos Thracic",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Cont. Fire Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Autoreload",
+                "points": 1
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Plate",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Cont. Fire Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Autoreload",
+                "points": 1
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Fatalis Scale",
+                "amount": 1
+            },
+            {
+                "name": "Sinister Cloth",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Barrage Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Autoreload",
+                "points": 4
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Akantor Spike",
+                "amount": 1
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 1
+            },
+            {
+                "name": "Gendrome Skull",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Recoilless Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Recoil",
+                "points": 1
+            },
+            {
+                "name": "Reload",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Shell",
+                "amount": 1
+            },
+            {
+                "name": "Blk Gravios Skl",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Recoilless Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Recoil",
+                "points": 1
+            },
+            {
+                "name": "Reload",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Carapace",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Shockless Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Recoil",
+                "points": 4
+            },
+            {
+                "name": "Load",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Thoracic",
+                "amount": 2
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 1
+            },
+            {
+                "name": "Lao-Shan's Claw",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "StrongShot Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "NormalS Up",
+                "points": 1
+            },
+            {
+                "name": "Load",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Congalala Claw",
+                "amount": 1
+            },
+            {
+                "name": "Rumblefish",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "StrongShotJewel+",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "NormalS Up",
+                "points": 4
+            },
+            {
+                "name": "Reload",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "HvyC.BlangoFang",
+                "amount": 3
+            },
+            {
+                "name": "Blk Rajang Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Pierce Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PierceS Up",
+                "points": 1
+            },
+            {
+                "name": "Reload",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Ceanataur Claw",
+                "amount": 1
+            },
+            {
+                "name": "Pin Tuna",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Pierce Jewel+",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PierceS Up",
+                "points": 4
+            },
+            {
+                "name": "Reload",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 3
+            },
+            {
+                "name": "LthrSlvrRthlsTal",
+                "amount": 2
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Pellet Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PelletS Up",
+                "points": 1
+            },
+            {
+                "name": "Reload",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Piscine Fang",
+                "amount": 3
+            },
+            {
+                "name": "Wyvern Fang",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Pellet Jewel+",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PelletS Up",
+                "points": 4
+            },
+            {
+                "name": "Reload",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "HrdE.CongaClaw",
+                "amount": 3
+            },
+            {
+                "name": "Azure LaoS Claw",
+                "amount": 3
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Shot Bonus Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "NormalSAdd",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Lao-Shan's Scale",
+                "amount": 1
+            },
+            {
+                "name": "Normal S Lv3",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "PierceBonusJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PierceSAdd",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Scale",
+                "amount": 1
+            },
+            {
+                "name": "Pierce S Lv3",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "PelletBonusJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PelletSAdd",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Cephalos Fin",
+                "amount": 1
+            },
+            {
+                "name": "Pellet S Lv3",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Crag Bonus Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Crag S Add",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Basarios Shell",
+                "amount": 1
+            },
+            {
+                "name": "Crag S Lv3",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "ScattrBonusJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ClustS Add",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gravios Shell",
+                "amount": 1
+            },
+            {
+                "name": "Clust S Lv3",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Power Coat Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PowerCAdd",
+                "points": 1
+            },
+            {
+                "name": "ShortCharg",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Congalala Pelt+",
+                "amount": 1
+            },
+            {
+                "name": "Dark Piece",
+                "amount": 1
+            },
+            {
+                "name": "Power Coating",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "PowerCAddJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PowerCAdd",
+                "points": 3
+            },
+            {
+                "name": "ShortCharg",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "E.CongalalaPelt+",
+                "amount": 3
+            },
+            {
+                "name": "Dark Stone",
+                "amount": 2
+            },
+            {
+                "name": "Power Coating",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Combo Coat Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "SleepCAdd",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "DaoraDragonScale",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Mane",
+                "amount": 1
+            },
+            {
+                "name": "CloseRngCoating",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "PoisonCoatJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PoisonCAdd",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 1
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 1
+            },
+            {
+                "name": "Poison Coating",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "ParalysCoatJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ParalyCAdd",
+                "points": 1
+            },
+            {
+                "name": "ShortCharge",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Gendrome Hide",
+                "amount": 1
+            },
+            {
+                "name": "Vespoid Wing",
+                "amount": 1
+            },
+            {
+                "name": "ParaylsisCoating",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "ParalysisCAddJwl",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ParalyCAdd",
+                "points": 3
+            },
+            {
+                "name": "ShortCharge",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gendrome Tail",
+                "amount": 2
+            },
+            {
+                "name": "Vespoid Abdomen",
+                "amount": 1
+            },
+            {
+                "name": "ParaylsisCoating",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Sleep Coat Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "SleepCAdd",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Plesioth Fin",
+                "amount": 1
+            },
+            {
+                "name": "Sleep Sac",
+                "amount": 1
+            },
+            {
+                "name": "Sleep Coating",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Ammo Box Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Capacity",
+                "points": 1
+            },
+            {
+                "name": "Reload",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Spike",
+                "amount": 1
+            },
+            {
+                "name": "Remobra Skull",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Ammo Box Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Capacity",
+                "points": 1
+            },
+            {
+                "name": "Reload",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Akantor Scale",
+                "amount": 1
+            },
+            {
+                "name": "Dragonwood+",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Magazine Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Capacity",
+                "points": 4
+            },
+            {
+                "name": "Reload",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Fatalis Horn",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Spike+",
+                "amount": 1
+            },
+            {
+                "name": "Thunderbug Juice",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Sniper Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Precision",
+                "points": 1
+            },
+            {
+                "name": "Autoreload",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Anteka Antlers",
+                "amount": 1
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "SharpshootrJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Precision",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Kelbi Horn",
+                "amount": 1
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 1
+            },
+            {
+                "name": "Pin Tuna",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "SpecialAtk Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Spc Attack",
+                "points": 1
+            },
+            {
+                "name": "Rec Speed",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Chameleos Horn",
+                "amount": 1
+            },
+            {
+                "name": "Chaos Mushroom",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "SpecialAtkJewel+",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Spc Attack",
+                "points": 3
+            },
+            {
+                "name": "Rec Speed",
+                "points": 1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "amount": 3
+            },
+            {
+                "name": "LethrGarugaTail",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Element Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ElementAtk",
+                "points": 1
+            },
+            {
+                "name": "Rec Speed",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Kirin Horn",
+                "amount": 1
+            },
+            {
+                "name": "Firestone",
+                "amount": 1
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Element Jewel+",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ElementAtk",
+                "points": 4
+            },
+            {
+                "name": "Rec Speed",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "LthrKirinThndrTl",
+                "amount": 2
+            },
+            {
+                "name": "HvyBlangongaFang",
+                "amount": 4
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Bombardier Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 1
+            },
+            {
+                "name": "FlynMealPassReg",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "TrapMasterJewel",
+        "rare": 4,
+        "slots": 2,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "SpeedSetup",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "ShakalakaTreasre",
+                "amount": 1
+            },
+            {
+                "name": "Shock Trap",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "PickyEater Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Hunger",
+                "points": 1
+            },
+            {
+                "name": "Cooking",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Cephalos Scale",
+                "amount": 1
+            },
+            {
+                "name": "Well-Done Steak",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Fasting Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Hunger",
+                "points": 3
+            },
+            {
+                "name": "Cooking",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Grn Plesioth Fin",
+                "amount": 1
+            },
+            {
+                "name": "Cephalos Scale",
+                "amount": 1
+            },
+            {
+                "name": "Gourmet Steak",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "No Food Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Hunger",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "ThckGrnPlesioScl",
+                "amount": 1
+            },
+            {
+                "name": "Coral Cphlos Fin",
+                "amount": 1
+            },
+            {
+                "name": "Power Juice",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Fatso Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Gluttony",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito jewel",
+                "amount": 1
+            },
+            {
+                "name": "Congalala Fang",
+                "amount": 1
+            },
+            {
+                "name": "Glutton Tuna",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "QuickEaterJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Cooking",
+                "points": 1
+            },
+            {
+                "name": "Recovery",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Tigrex Fang",
+                "amount": 1
+            },
+            {
+                "name": "Mosswine Hide",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Fast Food Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Recovery",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Tigrex Fang+",
+                "amount": 1
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 2
+            },
+            {
+                "name": "Iodrome Skull",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Scarfing Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Cooking",
+                "points": 4
+            },
+            {
+                "name": "Recovery",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "YamaTsukamiHide",
+                "amount": 3
+            },
+            {
+                "name": "Vibrant Comb",
+                "amount": 2
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "BBQ Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "FlynMealPassReg",
+                "amount": 1
+            },
+            {
+                "name": "Burnt Meat",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Marathon Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Stamina",
+                "points": 1
+            },
+            {
+                "name": "Hunger",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Firestone",
+                "amount": 1
+            },
+            {
+                "name": "Mega Juice",
+                "amount": 1
+            },
+            {
+                "name": "Gourmet Steak",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Sprinter Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Stamina",
+                "points": 4
+            },
+            {
+                "name": "Hunger",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 3
+            },
+            {
+                "name": "Plesioth Fin",
+                "amount": 1
+            },
+            {
+                "name": "Gypceros Head",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Sprinter Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Stamina",
+                "points": 4
+            },
+            {
+                "name": "Hunger",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "SpecPlesiothFin+",
+                "amount": 1
+            },
+            {
+                "name": "HardGypcerosHead",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Constitutn Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Constitutn",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 1
+            },
+            {
+                "name": "Sharpened Beak",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Health Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Constitutn",
+                "points": 3
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Black Narga Pelt",
+                "amount": 3
+            },
+            {
+                "name": "Hypno Beak",
+                "amount": 1
+            },
+            {
+                "name": "Pawprint Stamp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Health Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Constitutn",
+                "points": 3
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "BlackNargaPelt+",
+                "amount": 1
+            },
+            {
+                "name": "Hypno Fang",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Protection Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Protection",
+                "points": 1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            },
+            {
+                "name": "Black Pearl",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "DivineProtectJwl",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Protection",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "UkanlosUnderscl",
+                "amount": 1
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Earplug Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "HearProtect",
+                "points": 1
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Ear",
+                "amount": 1
+            },
+            {
+                "name": "Hornetaur Head",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "Earplug Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "HearProtect",
+                "points": 1
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Long Garuga Ear",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Silencer Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "HearProtect",
+                "points": 4
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Azure Rthlos Cpc",
+                "amount": 1
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "amount": 1
+            },
+            {
+                "name": "Monster Broth",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Silencer Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "HearProtect",
+                "points": 4
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "HvyAzurRthlsShl",
+                "amount": 1
+            },
+            {
+                "name": "LthrChameleoTail",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "PaperweightJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "WindPress",
+                "points": 1
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Shell",
+                "amount": 1
+            },
+            {
+                "name": "Lightcrystal",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "HeavyMetal Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "WindPress",
+                "points": 3
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Chameleos Hide+",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Solid Rock Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "WindPress",
+                "points": 5
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "SpecChameleHide+",
+                "amount": 2
+            },
+            {
+                "name": "HvyDiablosSpine",
+                "amount": 1
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "Melt-Proof Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Terrain",
+                "points": 1
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Basarios Shell",
+                "amount": 1
+            },
+            {
+                "name": "Armor Pill",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Anti-Thaw Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Terrain",
+                "points": 3
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Fire Dragon Scl",
+                "amount": 2
+            },
+            {
+                "name": "Teostra Tail",
+                "amount": 1
+            },
+            {
+                "name": "Gourmet Fish+",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "name": "Anti-Thaw Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Terrain",
+                "points": 3
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Daora Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Basarios Carpace",
+                "amount": 1
+            },
+            {
+                "name": "Immunizer",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "name": "Evade Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "Cold Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "name": "Evade Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "Cold Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Lg Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Gendrome Tail",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "name": "Dodge Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Evade",
+                "points": 3
+            },
+            {
+                "name": "Cold Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Lg Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Gendrome Tail",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "name": "Jumping Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Evade Dist",
+                "points": 1
+            },
+            {
+                "name": "Attack",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "NargaCuttingWing",
+                "amount": 1
+            },
+            {
+                "name": "Lunastra Spike",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "name": "Jumping Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Evade Dist",
+                "points": 1
+            },
+            {
+                "name": "Attack",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "StrNargaCttngWng",
+                "amount": 1
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "Flying Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Evade Dist",
+                "points": 4
+            },
+            {
+                "name": "Attack",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Str Fatalis Wng",
+                "amount": 2
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            },
+            {
+                "name": "SilverGarugaPelt",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "name": "Danger Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Potential",
+                "points": 1
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Monoblos Spine",
+                "amount": 1
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "name": "Crisis Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Potential",
+                "points": 4
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Blood Red Horn",
+                "amount": 1
+            },
+            {
+                "name": "Wht Monoblos Hrn",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "name": "Pinch Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Potential",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Akantor Shell",
+                "amount": 1
+            },
+            {
+                "name": "Top-GrdRedHorn",
+                "amount": 1
+            },
+            {
+                "name": "Blk Rajang Pelt",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "name": "Guts Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guts",
+                "points": 1
+            },
+            {
+                "name": "MixSucRate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 1
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "name": "More Guts Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Guts",
+                "points": 3
+            },
+            {
+                "name": "MixSucRate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "HvyLavasiothShl",
+                "amount": 3
+            },
+            {
+                "name": "Hvy Gaoren Spine",
+                "amount": 1
+            },
+            {
+                "name": "Tailed Frog",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "name": "Alarm Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Felvine",
+                "amount": 2
+            },
+            {
+                "name": "Unknown Skull",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "name": "StayingPwr Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Everlasting",
+                "points": 1
+            },
+            {
+                "name": "Poison",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Grn Plesioth Scl",
+                "amount": 1
+            },
+            {
+                "name": "Vespoid Shell",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "name": "Permanence Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Everlasting",
+                "points": 2
+            },
+            {
+                "name": "Poison",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Grn Plsioth Scl+",
+                "amount": 1
+            },
+            {
+                "name": "Vespoid Wing",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "name": "Eternal Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Everlasting",
+                "points": 3
+            },
+            {
+                "name": "Poison",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "SpecGrnPlesioFn+",
+                "amount": 1
+            },
+            {
+                "name": "Vespoid Razorwing",
+                "amount": 1
+            },
+            {
+                "name": "Catalyst",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "name": "Friendship Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Wide Area",
+                "points": 1
+            },
+            {
+                "name": "Sneak",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Alluring Hide",
+                "amount": 1
+            },
+            {
+                "name": "Cactus Flower",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "name": "Beloved Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Wide Area",
+                "points": 3
+            },
+            {
+                "name": "Sneak",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Alluring Webbing",
+                "amount": 1
+            },
+            {
+                "name": "Lifepowder",
+                "amount": 1
+            },
+            {
+                "name": "Dosbiscus",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "name": "Tenderness Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Wide Area",
+                "points": 5
+            },
+            {
+                "name": "Sneak",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "StrAlluringWing",
+                "amount": 3
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "amount": 4
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "name": "Backpacker Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Backpacking",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Power Extract",
+                "amount": 1
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "name": "Impervious Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "All Resist",
+                "points": 3
+            },
+            {
+                "name": "Everlasting",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Kirin Mane",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "name": "Omnipotent Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "All Resist",
+                "points": 3
+            },
+            {
+                "name": "Everlasting",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Kirin Azure Horn",
+                "amount": 1
+            },
+            {
+                "name": "Dragonmoss",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "name": "TrueResistJewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "All Resist",
+                "points": 5
+            },
+            {
+                "name": "Everlasting",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "SpecialKirinHide",
+                "amount": 2
+            },
+            {
+                "name": "AncientDrgnmoss",
+                "amount": 1
+            },
+            {
+                "name": "BlackBeltCoinG",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "name": "Inferno Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fire Res",
+                "points": 1
+            },
+            {
+                "name": "Water Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Fire Herb",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "name": "Crimson Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fire Res",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "name": "Stream Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Water Res",
+                "points": 1
+            },
+            {
+                "name": "ThunderRes",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Knife Mackerel",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "name": "Torrent Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Water Res",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Plesioth Scale",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "name": "Freeze Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Ice Res",
+                "points": 1
+            },
+            {
+                "name": "Fire Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "name": "Glacier Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Ice Res",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Giadrome Hide",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "name": "Lightning Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ThunderRes",
+                "points": 1
+            },
+            {
+                "name": "Ice Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "name": "Thunder Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ThunderRes",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "name": "Slayer Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Dragon Res",
+                "points": 1
+            },
+            {
+                "name": "Poison",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Hornetaur Head",
+                "amount": 1
+            },
+            {
+                "name": "Dragon Seed",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "name": "Extinction Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Dragon Res",
+                "points": 3
+            },
+            {
+                "name": "Poison",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "amount": 1
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "name": "DragonslyrJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Dragon Res",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Hornetaur Razorwing",
+                "amount": 3
+            },
+            {
+                "name": "Rajang Tail",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "name": "CoolBreeze Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Heat Res",
+                "points": 1
+            },
+            {
+                "name": "Cold Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Blango Pelt",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "name": "Cold Wind Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Heat Res",
+                "points": 3
+            },
+            {
+                "name": "Cold Res",
+                "points": 1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Blangonga Whiskr",
+                "amount": 1
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "name": "ColdBreezeJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Heat Res",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "HrdBlangongaPlt+",
+                "amount": 2
+            },
+            {
+                "name": "Giaprey Hide+",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "name": "WarmBreeze Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 1
+            },
+            {
+                "name": "Heat Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Cephalos Scale",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "name": "Hot Wind Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 3
+            },
+            {
+                "name": "Heat Res",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Cephalos Fin",
+                "amount": 1
+            },
+            {
+                "name": "Nitroshroom",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "name": "HotBreezeJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "C.BlangongaPelt+",
+                "amount": 2
+            },
+            {
+                "name": "Genprey Hide+",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "name": "Map Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Map",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Rainbow Ore",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "name": "Gathering Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Gathering",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Dosbiscus",
+                "amount": 1
+            },
+            {
+                "name": "Bughopper",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "name": "Grab'n'DashJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "HiSpdGathr",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Great Hornfly",
+                "amount": 1
+            },
+            {
+                "name": "Power Extract",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "name": "Good Luck Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Whim",
+                "points": 1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Exciteshroom",
+                "amount": 2
+            },
+            {
+                "name": "Boomerang",
+                "amount": 1
+            },
+            {
+                "name": "Flute",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "name": "Blessing Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Whim",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Pnk Rathian Shl",
+                "amount": 1
+            },
+            {
+                "name": "Mega Pickaxe",
+                "amount": 1
+            },
+            {
+                "name": "Mega Bugnet",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "name": "HideCutter Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Carving",
+                "points": 1
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Daora Claw",
+                "amount": 1
+            },
+            {
+                "name": "ShakalakaTreasre",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "name": "HideCutter Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Carving",
+                "points": 1
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Rubbery Hide+",
+                "amount": 1
+            },
+            {
+                "name": "ShakaInheritance",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "name": "Carving Jewel",
+        "rare": 5,
+        "slots": 3,
+        "price": 450,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Carving",
+                "points": 4
+            },
+            {
+                "name": "Fate",
+                "points": -2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "UkanlosDiggngClw",
+                "amount": 3
+            },
+            {
+                "name": "ShakalakaTreasr+",
+                "amount": 1
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "name": "Tranq Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Tranquilzr",
+                "points": 1
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "OrangeHypnoPelt",
+                "amount": 1
+            },
+            {
+                "name": "Piscine Fang",
+                "amount": 1
+            },
+            {
+                "name": "Net",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "name": "Knockout Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Tranquilzr",
+                "points": 3
+            },
+            {
+                "name": "Fate",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "OrangeHypnoPelt+",
+                "amount": 3
+            },
+            {
+                "name": "HvyPiscineFang",
+                "amount": 3
+            },
+            {
+                "name": "Trap Tool",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "name": "Fate Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fate",
+                "points": 1
+            },
+            {
+                "name": "Whim",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Steel Egg",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "name": "Destiny Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fate",
+                "points": 3
+            },
+            {
+                "name": "Whim",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Golden Egg",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "name": "Fisher Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Fishing",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Cricket",
+                "amount": 1
+            },
+            {
+                "name": "Yambug",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "name": "Psychic Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Kut-Ku Ear",
+                "amount": 1
+            },
+            {
+                "name": "Psychoserum",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "name": "Perceive Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Perceive",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "RainbowTailFeath",
+                "amount": 1
+            },
+            {
+                "name": "Binoculars",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "name": "Feel Good Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Rec Speed",
+                "points": 1
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Pale Extract",
+                "amount": 1
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "name": "SpeedyRecvrJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Rec Speed",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "amount": 1
+            },
+            {
+                "name": "Lifepowder",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "name": "SpeedyRecvrJewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Rec Speed",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Battlefield Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Pale Bone",
+                "amount": 1
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "amount": 3
+            },
+            {
+                "name": "Lifecrystals",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "name": "Curing Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Recovery",
+                "points": 1
+            },
+            {
+                "name": "Health",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Flabby Hide",
+                "amount": 1
+            },
+            {
+                "name": "Kelbi Horn",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "name": "Cure All Jewel",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Recovery",
+                "points": 2
+            },
+            {
+                "name": "Health",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Khezu Hide - Tan",
+                "amount": 1
+            },
+            {
+                "name": "Ancient Potion",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "name": "Cure All Jewel+",
+        "rare": 5,
+        "slots": 2,
+        "price": 375,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Recovery",
+                "points": 3
+            },
+            {
+                "name": "Health",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "KhezuHide-Cream",
+                "amount": 3
+            },
+            {
+                "name": "LunastraCarapace",
+                "amount": 2
+            },
+            {
+                "name": "Honey",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "name": "Professor Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "MixSucRate",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Book of Combos 1",
+                "amount": 1
+            },
+            {
+                "name": "Springnight Carp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "name": "Armory Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Shot Mix",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Normal S Lv3",
+                "amount": 3
+            },
+            {
+                "name": "Pellet S Lv3",
+                "amount": 2
+            },
+            {
+                "name": "Clust S Lv3",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "name": "SecretArts Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Alchemy",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Health Flute",
+                "amount": 1
+            },
+            {
+                "name": "Ancient Potion",
+                "amount": 1
+            },
+            {
+                "name": "Antiseptic Stone",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "name": "Small Arms Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Gunnery",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Gunpowder",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "name": "Howitzer Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Gunnery",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Firestone",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "name": "Fife Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "Horn",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Akito Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Congalala Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Flute",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "name": "Cat Guide Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ComrdGuide",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "Suiko Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Comrade Ticket",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "name": "Cat Guide Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ComrdGuide",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "BattlefieldJewel",
+                "amount": 1
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Gastronome Tuna",
+                "amount": 1
+            },
+            {
+                "name": "Felvine",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "name": "Cat Attack Jewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ComradeAtk",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Piercing Claw",
+                "amount": 1
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Mega Demondrug",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "name": "CatDefenseJewel",
+        "rare": 4,
+        "slots": 1,
+        "price": 200,
+        "description": "",
+        "skill-points": [
+            {
+                "name": "ComradeDef",
+                "points": 2
+            }
+        ],
+        "materials": [
+            {
+                "name": "LapisLazuliJewel",
+                "amount": 1
+            },
+            {
+                "name": "Hvy Kut-Ku Shell",
+                "amount": 1
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Mega Armorskin",
+                "amount": 1
+            }
+        ]
+    }
+]
