@@ -1,0 +1,3448 @@
+[
+    {
+        "id": 0,
+        "name": "Hunter's Dagger+",
+        "type": "sword",
+        "attack": 112,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 510,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            2,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Assassin's Dagger",
+        "type": "sword",
+        "attack": 140,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 840,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            2,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Snake Bite",
+        "type": "sword",
+        "attack": 126,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 660,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            12
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            12,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bone Kris+",
+        "type": "sword",
+        "attack": 112,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 510,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            12
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            4
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Chief Kris",
+        "type": "sword",
+        "attack": 140,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 840,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Tarnished Sword",
+        "type": "sword",
+        "attack": 140,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2550,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            10,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Velocidrome Bite",
+        "type": "sword",
+        "attack": 168,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1290,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            1,
+            3,
+            7
+        ],
+        "sharpness-artisan": [
+            12,
+            1,
+            3,
+            12
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Velocidrome Bite+",
+        "type": "sword",
+        "attack": 252,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3360,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            1,
+            3,
+            12
+        ],
+        "sharpness-artisan": [
+            12,
+            1,
+            3,
+            15,
+            2
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Kitchen Knife",
+        "type": "sword",
+        "attack": 112,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 510,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            1
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            3
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Frost Edge",
+        "type": "sword",
+        "attack": 98,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 840,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Snake Bite+",
+        "type": "sword",
+        "attack": 154,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1050,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Viper Bite",
+        "type": "sword",
+        "attack": 140,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1290,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Crimson Club",
+        "type": "sword",
+        "attack": 196,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 5,
+        "upgrade-price": 1860,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            2,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Thunderbane",
+        "type": "sword",
+        "attack": 168,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1860,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 170
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            8,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            8,
+            9
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Poison Battleaxe",
+        "type": "sword",
+        "attack": 182,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2190,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            12,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            12,
+            8
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Hydra Bite",
+        "type": "sword",
+        "attack": 126,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1290,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            8
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Monoblos Club",
+        "type": "sword",
+        "attack": 224,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 2940,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            9,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Weary Finsword",
+        "type": "sword",
+        "attack": 168,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 1860,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            8
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Red Saber",
+        "type": "sword",
+        "attack": 154,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1560,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Melynx Tool",
+        "type": "sword",
+        "attack": 126,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1290,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Frightbane",
+        "type": "sword",
+        "attack": 196,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2550,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 190
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            8,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            8,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Upper Battleaxe",
+        "type": "sword",
+        "attack": 224,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3810,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            12,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            12,
+            11,
+            2
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Iron Chefblade",
+        "type": "sword",
+        "attack": 168,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 7500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            3,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            8
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Millennium Knife",
+        "type": "sword",
+        "attack": 182,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            2,
+            8,
+            12,
+            5
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            8,
+            12,
+            7,
+            2
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Frost Edge+",
+        "type": "sword",
+        "attack": 182,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3400,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            9
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Deathprize",
+        "type": "sword",
+        "attack": 210,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3360,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            12,
+            4
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Deadly Poison",
+        "type": "sword",
+        "attack": 168,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2550,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 360
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            8
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            13
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Studded Club",
+        "type": "sword",
+        "attack": 238,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 3360,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Sandman Finsword",
+        "type": "sword",
+        "attack": 182,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2550,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            8
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            13
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Djinn",
+        "type": "sword",
+        "attack": 210,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3360,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 310
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Catburglar",
+        "type": "sword",
+        "attack": 182,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2550,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            8
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Shaka Poison Bite",
+        "type": "sword",
+        "attack": 168,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2940,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            10,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            10,
+            9,
+            8,
+            3
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Raven Blade",
+        "type": "sword",
+        "attack": 210,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            20,
+            1,
+            3,
+            6
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            1
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Kirin Bolt Indora",
+        "type": "sword",
+        "attack": 224,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3810,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            12,
+            4
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Ninja Sword",
+        "type": "sword",
+        "attack": 224,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 25,
+        "upgrade-price": 15000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            1,
+            2,
+            3,
+            9
+        ],
+        "sharpness-artisan": [
+            1,
+            2,
+            3,
+            14
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Princess Rapier",
+        "type": "sword",
+        "attack": 196,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 5,
+        "upgrade-price": 4290,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 370
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            12,
+            4
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Spiked Bat",
+        "type": "sword",
+        "attack": 266,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 4290,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            2,
+            5,
+            18,
+            5
+        ],
+        "sharpness-artisan": [
+            2,
+            5,
+            18,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Kirin Bolt",
+        "type": "sword",
+        "attack": 168,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1860,
+        "defense": 2,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            12
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            4
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Kirin Bolt+",
+        "type": "sword",
+        "attack": 196,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3360,
+        "defense": 6,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Sandman Spike",
+        "type": "sword",
+        "attack": 210,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3360,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Blazing Falchion",
+        "type": "sword",
+        "attack": 238,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 7500,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Corona",
+        "type": "sword",
+        "attack": 196,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 20000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 440
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Flame Syphos",
+        "type": "sword",
+        "attack": 252,
+        "rare": 5,
+        "slots": 1,
+        "affinity": -15,
+        "upgrade-price": 15000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Master's Replica",
+        "type": "sword",
+        "attack": 196,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 30,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            1,
+            2,
+            3,
+            14
+        ],
+        "sharpness-artisan": [
+            1,
+            2,
+            3,
+            19
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Eternal Replica",
+        "type": "sword",
+        "attack": 182,
+        "rare": 5,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            9
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Eternal Strife",
+        "type": "sword",
+        "attack": 126,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            6
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            1
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Steel Ice Dagger",
+        "type": "sword",
+        "attack": 196,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Steel Ice Dagger+",
+        "type": "sword",
+        "attack": 210,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Dos Fang Dagger",
+        "type": "sword",
+        "attack": 280,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            3,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Odyssey",
+        "type": "sword",
+        "attack": 266,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            2,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Odyssey+",
+        "type": "sword",
+        "attack": 266,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            2,
+            5,
+            17,
+            5
+        ],
+        "sharpness-artisan": [
+            2,
+            5,
+            17,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Serpent Bite",
+        "type": "sword",
+        "attack": 280,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            3,
+            8
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            13
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Deadly Battleaxe",
+        "type": "sword",
+        "attack": 266,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3810,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            12,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            12,
+            11,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Hi Frost Edge",
+        "type": "sword",
+        "attack": 252,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 420
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Princess Rapier+",
+        "type": "sword",
+        "attack": 238,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 10,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            1
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Osteon Pick",
+        "type": "sword",
+        "attack": 280,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Feather Knife",
+        "type": "sword",
+        "attack": 266,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 5,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            9
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Osteon Pick+",
+        "type": "sword",
+        "attack": 294,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            9
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Melynx Gadget",
+        "type": "sword",
+        "attack": 182,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Shakalaka Saber",
+        "type": "sword",
+        "attack": 210,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 4000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            10,
+            9,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            10,
+            9,
+            8,
+            3,
+            4,
+            1
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Odyssey Blade",
+        "type": "sword",
+        "attack": 280,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            13,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Serpent Bite+",
+        "type": "sword",
+        "attack": 294,
+        "rare": 7,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            3,
+            13
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Wolf Blade",
+        "type": "sword",
+        "attack": 252,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 35,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            9,
+            8,
+            3,
+            4,
+            1
+        ],
+        "sharpness-artisan": [
+            10,
+            9,
+            8,
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Queen Rapier",
+        "type": "sword",
+        "attack": 252,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 10,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 420
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            8,
+            12,
+            5
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            8,
+            12,
+            7,
+            2
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Cursed Spirit",
+        "type": "sword",
+        "attack": 322,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            2,
+            5,
+            18,
+            5
+        ],
+        "sharpness-artisan": [
+            2,
+            5,
+            18,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Rajang Club",
+        "type": "sword",
+        "attack": 294,
+        "rare": 7,
+        "slots": 1,
+        "affinity": -30,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            6
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            1
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Kirin Bolt Ultimus",
+        "type": "sword",
+        "attack": 224,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            9
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ]
+    },
+    {
+        "id": 67,
+        "name": "High Sandman Spike",
+        "type": "sword",
+        "attack": 252,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Black Doom Flame",
+        "type": "sword",
+        "attack": 308,
+        "rare": 7,
+        "slots": 2,
+        "affinity": -25,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            12,
+            4
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            12,
+            7,
+            2
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Dual Carapace",
+        "type": "sword",
+        "attack": 294,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Tigrex Sword",
+        "type": "sword",
+        "attack": 308,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -25,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Hidden Edge",
+        "type": "sword",
+        "attack": 266,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Hi Ninja Sword",
+        "type": "sword",
+        "attack": 280,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 30,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            1,
+            2,
+            3,
+            14
+        ],
+        "sharpness-artisan": [
+            1,
+            2,
+            3,
+            19
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Taboo Rajang Club",
+        "type": "sword",
+        "attack": 308,
+        "rare": 8,
+        "slots": 1,
+        "affinity": -20,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            1
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Thor's Dagger",
+        "type": "sword",
+        "attack": 238,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 16,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 390
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Golden Falchion",
+        "type": "sword",
+        "attack": 252,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            1
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            1
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Black Dragon Sword",
+        "type": "sword",
+        "attack": 294,
+        "rare": 8,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Black Ruiner Sword",
+        "type": "sword",
+        "attack": 280,
+        "rare": 8,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Azure Ogre Sword",
+        "type": "sword",
+        "attack": 182,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            1,
+            2,
+            3,
+            25,
+            4
+        ],
+        "sharpness-artisan": [
+            1,
+            2,
+            3,
+            25,
+            7,
+            2
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Blue Ogre Sword",
+        "type": "sword",
+        "attack": 266,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 10
+            }
+        ],
+        "sharpness": [
+            1,
+            2,
+            3,
+            24
+        ],
+        "sharpness-artisan": [
+            1,
+            2,
+            3,
+            25,
+            4
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Daora's Razor",
+        "type": "sword",
+        "attack": 266,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Expert Sword",
+        "type": "sword",
+        "attack": 238,
+        "rare": 8,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 20000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            13
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Master Odyssey",
+        "type": "sword",
+        "attack": 350,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 370
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            13,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            13,
+            6,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Heavy Bang",
+        "type": "sword",
+        "attack": 308,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            3,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Master Bang",
+        "type": "sword",
+        "attack": 378,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 15,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Thunderblade Vajra",
+        "type": "sword",
+        "attack": 308,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            8,
+            12,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            8,
+            12,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Crow Blade",
+        "type": "sword",
+        "attack": 364,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 35,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            9,
+            8,
+            3,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            10,
+            9,
+            8,
+            3,
+            4,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Ice Fang",
+        "type": "sword",
+        "attack": 322,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Queen's Rose",
+        "type": "sword",
+        "attack": 322,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 440
+            }
+        ],
+        "sharpness": [
+            19,
+            1,
+            3,
+            11,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            19,
+            1,
+            3,
+            11,
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Feather Sword",
+        "type": "sword",
+        "attack": 280,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 7,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Hi Feather Sword",
+        "type": "sword",
+        "attack": 308,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 9,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Binding Blade",
+        "type": "sword",
+        "attack": 322,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Binding Blade+",
+        "type": "sword",
+        "attack": 378,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Golden Falchion+",
+        "type": "sword",
+        "attack": 308,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Dual Carapace+",
+        "type": "sword",
+        "attack": 308,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Twin Shells",
+        "type": "sword",
+        "attack": 336,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Hexed Shaka Hatchet",
+        "type": "sword",
+        "attack": 266,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            10,
+            9,
+            8,
+            3,
+            4,
+            1
+        ],
+        "sharpness-artisan": [
+            10,
+            9,
+            8,
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Hexed Shaka Sword",
+        "type": "sword",
+        "attack": 280,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Thunderblade Vajra+",
+        "type": "sword",
+        "attack": 350,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            8,
+            12,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            8,
+            12,
+            6,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Royal Rose",
+        "type": "sword",
+        "attack": 350,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 15,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            12,
+            7,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            12,
+            7,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Black Curse",
+        "type": "sword",
+        "attack": 420,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 20,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            2,
+            5,
+            18,
+            5,
+            5
+        ],
+        "sharpness-artisan": [
+            2,
+            5,
+            18,
+            5,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 101,
+        "name": "ForbiddenRajangClub",
+        "type": "sword",
+        "attack": 392,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -10,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Great Kris",
+        "type": "sword",
+        "attack": 434,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -15,
+        "upgrade-price": 110000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            2,
+            5,
+            18,
+            5,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            2,
+            5,
+            18,
+            5,
+            7,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Golden Eclipse",
+        "type": "sword",
+        "attack": 336,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Red Divine Flame",
+        "type": "sword",
+        "attack": 392,
+        "rare": 10,
+        "slots": 2,
+        "affinity": -15,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            9,
+            12,
+            7,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            9,
+            12,
+            7,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Dual Scissors",
+        "type": "sword",
+        "attack": 378,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            8,
+            2,
+            8,
+            13,
+            7,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            2,
+            8,
+            13,
+            7,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Twin Shears",
+        "type": "sword",
+        "attack": 364,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 30,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            8,
+            12,
+            6,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            8,
+            12,
+            6,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 107,
+        "name": "True Blk Dragon Swd",
+        "type": "sword",
+        "attack": 392,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -10,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 108,
+        "name": "True Blk Ruiner Swd",
+        "type": "sword",
+        "attack": 350,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -20,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Indigo Ogre Sword",
+        "type": "sword",
+        "attack": 196,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            1,
+            2,
+            3,
+            25,
+            7,
+            2
+        ],
+        "sharpness-artisan": [
+            1,
+            2,
+            3,
+            25,
+            7,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Daora's Maelstrom",
+        "type": "sword",
+        "attack": 378,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            9,
+            11,
+            6,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Tigrex Sword+",
+        "type": "sword",
+        "attack": 406,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -25,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            20,
+            1,
+            3,
+            10,
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Midnight Blades",
+        "type": "sword",
+        "attack": 336,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            13,
+            12,
+            6,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Warrior's Sword",
+        "type": "sword",
+        "attack": 336,
+        "rare": 10,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            3,
+            16,
+            6,
+            4,
+            2
+        ]
+    }
+]
