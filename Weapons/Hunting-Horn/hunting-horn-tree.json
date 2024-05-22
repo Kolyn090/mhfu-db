@@ -1,0 +1,2292 @@
+[
+    {
+        "upgrade-id": 0,
+        "name": "Metal Bagpipe",
+        "type": "hunting-horn",
+        "upgrade-price": 2340,
+        "materials": [
+            {
+                "name": "Black Pearl",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 17
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 5
+            },
+            {
+                "name": "Velocidrome Head",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "upgrade",
+                "name": "War Mace",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 1,
+        "name": "Giaprey Balloon",
+        "type": "hunting-horn",
+        "upgrade-price": 990,
+        "materials": [
+            {
+                "name": "Giaprey Hide",
+                "amount": 2
+            },
+            {
+                "name": "Giaprey Scale",
+                "amount": 2
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "create",
+                "name": "Bone Club",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 2,
+        "name": "Bone Horn",
+        "type": "hunting-horn",
+        "upgrade-price": 1575,
+        "materials": [
+            {
+                "name": "Blue Mushroom",
+                "amount": 3
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 0,
+                "craft-type": "create",
+                "name": "Ivory Horn",
+                "type": "hunting-horn"
+            },
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Cyclo-Hammer",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 3,
+        "name": "Khezu Horn",
+        "type": "hunting-horn",
+        "upgrade-price": 2790,
+        "materials": [
+            {
+                "name": "Flabby Hide",
+                "amount": 3
+            },
+            {
+                "name": "Pale Extract",
+                "amount": 4
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "upgrade",
+                "name": "Atlas Hammer",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 4,
+        "name": "Sonic Glass",
+        "type": "hunting-horn",
+        "upgrade-price": 2340,
+        "materials": [
+            {
+                "name": "Vespoid Abdomen",
+                "amount": 1
+            },
+            {
+                "name": "Vespoid Shell",
+                "amount": 4
+            },
+            {
+                "name": "Hornetaur Shell",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "upgrade",
+                "name": "Skullcrusher+",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 5,
+        "name": "Giaprey Balloon+",
+        "type": "hunting-horn",
+        "upgrade-price": 1935,
+        "materials": [
+            {
+                "name": "Giadrome Hide",
+                "amount": 5
+            },
+            {
+                "name": "Giadrome Skull",
+                "amount": 1
+            },
+            {
+                "name": "Screamer",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "create",
+                "name": "Giaprey Balloon",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 6,
+        "name": "War Drum",
+        "type": "hunting-horn",
+        "upgrade-price": 1935,
+        "materials": [
+            {
+                "name": "Conga Pelt",
+                "amount": 8
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Fire Herb",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 0,
+                "craft-type": "create",
+                "name": "Ivory Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 7,
+        "name": "Great Bagpipe",
+        "type": "hunting-horn",
+        "upgrade-price": 4410,
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Screamer",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "create",
+                "name": "Metal Bagpipe",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 8,
+        "name": "Basarios Rock",
+        "type": "hunting-horn",
+        "upgrade-price": 3825,
+        "materials": [
+            {
+                "name": "Basarios Shell",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "upgrade",
+                "name": "Spiked Hammer+",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 9,
+        "name": "Khezu Horn+",
+        "type": "hunting-horn",
+        "upgrade-price": 5040,
+        "materials": [
+            {
+                "name": "Flabby Hide",
+                "amount": 8
+            },
+            {
+                "name": "Pale Bone",
+                "amount": 1
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "create",
+                "name": "Khezu Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 10,
+        "name": "Sonic Glass+",
+        "type": "hunting-horn",
+        "upgrade-price": 3285,
+        "materials": [
+            {
+                "name": "Hercudrome",
+                "amount": 3
+            },
+            {
+                "name": "Vespoid Wing",
+                "amount": 20
+            },
+            {
+                "name": "Hornetaur Wing",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "create",
+                "name": "Sonic Glass",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 11,
+        "name": "Bone Horn+",
+        "type": "hunting-horn",
+        "upgrade-price": 5040,
+        "materials": [
+            {
+                "name": "Dragon Toadstool",
+                "amount": 3
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 3
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Bone Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 12,
+        "name": "War Drum+",
+        "type": "hunting-horn",
+        "upgrade-price": 5040,
+        "materials": [
+            {
+                "name": "Vibrant Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Congalala Pelt",
+                "amount": 8
+            },
+            {
+                "name": "Striped Skin",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "create",
+                "name": "War Drum",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 13,
+        "name": "Bronze Bell",
+        "type": "hunting-horn",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Gaoren Pincer",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Shell",
+                "amount": 4
+            },
+            {
+                "name": "Gaoren Claw",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 40,
+                "craft-type": "upgrade",
+                "name": "Anvil Hammer",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 14,
+        "name": "Sakura Recorder",
+        "type": "hunting-horn",
+        "upgrade-price": 25000,
+        "materials": [
+            {
+                "name": "Pnk Rathian Scl",
+                "amount": 5
+            },
+            {
+                "name": "Pnk Rathian Shl",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 40,
+                "craft-type": "upgrade",
+                "name": "Anvil Hammer",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 15,
+        "name": "Basarios Rock Mk.II",
+        "type": "hunting-horn",
+        "upgrade-price": 5715,
+        "materials": [
+            {
+                "name": "Gravios Shell",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Basarios Wing",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "create",
+                "name": "Basarios Rock",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 16,
+        "name": "Blessed Ocarina",
+        "type": "hunting-horn",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Chameleos Tail",
+                "amount": 1
+            },
+            {
+                "name": "Chameleos Hide",
+                "amount": 3
+            },
+            {
+                "name": "Chameleos Horn",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Bone Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 17,
+        "name": "Heavy Bagpipe",
+        "type": "hunting-horn",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Basarios Shell",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "upgrade",
+                "name": "Great Bagpipe",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 18,
+        "name": "Feather Whistle",
+        "type": "hunting-horn",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Top-GrdHypnoClaw",
+                "amount": 5
+            },
+            {
+                "name": "OrangeHypnoPelt",
+                "amount": 3
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "Kut-Ku Pick",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 19,
+        "name": "Khezu Flute",
+        "type": "hunting-horn",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Khezu Hide - Tan",
+                "amount": 6
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "amount": 1
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "upgrade",
+                "name": "Khezu Horn+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 20,
+        "name": "Blood Horn",
+        "type": "hunting-horn",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Alluring Webbing",
+                "amount": 2
+            },
+            {
+                "name": "Alluring Hide",
+                "amount": 8
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "upgrade",
+                "name": "Khezu Horn+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 21,
+        "name": "Glass Queen",
+        "type": "hunting-horn",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Novacrystal",
+                "amount": 2
+            },
+            {
+                "name": "Vespoid InnrWng",
+                "amount": 15
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "amount": 15
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 10,
+                "craft-type": "upgrade",
+                "name": "Sonic Glass+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 22,
+        "name": "Giadrome Balloon",
+        "type": "hunting-horn",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Giaprey Hide+",
+                "amount": 5
+            },
+            {
+                "name": "Giadrome Claw+",
+                "amount": 6
+            },
+            {
+                "name": "Giaprey Scale+",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Giaprey Balloon+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 23,
+        "name": "Velociprey Balloon",
+        "type": "hunting-horn",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Velociprey Scle+",
+                "amount": 5
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 10
+            },
+            {
+                "name": "Velociprey Fang",
+                "amount": 15
+            },
+            {
+                "name": "Screamer",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Giaprey Balloon+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 24,
+        "name": "Hunter's Horn",
+        "type": "hunting-horn",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Dragon Toadstool",
+                "amount": 5
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 3
+            },
+            {
+                "name": "Monster Broth",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "upgrade",
+                "name": "Bone Horn+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 25,
+        "name": "War Bongo",
+        "type": "hunting-horn",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 3
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 6
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 8,
+                "craft-type": "create",
+                "name": "War Drum+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 26,
+        "name": "Sakura Recorder+",
+        "type": "hunting-horn",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Pnk Rathian Scl+",
+                "amount": 7
+            },
+            {
+                "name": "Pnk Rathian Cpc",
+                "amount": 5
+            },
+            {
+                "name": "Rathian Plate",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 10,
+                "craft-type": "create",
+                "name": "Sakura Recorder",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 27,
+        "name": "Heavy Bagpipe+",
+        "type": "hunting-horn",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Basarios Tears",
+                "amount": 1
+            },
+            {
+                "name": "Blk Gravios Cpc",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 17,
+                "craft-type": "upgrade",
+                "name": "Heavy Bagpipe",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 28,
+        "name": "Volcanic Rock",
+        "type": "hunting-horn",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Basarios Tears",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 50
+            },
+            {
+                "name": "Kirin Mane",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "upgrade",
+                "name": "Basarios Rock Mk.II",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 29,
+        "name": "Wolf Shamisen",
+        "type": "hunting-horn",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Garuga Scale+",
+                "amount": 4
+            },
+            {
+                "name": "Garuga Tail",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Wing",
+                "amount": 2
+            },
+            {
+                "name": "Garuga Mane",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 82,
+                "craft-type": "upgrade",
+                "name": "Wolf Torrent",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 30,
+        "name": "Blood Flute",
+        "type": "hunting-horn",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Alluring Webbing",
+                "amount": 6
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 2
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 20,
+                "craft-type": "upgrade",
+                "name": "Blood Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 31,
+        "name": "Shell Castanet",
+        "type": "hunting-horn",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Hermitaur Carpce",
+                "amount": 4
+            },
+            {
+                "name": "Ceanataur Carpce",
+                "amount": 2
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 47,
+                "craft-type": "upgrade",
+                "name": "Ancient Relic",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 32,
+        "name": "Velociprey Balloon+",
+        "type": "hunting-horn",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Velociprey Scle+",
+                "amount": 10
+            },
+            {
+                "name": "Velociprey Hide+",
+                "amount": 8
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 5
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "upgrade",
+                "name": "Velociprey Balloon",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 33,
+        "name": "War Conga",
+        "type": "hunting-horn",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Blangonga Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Congalala Pelt+",
+                "amount": 8
+            },
+            {
+                "name": "Conga Pelt",
+                "amount": 20
+            },
+            {
+                "name": "Vibrant Pelt",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "War Bongo",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 34,
+        "name": "Tigrex Horn",
+        "type": "hunting-horn",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Tigrex Carapace",
+                "amount": 5
+            },
+            {
+                "name": "Tigrex Fang+",
+                "amount": 7
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 14,
+                "craft-type": "create",
+                "name": "Striped Dragonga",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 35,
+        "name": "Hidden Tone",
+        "type": "hunting-horn",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Black Narga Pelt",
+                "amount": 4
+            },
+            {
+                "name": "NargaCuttingWing",
+                "amount": 4
+            },
+            {
+                "name": "Narga Tail Spike",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 14,
+                "craft-type": "create",
+                "name": "Striped Dragonga",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 36,
+        "name": "Gaoren Bell",
+        "type": "hunting-horn",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Gaoren Claw",
+                "amount": 4
+            },
+            {
+                "name": "Gaoren Thoracic",
+                "amount": 4
+            },
+            {
+                "name": "Gaoren Carapace",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "create",
+                "name": "Bronze Bell",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 37,
+        "name": "Gold Recorder",
+        "type": "hunting-horn",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Gld Rathian Scl+",
+                "amount": 6
+            },
+            {
+                "name": "Gld Rathian Cpc",
+                "amount": 4
+            },
+            {
+                "name": "Small Goldenfish",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "upgrade",
+                "name": "Sakura Recorder+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 38,
+        "name": "Cursed Ocarina",
+        "type": "hunting-horn",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Chameleos Hide+",
+                "amount": 6
+            },
+            {
+                "name": "ChameleosWebbing",
+                "amount": 10
+            },
+            {
+                "name": "Chameleos Spike",
+                "amount": 2
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "create",
+                "name": "Blessed Ocarina",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 39,
+        "name": "Fatalis Menace",
+        "type": "hunting-horn",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis Webbing",
+                "amount": 1
+            },
+            {
+                "name": "Fatalis Scale",
+                "amount": 2
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 12,
+                "craft-type": "create",
+                "name": "Black Lute",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 40,
+        "name": "Ancient Fatalis Lied",
+        "type": "hunting-horn",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Wht Fatalis Horn",
+                "amount": 2
+            },
+            {
+                "name": "Wht Fatalis Wbng",
+                "amount": 1
+            },
+            {
+                "name": "Wht Fatalis Scl",
+                "amount": 2
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 12,
+                "craft-type": "create",
+                "name": "Black Lute",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 41,
+        "name": "Spirit Dragonwd Horn",
+        "type": "hunting-horn",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Dragonwood+",
+                "amount": 2
+            },
+            {
+                "name": "Dragonmoss+",
+                "amount": 4
+            },
+            {
+                "name": "Pokke Ticket+",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "create",
+                "name": "Dragonwood Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 42,
+        "name": "Lava Alphorn",
+        "type": "hunting-horn",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "ThckLavasiothScl",
+                "amount": 4
+            },
+            {
+                "name": "SpecLavasioFin+",
+                "amount": 2
+            },
+            {
+                "name": "Screamer",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 33,
+                "craft-type": "create",
+                "name": "Blacksmith",
+                "type": "hammer"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 43,
+        "name": "Gold Recorder+",
+        "type": "hunting-horn",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "HvyPnkRathianShl",
+                "amount": 6
+            },
+            {
+                "name": "ThckRathianScl",
+                "amount": 4
+            },
+            {
+                "name": "Gld Rathian Cpc",
+                "amount": 6
+            },
+            {
+                "name": "Rathian Thorn",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 37,
+                "craft-type": "upgrade",
+                "name": "Gold Recorder",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 44,
+        "name": "Master Bagpipe",
+        "type": "hunting-horn",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "HvyBasariosShell",
+                "amount": 6
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 27,
+                "craft-type": "upgrade",
+                "name": "Heavy Bagpipe+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 45,
+        "name": "Sforzando",
+        "type": "hunting-horn",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "StrBasariosWing",
+                "amount": 1
+            },
+            {
+                "name": "HvyGraviosShell",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 44,
+                "craft-type": "upgrade",
+                "name": "Master Bagpipe",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 46,
+        "name": "Volcanic Gig",
+        "type": "hunting-horn",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "HvyBasariosShell",
+                "amount": 5
+            },
+            {
+                "name": "StrBasariosWing",
+                "amount": 1
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 8
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 50
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 28,
+                "craft-type": "upgrade",
+                "name": "Volcanic Rock",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 47,
+        "name": "Hypno Whistle",
+        "type": "hunting-horn",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Top-GrdHypnoClaw",
+                "amount": 12
+            },
+            {
+                "name": "OrangeHypnoPelt+",
+                "amount": 5
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Hypno Bezoar",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "create",
+                "name": "Feather Whistle",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 48,
+        "name": "Hypno Slide Whistle",
+        "type": "hunting-horn",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Hypno Claw+",
+                "amount": 8
+            },
+            {
+                "name": "RainbowTailFeath",
+                "amount": 5
+            },
+            {
+                "name": "Hypno Bezoar+",
+                "amount": 1
+            },
+            {
+                "name": "Coma sac",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "create",
+                "name": "Hypno Whistle",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 49,
+        "name": "Crow Shamisen",
+        "type": "hunting-horn",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "LethrGarugaTail",
+                "amount": 2
+            },
+            {
+                "name": "Str Garuga Wing",
+                "amount": 2
+            },
+            {
+                "name": "SilverGarugaPelt",
+                "amount": 2
+            },
+            {
+                "name": "ThickGarugaScale",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 18,
+                "craft-type": "create",
+                "name": "Wolf Shamisen",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 50,
+        "name": "Blood Flute+",
+        "type": "hunting-horn",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "StrAlluringWing",
+                "amount": 2
+            },
+            {
+                "name": "Alluring Webbing",
+                "amount": 4
+            },
+            {
+                "name": "Lightning Sac",
+                "amount": 5
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 30,
+                "craft-type": "upgrade",
+                "name": "Blood Flute",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 51,
+        "name": "Brute Flute",
+        "type": "hunting-horn",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "StrAlluringWing",
+                "amount": 6
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "amount": 1
+            },
+            {
+                "name": "BigEDragonBone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 50,
+                "craft-type": "upgrade",
+                "name": "Blood Flute+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 52,
+        "name": "Shell Castanet+",
+        "type": "hunting-horn",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "HvyHermitaurShl",
+                "amount": 4
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 1
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "amount": 2
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "create",
+                "name": "Shell Castanet",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 53,
+        "name": "Crabby Castanet",
+        "type": "hunting-horn",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 4
+            },
+            {
+                "name": "TerraCeanatrShl",
+                "amount": 2
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "create",
+                "name": "Shell Castanet",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 54,
+        "name": "Glass Royale",
+        "type": "hunting-horn",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 1
+            },
+            {
+                "name": "Vspoid Razorwing",
+                "amount": 8
+            },
+            {
+                "name": "Hornet Razorwing",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 21,
+                "craft-type": "upgrade",
+                "name": "Glass Queen",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 55,
+        "name": "Queen's Flute",
+        "type": "hunting-horn",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Vspoid Razorwing",
+                "amount": 5
+            },
+            {
+                "name": "Hornet Razorwing",
+                "amount": 5
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 10
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Glass Royale",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 56,
+        "name": "Velocidrome Balloon",
+        "type": "hunting-horn",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Velocidrome Head",
+                "amount": 3
+            },
+            {
+                "name": "Velocidrome Clw+",
+                "amount": 6
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 10
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 32,
+                "craft-type": "upgrade",
+                "name": "Velociprey Balloon+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 57,
+        "name": "Velocidrome Balloon+",
+        "type": "hunting-horn",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Velocidrome Hide",
+                "amount": 10
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 15
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 5
+            },
+            {
+                "name": "BigEDragonBone",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 56,
+                "craft-type": "upgrade",
+                "name": "Velocidrome Balloon",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 58,
+        "name": "Hunter's Horn+",
+        "type": "hunting-horn",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Dragon Toadstool",
+                "amount": 8
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 3
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 5
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "upgrade",
+                "name": "Hunter's Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 59,
+        "name": "Native's Horn",
+        "type": "hunting-horn",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Dragon Toadstool",
+                "amount": 10
+            },
+            {
+                "name": "BigEDragonBone",
+                "amount": 3
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 5
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 58,
+                "craft-type": "upgrade",
+                "name": "Hunter's Horn+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 60,
+        "name": "Conga Conga",
+        "type": "hunting-horn",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "HrdCongalalaPlt+",
+                "amount": 6
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "amount": 2
+            },
+            {
+                "name": "Congalala Claw+",
+                "amount": 8
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 33,
+                "craft-type": "upgrade",
+                "name": "War Conga",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 61,
+        "name": "Jungle Bongo",
+        "type": "hunting-horn",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 8
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "amount": 2
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 33,
+                "craft-type": "upgrade",
+                "name": "War Conga",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 62,
+        "name": "Jungle Conga",
+        "type": "hunting-horn",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "HrdBlangongaPlt+",
+                "amount": 4
+            },
+            {
+                "name": "Congalala Pelt+",
+                "amount": 8
+            },
+            {
+                "name": "HrdE.CongaClaw",
+                "amount": 4
+            },
+            {
+                "name": "Vibrant Comb",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 25,
+                "craft-type": "create",
+                "name": "Jungle Bongo",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 63,
+        "name": "AncientDrgnwoodFlute",
+        "type": "hunting-horn",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "AncientDrgnwood",
+                "amount": 3
+            },
+            {
+                "name": "AncientDrgnmoss",
+                "amount": 1
+            },
+            {
+                "name": "YamaTsukamiHide",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 41,
+                "craft-type": "upgrade",
+                "name": "Spirit Dragonwd Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 64,
+        "name": "Handcrafted Frog",
+        "type": "hunting-horn",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Tailed Frog",
+                "amount": 5
+            },
+            {
+                "name": "Frog",
+                "amount": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 3
+            },
+            {
+                "name": "Gt Lobstershell",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 17,
+                "craft-type": "create",
+                "name": "Handmade Frog",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 65,
+        "name": "Volcano Alphorn",
+        "type": "hunting-horn",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "SpecLavasioFin+",
+                "amount": 4
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 3
+            },
+            {
+                "name": "HvyGraviosShell",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 22,
+                "craft-type": "create",
+                "name": "Lava Alphorn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 66,
+        "name": "Gaoren Zhong",
+        "type": "hunting-horn",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "Hard Gaoren Claw",
+                "amount": 2
+            },
+            {
+                "name": "Hvy Gaoren Spine",
+                "amount": 4
+            },
+            {
+                "name": "HvyGaorenShell",
+                "amount": 6
+            },
+            {
+                "name": "HvnlyGaorenShell",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 36,
+                "craft-type": "upgrade",
+                "name": "Gaoren Bell",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 67,
+        "name": "Lunar Recorder",
+        "type": "hunting-horn",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "ThckGldRathnScl",
+                "amount": 7
+            },
+            {
+                "name": "HvyGldRathianShl",
+                "amount": 5
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 43,
+                "craft-type": "upgrade",
+                "name": "Gold Recorder+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 68,
+        "name": "Bi-Colored Castanet",
+        "type": "hunting-horn",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "HvyHermitaurShl",
+                "amount": 2
+            },
+            {
+                "name": "HvyCeanataurShl",
+                "amount": 4
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 2
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 52,
+                "craft-type": "upgrade",
+                "name": "Shell Castanet+",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 69,
+        "name": "Klick-Klack",
+        "type": "hunting-horn",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 6
+            },
+            {
+                "name": "TerraCeanatrShl",
+                "amount": 4
+            },
+            {
+                "name": "Hard Gaoren Claw",
+                "amount": 2
+            },
+            {
+                "name": "HvnlyGaorenShell",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 53,
+                "craft-type": "upgrade",
+                "name": "Crabby Castanet",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 70,
+        "name": "Genie's Ocarina",
+        "type": "hunting-horn",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "SpecChameleHide+",
+                "amount": 6
+            },
+            {
+                "name": "StrChameleosWing",
+                "amount": 5
+            },
+            {
+                "name": "HrdChameleosHorn",
+                "amount": 2
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 38,
+                "craft-type": "upgrade",
+                "name": "Cursed Ocarina",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 71,
+        "name": "Fatalis Menace Lute",
+        "type": "hunting-horn",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HardFatalisHorn",
+                "amount": 2
+            },
+            {
+                "name": "ThckFatalisScale",
+                "amount": 4
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 39,
+                "craft-type": "upgrade",
+                "name": "Fatalis Menace",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 72,
+        "name": "Ancient Fatalis Lute",
+        "type": "hunting-horn",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HrdWhtFatlisHorn",
+                "amount": 2
+            },
+            {
+                "name": "StrWhtFatalisWng",
+                "amount": 1
+            },
+            {
+                "name": "ThckWhtFatlisScl",
+                "amount": 2
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 40,
+                "craft-type": "upgrade",
+                "name": "Ancient Fatalis Lied",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 73,
+        "name": "DivineAncDrgnwdFlute",
+        "type": "hunting-horn",
+        "upgrade-price": 145000,
+        "materials": [
+            {
+                "name": "AncientDrgnwood",
+                "amount": 6
+            },
+            {
+                "name": "YamaTsukamiFluid",
+                "amount": 5
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 8
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "AncientDrgnwoodFlute",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 74,
+        "name": "Tigrex Horn+",
+        "type": "hunting-horn",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "Hvy Tigrex Shell",
+                "amount": 5
+            },
+            {
+                "name": "Hvy Tigrex Fang",
+                "amount": 7
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 34,
+                "craft-type": "upgrade",
+                "name": "Tigrex Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 75,
+        "name": "Demon's Darkflute",
+        "type": "hunting-horn",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "BlackNargaPelt+",
+                "amount": 6
+            },
+            {
+                "name": "StrNargaCttngWng",
+                "amount": 4
+            },
+            {
+                "name": "HvyNargaTailSpik",
+                "amount": 2
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 20,
+                "craft-type": "create",
+                "name": "Hidden Tone",
+                "type": "hunting-horn"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 76,
+        "name": "Akantor Dark Melody",
+        "type": "hunting-horn",
+        "upgrade-price": 145000,
+        "materials": [
+            {
+                "name": "Ukanlos Stone",
+                "amount": 1
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 3
+            },
+            {
+                "name": "Akantor Tail",
+                "amount": 2
+            },
+            {
+                "name": "Akantor Fang",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 21,
+                "craft-type": "create",
+                "name": "Akantor Horn",
+                "type": "hunting-horn"
+            }
+        ]
+    }
+]
