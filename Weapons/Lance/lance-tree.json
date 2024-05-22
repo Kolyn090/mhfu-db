@@ -1,0 +1,3684 @@
+[
+    {
+        "upgrade-id": 0,
+        "name": "Iron Lance+",
+        "type": "lance",
+        "upgrade-price": 650,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 0,
+                "craft-type": "create",
+                "name": "Iron Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 1,
+        "name": "Steel Lance",
+        "type": "lance",
+        "upgrade-price": 1400,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 4
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "create",
+                "name": "Iron Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 2,
+        "name": "Longhorn+",
+        "type": "lance",
+        "upgrade-price": 1100,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 2
+            },
+            {
+                "name": "Bone",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "create",
+                "name": "Longhorn",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 3,
+        "name": "Long Tusk",
+        "type": "lance",
+        "upgrade-price": 1750,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 4
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 1
+            },
+            {
+                "name": "Med Monster Bone",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "upgrade",
+                "name": "Longhorn+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 4,
+        "name": "Tarnished Lance",
+        "type": "lance",
+        "upgrade-price": 2500,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "create",
+                "name": "Rusted Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 5,
+        "name": "Paladin Lance",
+        "type": "lance",
+        "upgrade-price": 1750,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 10
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "upgrade",
+                "name": "Steel Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 6,
+        "name": "Estoc",
+        "type": "lance",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Black Pearl",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "upgrade",
+                "name": "Steel Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 7,
+        "name": "Bone Javelin",
+        "type": "lance",
+        "upgrade-price": 1400,
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "amount": 4
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 4
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "create",
+                "name": "Iron Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 8,
+        "name": "Spiked Spear",
+        "type": "lance",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Med Monster Bone",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "upgrade",
+                "name": "Bone Javelin",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 9,
+        "name": "Barbaroi Tusk",
+        "type": "lance",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Lg Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "Iodrome Hide",
+                "amount": 5
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Long Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 10,
+        "name": "Dark Lance",
+        "type": "lance",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Hornetaur Shell",
+                "amount": 10
+            },
+            {
+                "name": "Vespoid Abdomen",
+                "amount": 1
+            },
+            {
+                "name": "Paralysis Sac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "upgrade",
+                "name": "Longhorn+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 11,
+        "name": "Wild Bone Lance",
+        "type": "lance",
+        "upgrade-price": 1400,
+        "materials": [
+            {
+                "name": "Bullfango Pelt",
+                "amount": 3
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "create",
+                "name": "Longhorn",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 12,
+        "name": "Fragrance",
+        "type": "lance",
+        "upgrade-price": 1400,
+        "materials": [
+            {
+                "name": "Dosbiscus",
+                "amount": 2
+            },
+            {
+                "name": "Carpenterbug",
+                "amount": 3
+            },
+            {
+                "name": "Sunset Herb",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "create",
+                "name": "Wild Bone Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 13,
+        "name": "Rampart",
+        "type": "lance",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 15
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "create",
+                "name": "Paladin Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 14,
+        "name": "Lullaby Spear",
+        "type": "lance",
+        "upgrade-price": 1750,
+        "materials": [
+            {
+                "name": "Plesioth Scale",
+                "amount": 4
+            },
+            {
+                "name": "Cephalos Scale",
+                "amount": 4
+            },
+            {
+                "name": "Sleep Herb",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 8,
+                "craft-type": "upgrade",
+                "name": "Spiked Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 15,
+        "name": "Paralysisr",
+        "type": "lance",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 10
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 8,
+                "craft-type": "upgrade",
+                "name": "Spiked Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 16,
+        "name": "Ogre Tusk",
+        "type": "lance",
+        "upgrade-price": 5600,
+        "materials": [
+            {
+                "name": "Monster Bone+",
+                "amount": 5
+            },
+            {
+                "name": "Ioprey Hide",
+                "amount": 20
+            },
+            {
+                "name": "Mega Demondrug",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "create",
+                "name": "Barbaroi Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 17,
+        "name": "Crimson Lance",
+        "type": "lance",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Blood Red Horn",
+                "amount": 1
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Long Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 18,
+        "name": "Bone Claw Lance",
+        "type": "lance",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "amount": 4
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "amount": 5
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Long Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 19,
+        "name": "Wild Bone Lance+",
+        "type": "lance",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Bulldrome Tusk",
+                "amount": 2
+            },
+            {
+                "name": "Bullfango Head",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "create",
+                "name": "Wild Bone Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 20,
+        "name": "Red Tail",
+        "type": "lance",
+        "upgrade-price": 2600,
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "amount": 3
+            },
+            {
+                "name": "Wyvern Claw",
+                "amount": 6
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "upgrade",
+                "name": "Wild Bone Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 21,
+        "name": "Growling Wyvern",
+        "type": "lance",
+        "upgrade-price": 4900,
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Blk Gravios Shl",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "upgrade",
+                "name": "Rampart",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 22,
+        "name": "Gatling Lance",
+        "type": "lance",
+        "upgrade-price": 4250,
+        "materials": [
+            {
+                "name": "Firestone",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Gunpowder",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "upgrade",
+                "name": "Rampart",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 23,
+        "name": "Naag Serpentblade",
+        "type": "lance",
+        "upgrade-price": 5600,
+        "materials": [
+            {
+                "name": "Remobra Skin",
+                "amount": 5
+            },
+            {
+                "name": "Remobra Skull",
+                "amount": 2
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "upgrade",
+                "name": "Rampart",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 24,
+        "name": "Valhalla",
+        "type": "lance",
+        "upgrade-price": 5600,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 5
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 7
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 15
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "upgrade",
+                "name": "Estoc",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 25,
+        "name": "Requiem Spear",
+        "type": "lance",
+        "upgrade-price": 4900,
+        "materials": [
+            {
+                "name": "Plesioth Fin",
+                "amount": 6
+            },
+            {
+                "name": "Sleep Sac",
+                "amount": 3
+            },
+            {
+                "name": "Mega Demondrug",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "create",
+                "name": "Lullaby Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 26,
+        "name": "Trident",
+        "type": "lance",
+        "upgrade-price": 4250,
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 5
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 7
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "upgrade",
+                "name": "Paralysisr",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 27,
+        "name": "Venom Lance",
+        "type": "lance",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Basarios Shell",
+                "amount": 7
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "upgrade",
+                "name": "Paralysisr",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 28,
+        "name": "Basarios Venom Spear",
+        "type": "lance",
+        "upgrade-price": 4250,
+        "materials": [
+            {
+                "name": "Basarios Wing",
+                "amount": 1
+            },
+            {
+                "name": "Basarios Shell",
+                "amount": 8
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "create",
+                "name": "Venom Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 29,
+        "name": "Crimson War Pike",
+        "type": "lance",
+        "upgrade-price": 6350,
+        "materials": [
+            {
+                "name": "Monoblos Heart",
+                "amount": 1
+            },
+            {
+                "name": "Blood Red Horn",
+                "amount": 2
+            },
+            {
+                "name": "Monoblos Shell",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "create",
+                "name": "Crimson Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 30,
+        "name": "Ceramic Blos Lance",
+        "type": "lance",
+        "upgrade-price": 4250,
+        "materials": [
+            {
+                "name": "Wht Monoblos Hrn",
+                "amount": 1
+            },
+            {
+                "name": "Wht Monoblos Spn",
+                "amount": 2
+            },
+            {
+                "name": "Wht Monoblos Shl",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "create",
+                "name": "Crimson Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 31,
+        "name": "Diablo Horn",
+        "type": "lance",
+        "upgrade-price": 4900,
+        "materials": [
+            {
+                "name": "Twisted Horn",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Shell",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "create",
+                "name": "Crimson Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 32,
+        "name": "Bone Claw Lance+",
+        "type": "lance",
+        "upgrade-price": 5600,
+        "materials": [
+            {
+                "name": "Hermitaur Claw",
+                "amount": 3
+            },
+            {
+                "name": "Hermitaur Shell",
+                "amount": 8
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 12,
+                "craft-type": "create",
+                "name": "Bone Claw Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 33,
+        "name": "Blade Stinger",
+        "type": "lance",
+        "upgrade-price": 3560,
+        "materials": [
+            {
+                "name": "Ceanataur Pincer",
+                "amount": 2
+            },
+            {
+                "name": "Sm Ceanataur Shl",
+                "amount": 10
+            },
+            {
+                "name": "Black Pearl",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Long Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 34,
+        "name": "Ceanataur Stinger",
+        "type": "lance",
+        "upgrade-price": 5600,
+        "materials": [
+            {
+                "name": "Ceanataur Claw",
+                "amount": 8
+            },
+            {
+                "name": "Ceanataur Shell",
+                "amount": 10
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 33,
+                "craft-type": "upgrade",
+                "name": "Blade Stinger",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 35,
+        "name": "Dark Spear",
+        "type": "lance",
+        "upgrade-price": 4250,
+        "materials": [
+            {
+                "name": "Hornetaur Head",
+                "amount": 3
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 3
+            },
+            {
+                "name": "Gendrome Skull",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 10,
+                "craft-type": "upgrade",
+                "name": "Dark Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 36,
+        "name": "Blue Tail",
+        "type": "lance",
+        "upgrade-price": 4900,
+        "materials": [
+            {
+                "name": "Azur Rthlos Tail",
+                "amount": 3
+            },
+            {
+                "name": "Azure Rthlos Shl",
+                "amount": 5
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "create",
+                "name": "Red Tail",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 37,
+        "name": "Fragrance+",
+        "type": "lance",
+        "upgrade-price": 3650,
+        "materials": [
+            {
+                "name": "Dosbiscus",
+                "amount": 6
+            },
+            {
+                "name": "Alluring Hide",
+                "amount": 3
+            },
+            {
+                "name": "Black Pearl",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 8,
+                "craft-type": "create",
+                "name": "Fragrance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 38,
+        "name": "Gatling Lance+",
+        "type": "lance",
+        "upgrade-price": 7150,
+        "materials": [
+            {
+                "name": "Firestone",
+                "amount": 6
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 15
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 17,
+                "craft-type": "create",
+                "name": "Gatling Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 39,
+        "name": "Gravios Spear",
+        "type": "lance",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Gravios Skl Shl",
+                "amount": 1
+            },
+            {
+                "name": "Gravios Shell",
+                "amount": 8
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 28,
+                "craft-type": "upgrade",
+                "name": "Basarios Venom Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 40,
+        "name": "Black Gravios Spear",
+        "type": "lance",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Blk Gravios Skl",
+                "amount": 1
+            },
+            {
+                "name": "Blk Gravios Shl",
+                "amount": 8
+            },
+            {
+                "name": "Firestone",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 28,
+                "craft-type": "upgrade",
+                "name": "Basarios Venom Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 41,
+        "name": "Thunderspear",
+        "type": "lance",
+        "upgrade-price": 20000,
+        "materials": [
+            {
+                "name": "Kirin Horn",
+                "amount": 1
+            },
+            {
+                "name": "Kirin Mane",
+                "amount": 2
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "upgrade",
+                "name": "Paralysisr",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 42,
+        "name": "Incessant Raven",
+        "type": "lance",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Garuga Tail",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Wing",
+                "amount": 2
+            },
+            {
+                "name": "Garuga Scale",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "create",
+                "name": "Barbaroi Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 43,
+        "name": "Ceramic Blos Lance+",
+        "type": "lance",
+        "upgrade-price": 8350,
+        "materials": [
+            {
+                "name": "Wht Monoblos Hrn",
+                "amount": 3
+            },
+            {
+                "name": "Grn Plesioth Scl",
+                "amount": 5
+            },
+            {
+                "name": "Diablos Spine",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 30,
+                "craft-type": "upgrade",
+                "name": "Ceramic Blos Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 44,
+        "name": "Diablo Spear",
+        "type": "lance",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Blos Fang",
+                "amount": 10
+            },
+            {
+                "name": "Diablos Spine",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 31,
+                "craft-type": "upgrade",
+                "name": "Diablo Horn",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 45,
+        "name": "Spear of Prominence",
+        "type": "lance",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Rathalos Tail",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Shell",
+                "amount": 7
+            },
+            {
+                "name": "Rathalos Plate",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "create",
+                "name": "Red Tail",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 46,
+        "name": "Undertaker",
+        "type": "lance",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 40
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "upgrade",
+                "name": "Tarnished Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 47,
+        "name": "Steel Ice Spear",
+        "type": "lance",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Daora Tail",
+                "amount": 1
+            },
+            {
+                "name": "Daora Shell",
+                "amount": 3
+            },
+            {
+                "name": "DaoraDragonScale",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "upgrade",
+                "name": "Tarnished Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 48,
+        "name": "Steel Ice Spear+",
+        "type": "lance",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Daora Claw",
+                "amount": 4
+            },
+            {
+                "name": "Daora Shell",
+                "amount": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 47,
+                "craft-type": "upgrade",
+                "name": "Steel Ice Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 49,
+        "name": "Knight Lance",
+        "type": "lance",
+        "upgrade-price": 25000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Velociprey Scale",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "Growling Wyvern",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 50,
+        "name": "Knight Spear",
+        "type": "lance",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 5
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 15
+            },
+            {
+                "name": "Velociprey Hide+",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "Knight Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 51,
+        "name": "Aqua Spear",
+        "type": "lance",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Plesioth Fin",
+                "amount": 10
+            },
+            {
+                "name": "Cephalos Scale+",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "Knight Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 52,
+        "name": "Aqua Spear+",
+        "type": "lance",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Plesioth Fin+",
+                "amount": 4
+            },
+            {
+                "name": "Plesioth Scale+",
+                "amount": 8
+            },
+            {
+                "name": "Cephalos Fin+",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 27,
+                "craft-type": "create",
+                "name": "Aqua Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 53,
+        "name": "Cold Icicle",
+        "type": "lance",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 10
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 8
+            },
+            {
+                "name": "Blangonga Pelt+",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "Knight Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 54,
+        "name": "Frost Icicle",
+        "type": "lance",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 5
+            },
+            {
+                "name": "Blangonga Fang+",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 28,
+                "craft-type": "create",
+                "name": "Cold Icicle",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 55,
+        "name": "Sanctioned Gunlance",
+        "type": "lance",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Firecell Stone",
+                "amount": 6
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 25
+            },
+            {
+                "name": "Inferno Sac",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 38,
+                "craft-type": "upgrade",
+                "name": "Gatling Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 56,
+        "name": "Devta Serpentblade",
+        "type": "lance",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Remobra Skin+",
+                "amount": 5
+            },
+            {
+                "name": "Remobra Skull",
+                "amount": 4
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 18,
+                "craft-type": "create",
+                "name": "Naag Serpentblade",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 57,
+        "name": "Great Ogre Tusk",
+        "type": "lance",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "Ioprey Hide+",
+                "amount": 10
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 10,
+                "craft-type": "create",
+                "name": "Ogre Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 58,
+        "name": "Hard Bone Lance",
+        "type": "lance",
+        "upgrade-price": 25000,
+        "materials": [
+            {
+                "name": "Stout Bone",
+                "amount": 2
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 10,
+                "craft-type": "create",
+                "name": "Ogre Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 59,
+        "name": "Hard Bone Lance+",
+        "type": "lance",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Master's Skull",
+                "amount": 5
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 10
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 29,
+                "craft-type": "create",
+                "name": "Hard Bone Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 60,
+        "name": "Ceanataur Piercer",
+        "type": "lance",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 3
+            },
+            {
+                "name": "Ceanataur Carpce",
+                "amount": 5
+            },
+            {
+                "name": "Ceanataur Leg",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 32,
+                "craft-type": "upgrade",
+                "name": "Bone Claw Lance+",
+                "type": "lance"
+            },
+            {
+                "id": 34,
+                "craft-type": "upgrade",
+                "name": "Ceanataur Stinger",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 61,
+        "name": "Dark",
+        "type": "lance",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "HornetaurInnrWng",
+                "amount": 5
+            },
+            {
+                "name": "Hornetaur Crapce",
+                "amount": 8
+            },
+            {
+                "name": "Gendrome Tail",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 35,
+                "craft-type": "upgrade",
+                "name": "Dark Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 62,
+        "name": "Bulldrome Spear",
+        "type": "lance",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Bulldrome Tusk",
+                "amount": 6
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "upgrade",
+                "name": "Wild Bone Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 63,
+        "name": "Noble Fragrance",
+        "type": "lance",
+        "upgrade-price": 45000,
+        "materials": [
+            {
+                "name": "Dosbiscus",
+                "amount": 10
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 37,
+                "craft-type": "upgrade",
+                "name": "Fragrance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 64,
+        "name": "Weathered Spear",
+        "type": "lance",
+        "upgrade-price": 12500,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 30,
+                "craft-type": "create",
+                "name": "Worn Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 65,
+        "name": "Primal Spear",
+        "type": "lance",
+        "upgrade-price": 45000,
+        "materials": [
+            {
+                "name": "Master's Skull",
+                "amount": 1
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 5
+            },
+            {
+                "name": "FlynMealPassReg",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 14,
+                "craft-type": "create",
+                "name": "Native Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 66,
+        "name": "Hyper Vacuum",
+        "type": "lance",
+        "upgrade-price": 45000,
+        "materials": [
+            {
+                "name": "Pale Khezu Steak",
+                "amount": 2
+            },
+            {
+                "name": "Dragonwood",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "create",
+                "name": "Vacuum Striker",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 67,
+        "name": "Roaring Wyvern",
+        "type": "lance",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "Growling Wyvern",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 68,
+        "name": "Babel Spear",
+        "type": "lance",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Gld Rathian Scl+",
+                "amount": 8
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 30
+            },
+            {
+                "name": "Genprey Scale+",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 50,
+                "craft-type": "upgrade",
+                "name": "Knight Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 69,
+        "name": "Emerald Spear",
+        "type": "lance",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Grn Plsioth Fin+",
+                "amount": 6
+            },
+            {
+                "name": "Grn Plsioth Scl+",
+                "amount": 12
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 52,
+                "craft-type": "upgrade",
+                "name": "Aqua Spear+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 70,
+        "name": "Grayburg Javelin",
+        "type": "lance",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "DaoraDragonScale",
+                "amount": 8
+            },
+            {
+                "name": "Firestone",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "Knight Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 71,
+        "name": "Gravios Venom Spear",
+        "type": "lance",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Gravios Carapace",
+                "amount": 8
+            },
+            {
+                "name": "Chameleos Tail",
+                "amount": 5
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 39,
+                "craft-type": "upgrade",
+                "name": "Gravios Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 72,
+        "name": "Void Gravios Spear",
+        "type": "lance",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Blk Gravios Cpc",
+                "amount": 8
+            },
+            {
+                "name": "Gravios BrainStm",
+                "amount": 1
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 40,
+                "craft-type": "upgrade",
+                "name": "Black Gravios Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 73,
+        "name": "Barbarian Tusk",
+        "type": "lance",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Diablos Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 6
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 30
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 59,
+                "craft-type": "upgrade",
+                "name": "Hard Bone Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 74,
+        "name": "Demon Lance",
+        "type": "lance",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Rajang Horn",
+                "amount": 2
+            },
+            {
+                "name": "Rajang Tail",
+                "amount": 2
+            },
+            {
+                "name": "Blk Rajang Pelt",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 59,
+                "craft-type": "upgrade",
+                "name": "Hard Bone Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 75,
+        "name": "Incessant Wolf",
+        "type": "lance",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Garuga Scale+",
+                "amount": 4
+            },
+            {
+                "name": "Long Garuga Ear",
+                "amount": 2
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 22,
+                "craft-type": "create",
+                "name": "Incessant Raven",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 76,
+        "name": "Crimson War Pike+",
+        "type": "lance",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Top-GrdRedHorn",
+                "amount": 1
+            },
+            {
+                "name": "MonoblosCarapace",
+                "amount": 5
+            },
+            {
+                "name": "Inferno Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 29,
+                "craft-type": "upgrade",
+                "name": "Crimson War Pike",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 77,
+        "name": "White Disaster",
+        "type": "lance",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Top-GrdPlatHorn",
+                "amount": 1
+            },
+            {
+                "name": "WhtMonoblosThora",
+                "amount": 4
+            },
+            {
+                "name": "Diablos Thoracic",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 43,
+                "craft-type": "upgrade",
+                "name": "Ceramic Blos Lance+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 78,
+        "name": "White Catastrophe",
+        "type": "lance",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Top-GrdPlatHorn",
+                "amount": 2
+            },
+            {
+                "name": "Wht Monoblos Cpc",
+                "amount": 5
+            },
+            {
+                "name": "Monoblos Heart",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 77,
+                "craft-type": "upgrade",
+                "name": "White Disaster",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 79,
+        "name": "Black Tempest",
+        "type": "lance",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "TwstBlkBlosHrn",
+                "amount": 4
+            },
+            {
+                "name": "Blk Blos Thracic",
+                "amount": 4
+            },
+            {
+                "name": "Black Blos Cpc",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 44,
+                "craft-type": "upgrade",
+                "name": "Diablo Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 80,
+        "name": "Blue Prominence",
+        "type": "lance",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Azur Rthlos Tail",
+                "amount": 10
+            },
+            {
+                "name": "Azure Rthlos Cpc",
+                "amount": 6
+            },
+            {
+                "name": "Rathalos Ruby",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 36,
+                "craft-type": "upgrade",
+                "name": "Blue Tail",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 81,
+        "name": "Matenro",
+        "type": "lance",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 40
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 64,
+                "craft-type": "upgrade",
+                "name": "Weathered Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 82,
+        "name": "Teostra's Howl",
+        "type": "lance",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Teostra Tail",
+                "amount": 4
+            },
+            {
+                "name": "Teostra Shell",
+                "amount": 8
+            },
+            {
+                "name": "Fire Dragon Pwdr",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 64,
+                "craft-type": "upgrade",
+                "name": "Weathered Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 83,
+        "name": "Tigrex Lance",
+        "type": "lance",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Tigrex Scale+",
+                "amount": 6
+            },
+            {
+                "name": "Tigrex Tail",
+                "amount": 3
+            },
+            {
+                "name": "Tigrex Claw+",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Tiger Stinger",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 84,
+        "name": "Hidden Stinger",
+        "type": "lance",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Nargacuga Tail",
+                "amount": 1
+            },
+            {
+                "name": "NargaCuttingWing",
+                "amount": 3
+            },
+            {
+                "name": "Nargacuga Fang+",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Tiger Stinger",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 85,
+        "name": "Dragonic Rim",
+        "type": "lance",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Lao-ShanCarapace",
+                "amount": 3
+            },
+            {
+                "name": "Lao-Shan Scale+",
+                "amount": 6
+            },
+            {
+                "name": "Gaoren Spine",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 25,
+                "craft-type": "create",
+                "name": "Vermillion Rim",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 86,
+        "name": "Dragon Rider Spear",
+        "type": "lance",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Daora Claw",
+                "amount": 3
+            },
+            {
+                "name": "Daora Carapace",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 70,
+                "craft-type": "upgrade",
+                "name": "Grayburg Javelin",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 87,
+        "name": "Thunderlance",
+        "type": "lance",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Kirin Azure Horn",
+                "amount": 3
+            },
+            {
+                "name": "Kirin Hide+",
+                "amount": 5
+            },
+            {
+                "name": "Thunderbug Juice",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 21,
+                "craft-type": "create",
+                "name": "Thunderspear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 88,
+        "name": "Great Demon Lance",
+        "type": "lance",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Gold Rajang Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Rajang Claw",
+                "amount": 4
+            },
+            {
+                "name": "Gld Rathian Scl+",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 31,
+                "craft-type": "create",
+                "name": "Demon Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 89,
+        "name": "Daora's Fang",
+        "type": "lance",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 2
+            },
+            {
+                "name": "Daora Carapace",
+                "amount": 6
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 48,
+                "craft-type": "upgrade",
+                "name": "Steel Ice Spear+",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 90,
+        "name": "Teostra's Roar",
+        "type": "lance",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Teostra Horn+",
+                "amount": 2
+            },
+            {
+                "name": "Teostra Carapace",
+                "amount": 8
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 82,
+                "craft-type": "upgrade",
+                "name": "Teostra's Howl",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 91,
+        "name": "Expert Lance",
+        "type": "lance",
+        "upgrade-price": 20000,
+        "materials": [
+            {
+                "name": "Expert Ticket",
+                "amount": 15
+            },
+            {
+                "name": "Kirin Coin",
+                "amount": 5
+            },
+            {
+                "name": "Slvr Rthlos Tail",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 20,
+                "craft-type": "create",
+                "name": "Black Belt Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 92,
+        "name": "Black Dragon Spear",
+        "type": "lance",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "amount": 4
+            },
+            {
+                "name": "Fatalis Eye",
+                "amount": 2
+            },
+            {
+                "name": "Lao Shan's Ruby",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "create",
+                "name": "Black Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 93,
+        "name": "Black Ruiner Lance",
+        "type": "lance",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis CrmsnHrn",
+                "amount": 3
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "create",
+                "name": "Black Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 94,
+        "name": "Sealed Dragonlance",
+        "type": "lance",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Lao-Shan's Ruby",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Thoracic",
+                "amount": 4
+            },
+            {
+                "name": "Gaoren Claw",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 85,
+                "craft-type": "upgrade",
+                "name": "Dragonic Rim",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 95,
+        "name": "SanctionedDrillLance",
+        "type": "lance",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "amount": 5
+            },
+            {
+                "name": "Piercing Claw",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 67,
+                "craft-type": "upgrade",
+                "name": "Roaring Wyvern",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 96,
+        "name": "Gravedigger",
+        "type": "lance",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 10
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Lightning Sac",
+                "amount": 5
+            },
+            {
+                "name": "StrBasariosWing",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 33,
+                "craft-type": "create",
+                "name": "SanctionedDrillLance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 97,
+        "name": "Sadalsuud",
+        "type": "lance",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 1
+            },
+            {
+                "name": "HvyHermitaurShl",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 68,
+                "craft-type": "upgrade",
+                "name": "Babel Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 98,
+        "name": "Sadalmelek",
+        "type": "lance",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "HvyBasariosShell",
+                "amount": 3
+            },
+            {
+                "name": "HvyCeanataurShl",
+                "amount": 3
+            },
+            {
+                "name": "Mellanje Ore",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 34,
+                "craft-type": "create",
+                "name": "Sadalsuud",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 99,
+        "name": "Spark Plug",
+        "type": "lance",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 5
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "HrdPuGypcerosWng",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 68,
+                "craft-type": "upgrade",
+                "name": "Babel Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 100,
+        "name": "ThunderbugShockLance",
+        "type": "lance",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "LthrKirinThndrTl",
+                "amount": 2
+            },
+            {
+                "name": "Hard Rajang Horn",
+                "amount": 1
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 35,
+                "craft-type": "create",
+                "name": "Spark Plug",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 101,
+        "name": "Icicle Blizzard",
+        "type": "lance",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "HvyBlangongaFang",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 54,
+                "craft-type": "upgrade",
+                "name": "Frost Icicle",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 102,
+        "name": "OuroborosSerpntblade",
+        "type": "lance",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "SpecRemobraSkin+",
+                "amount": 3
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 5
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Novacrystal",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 56,
+                "craft-type": "upgrade",
+                "name": "Devta Serpentblade",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 103,
+        "name": "Gravios Lance",
+        "type": "lance",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "HvyGraviosShell",
+                "amount": 3
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "amount": 6
+            },
+            {
+                "name": "Gravios Skl Shl",
+                "amount": 5
+            },
+            {
+                "name": "Tigrex Scale+",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 71,
+                "craft-type": "upgrade",
+                "name": "Gravios Venom Spear",
+                "type": "lance"
+            },
+            {
+                "id": 72,
+                "craft-type": "upgrade",
+                "name": "Void Gravios Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 104,
+        "name": "Shell Claw Lance",
+        "type": "lance",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 5
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 1
+            },
+            {
+                "name": "Piercing Claw",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 60,
+                "craft-type": "upgrade",
+                "name": "Ceanataur Piercer",
+                "type": "lance"
+            },
+            {
+                "id": 26,
+                "craft-type": "upgrade",
+                "name": "Scissor Cannon",
+                "type": "gunlance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 105,
+        "name": "GiantHermitaurLance",
+        "type": "lance",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 2
+            },
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 8
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "amount": 3
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 36,
+                "craft-type": "create",
+                "name": "Shell Claw Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 106,
+        "name": "Giant Tusk",
+        "type": "lance",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 2
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 73,
+                "craft-type": "upgrade",
+                "name": "Barbarian Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 107,
+        "name": "Brutal Tusk",
+        "type": "lance",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "BigEDragonBone",
+                "amount": 3
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 106,
+                "craft-type": "upgrade",
+                "name": "Giant Tusk",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 108,
+        "name": "Incessant Crow",
+        "type": "lance",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "LethrGarugaTail",
+                "amount": 2
+            },
+            {
+                "name": "Str Garuga Wing",
+                "amount": 2
+            },
+            {
+                "name": "ThickGarugaScale",
+                "amount": 5
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 75,
+                "craft-type": "upgrade",
+                "name": "Incessant Wolf",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 109,
+        "name": "Carmine Stinger",
+        "type": "lance",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 2
+            },
+            {
+                "name": "TerraCeanatrShl",
+                "amount": 5
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 60,
+                "craft-type": "upgrade",
+                "name": "Ceanataur Piercer",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 110,
+        "name": "Darkness",
+        "type": "lance",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Hornet RazorWing",
+                "amount": 5
+            },
+            {
+                "name": "Vespoid RazorWing",
+                "amount": 5
+            },
+            {
+                "name": "Hornetaur Crapce",
+                "amount": 10
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 61,
+                "craft-type": "upgrade",
+                "name": "Dark",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 111,
+        "name": "Sky Scraper",
+        "type": "lance",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 8
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 10
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 81,
+                "craft-type": "upgrade",
+                "name": "Matenro",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 112,
+        "name": "DragonSealer\"Virtue\"",
+        "type": "lance",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "Lao-ShanCarapace",
+                "amount": 3
+            },
+            {
+                "name": "Lao Shan'sThkScl",
+                "amount": 6
+            },
+            {
+                "name": "Gaoren Thoracic",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 94,
+                "craft-type": "upgrade",
+                "name": "Sealed Dragonlance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 113,
+        "name": "Lost Babel",
+        "type": "lance",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "ThckGldRathnScl",
+                "amount": 5
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 68,
+                "craft-type": "upgrade",
+                "name": "Babel Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 114,
+        "name": "Aquarius",
+        "type": "lance",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 3
+            },
+            {
+                "name": "HvygaorenShell",
+                "amount": 3
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 98,
+                "craft-type": "upgrade",
+                "name": "Sadalmelek",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 115,
+        "name": "Dragoon's Gáe Bulg",
+        "type": "lance",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 10
+            },
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 5
+            },
+            {
+                "name": "Hvy Daora Shell",
+                "amount": 5
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 86,
+                "craft-type": "upgrade",
+                "name": "Dragon Rider Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 116,
+        "name": "Gravios Fire Lance",
+        "type": "lance",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "HvnlyGraviosShl",
+                "amount": 1
+            },
+            {
+                "name": "HvnlyBlkGraviShl",
+                "amount": 1
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 103,
+                "craft-type": "upgrade",
+                "name": "Gravios Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 117,
+        "name": "Naar Thunderlance",
+        "type": "lance",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Platinum Mane",
+                "amount": 3
+            },
+            {
+                "name": "SpecialKirinHide",
+                "amount": 5
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 87,
+                "craft-type": "upgrade",
+                "name": "Thunderlance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 118,
+        "name": "Demonlance Rajang",
+        "type": "lance",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "Hard Rajang Horn",
+                "amount": 2
+            },
+            {
+                "name": "Blk Rajang Pelt+",
+                "amount": 3
+            },
+            {
+                "name": "Hard Rajang Claw",
+                "amount": 4
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 88,
+                "craft-type": "upgrade",
+                "name": "Great Demon Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 119,
+        "name": "Rising Tempest",
+        "type": "lance",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "StoutBlkTwstdHrn",
+                "amount": 2
+            },
+            {
+                "name": "HvyBlkBlosSpine",
+                "amount": 4
+            },
+            {
+                "name": "HvyBlkBlosShell",
+                "amount": 8
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 79,
+                "craft-type": "upgrade",
+                "name": "Black Tempest",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 120,
+        "name": "Shish Kabob Stick",
+        "type": "lance",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 3
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "amount": 5
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 2
+            },
+            {
+                "name": "HvyGaorenShell",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 37,
+                "craft-type": "create",
+                "name": "Carmine Stinger",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 121,
+        "name": "Prominence Soul",
+        "type": "lance",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "LthrAzrRthlsTail",
+                "amount": 2
+            },
+            {
+                "name": "HvyAzurRthlsShl",
+                "amount": 5
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 80,
+                "craft-type": "upgrade",
+                "name": "Blue Prominence",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 122,
+        "name": "Daora's Regulus",
+        "type": "lance",
+        "upgrade-price": 135000,
+        "materials": [
+            {
+                "name": "Lthr Daora Tail",
+                "amount": 1
+            },
+            {
+                "name": "Hvy Daora Shell",
+                "amount": 7
+            },
+            {
+                "name": "Hard Daora Horn",
+                "amount": 2
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 89,
+                "craft-type": "upgrade",
+                "name": "Daora's Fang",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 123,
+        "name": "Teostra's Fire",
+        "type": "lance",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "HardTeostraHorn",
+                "amount": 2
+            },
+            {
+                "name": "LthrTeostraTail",
+                "amount": 4
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 90,
+                "craft-type": "upgrade",
+                "name": "Teostra's Roar",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 124,
+        "name": "Warrior's Lance",
+        "type": "lance",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "LthrSlvrRthlsTal",
+                "amount": 2
+            },
+            {
+                "name": "Warrior Coin G",
+                "amount": 4
+            },
+            {
+                "name": "Expert Coin G",
+                "amount": 5
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 91,
+                "craft-type": "upgrade",
+                "name": "Expert Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 125,
+        "name": "True Blk Dragon Spr",
+        "type": "lance",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HardFatalisHorn",
+                "amount": 4
+            },
+            {
+                "name": "Fatalis Evil Eye",
+                "amount": 2
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 92,
+                "craft-type": "upgrade",
+                "name": "Black Dragon Spear",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 126,
+        "name": "True Blk Dragon Spr+",
+        "type": "lance",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HrdFatlisCrmHorn",
+                "amount": 3
+            },
+            {
+                "name": "HvyFatalisCrmShl",
+                "amount": 5
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 93,
+                "craft-type": "upgrade",
+                "name": "Black Ruiner Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 127,
+        "name": "Great Tigrex Lance",
+        "type": "lance",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "LeathrTigrexTail",
+                "amount": 1
+            },
+            {
+                "name": "ThickTigrexScale",
+                "amount": 6
+            },
+            {
+                "name": "Hard Tigrex Claw",
+                "amount": 5
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 83,
+                "craft-type": "upgrade",
+                "name": "Tigrex Lance",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 128,
+        "name": "Black Rain Darklance",
+        "type": "lance",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "LeatherNargaTail",
+                "amount": 1
+            },
+            {
+                "name": "StrNargaCttngWing",
+                "amount": 5
+            },
+            {
+                "name": "HvyNargacugaFang",
+                "amount": 6
+            },
+            {
+                "name": "Narga Brain stem",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 32,
+                "craft-type": "create",
+                "name": "Hidden Stinger",
+                "type": "lance"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 129,
+        "name": "DragonSealer\"Null\"",
+        "type": "lance",
+        "upgrade-price": 140000,
+        "materials": [
+            {
+                "name": "Lao-ShanHvnlyScl",
+                "amount": 1
+            },
+            {
+                "name": "Azure LaoS Claw",
+                "amount": 4
+            },
+            {
+                "name": "Hard Gaoren Claw",
+                "amount": 4
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 112,
+                "craft-type": "upgrade",
+                "name": "DragonSealer\"Virtue\"",
+                "type": "lance"
+            }
+        ]
+    }
+]
