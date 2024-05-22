@@ -1,0 +1,2742 @@
+[
+    {
+        "upgrade-id": 0,
+        "name": "Bone Katana \"Wolf\"",
+        "type": "long-swd",
+        "upgrade-price": 1750,
+        "materials": [
+            {
+                "name": "Med Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Velociprey Fang",
+                "amount": 5
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "upgrade",
+                "name": "Large Bone",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 1,
+        "name": "Iron Katana",
+        "type": "long-swd",
+        "upgrade-price": 1400,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "create",
+                "name": "Buster Sword+",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 2,
+        "name": "Large Bone",
+        "type": "long-swd",
+        "upgrade-price": 850,
+        "materials": [
+            {
+                "name": "Mystery Bone",
+                "amount": 2
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "create",
+                "name": "Bone",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 3,
+        "name": "Blango Destroyer",
+        "type": "long-swd",
+        "upgrade-price": 1100,
+        "materials": [
+            {
+                "name": "Blango Pelt",
+                "amount": 6
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 8
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 0,
+                "craft-type": "create",
+                "name": "Buster Sword",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 4,
+        "name": "Iron Katana \"Grace\"",
+        "type": "long-swd",
+        "upgrade-price": 1750,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 10
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "create",
+                "name": "Iron Katana",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 5,
+        "name": "Iron Katana \"Gospel\"",
+        "type": "long-swd",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 15
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 15
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "upgrade",
+                "name": "Iron Katana \"Grace\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 6,
+        "name": "Bone Katana \"Shark\"",
+        "type": "long-swd",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Piscine Fang",
+                "amount": 4
+            },
+            {
+                "name": "Giaprey Scale",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 0,
+                "craft-type": "create",
+                "name": "Bone Katana \"Wolf\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 7,
+        "name": "Bone Katana \"Dragon\"",
+        "type": "long-swd",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 2
+            },
+            {
+                "name": "Wyvern Fang",
+                "amount": 5
+            },
+            {
+                "name": "Velocidrome Hide",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "upgrade",
+                "name": "Bone Katana \"Shark\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 8,
+        "name": "Blango Destroyer+",
+        "type": "long-swd",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Blango Pelt",
+                "amount": 10
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 6
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Blango Destroyer",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 9,
+        "name": "Eager Cleaver",
+        "type": "long-swd",
+        "upgrade-price": 3650,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 30
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Iron Katana \"Gospel\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 10,
+        "name": "Dark Scythe",
+        "type": "long-swd",
+        "upgrade-price": 2150,
+        "materials": [
+            {
+                "name": "Piscine Fang",
+                "amount": 8
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 3
+            },
+            {
+                "name": "Unknown Skull",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "upgrade",
+                "name": "Iron Katana \"Grace\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 11,
+        "name": "Crimson Scythe",
+        "type": "long-swd",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Blood Red Horn",
+                "amount": 1
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 3
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "create",
+                "name": "Dark Scythe",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 12,
+        "name": "Wyvern Blade \"Fall\"",
+        "type": "long-swd",
+        "upgrade-price": 2600,
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "amount": 3
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 5
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "upgrade",
+                "name": "Bone Katana \"Shark\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 13,
+        "name": "Wyvern Blade \"Leaf\"",
+        "type": "long-swd",
+        "upgrade-price": 2600,
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "upgrade",
+                "name": "Bone Katana \"Shark\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 14,
+        "name": "Black Katana Mk.I",
+        "type": "long-swd",
+        "upgrade-price": 2600,
+        "materials": [
+            {
+                "name": "Hornetaur Head",
+                "amount": 2
+            },
+            {
+                "name": "Hornetaur Wing",
+                "amount": 10
+            },
+            {
+                "name": "Demondrug",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "upgrade",
+                "name": "Large Bone",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 15,
+        "name": "Blango Decimator",
+        "type": "long-swd",
+        "upgrade-price": 4900,
+        "materials": [
+            {
+                "name": "Blangonga Whiskr",
+                "amount": 5
+            },
+            {
+                "name": "Blangonga Fang",
+                "amount": 3
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 8,
+                "craft-type": "upgrade",
+                "name": "Blango Destroyer+",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 16,
+        "name": "Devil Slicer",
+        "type": "long-swd",
+        "upgrade-price": 6350,
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Thunderbug Juice",
+                "amount": 4
+            },
+            {
+                "name": "Kirin Thndr Tail",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "upgrade",
+                "name": "Eager Cleaver",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 17,
+        "name": "Tormentor",
+        "type": "long-swd",
+        "upgrade-price": 5600,
+        "materials": [
+            {
+                "name": "Eldr Dragon Bone",
+                "amount": 5
+            },
+            {
+                "name": "Black Blos Shell",
+                "amount": 4
+            },
+            {
+                "name": "Black Blos Spine",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "create",
+                "name": "Dark Scythe",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 18,
+        "name": "Monoblos Scythe",
+        "type": "long-swd",
+        "upgrade-price": 6350,
+        "materials": [
+            {
+                "name": "Monoblos Spine",
+                "amount": 5
+            },
+            {
+                "name": "Blos Fang",
+                "amount": 10
+            },
+            {
+                "name": "Monoblos Heart",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "upgrade",
+                "name": "Crimson Scythe",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 19,
+        "name": "White Mantis",
+        "type": "long-swd",
+        "upgrade-price": 3100,
+        "materials": [
+            {
+                "name": "Wht Monoblos Hrn",
+                "amount": 1
+            },
+            {
+                "name": "Wht Monoblos Spn",
+                "amount": 4
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "upgrade",
+                "name": "Crimson Scythe",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 20,
+        "name": "Black Katana Mk.II",
+        "type": "long-swd",
+        "upgrade-price": 3650,
+        "materials": [
+            {
+                "name": "Hornetaur Shell",
+                "amount": 15
+            },
+            {
+                "name": "Vespoid Shell",
+                "amount": 10
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 14,
+                "craft-type": "upgrade",
+                "name": "Black Katana Mk.I",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 21,
+        "name": "Saber",
+        "type": "long-swd",
+        "upgrade-price": 5600,
+        "materials": [
+            {
+                "name": "Lunastra Shell",
+                "amount": 2
+            },
+            {
+                "name": "Fire Drgn Webbng",
+                "amount": 2
+            },
+            {
+                "name": "Fire Dragon Scl",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Iron Katana \"Gospel\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 22,
+        "name": "Mirage Finsword",
+        "type": "long-swd",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Chameleos Hide",
+                "amount": 3
+            },
+            {
+                "name": "Chameleos Tail",
+                "amount": 1
+            },
+            {
+                "name": "ChameleosWebbing",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Iron Katana \"Gospel\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 23,
+        "name": "Supremacy Blade",
+        "type": "long-swd",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Daora Tail",
+                "amount": 4
+            },
+            {
+                "name": "Teostra Tail",
+                "amount": 4
+            },
+            {
+                "name": "Striped Skin",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "upgrade",
+                "name": "Bone Katana \"Dragon\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 24,
+        "name": "Fire Dragonsword",
+        "type": "long-swd",
+        "upgrade-price": 6350,
+        "materials": [
+            {
+                "name": "Lao-Shan's Horn",
+                "amount": 1
+            },
+            {
+                "name": "Firestone",
+                "amount": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "upgrade",
+                "name": "Bone Katana \"Dragon\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 25,
+        "name": "Red Dragonsword",
+        "type": "long-swd",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Lao-Shan's Horn",
+                "amount": 3
+            },
+            {
+                "name": "Firestone",
+                "amount": 8
+            },
+            {
+                "name": "Teostra Horn",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 10,
+                "craft-type": "create",
+                "name": "Fire Dragonsword",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 26,
+        "name": "Wyvern Blade \"Blood\"",
+        "type": "long-swd",
+        "upgrade-price": 7150,
+        "materials": [
+            {
+                "name": "Rathalos Wing",
+                "amount": 1
+            },
+            {
+                "name": "Rathalos Webbing",
+                "amount": 3
+            },
+            {
+                "name": "Tigrex Claw",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "create",
+                "name": "Wyvern Blade \"Fall\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 27,
+        "name": "Wyvern Blade \"Verde\"",
+        "type": "long-swd",
+        "upgrade-price": 7150,
+        "materials": [
+            {
+                "name": "Rathian Shell",
+                "amount": 6
+            },
+            {
+                "name": "Rathian Spike",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Plate",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "create",
+                "name": "Wyvern Blade \"Leaf\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 28,
+        "name": "Guardian Sword",
+        "type": "long-swd",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Novacrystal",
+                "amount": 2
+            },
+            {
+                "name": "Lightcrystal",
+                "amount": 15
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 25,
+                "craft-type": "create",
+                "name": "Carbalite Sword",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 29,
+        "name": "Rusty Claymore",
+        "type": "long-swd",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Novacrystal",
+                "amount": 2
+            },
+            {
+                "name": "Rathalos Shell",
+                "amount": 5
+            },
+            {
+                "name": "Daora Shell",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "Agito",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 30,
+        "name": "Crab Cutter",
+        "type": "long-swd",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 2
+            },
+            {
+                "name": "Hermitaur Shell",
+                "amount": 10
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "create",
+                "name": "Tormentor",
+                "type": "long-swd"
+            },
+            {
+                "id": 34,
+                "craft-type": "upgrade",
+                "name": "Great Pincer",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 31,
+        "name": "Scythe of Menace",
+        "type": "long-swd",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Master's Skull",
+                "amount": 2
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 8
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "create",
+                "name": "Tormentor",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 32,
+        "name": "Black Katana Mk.III",
+        "type": "long-swd",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Hornetaur Head",
+                "amount": 6
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "amount": 10
+            },
+            {
+                "name": "King Scarab",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 20,
+                "craft-type": "upgrade",
+                "name": "Black Katana Mk.II",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 33,
+        "name": "Demon Halberd",
+        "type": "long-swd",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Rajang Fang",
+                "amount": 3
+            },
+            {
+                "name": "Blk Rajang Pelt",
+                "amount": 4
+            },
+            {
+                "name": "Union Ore",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 51,
+                "craft-type": "upgrade",
+                "name": "Carbalite Sword+",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 34,
+        "name": "Imperial Sword",
+        "type": "long-swd",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 30
+            },
+            {
+                "name": "Basarios Tears",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "create",
+                "name": "Guardian Sword",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 35,
+        "name": "Blango Destructor",
+        "type": "long-swd",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Blangonga Pelt+",
+                "amount": 8
+            },
+            {
+                "name": "Blangonga Fang+",
+                "amount": 2
+            },
+            {
+                "name": "Blangonga Tail",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "upgrade",
+                "name": "Blango Decimator",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 36,
+        "name": "Grind Claymore",
+        "type": "long-swd",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Rathalos Scale+",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Wing",
+                "amount": 3
+            },
+            {
+                "name": "DaoraDragonScale",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 29,
+                "craft-type": "upgrade",
+                "name": "Rusty Claymore",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 37,
+        "name": "Daito Wolf",
+        "type": "long-swd",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Rejuvenated Beak",
+                "amount": 1
+            },
+            {
+                "name": "Long Garuga Ear",
+                "amount": 2
+            },
+            {
+                "name": "Garuga Mane",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 76,
+                "craft-type": "upgrade",
+                "name": "Sentoryu Wolf",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 38,
+        "name": "Daimyo Cutter",
+        "type": "long-swd",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 3
+            },
+            {
+                "name": "Hermitaur Carpce",
+                "amount": 6
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "Crab Cutter",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 39,
+        "name": "True Devil Slicer",
+        "type": "long-swd",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 4
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "upgrade",
+                "name": "Devil Slicer",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 40,
+        "name": "Lion Dance Saber",
+        "type": "long-swd",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Firecell Stone",
+                "amount": 5
+            },
+            {
+                "name": "Lunastra Horn",
+                "amount": 2
+            },
+            {
+                "name": "Lunastra Tail",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 8,
+                "craft-type": "create",
+                "name": "Saber",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 41,
+        "name": "Monoblos Scythe+",
+        "type": "long-swd",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Top-GrdRedHorn",
+                "amount": 2
+            },
+            {
+                "name": "MonoblosThoracic",
+                "amount": 5
+            },
+            {
+                "name": "Inferno Sac",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 18,
+                "craft-type": "upgrade",
+                "name": "Monoblos Scythe",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 42,
+        "name": "Frost Ripper",
+        "type": "long-swd",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Wht Monoblos Hrn",
+                "amount": 3
+            },
+            {
+                "name": "Lg Lobstershell",
+                "amount": 2
+            },
+            {
+                "name": "Monoblos Heart",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "upgrade",
+                "name": "White Mantis",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 43,
+        "name": "Weiss Crescent",
+        "type": "long-swd",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Top-GrdPlatHorn",
+                "amount": 2
+            },
+            {
+                "name": "Wht Monoblos Cpc",
+                "amount": 3
+            },
+            {
+                "name": "WhtMonoblosThora",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 42,
+                "craft-type": "upgrade",
+                "name": "Frost Ripper",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 44,
+        "name": "Wyvern Blade \"Maple\"",
+        "type": "long-swd",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Fire Drgn Scl+",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Carpace",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Ruby",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "upgrade",
+                "name": "Wyvern Blade \"Blood\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 45,
+        "name": "Wyvern Blade \"Holly\"",
+        "type": "long-swd",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Rathian Carapace",
+                "amount": 6
+            },
+            {
+                "name": "Rathian Spike+",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Ruby",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 27,
+                "craft-type": "upgrade",
+                "name": "Wyvern Blade \"Verde\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 46,
+        "name": "Tigrex Katana",
+        "type": "long-swd",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Tigrex Claw+",
+                "amount": 5
+            },
+            {
+                "name": "Tigrex Carapace",
+                "amount": 6
+            },
+            {
+                "name": "Tigrex Tail",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "create",
+                "name": "Tigrex Tooth",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 47,
+        "name": "Hidden Saber",
+        "type": "long-swd",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "NargaCuttingWing",
+                "amount": 3
+            },
+            {
+                "name": "Black Narga Pelt",
+                "amount": 8
+            },
+            {
+                "name": "Narga Tail Spike",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "create",
+                "name": "Tigrex Tooth",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 48,
+        "name": "Great Demon Halberd",
+        "type": "long-swd",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Rajang Claw",
+                "amount": 4
+            },
+            {
+                "name": "Rajang Tail",
+                "amount": 4
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "create",
+                "name": "Demon Halberd",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 49,
+        "name": "Gaelic Flame",
+        "type": "long-swd",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Daora Carapace",
+                "amount": 5
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "amount": 8
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 36,
+                "craft-type": "upgrade",
+                "name": "Grind Claymore",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 50,
+        "name": "Icesteel Blade",
+        "type": "long-swd",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 3
+            },
+            {
+                "name": "Daora Tail",
+                "amount": 3
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 49,
+                "craft-type": "upgrade",
+                "name": "Steel Ice Blade+",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 51,
+        "name": "Lion King Saber",
+        "type": "long-swd",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Lunastra Spike",
+                "amount": 4
+            },
+            {
+                "name": "Fire Dragon Pwdr",
+                "amount": 3
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 40,
+                "craft-type": "upgrade",
+                "name": "Lion Dance Saber",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 52,
+        "name": "Lion Emperor Saber",
+        "type": "long-swd",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Lunastra Spike",
+                "amount": 4
+            },
+            {
+                "name": "LunastraCarapace",
+                "amount": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 5
+            },
+            {
+                "name": "Commendation G",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 51,
+                "craft-type": "upgrade",
+                "name": "Lion King Saber",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 53,
+        "name": "Mirage Finsword+",
+        "type": "long-swd",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Chameleos Spike",
+                "amount": 2
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Chameleos Hide+",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "create",
+                "name": "Mirage Finsword",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 54,
+        "name": "Divine Slasher",
+        "type": "long-swd",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis CrmsnWng",
+                "amount": 2
+            },
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 5
+            },
+            {
+                "name": "Teostra Horn+",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "upgrade",
+                "name": "Supremacy Blade",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 55,
+        "name": "Smolder Dragonsword",
+        "type": "long-swd",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 3
+            },
+            {
+                "name": "Lunastra Horn",
+                "amount": 3
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 25,
+                "craft-type": "upgrade",
+                "name": "Red Dragonsword",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 56,
+        "name": "Fanatic Dragonwd LS",
+        "type": "long-swd",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Dragonwood+",
+                "amount": 3
+            },
+            {
+                "name": "Dragonmoss+",
+                "amount": 3
+            },
+            {
+                "name": "Pokke Ticket+",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 12,
+                "craft-type": "create",
+                "name": "Dragonwood L.Sword",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 57,
+        "name": "Fatalis Sickle",
+        "type": "long-swd",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis Shell",
+                "amount": 5
+            },
+            {
+                "name": "Fatalis Webbing",
+                "amount": 3
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "create",
+                "name": "Black Scythe",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 58,
+        "name": "Susano Blade",
+        "type": "long-swd",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Elder Thank You+",
+                "amount": 1
+            },
+            {
+                "name": "Elder Thank You",
+                "amount": 1
+            },
+            {
+                "name": "Fire Dragon Claw",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 14,
+                "craft-type": "create",
+                "name": "Centenarian Dagger",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 59,
+        "name": "Liquid Fire Blade",
+        "type": "long-swd",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "SpecLavasioFin+",
+                "amount": 2
+            },
+            {
+                "name": "HvyLavasiothFang",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 12
+            },
+            {
+                "name": "Union Ore",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 34,
+                "craft-type": "create",
+                "name": "Igneous Blade",
+                "type": "great-swd"
+            },
+            {
+                "id": 33,
+                "craft-type": "create",
+                "name": "Decider",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 60,
+        "name": "Aqua Guardian",
+        "type": "long-swd",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 2
+            },
+            {
+                "name": "Novacrystal",
+                "amount": 15
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "HvyPiscineFang",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 34,
+                "craft-type": "upgrade",
+                "name": "Imperial Sword",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 61,
+        "name": "Atlantica",
+        "type": "long-swd",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 10
+            },
+            {
+                "name": "SpecPlesiothFin+",
+                "amount": 4
+            },
+            {
+                "name": "StrBasariosWing",
+                "amount": 2
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Aqua Guardian",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 62,
+        "name": "Edelweiss Ice Blade",
+        "type": "long-swd",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 1
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Blangonga Fang+",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Aqua Guardian",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 63,
+        "name": "Edelweiss Ice Blade+",
+        "type": "long-swd",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "HvyBlangongaFang",
+                "amount": 3
+            },
+            {
+                "name": "ThckDaoraDrgnScl",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 62,
+                "craft-type": "upgrade",
+                "name": "Edelweiss Ice Blade",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 64,
+        "name": "C.Blango Decimator",
+        "type": "long-swd",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Blangonga Pelt+",
+                "amount": 5
+            },
+            {
+                "name": "HvyC.BlangoFang",
+                "amount": 2
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 35,
+                "craft-type": "upgrade",
+                "name": "Blango Destructor",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 65,
+        "name": "Daito Crow",
+        "type": "long-swd",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "SilverGarugaPelt",
+                "amount": 3
+            },
+            {
+                "name": "ThickGarugaScale",
+                "amount": 4
+            },
+            {
+                "name": "Garuga Carapace",
+                "amount": 8
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 37,
+                "craft-type": "upgrade",
+                "name": "Daito Wolf",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 66,
+        "name": "Hermitaur Slicer",
+        "type": "long-swd",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 2
+            },
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 5
+            },
+            {
+                "name": "Piercing Claw",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 38,
+                "craft-type": "upgrade",
+                "name": "Daimyo Cutter",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 67,
+        "name": "Hermitaur Slasher",
+        "type": "long-swd",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 3
+            },
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 2
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 2
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 66,
+                "craft-type": "upgrade",
+                "name": "Hermitaur Slicer",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 68,
+        "name": "Shogun Cutter",
+        "type": "long-swd",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 2
+            },
+            {
+                "name": "HvyCeanataurShl",
+                "amount": 5
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 38,
+                "craft-type": "upgrade",
+                "name": "Daimyo Cutter",
+                "type": "long-swd"
+            },
+            {
+                "id": 64,
+                "craft-type": "upgrade",
+                "name": "Killer's Scythe",
+                "type": "great-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 69,
+        "name": "Wailing Cleaver",
+        "type": "long-swd",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Tigrex Scale+",
+                "amount": 8
+            },
+            {
+                "name": "Lightning Sac",
+                "amount": 4
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 39,
+                "craft-type": "upgrade",
+                "name": "True Devil Slicer",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 70,
+        "name": "Big Menacing Scythe",
+        "type": "long-swd",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Spike+",
+                "amount": 2
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 31,
+                "craft-type": "upgrade",
+                "name": "Scythe of Menace",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 71,
+        "name": "WyvernBlade\"Silver\"",
+        "type": "long-swd",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "StrRathalosWing",
+                "amount": 1
+            },
+            {
+                "name": "HvyRathalosShl",
+                "amount": 2
+            },
+            {
+                "name": "Slvr Rthlos Scl+",
+                "amount": 5
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 44,
+                "craft-type": "upgrade",
+                "name": "Wyvern Blade \"Maple\"",
+                "type": "long-swd"
+            },
+            {
+                "id": 45,
+                "craft-type": "upgrade",
+                "name": "Wyvern Blade \"Holly\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 72,
+        "name": "Lost Black Katana",
+        "type": "long-swd",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Hornet Razorwing",
+                "amount": 5
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "amount": 8
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 32,
+                "craft-type": "upgrade",
+                "name": "Black Katana Mk.III",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 73,
+        "name": "Final Black Katana",
+        "type": "long-swd",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Hornet Razorwing",
+                "amount": 10
+            },
+            {
+                "name": "VespoidQn'sCrown",
+                "amount": 5
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 5
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "Lost Black Katana",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 74,
+        "name": "AncientDragonwoodLS",
+        "type": "long-swd",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "AncientDrgnwood",
+                "amount": 3
+            },
+            {
+                "name": "YamatsukamiFluid",
+                "amount": 2
+            },
+            {
+                "name": "Thunderbug Juice",
+                "amount": 15
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 56,
+                "craft-type": "upgrade",
+                "name": "Fanatic Dragonwd LS",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 75,
+        "name": "ExceptnlHornflySaber",
+        "type": "long-swd",
+        "upgrade-price": 80,
+        "materials": [
+            {
+                "name": "Emperor Cricket",
+                "amount": 3
+            },
+            {
+                "name": "Great Hornfly",
+                "amount": 5
+            },
+            {
+                "name": "VespoidQn'sCrown",
+                "amount": 2
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 17,
+                "craft-type": "create",
+                "name": "Great Hornfly Saber",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 76,
+        "name": "dummy (LS Fan \"10K Gavas\")",
+        "type": "long-swd",
+        "upgrade-price": 350,
+        "materials": [
+            {
+                "name": "Famitsu PO",
+                "amount": 3
+            },
+            {
+                "name": "Str Daora Wing",
+                "amount": 2
+            },
+            {
+                "name": "SpecRemobraSkin+",
+                "amount": 3
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 18,
+                "craft-type": "create",
+                "name": "dummy (LS Fan \"Gavas\")",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 77,
+        "name": "GrtDemnHalberdRaksha",
+        "type": "long-swd",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "Hvy Rajang Fang",
+                "amount": 4
+            },
+            {
+                "name": "Blk Rajang Pelt+",
+                "amount": 5
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "amount": 1
+            },
+            {
+                "name": "YamaTsukamiFluid",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 48,
+                "craft-type": "upgrade",
+                "name": "Great Demon Halberd",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 78,
+        "name": "Divine Fire Blade",
+        "type": "long-swd",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "HvyLavasiothShl",
+                "amount": 8
+            },
+            {
+                "name": "HvyLavasiothFang",
+                "amount": 2
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "HvnlyGraviosShl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "create",
+                "name": "Liquid Fire Blade",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 79,
+        "name": "C.Blango Destructor",
+        "type": "long-swd",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "LthrC.BlangoTail",
+                "amount": 2
+            },
+            {
+                "name": "Lthr Pelagus Plt",
+                "amount": 2
+            },
+            {
+                "name": "Blk Rajang Pelt+",
+                "amount": 5
+            },
+            {
+                "name": "Hvy Rajang Fang",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 64,
+                "craft-type": "upgrade",
+                "name": "C.Blango Decimator",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 80,
+        "name": "Last Gaelic Flame",
+        "type": "long-swd",
+        "upgrade-price": 135000,
+        "materials": [
+            {
+                "name": "HvyRathalosShl",
+                "amount": 5
+            },
+            {
+                "name": "Hvy Daora Shell",
+                "amount": 5
+            },
+            {
+                "name": "StrRathalosWing",
+                "amount": 2
+            },
+            {
+                "name": "Str Daora Wing",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 49,
+                "craft-type": "upgrade",
+                "name": "Gaelic Flame",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 81,
+        "name": "Killer's Sickle",
+        "type": "long-swd",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 3
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "amount": 5
+            },
+            {
+                "name": "Hard Gaoren Claw",
+                "amount": 2
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 68,
+                "craft-type": "upgrade",
+                "name": "Shogun Cutter",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 82,
+        "name": "Daora's Raid",
+        "type": "long-swd",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "Lthr Daora Tail",
+                "amount": 2
+            },
+            {
+                "name": "ThckDaoraDrgnScl",
+                "amount": 8
+            },
+            {
+                "name": "Hard Daora Horn",
+                "amount": 2
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 21,
+                "craft-type": "create",
+                "name": "Icesteel Blade",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 83,
+        "name": "Wailing Cleaver Shin",
+        "type": "long-swd",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 5
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 8
+            },
+            {
+                "name": "LthrKirinThndrTl",
+                "amount": 2
+            },
+            {
+                "name": "Hard Rajang Claw",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 69,
+                "craft-type": "upgrade",
+                "name": "Wailing Cleaver",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 84,
+        "name": "Phantom Mirage",
+        "type": "long-swd",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "HrdChameleosHorn",
+                "amount": 2
+            },
+            {
+                "name": "SpecChameleHide+",
+                "amount": 5
+            },
+            {
+                "name": "LthrChameleoTail",
+                "amount": 3
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 53,
+                "craft-type": "upgrade",
+                "name": "Mirage Finsword+",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 85,
+        "name": "Hellish Slasher",
+        "type": "long-swd",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "Str Fatalis Wng",
+                "amount": 2
+            },
+            {
+                "name": "StrFatlisCrmWing",
+                "amount": 2
+            },
+            {
+                "name": "StrWhtFatalisWng",
+                "amount": 2
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 54,
+                "craft-type": "upgrade",
+                "name": "Divine Slasher",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 86,
+        "name": "Knockout Dragonsword",
+        "type": "long-swd",
+        "upgrade-price": 140000,
+        "materials": [
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 3
+            },
+            {
+                "name": "Lao-Shan'sThkScl",
+                "amount": 4
+            },
+            {
+                "name": "Lao-ShanHvnlyScl",
+                "amount": 1
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 55,
+                "craft-type": "upgrade",
+                "name": "Smolder Dragonsword",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 87,
+        "name": "WyvrnBlade\"Camellia\"",
+        "type": "long-swd",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "HvySlvrRthlsShl",
+                "amount": 3
+            },
+            {
+                "name": "ThckSlvrRthlsScl",
+                "amount": 3
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 3
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 25,
+                "craft-type": "create",
+                "name": "WyvernBlade\"Silver\"",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 88,
+        "name": "Tigrex Great Katana",
+        "type": "long-swd",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "Hard Tigrex Claw",
+                "amount": 5
+            },
+            {
+                "name": "Hvy Tigrex Shell",
+                "amount": 6
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 46,
+                "craft-type": "upgrade",
+                "name": "Tigrex Katana",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 89,
+        "name": "Shadow of the Moon",
+        "type": "long-swd",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "StrNargaCttngWng",
+                "amount": 3
+            },
+            {
+                "name": "BlackNargaPelt+",
+                "amount": 8
+            },
+            {
+                "name": "HvyNargaTailSpik",
+                "amount": 5
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 20,
+                "craft-type": "create",
+                "name": "Hidden Saber",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 90,
+        "name": "AncientSlayrDrgnwdLS",
+        "type": "long-swd",
+        "upgrade-price": 145000,
+        "materials": [
+            {
+                "name": "AncientDrgnmoss",
+                "amount": 3
+            },
+            {
+                "name": "YamatsukaFillet",
+                "amount": 3
+            },
+            {
+                "name": "Dragonwood+",
+                "amount": 10
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 27,
+                "craft-type": "create",
+                "name": "AncientDragonwoodLS",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 91,
+        "name": "LgndaryFatalisSickle",
+        "type": "long-swd",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "Hvy Fatalis Shl",
+                "amount": 5
+            },
+            {
+                "name": "Str Fatalis Wng",
+                "amount": 3
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 57,
+                "craft-type": "upgrade",
+                "name": "Fatalis Sickle",
+                "type": "long-swd"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 92,
+        "name": "Akantor Broadswrd S",
+        "type": "long-swd",
+        "upgrade-price": 145000,
+        "materials": [
+            {
+                "name": "Ukanlos Stone",
+                "amount": 1
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 3
+            },
+            {
+                "name": "Akantor Spike",
+                "amount": 5
+            },
+            {
+                "name": "Akantor Shell",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 22,
+                "craft-type": "create",
+                "name": "Akantor Katana",
+                "type": "long-swd"
+            }
+        ]
+    }
+]
