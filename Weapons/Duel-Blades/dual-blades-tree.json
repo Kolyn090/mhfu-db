@@ -1,0 +1,3130 @@
+[
+    {
+        "upgrade-id": 0,
+        "name": "Twin Dagger",
+        "type": "dual-blades",
+        "upgrade-price": 680,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "create",
+                "name": "Hunter's Dagger+",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 1,
+        "name": "Twin Dagger+",
+        "type": "dual-blades",
+        "upgrade-price": 1120,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 6
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 0,
+                "craft-type": "create",
+                "name": "Twin Dagger",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 2,
+        "name": "Dual Tomahawk",
+        "type": "dual-blades",
+        "upgrade-price": 1720,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 8
+            },
+            {
+                "name": "Antiseptic Stone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "upgrade",
+                "name": "Twin Dagger+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 3,
+        "name": "Glutton's Set",
+        "type": "dual-blades",
+        "upgrade-price": 1400,
+        "materials": [
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Sm Monster Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "upgrade",
+                "name": "Twin Dagger+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 4,
+        "name": "Giaprey Claws",
+        "type": "dual-blades",
+        "upgrade-price": 880,
+        "materials": [
+            {
+                "name": "Giaprey Scale",
+                "amount": 2
+            },
+            {
+                "name": "Giaprey Hide",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 0,
+                "craft-type": "create",
+                "name": "Hunter's Dagger",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 5,
+        "name": "Giaprey Claws+",
+        "type": "dual-blades",
+        "upgrade-price": 1720,
+        "materials": [
+            {
+                "name": "Giadrome Claw",
+                "amount": 6
+            },
+            {
+                "name": "Giadrome Hide",
+                "amount": 4
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 3,
+                "craft-type": "create",
+                "name": "Giaprey Claws",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 6,
+        "name": "Bone Scythe+",
+        "type": "dual-blades",
+        "upgrade-price": 880,
+        "materials": [
+            {
+                "name": "Sharp Claw",
+                "amount": 2
+            },
+            {
+                "name": "Sm Monster Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "create",
+                "name": "Bone Scythe",
+                "type": "dual-blades"
+            },
+            {
+                "id": 3,
+                "craft-type": "upgrade",
+                "name": "Bone Kris+",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 7,
+        "name": "Chief Scythe",
+        "type": "dual-blades",
+        "upgrade-price": 1400,
+        "materials": [
+            {
+                "name": "Med Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Sm Bone Husk",
+                "amount": 8
+            },
+            {
+                "name": "Velocidrome Claw",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "upgrade",
+                "name": "Bone Scythe+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 8,
+        "name": "Twin Kut-Ku",
+        "type": "dual-blades",
+        "upgrade-price": 1720,
+        "materials": [
+            {
+                "name": "Unknown Skull",
+                "amount": 2
+            },
+            {
+                "name": "Kut-Ku Scale",
+                "amount": 4
+            },
+            {
+                "name": "Hot Drink",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "upgrade",
+                "name": "Chief Scythe",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 9,
+        "name": "Velociprey Claws",
+        "type": "dual-blades",
+        "upgrade-price": 2480,
+        "materials": [
+            {
+                "name": "Velocidrome Claw",
+                "amount": 6
+            },
+            {
+                "name": "Velocidrome Head",
+                "amount": 1
+            },
+            {
+                "name": "Pale Extract",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Giaprey Claws+",
+                "type": "dual-blades"
+            },
+            {
+                "id": 6,
+                "craft-type": "create",
+                "name": "Velocidrome Bite",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 10,
+        "name": "Order Rapier",
+        "type": "dual-blades",
+        "upgrade-price": 2480,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 2
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 8
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "upgrade",
+                "name": "Dual Tomahawk",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 11,
+        "name": "Insector",
+        "type": "dual-blades",
+        "upgrade-price": 2480,
+        "materials": [
+            {
+                "name": "Vespoid wing",
+                "amount": 10
+            },
+            {
+                "name": "Hornetaur Shell",
+                "amount": 10
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 1,
+                "craft-type": "upgrade",
+                "name": "Twin Dagger+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 12,
+        "name": "Cutlass",
+        "type": "dual-blades",
+        "upgrade-price": 2920,
+        "materials": [
+            {
+                "name": "Plesioth Scale",
+                "amount": 4
+            },
+            {
+                "name": "Cephalos Fin",
+                "amount": 2
+            },
+            {
+                "name": "Knife Mackarel",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "upgrade",
+                "name": "Chief Scythe",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 13,
+        "name": "Pink Maracas",
+        "type": "dual-blades",
+        "upgrade-price": 2080,
+        "materials": [
+            {
+                "name": "Conga Pelt",
+                "amount": 10
+            },
+            {
+                "name": "Congalala Claw",
+                "amount": 2
+            },
+            {
+                "name": "Congalala Fang",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "create",
+                "name": "Twin Kut-Ku",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 14,
+        "name": "Freezing Daggers",
+        "type": "dual-blades",
+        "upgrade-price": 3400,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 10
+            },
+            {
+                "name": "Blangonga Whiskr",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "upgrade",
+                "name": "Frost Edge+",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 15,
+        "name": "Dual Tomahawk+",
+        "type": "dual-blades",
+        "upgrade-price": 3400,
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "amount": 8
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "upgrade",
+                "name": "Dual Tomahawk",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 16,
+        "name": "Holy Saber",
+        "type": "dual-blades",
+        "upgrade-price": 3400,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 8
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "create",
+                "name": "Order Rapier",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 17,
+        "name": "Insector+",
+        "type": "dual-blades",
+        "upgrade-price": 2920,
+        "materials": [
+            {
+                "name": "Vespoid Shell",
+                "amount": 15
+            },
+            {
+                "name": "Hornetaur Head",
+                "amount": 3
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "upgrade",
+                "name": "Insector",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 18,
+        "name": "Spatula Set",
+        "type": "dual-blades",
+        "upgrade-price": 25000,
+        "materials": [
+            {
+                "name": "FlynMealPassReg",
+                "amount": 10
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Basarios Wing",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "create",
+                "name": "Glutton's Set",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 19,
+        "name": "Velociprey Claws+",
+        "type": "dual-blades",
+        "upgrade-price": 4480,
+        "materials": [
+            {
+                "name": "Tigrex Claw",
+                "amount": 4
+            },
+            {
+                "name": "Velocidrome Hide",
+                "amount": 6
+            },
+            {
+                "name": "Pale Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "upgrade",
+                "name": "Velociprey Claws",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 20,
+        "name": "Snow Venom",
+        "type": "dual-blades",
+        "upgrade-price": 5080,
+        "materials": [
+            {
+                "name": "Iodrome Hide",
+                "amount": 2
+            },
+            {
+                "name": "Ioprey Fang",
+                "amount": 8
+            },
+            {
+                "name": "Giaprey Hide",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Giaprey Claws+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 21,
+        "name": "Twin Flames",
+        "type": "dual-blades",
+        "upgrade-price": 3920,
+        "materials": [
+            {
+                "name": "Rathalos Scale",
+                "amount": 6
+            },
+            {
+                "name": "Rathian Scale",
+                "amount": 6
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "create",
+                "name": "Red Saber",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 22,
+        "name": "Bladed Edge",
+        "type": "dual-blades",
+        "upgrade-price": 3400,
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "amount": 4
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 4
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "upgrade",
+                "name": "Chief Scythe",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 23,
+        "name": "Twin Kut-Ku+",
+        "type": "dual-blades",
+        "upgrade-price": 3920,
+        "materials": [
+            {
+                "name": "Kut-Ku Ear",
+                "amount": 4
+            },
+            {
+                "name": "Blue Kut-Ku Shl",
+                "amount": 4
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "create",
+                "name": "Twin Kut-Ku",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 24,
+        "name": "Pink Maracas+",
+        "type": "dual-blades",
+        "upgrade-price": 3920,
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "amount": 10
+            },
+            {
+                "name": "Vibrant Pelt",
+                "amount": 4
+            },
+            {
+                "name": "Blangonga Whiskr",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "upgrade",
+                "name": "Pink Maracas",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 25,
+        "name": "Rouge Flames",
+        "type": "dual-blades",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Chameleos Claw",
+                "amount": 4
+            },
+            {
+                "name": "Chameleos Tail",
+                "amount": 2
+            },
+            {
+                "name": "Chameleos Hide",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "upgrade",
+                "name": "Deadly Poison",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 26,
+        "name": "Dual Diablo",
+        "type": "dual-blades",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Twisted Horn",
+                "amount": 2
+            },
+            {
+                "name": "Monoblos Spine",
+                "amount": 6
+            },
+            {
+                "name": "Diablos Spine",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 14,
+                "craft-type": "create",
+                "name": "Studded Club",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 27,
+        "name": "Kirin Bolts",
+        "type": "dual-blades",
+        "upgrade-price": 5080,
+        "materials": [
+            {
+                "name": "Kirin Horn",
+                "amount": 4
+            },
+            {
+                "name": "Kirin Thndr Tail",
+                "amount": 2
+            },
+            {
+                "name": "Kirin Hide",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 38,
+                "craft-type": "upgrade",
+                "name": "Kirin Bolt+",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 28,
+        "name": "Hi Twin Flames",
+        "type": "dual-blades",
+        "upgrade-price": 5720,
+        "materials": [
+            {
+                "name": "Rathalos Wing",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Spike",
+                "amount": 3
+            },
+            {
+                "name": "Rathalos Tail",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 21,
+                "craft-type": "upgrade",
+                "name": "Twin Flames",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 29,
+        "name": "Bladed Edge+",
+        "type": "dual-blades",
+        "upgrade-price": 3920,
+        "materials": [
+            {
+                "name": "Ceanataur Pincer",
+                "amount": 4
+            },
+            {
+                "name": "Ceanataur Claw",
+                "amount": 4
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 9,
+                "craft-type": "create",
+                "name": "Bladed Edge",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 30,
+        "name": "Cutlass+",
+        "type": "dual-blades",
+        "upgrade-price": 5080,
+        "materials": [
+            {
+                "name": "Plesioth Fin",
+                "amount": 6
+            },
+            {
+                "name": "Cephalos Scale",
+                "amount": 10
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 12,
+                "craft-type": "upgrade",
+                "name": "Cutlass",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 31,
+        "name": "Raven Tessen",
+        "type": "dual-blades",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Garuga Scale",
+                "amount": 6
+            },
+            {
+                "name": "Garuga Tail",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Mane",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 4,
+                "craft-type": "create",
+                "name": "Twin Kut-Ku",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 32,
+        "name": "Double Dragon",
+        "type": "dual-blades",
+        "upgrade-price": 20000,
+        "materials": [
+            {
+                "name": "Lao-Shan's Scale",
+                "amount": 2
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "amount": 2
+            },
+            {
+                "name": "Dark Piece",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 22,
+                "craft-type": "create",
+                "name": "Black Sword",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 33,
+        "name": "Legendary Replica",
+        "type": "dual-blades",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "Hero's Blade Replica",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 34,
+        "name": "Twin Nails",
+        "type": "dual-blades",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Fire Dragon Claw",
+                "amount": 1
+            },
+            {
+                "name": "Daora Webbing",
+                "amount": 3
+            },
+            {
+                "name": "Fire Drgn Webbng",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 47,
+                "craft-type": "upgrade",
+                "name": "Steel Ice Dagger+",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 35,
+        "name": "Hurricane",
+        "type": "dual-blades",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 50
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 30
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Odyssey",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 36,
+        "name": "Prototype Saw-Slicer",
+        "type": "dual-blades",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Kirin Horn",
+                "amount": 2
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Odyssey",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 37,
+        "name": "Dual Battleaxe",
+        "type": "dual-blades",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Rubbery Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 4
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 21,
+                "craft-type": "upgrade",
+                "name": "Upper Battleaxe",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 38,
+        "name": "Icicle Daggers",
+        "type": "dual-blades",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 6,
+                "craft-type": "create",
+                "name": "Freezing Daggers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 39,
+        "name": "Insect Slicer",
+        "type": "dual-blades",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Vespoid InnrWng",
+                "amount": 8
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "amount": 8
+            },
+            {
+                "name": "King Scarab",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 17,
+                "craft-type": "upgrade",
+                "name": "Insector+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 40,
+        "name": "Chereau's Tool",
+        "type": "dual-blades",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 10
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Basarios Tears",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 2,
+                "craft-type": "create",
+                "name": "Glutton's Set",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 41,
+        "name": "White Death",
+        "type": "dual-blades",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Giadrome Claw+",
+                "amount": 6
+            },
+            {
+                "name": "Giadrome Skull",
+                "amount": 2
+            },
+            {
+                "name": "Blangonga Fang+",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 5,
+                "craft-type": "upgrade",
+                "name": "Giaprey Claws+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 42,
+        "name": "Hi Velociprey Claws",
+        "type": "dual-blades",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Velocidrome Clw+",
+                "amount": 6
+            },
+            {
+                "name": "Velociprey Scle+",
+                "amount": 8
+            },
+            {
+                "name": "Velocidrome Head",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 7,
+                "craft-type": "create",
+                "name": "Velociprey Claws+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 43,
+        "name": "Snow Venom+",
+        "type": "dual-blades",
+        "upgrade-price": 45000,
+        "materials": [
+            {
+                "name": "Giaprey Hide+",
+                "amount": 8
+            },
+            {
+                "name": "Ioprey Hide+",
+                "amount": 8
+            },
+            {
+                "name": "Giadrome Skull",
+                "amount": 1
+            },
+            {
+                "name": "Iodrome Skull",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 8,
+                "craft-type": "create",
+                "name": "Snow Venom",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 44,
+        "name": "Melting Wail",
+        "type": "dual-blades",
+        "upgrade-price": 45000,
+        "materials": [
+            {
+                "name": "Gravios Skl Shl",
+                "amount": 4
+            },
+            {
+                "name": "Blk Gravios Skl",
+                "amount": 4
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 57,
+                "craft-type": "upgrade",
+                "name": "Osteon Pick+",
+                "type": "sword"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 45,
+        "name": "dummy (DualTessen \"100Gavas\")",
+        "type": "dual-blades",
+        "upgrade-price": 350,
+        "materials": [
+            {
+                "name": "Famitsu PO",
+                "amount": 5
+            },
+            {
+                "name": "Union Ore",
+                "amount": 5
+            },
+            {
+                "name": "Pnk Rathian Scl+",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 10,
+                "craft-type": "create",
+                "name": "dummy (Dual Tessen \"Gavas\")",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 46,
+        "name": "Dual Kut-Ku",
+        "type": "dual-blades",
+        "upgrade-price": 45000,
+        "materials": [
+            {
+                "name": "Long Kut-Ku Ear",
+                "amount": 6
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 10
+            },
+            {
+                "name": "Inferno Sac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "upgrade",
+                "name": "Twin Kut-Ku+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 47,
+        "name": "Funky Maracas",
+        "type": "dual-blades",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 10
+            },
+            {
+                "name": "Congalala Claw+",
+                "amount": 2
+            },
+            {
+                "name": "Blangonga Fang+",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "upgrade",
+                "name": "Pink Maracas+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 48,
+        "name": "Weathered Blades",
+        "type": "dual-blades",
+        "upgrade-price": 12500,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 20,
+                "craft-type": "create",
+                "name": "Worn Blades",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 49,
+        "name": "Hi Twin Daggers",
+        "type": "dual-blades",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Daora Webbing",
+                "amount": 8
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 48,
+                "craft-type": "upgrade",
+                "name": "Weathered Blades",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 50,
+        "name": "Cyclone",
+        "type": "dual-blades",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 5
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 50
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 30
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 17,
+                "craft-type": "create",
+                "name": "Hurricane",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 51,
+        "name": "Sanctioned Blades",
+        "type": "dual-blades",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Kirin Horn",
+                "amount": 6
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 5
+            },
+            {
+                "name": "Rubbery Hide+",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 18,
+                "craft-type": "create",
+                "name": "Prototype Saw-Slicer",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 52,
+        "name": "Guild Knight Sabers",
+        "type": "dual-blades",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Novacrystal",
+                "amount": 5
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "upgrade",
+                "name": "Holy Saber",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 53,
+        "name": "Dual Diablo+",
+        "type": "dual-blades",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Majestic Horn",
+                "amount": 2
+            },
+            {
+                "name": "Monoblos Heart",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Thoracic",
+                "amount": 7
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "upgrade",
+                "name": "Dual Diablo",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 54,
+        "name": "Melting Wail+",
+        "type": "dual-blades",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Gravios Carapace",
+                "amount": 6
+            },
+            {
+                "name": "Blk Gravios Cpc",
+                "amount": 6
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 44,
+                "craft-type": "upgrade",
+                "name": "Melting Wail",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 55,
+        "name": "Gradios Ultimus",
+        "type": "dual-blades",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Rathalos Scale+",
+                "amount": 8
+            },
+            {
+                "name": "Rathian Scale+",
+                "amount": 8
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 28,
+                "craft-type": "upgrade",
+                "name": "Hi Twin Flames",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 56,
+        "name": "Limb Cutter",
+        "type": "dual-blades",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 2
+            },
+            {
+                "name": "Ceanataur Carpce",
+                "amount": 4
+            },
+            {
+                "name": "Ceanataur Leg",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 29,
+                "craft-type": "upgrade",
+                "name": "Bladed Edge+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 57,
+        "name": "Wolf Tessen",
+        "type": "dual-blades",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Garuga Wing",
+                "amount": 4
+            },
+            {
+                "name": "Garuga Scale+",
+                "amount": 4
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 12,
+                "craft-type": "create",
+                "name": "Raven Tessen",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 58,
+        "name": "Dual Dragon Ultimus",
+        "type": "dual-blades",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Lao-ShanCarapace",
+                "amount": 5
+            },
+            {
+                "name": "Lao-Shan's Scale+",
+                "amount": 7
+            },
+            {
+                "name": "Dark Stone",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 32,
+                "craft-type": "upgrade",
+                "name": "Double Dragon",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 59,
+        "name": "Eternal Schism",
+        "type": "dual-blades",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 40
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 5
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 48,
+                "craft-type": "upgrade",
+                "name": "Weathered Blades",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 60,
+        "name": "Silhouette Sabers",
+        "type": "dual-blades",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "DaoraDragonScal+",
+                "amount": 10
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 20
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 49,
+                "craft-type": "upgrade",
+                "name": "Hi Twin Daggers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 61,
+        "name": "Tigrex Claws",
+        "type": "dual-blades",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Tigrex Claw+",
+                "amount": 6
+            },
+            {
+                "name": "Tigrex Fang+",
+                "amount": 2
+            },
+            {
+                "name": "Tigrex Scale",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "Rex Slicers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 62,
+        "name": "Hidden Ones",
+        "type": "dual-blades",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "NargaCuttingWing",
+                "amount": 4
+            },
+            {
+                "name": "Narga Scale+",
+                "amount": 2
+            },
+            {
+                "name": "Nargacuga Fang+",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 16,
+                "craft-type": "create",
+                "name": "Rex Slicers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 63,
+        "name": "Improved Power Saws",
+        "type": "dual-blades",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Kirin Azure Horn",
+                "amount": 4
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 10
+            },
+            {
+                "name": "Rajang Claw",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 51,
+                "craft-type": "upgrade",
+                "name": "Sanctioned Blades",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 64,
+        "name": "Dual Chameleos",
+        "type": "dual-blades",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Chameleos Spike",
+                "amount": 2
+            },
+            {
+                "name": "Chameleos Hide+",
+                "amount": 6
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 25,
+                "craft-type": "upgrade",
+                "name": "Rouge Flames",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 65,
+        "name": "Festive Fall Typhoon",
+        "type": "dual-blades",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Kirin Azure Horn",
+                "amount": 1
+            },
+            {
+                "name": "Dragonwood+",
+                "amount": 3
+            },
+            {
+                "name": "Dragonmoss+",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 27,
+                "craft-type": "upgrade",
+                "name": "Kirin Bolts",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 66,
+        "name": "Corpse Blades",
+        "type": "dual-blades",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Slvr Rthlos Scl+",
+                "amount": 6
+            },
+            {
+                "name": "Gld Rathian Scl+",
+                "amount": 6
+            },
+            {
+                "name": "Rathalos Ruby",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 55,
+                "craft-type": "upgrade",
+                "name": "Gradios Ultimus",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 67,
+        "name": "Ultimus Heaven&Earth",
+        "type": "dual-blades",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis CrmsnHrn",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis DevilEye",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 58,
+                "craft-type": "upgrade",
+                "name": "Dual Dragon Ultimus",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 68,
+        "name": "Fatalis Dual Blades",
+        "type": "dual-blades",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis Shell",
+                "amount": 4
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "create",
+                "name": "Black Twin Daggers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 69,
+        "name": "Ultimus Celestials",
+        "type": "dual-blades",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "amount": 2
+            },
+            {
+                "name": "Wht Fatalis Horn",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis DevilEye",
+                "amount": 2
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 13,
+                "craft-type": "create",
+                "name": "Black Twin Daggers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 70,
+        "name": "Crimson Lotus Blades",
+        "type": "dual-blades",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Lao-Shan's Horn",
+                "amount": 4
+            },
+            {
+                "name": "Fire Dragon Pwdr",
+                "amount": 2
+            },
+            {
+                "name": "Lao-Shan's Ruby",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 14,
+                "craft-type": "create",
+                "name": "Flaming Pair",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 71,
+        "name": "Twin Nails+",
+        "type": "dual-blades",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 2
+            },
+            {
+                "name": "Fire Dragon Claw",
+                "amount": 3
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 15,
+                "craft-type": "create",
+                "name": "Twin Nails",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 72,
+        "name": "Tornado Tomahawks",
+        "type": "dual-blades",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 8
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 50,
+                "craft-type": "upgrade",
+                "name": "Cyclone",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 73,
+        "name": "Typhoon",
+        "type": "dual-blades",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 5
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Tornado Tomahawks",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 74,
+        "name": "Firestorm",
+        "type": "dual-blades",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "SpecLavasioFin+",
+                "amount": 1
+            },
+            {
+                "name": "SpecPlesiothFin+",
+                "amount": 1
+            },
+            {
+                "name": "ThckLavasiothScl",
+                "amount": 3
+            },
+            {
+                "name": "ThckPlesiothScl",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 24,
+                "craft-type": "create",
+                "name": "Tornado Tomahawks",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 75,
+        "name": "Divine Power Saws",
+        "type": "dual-blades",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 8
+            },
+            {
+                "name": "Lightning Sac",
+                "amount": 5
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "amount": 6
+            },
+            {
+                "name": "HvyBasariosShell",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 63,
+                "craft-type": "upgrade",
+                "name": "Improved Power Saws",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 76,
+        "name": "Dual Battleaxe+",
+        "type": "dual-blades",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "SpecRubberyHide+",
+                "amount": 4
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 4
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 19,
+                "craft-type": "create",
+                "name": "Dual Battleaxe",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 77,
+        "name": "Frozen Death",
+        "type": "dual-blades",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 5
+            },
+            {
+                "name": "LeathrBlangoTail",
+                "amount": 2
+            },
+            {
+                "name": "HrdBlangongaPlt+",
+                "amount": 6
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 38,
+                "craft-type": "upgrade",
+                "name": "Icicle Daggers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 78,
+        "name": "Master Sabers",
+        "type": "dual-blades",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 2
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 52,
+                "craft-type": "upgrade",
+                "name": "Guild Knight Sabers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 79,
+        "name": "Alated Insect",
+        "type": "dual-blades",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Hornet Razorwing",
+                "amount": 5
+            },
+            {
+                "name": "Vespoid Razorwing",
+                "amount": 5
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 10
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 39,
+                "craft-type": "upgrade",
+                "name": "Insect Slicer",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 80,
+        "name": "Insect Lord",
+        "type": "dual-blades",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Hornet RazorWing",
+                "amount": 8
+            },
+            {
+                "name": "Vespoid RazorWing",
+                "amount": 8
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 12
+            },
+            {
+                "name": "VespoidQn'sCrown",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 79,
+                "craft-type": "upgrade",
+                "name": "Alated Insect",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 81,
+        "name": "Glacial Medusa",
+        "type": "dual-blades",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "RobustWyvernBone",
+                "amount": 6
+            },
+            {
+                "name": "Giadrome Claw+",
+                "amount": 4
+            },
+            {
+                "name": "Ioprey Scale+",
+                "amount": 3
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 43,
+                "craft-type": "upgrade",
+                "name": "Snow Venom+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 82,
+        "name": "Blos Doppelganger",
+        "type": "dual-blades",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "LthrBlkBlosTail",
+                "amount": 2
+            },
+            {
+                "name": "WhtMonoblosThora",
+                "amount": 4
+            },
+            {
+                "name": "HvyBlkBlosSpine",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 53,
+                "craft-type": "upgrade",
+                "name": "Dual Diablo+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 83,
+        "name": "dummy (DualTessen \"10KGavas\")",
+        "type": "dual-blades",
+        "upgrade-price": 350,
+        "materials": [
+            {
+                "name": "Famitsu PO",
+                "amount": 3
+            },
+            {
+                "name": "Coma Sac",
+                "amount": 2
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "amount": 5
+            },
+            {
+                "name": "Mellanje Ore",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 45,
+                "craft-type": "upgrade",
+                "name": "dummy (DualTessen \"100Gavas\")",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 84,
+        "name": "Carmine Edge",
+        "type": "dual-blades",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 2
+            },
+            {
+                "name": "TerraCeanatrShl",
+                "amount": 4
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 56,
+                "craft-type": "upgrade",
+                "name": "Limb Cutter",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 85,
+        "name": "Crow Tessen",
+        "type": "dual-blades",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "ThickGarugaScale",
+                "amount": 4
+            },
+            {
+                "name": "SilverGarugaPelt",
+                "amount": 3
+            },
+            {
+                "name": "Long Garuga Ear",
+                "amount": 2
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 57,
+                "craft-type": "upgrade",
+                "name": "Wolf Tessen",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 86,
+        "name": "Jungle Maracas",
+        "type": "dual-blades",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 6
+            },
+            {
+                "name": "HrdE.CongaClaw",
+                "amount": 2
+            },
+            {
+                "name": "Piercing Claw",
+                "amount": 6
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 47,
+                "craft-type": "upgrade",
+                "name": "Funky Maracas",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 87,
+        "name": "Evergreen",
+        "type": "dual-blades",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 8
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "amount": 4
+            },
+            {
+                "name": "Vibrant Comb",
+                "amount": 2
+            },
+            {
+                "name": "LeathrBlangoTail",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 27,
+                "craft-type": "create",
+                "name": "Jungle Maracas",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 88,
+        "name": "Demonic Flaming Pair",
+        "type": "dual-blades",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 2
+            },
+            {
+                "name": "Azure LaoS Shell",
+                "amount": 6
+            },
+            {
+                "name": "Lao-Shan's Thick Scale",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 70,
+                "craft-type": "upgrade",
+                "name": "Crimson Lotus Blades",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 89,
+        "name": "Eternal Sacrifice",
+        "type": "dual-blades",
+        "upgrade-price": 140000,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 15
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 10
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 59,
+                "craft-type": "upgrade",
+                "name": "Eternal Schism",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 90,
+        "name": "Felyne and Melynx+",
+        "type": "dual-blades",
+        "upgrade-price": 6300,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 2
+            },
+            {
+                "name": "Felyne Fur Ruby",
+                "amount": 5
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 5
+            },
+            {
+                "name": "AncientDrgnwood",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 11,
+                "craft-type": "create",
+                "name": "Felyne and Melynx",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 91,
+        "name": "Volcanic Storm",
+        "type": "dual-blades",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "SpecLavasioFin+",
+                "amount": 4
+            },
+            {
+                "name": "SpecPlesiothFin+",
+                "amount": 4
+            },
+            {
+                "name": "YamaTsukamiFluid",
+                "amount": 3
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 25,
+                "craft-type": "create",
+                "name": "Firestorm",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 92,
+        "name": "Final Battleaxe",
+        "type": "dual-blades",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "SpecRubberyHide+",
+                "amount": 6
+            },
+            {
+                "name": "HardGypcerosHead",
+                "amount": 1
+            },
+            {
+                "name": "GoldRathianThorn",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 76,
+                "craft-type": "upgrade",
+                "name": "Dual Battleaxe+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 93,
+        "name": "Holy Guild Knight",
+        "type": "dual-blades",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 5
+            },
+            {
+                "name": "Mellanje Ore",
+                "amount": 10
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 2
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 5
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 78,
+                "craft-type": "upgrade",
+                "name": "Master Sabers",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 94,
+        "name": "ChameleosDualBlades",
+        "type": "dual-blades",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "LthrChameleoTail",
+                "amount": 2
+            },
+            {
+                "name": "HrdChameleosHorn",
+                "amount": 2
+            },
+            {
+                "name": "SpecChameleHide+",
+                "amount": 4
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 64,
+                "craft-type": "upgrade",
+                "name": "Dual Chameleos",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 95,
+        "name": "Grand Blos",
+        "type": "dual-blades",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "StoutBlkTwstdHrn",
+                "amount": 2
+            },
+            {
+                "name": "Top-GrdPlatHorn",
+                "amount": 2
+            },
+            {
+                "name": "HvyBlkBlosShell",
+                "amount": 4
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 82,
+                "craft-type": "upgrade",
+                "name": "Blos Doppelganger",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 96,
+        "name": "Melting Blazer",
+        "type": "dual-blades",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "HvyGraviosShell",
+                "amount": 4
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "amount": 4
+            },
+            {
+                "name": "HvnlyGraviosShl",
+                "amount": 1
+            },
+            {
+                "name": "HvnlyBlkGraviShl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 54,
+                "craft-type": "upgrade",
+                "name": "Melting Wail+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 97,
+        "name": "FestiveRustlingRain",
+        "type": "dual-blades",
+        "upgrade-price": 135000,
+        "materials": [
+            {
+                "name": "AncientDrgnwood",
+                "amount": 3
+            },
+            {
+                "name": "YamaTsukamiHide",
+                "amount": 2
+            },
+            {
+                "name": "LthrKirinThndrTl",
+                "amount": 2
+            },
+            {
+                "name": "Platinum Mane",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 22,
+                "craft-type": "create",
+                "name": "Festive Fall Typhoon",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 98,
+        "name": "Punishment Blades",
+        "type": "dual-blades",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "ThckSlvrRthlsScl",
+                "amount": 5
+            },
+            {
+                "name": "ThckGldRathnScl",
+                "amount": 5
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "amount": 1
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 66,
+                "craft-type": "upgrade",
+                "name": "Corpse Blades",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 99,
+        "name": "Red Rippers",
+        "type": "dual-blades",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 4
+            },
+            {
+                "name": "Hard Gaoren Claw",
+                "amount": 2
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 4
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 26,
+                "craft-type": "create",
+                "name": "Carmine Edge",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 100,
+        "name": "Dual Dragon Ultimus+",
+        "type": "dual-blades",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "Lao-Shan'sHvyShl",
+                "amount": 4
+            },
+            {
+                "name": "HrdFatlisCrmHorn",
+                "amount": 2
+            },
+            {
+                "name": "Lao-ShanHvnlyScl",
+                "amount": 1
+            },
+            {
+                "name": "Fatalis Evil Eye",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 67,
+                "craft-type": "upgrade",
+                "name": "Ultimus Heaven&Earth",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 101,
+        "name": "Fatalis Dual Sky",
+        "type": "dual-blades",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HardFatalisHorn",
+                "amount": 2
+            },
+            {
+                "name": "Hvy Fatalis Shl",
+                "amount": 4
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 68,
+                "craft-type": "upgrade",
+                "name": "Fatalis Dual Blades",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 102,
+        "name": "Ultimus Apocalypse",
+        "type": "dual-blades",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HardFatalisHorn",
+                "amount": 2
+            },
+            {
+                "name": "HrdWhtFatlisHorn",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis Evil Eye",
+                "amount": 2
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 3
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 69,
+                "craft-type": "upgrade",
+                "name": "Ultimus Celestials",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 103,
+        "name": "Azure Dual Swords",
+        "type": "dual-blades",
+        "upgrade-price": 140000,
+        "materials": [
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 4
+            },
+            {
+                "name": "Azure LaoS Claw",
+                "amount": 2
+            },
+            {
+                "name": "Hvy Gaoren Spine",
+                "amount": 4
+            },
+            {
+                "name": "Lao-ShanHvnlyScl",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 88,
+                "craft-type": "upgrade",
+                "name": "Demonic Flaming Pair",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 104,
+        "name": "Fire and Ice",
+        "type": "dual-blades",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "HrdFireDrgnClaw",
+                "amount": 2
+            },
+            {
+                "name": "Daora Sharp Claw",
+                "amount": 3
+            },
+            {
+                "name": "ThckDaoraDrgnScl",
+                "amount": 5
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 2
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 71,
+                "craft-type": "upgrade",
+                "name": "Twin Nails+",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 105,
+        "name": "Tigrex Claws+",
+        "type": "dual-blades",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "Hard Tigrex Claw",
+                "amount": 6
+            },
+            {
+                "name": "Hvy Tigrex Fang",
+                "amount": 2
+            },
+            {
+                "name": "ThickTigrexScale",
+                "amount": 4
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "amount": 1
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 61,
+                "craft-type": "upgrade",
+                "name": "Tigrex Claws",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 106,
+        "name": "Ebony Wings",
+        "type": "dual-blades",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "StrNargaCttngWng",
+                "amount": 8
+            },
+            {
+                "name": "ThickNargaScale",
+                "amount": 4
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 2
+            },
+            {
+                "name": "Hvy Monster bone",
+                "amount": 4
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 21,
+                "craft-type": "create",
+                "name": "Hidden Ones",
+                "type": "dual-blades"
+            }
+        ]
+    },
+    {
+        "upgrade-id": 107,
+        "name": "Akantor Shadow Claws",
+        "type": "dual-blades",
+        "upgrade-price": 145000,
+        "materials": [
+            {
+                "name": "Ukanlos Stone",
+                "amount": 1
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 3
+            },
+            {
+                "name": "Akantor Claw",
+                "amount": 5
+            },
+            {
+                "name": "Akantor Scale",
+                "amount": 7
+            }
+        ],
+        "upgrade-from": [
+            {
+                "id": 23,
+                "craft-type": "create",
+                "name": "Akantor Blades",
+                "type": "dual-blades"
+            }
+        ]
+    }
+]
