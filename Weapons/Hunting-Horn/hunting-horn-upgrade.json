@@ -1,0 +1,2743 @@
+[
+    {
+        "id": 0,
+        "name": "Metal Bagpipe",
+        "type": "hunting-horn",
+        "attack": 676,
+        "rare": 2,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 2340,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            3
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Giaprey Balloon",
+        "type": "hunting-horn",
+        "attack": 416,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 990,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            10
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            15
+        ],
+        "notes": [
+            "white",
+            "green",
+            "sky"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bone Horn",
+        "type": "hunting-horn",
+        "attack": 572,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 1575,
+        "defense": 5,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            1,
+            3,
+            1
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            6
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Khezu Horn",
+        "type": "hunting-horn",
+        "attack": 624,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2790,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            9,
+            2,
+            13,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            6
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sonic Glass",
+        "type": "hunting-horn",
+        "attack": 624,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 5,
+        "upgrade-price": 2340,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            1,
+            3,
+            11
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            16
+        ],
+        "notes": [
+            "white",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Giaprey Balloon+",
+        "type": "hunting-horn",
+        "attack": 520,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1935,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            3
+        ],
+        "notes": [
+            "white",
+            "green",
+            "sky"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "War Drum",
+        "type": "hunting-horn",
+        "attack": 624,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 1935,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            2
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Great Bagpipe",
+        "type": "hunting-horn",
+        "attack": 832,
+        "rare": 4,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 4410,
+        "defense": 15,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            8
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Basarios Rock",
+        "type": "hunting-horn",
+        "attack": 676,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3825,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            7
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "sky"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Khezu Horn+",
+        "type": "hunting-horn",
+        "attack": 780,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5040,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 290
+            }
+        ],
+        "sharpness": [
+            9,
+            2,
+            13,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            4
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Sonic Glass+",
+        "type": "hunting-horn",
+        "attack": 728,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 3285,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Bone Horn+",
+        "type": "hunting-horn",
+        "attack": 884,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 5040,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            1,
+            3,
+            6
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            11
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "War Drum+",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5040,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            7
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            2
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Bronze Bell",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 24,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            4
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Sakura Recorder",
+        "type": "hunting-horn",
+        "attack": 884,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 290
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            8
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "notes": [
+            "white",
+            "sky",
+            "blue"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Basarios Rock Mk.II",
+        "type": "hunting-horn",
+        "attack": 832,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 5715,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            5
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "sky"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Blessed Ocarina",
+        "type": "hunting-horn",
+        "attack": 832,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 290
+            }
+        ],
+        "sharpness": [
+            14,
+            4,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            14,
+            4,
+            6,
+            6
+        ],
+        "notes": [
+            "white",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Heavy Bagpipe",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 6,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 40000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            8
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Feather Whistle",
+        "type": "hunting-horn",
+        "attack": 780,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 5,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            8
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Khezu Flute",
+        "type": "hunting-horn",
+        "attack": 884,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            4
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Blood Horn",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            14,
+            4,
+            6,
+            6
+        ],
+        "sharpness-artisan": [
+            14,
+            4,
+            6,
+            7,
+            4
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Glass Queen",
+        "type": "hunting-horn",
+        "attack": 832,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 15,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Giadrome Balloon",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "notes": [
+            "white",
+            "green",
+            "sky"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Velociprey Balloon",
+        "type": "hunting-horn",
+        "attack": 988,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            7
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Hunter's Horn",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "War Bongo",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Sakura Recorder+",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            5
+        ],
+        "notes": [
+            "white",
+            "sky",
+            "blue"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Heavy Bagpipe+",
+        "type": "hunting-horn",
+        "attack": 1144,
+        "rare": 7,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 60000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Volcanic Rock",
+        "type": "hunting-horn",
+        "attack": 988,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "sky"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Wolf Shamisen",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Blood Flute",
+        "type": "hunting-horn",
+        "attack": 988,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            14,
+            4,
+            6,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            14,
+            4,
+            6,
+            7,
+            4,
+            5
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Shell Castanet",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            10,
+            1,
+            3,
+            17,
+            4
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            17,
+            6,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Velociprey Balloon+",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 7,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            1,
+            3,
+            16
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            17,
+            4
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "War Conga",
+        "type": "hunting-horn",
+        "attack": 1196,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            5
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Tigrex Horn",
+        "type": "hunting-horn",
+        "attack": 1144,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "red"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Hidden Tone",
+        "type": "hunting-horn",
+        "attack": 988,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Gaoren Bell",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 34,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            4
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Gold Recorder",
+        "type": "hunting-horn",
+        "attack": 988,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "blue"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Cursed Ocarina",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 410
+            }
+        ],
+        "sharpness": [
+            14,
+            4,
+            6,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            14,
+            4,
+            6,
+            7,
+            4,
+            5
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Fatalis Menace",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "red"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Ancient Fatalis Lied",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 330
+            }
+        ],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            4
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Spirit Dragonwd Horn",
+        "type": "hunting-horn",
+        "attack": 780,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            2
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Lava Alphorn",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Gold Recorder+",
+        "type": "hunting-horn",
+        "attack": 1196,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12,
+            5
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            4
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "blue"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Master Bagpipe",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 85000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Sforzando",
+        "type": "hunting-horn",
+        "attack": 1508,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 110000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Volcanic Gig",
+        "type": "hunting-horn",
+        "attack": 1300,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "sky"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Hypno Whistle",
+        "type": "hunting-horn",
+        "attack": 884,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Hypno Slide Whistle",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Crow Shamisen",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Blood Flute+",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Brute Flute",
+        "type": "hunting-horn",
+        "attack": 1300,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 420
+            }
+        ],
+        "sharpness": [
+            14,
+            4,
+            6,
+            7,
+            4,
+            5
+        ],
+        "sharpness-artisan": [
+            14,
+            4,
+            6,
+            7,
+            4,
+            6,
+            4
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Shell Castanet+",
+        "type": "hunting-horn",
+        "attack": 1144,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 15,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            10,
+            1,
+            3,
+            17,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            17,
+            6,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Crabby Castanet",
+        "type": "hunting-horn",
+        "attack": 1300,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 28,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Glass Royale",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Queen's Flute",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Velocidrome Balloon",
+        "type": "hunting-horn",
+        "attack": 1144,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Velocidrome Balloon+",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Hunter's Horn+",
+        "type": "hunting-horn",
+        "attack": 1196,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Native's Horn",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 14,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Conga Conga",
+        "type": "hunting-horn",
+        "attack": 1456,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            1,
+            3,
+            16
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            17,
+            4
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Jungle Bongo",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Jungle Conga",
+        "type": "hunting-horn",
+        "attack": 1456,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "AncientDrgnwoodFlute",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Handcrafted Frog",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12,
+            5
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            4
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Volcano Alphorn",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -10,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Gaoren Zhong",
+        "type": "hunting-horn",
+        "attack": 1560,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 36,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            6,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Lunar Recorder",
+        "type": "hunting-horn",
+        "attack": 1300,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 420
+            }
+        ],
+        "sharpness": [
+            10,
+            1,
+            3,
+            17,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            17,
+            6,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "blue"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Bi-Colored Castanet",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 20,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            4
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            5,
+            4
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Klick-Klack",
+        "type": "hunting-horn",
+        "attack": 1352,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 34,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            6,
+            3
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Genie's Ocarina",
+        "type": "hunting-horn",
+        "attack": 1300,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 440
+            }
+        ],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Fatalis Menace Lute",
+        "type": "hunting-horn",
+        "attack": 1456,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            10,
+            1,
+            3,
+            17,
+            4
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            17,
+            6,
+            3
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "red"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Ancient Fatalis Lute",
+        "type": "hunting-horn",
+        "attack": 1352,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "DivineAncDrgnwdFlute",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            6,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Tigrex Horn+",
+        "type": "hunting-horn",
+        "attack": 1508,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "red"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Demon's Darkflute",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Akantor Dark Melody",
+        "type": "hunting-horn",
+        "attack": 1716,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 40,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            4
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "sky"
+        ]
+    }
+]

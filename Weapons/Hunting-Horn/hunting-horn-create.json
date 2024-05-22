@@ -1,0 +1,2091 @@
+[
+    {
+        "id": 0,
+        "name": "Ivory Horn",
+        "type": "hunting-horn",
+        "attack": 364,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 585,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 2
+            },
+            {
+                "name": "Blue Mushroom",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            9
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Metal Bagpipe",
+        "type": "hunting-horn",
+        "attack": 676,
+        "rare": 2,
+        "slots": 1,
+        "affinity": -5,
+        "create-price": 2340,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Black Pearl",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "Screamer",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            3
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Giaprey Balloon",
+        "type": "hunting-horn",
+        "attack": 416,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 990,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Giaprey Hide",
+                "amount": 4
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Anteka Antlers",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            10
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            15
+        ],
+        "notes": [
+            "white",
+            "green",
+            "sky"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bone Horn",
+        "type": "hunting-horn",
+        "attack": 572,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 1575,
+        "defense": 5,
+        "materials": [
+            {
+                "name": "Hard Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            1,
+            3,
+            1
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            6
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Khezu Horn",
+        "type": "hunting-horn",
+        "attack": 624,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 2790,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Flabby Hide",
+                "amount": 5
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 4
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 6
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            9,
+            2,
+            13,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            6
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sonic Glass",
+        "type": "hunting-horn",
+        "attack": 624,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 5,
+        "create-price": 2340,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 2
+            },
+            {
+                "name": "Vespoid Wing",
+                "amount": 6
+            },
+            {
+                "name": "Hornetaur Wing",
+                "amount": 6
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            10,
+            1,
+            3,
+            11
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            16
+        ],
+        "notes": [
+            "white",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "War Drum",
+        "type": "hunting-horn",
+        "attack": 624,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 1935,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "amount": 4
+            },
+            {
+                "name": "Med Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Fire Herb",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            2
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Basarios Rock",
+        "type": "hunting-horn",
+        "attack": 676,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 3825,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Basarios Shell",
+                "amount": 8
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 25
+            },
+            {
+                "name": "FireWyvern Fluid",
+                "amount": 10
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            7
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "sky"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "War Drum+",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 5040,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Plus Class Tcket",
+                "amount": 1
+            },
+            {
+                "name": "Striped Skin",
+                "amount": 1
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            7
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            2
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Bronze Bell",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 35000,
+        "defense": 24,
+        "materials": [
+            {
+                "name": "Gaoren Pincer",
+                "amount": 2
+            },
+            {
+                "name": "Gaoren Shell",
+                "amount": 6
+            },
+            {
+                "name": "Gaoren Spine",
+                "amount": 2
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            4
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Sakura Recorder",
+        "type": "hunting-horn",
+        "attack": 884,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 25000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Pnk Rathian Scl",
+                "amount": 6
+            },
+            {
+                "name": "Pnk Rathian Shl",
+                "amount": 4
+            },
+            {
+                "name": "Dosbiscus",
+                "amount": 10
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 290
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            8
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "notes": [
+            "white",
+            "sky",
+            "blue"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Blessed Ocarina",
+        "type": "hunting-horn",
+        "attack": 832,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 10000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Chameleos Tail",
+                "amount": 2
+            },
+            {
+                "name": "Chameleos Hide",
+                "amount": 4
+            },
+            {
+                "name": "ChameleosWebbing",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 290
+            }
+        ],
+        "sharpness": [
+            14,
+            4,
+            6,
+            1
+        ],
+        "sharpness-artisan": [
+            14,
+            4,
+            6,
+            6
+        ],
+        "notes": [
+            "white",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Black Lute",
+        "type": "hunting-horn",
+        "attack": 780,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 15000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dark Stone",
+                "amount": 1
+            },
+            {
+                "name": "Dark Piece",
+                "amount": 4
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            8
+        ],
+        "notes": [
+            "white",
+            "sky",
+            "red"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Dragonwood Horn",
+        "type": "hunting-horn",
+        "attack": 624,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 20000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dragonwood",
+                "amount": 2
+            },
+            {
+                "name": "Dragonmoss",
+                "amount": 3
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 10
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            19,
+            2,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            2
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Striped Dragonga",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 5,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 35000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Tigrex Shell",
+                "amount": 5
+            },
+            {
+                "name": "Tigrex Fang",
+                "amount": 7
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            2
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "notes": [
+            "white",
+            "sky",
+            "red"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Feather Whistle",
+        "type": "hunting-horn",
+        "attack": 780,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 50000,
+        "defense": 5,
+        "materials": [
+            {
+                "name": "Top-GrdHypnoClaw",
+                "amount": 10
+            },
+            {
+                "name": "OrangeHypnoPelt",
+                "amount": 8
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            8
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "War Bongo",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 50000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Vibrant Pelt",
+                "amount": 6
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 8
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Handmade Frog",
+        "type": "hunting-horn",
+        "attack": 884,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 40000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Tailed Frog",
+                "amount": 2
+            },
+            {
+                "name": "Dragonwood+",
+                "amount": 2
+            },
+            {
+                "name": "Frog",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            5
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Wolf Shamisen",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 65000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Garuga Scale+",
+                "amount": 8
+            },
+            {
+                "name": "Garuga Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Garuga Tail",
+                "amount": 2
+            },
+            {
+                "name": "Garuga Wing",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Shell Castanet",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 50000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Hermitaur Carpce",
+                "amount": 6
+            },
+            {
+                "name": "Ceanataur Carpce",
+                "amount": 3
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 2
+            },
+            {
+                "name": "Rubbery Hide+",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            10,
+            1,
+            3,
+            17,
+            4
+        ],
+        "sharpness-artisan": [
+            10,
+            1,
+            3,
+            17,
+            6,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Hidden Tone",
+        "type": "hunting-horn",
+        "attack": 988,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Black Narga Pelt",
+                "amount": 6
+            },
+            {
+                "name": "NargaCuttingWing",
+                "amount": 6
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Akantor Horn",
+        "type": "hunting-horn",
+        "attack": 1300,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 40,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Akantor Tail",
+                "amount": 1
+            },
+            {
+                "name": "Akantor Fang",
+                "amount": 2
+            },
+            {
+                "name": "Akantor Scale",
+                "amount": 8
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            6
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "sky"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Lava Alphorn",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -5,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "ThckLavasiothScl",
+                "amount": 8
+            },
+            {
+                "name": "HvyLavasiothShl",
+                "amount": 6
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 8
+            },
+            {
+                "name": "Screamer",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Hypno Whistle",
+        "type": "hunting-horn",
+        "attack": 884,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 80000,
+        "defense": 8,
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt+",
+                "amount": 8
+            },
+            {
+                "name": "Hypno Claw+",
+                "amount": 16
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Hypno Bezoar+",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Glass Royale",
+        "type": "hunting-horn",
+        "attack": 1092,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 2
+            },
+            {
+                "name": "Vspoid Razorwing",
+                "amount": 15
+            },
+            {
+                "name": "Hornet Razorwing",
+                "amount": 15
+            },
+            {
+                "name": "VespoidQn'sCrown",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Jungle Bongo",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 85000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 8
+            },
+            {
+                "name": "Vibrant Comb",
+                "amount": 1
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 4
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "blue"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "AncientDrgnwoodFlute",
+        "type": "hunting-horn",
+        "attack": 936,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 120000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "AncientDrgnmoss",
+                "amount": 6
+            },
+            {
+                "name": "AncientDrgnwood",
+                "amount": 2
+            },
+            {
+                "name": "YamaTsukaFillet",
+                "amount": 2
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Bone Horn G",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Blue Mushroom",
+                "amount": 10
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 8
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            6,
+            3
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "War Drum G",
+        "type": "hunting-horn",
+        "attack": 1456,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Conga Pelt",
+                "amount": 30
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 20
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "notes": [
+            "white",
+            "yellow",
+            "red"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Great Bagpipe G",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -5,
+        "create-price": 100000,
+        "defense": 15,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "SpecRemobraSkin+",
+                "amount": 8
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 5
+            },
+            {
+                "name": "Screamer",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Khezu Flute G",
+        "type": "hunting-horn",
+        "attack": 1196,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "KhezuHide-Cream",
+                "amount": 5
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 10
+            },
+            {
+                "name": "Pale Bone",
+                "amount": 7
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            2,
+            13,
+            7,
+            5,
+            6,
+            3
+        ],
+        "notes": [
+            "white",
+            "blue",
+            "yellow"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Basarios Rock G",
+        "type": "hunting-horn",
+        "attack": 1352,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "HvyBasariosShell",
+                "amount": 8
+            },
+            {
+                "name": "StrBasariosWing",
+                "amount": 2
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            4
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            5,
+            4
+        ],
+        "notes": [
+            "pink",
+            "yellow",
+            "sky"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Glass Queen G",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 15,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Vespoid Abdomen",
+                "amount": 8
+            },
+            {
+                "name": "Vspoid Razorwing",
+                "amount": 10
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            7,
+            7,
+            11,
+            5,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Heavy Bagpipe G",
+        "type": "hunting-horn",
+        "attack": 1352,
+        "rare": 9,
+        "slots": 2,
+        "affinity": -5,
+        "create-price": 100000,
+        "defense": 20,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "amount": 5
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Velociprey Balloon G",
+        "type": "hunting-horn",
+        "attack": 1352,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Velociprey Scle+",
+                "amount": 10
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 10
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 50
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            4,
+            14,
+            10,
+            4,
+            6,
+            2
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Giadrome Balloon G",
+        "type": "hunting-horn",
+        "attack": 1404,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Giadrome Skull",
+                "amount": 5
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 10
+            },
+            {
+                "name": "Giadrome Claw+",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "white",
+            "green",
+            "sky"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Demon's Darkflute",
+        "type": "hunting-horn",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "create-price": 120000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Black Narga Pelt",
+                "amount": 10
+            },
+            {
+                "name": "StrNargaCttngWng",
+                "amount": 6
+            },
+            {
+                "name": "ThickNargaScale",
+                "amount": 6
+            },
+            {
+                "name": "HvnlyNargaScale",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            2,
+            17,
+            12,
+            4,
+            5,
+            2
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Ukanlos Horned Flute",
+        "type": "hunting-horn",
+        "attack": 1820,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 150000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "UkanlosShoveljaw",
+                "amount": 3
+            },
+            {
+                "name": "Hvy Ukanlos Tail",
+                "amount": 2
+            },
+            {
+                "name": "Ukanlosunderscl",
+                "amount": 5
+            },
+            {
+                "name": "Ukanlos Stone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            2
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "notes": [
+            "pink",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Sakura Recorder G",
+        "type": "hunting-horn",
+        "attack": 1300,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "amount": 7
+            },
+            {
+                "name": "HvyPnkRathianShl",
+                "amount": 5
+            },
+            {
+                "name": "Pnk Rathian Cpc",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            4
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            12,
+            6,
+            5,
+            4
+        ],
+        "notes": [
+            "pink",
+            "sky",
+            "blue"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Spirit Dragonwd Horn G",
+        "type": "hunting-horn",
+        "attack": 1040,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Dragonwood+",
+                "amount": 8
+            },
+            {
+                "name": "Dragonmoss+",
+                "amount": 8
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            19,
+            2,
+            5,
+            7,
+            4,
+            5,
+            3
+        ],
+        "notes": [
+            "pink",
+            "blue",
+            "red"
+        ]
+    }
+]
