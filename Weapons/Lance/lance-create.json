@@ -1,0 +1,3551 @@
+[
+    {
+        "id": 0,
+        "name": "Iron Lance",
+        "type": "lance",
+        "attack": 138,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 650,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            5
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            1
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Iron Lance+",
+        "type": "lance",
+        "attack": 161,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 650,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Normal Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Longhorn",
+        "type": "lance",
+        "attack": 161,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 650,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            6
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Long Tusk",
+        "type": "lance",
+        "attack": 253,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1750,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Hard Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Bone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Rusted Lance",
+        "type": "lance",
+        "attack": 207,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Ruststone Rod",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            15
+        ],
+        "sharpness-artisan": [
+            16,
+            4
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Paladin Lance",
+        "type": "lance",
+        "attack": 253,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1750,
+        "defense": 4,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 15
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 6
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Barbaroi Tusk",
+        "type": "lance",
+        "attack": 322,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 3100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Iodrome Skull",
+                "amount": 1
+            },
+            {
+                "name": "Ioprey Hide",
+                "amount": 10
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 7
+            },
+            {
+                "name": "Demondrug",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            7
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Wild Bone Lance",
+        "type": "lance",
+        "attack": 230,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1400,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Bullfango pelt",
+                "amount": 5
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Anteka Antlers",
+                "amount": 2
+            },
+            {
+                "name": "Carpenterbug",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Fragrance",
+        "type": "lance",
+        "attack": 207,
+        "rare": 2,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 1400,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dosbiscus",
+                "amount": 4
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Sap Plant",
+                "amount": 5
+            },
+            {
+                "name": "Godbug",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Lullaby Spear",
+        "type": "lance",
+        "attack": 184,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 1750,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Plesioth Fin",
+                "amount": 4
+            },
+            {
+                "name": "Cephalos Fin",
+                "amount": 4
+            },
+            {
+                "name": "Sleepyfish",
+                "amount": 10
+            },
+            {
+                "name": "Springnight Carp",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Ogre Tusk",
+        "type": "lance",
+        "attack": 414,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 5600,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Hard Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Alluring Hide",
+                "amount": 1
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            15,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            15,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Crimson Lance",
+        "type": "lance",
+        "attack": 276,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 3100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Monoblos Spine",
+                "amount": 2
+            },
+            {
+                "name": "Blood Red Horn",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 190
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            6
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Bone Claw Lance",
+        "type": "lance",
+        "attack": 299,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 3100,
+        "defense": 15,
+        "materials": [
+            {
+                "name": "Hermitaur Claw",
+                "amount": 2
+            },
+            {
+                "name": "Hermitaur Shell",
+                "amount": 5
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "amount": 7
+            },
+            {
+                "name": "Monster Fluid",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            4,
+            13
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            1
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Red Tail",
+        "type": "lance",
+        "attack": 253,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 2600,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Rathalos Scale",
+                "amount": 3
+            },
+            {
+                "name": "Rathalos Shell",
+                "amount": 2
+            },
+            {
+                "name": "FireWyvern Fluid",
+                "amount": 4
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Native Spear",
+        "type": "lance",
+        "attack": 184,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 7500,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Unknown Skull",
+                "amount": 1
+            },
+            {
+                "name": "Wyvern Claw",
+                "amount": 1
+            },
+            {
+                "name": "Bone",
+                "amount": 1
+            },
+            {
+                "name": "Iodrome Skull",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 430
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Vacuum Striker",
+        "type": "lance",
+        "attack": 184,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 7500,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Pale Bone",
+                "amount": 2
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 1
+            },
+            {
+                "name": "FlynMealPassReg",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Growling Wyvern",
+        "type": "lance",
+        "attack": 345,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 4900,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Plus Class Tcket",
+                "amount": 1
+            },
+            {
+                "name": "Blk Gravios Shl",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Gatling Lance",
+        "type": "lance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 4250,
+        "defense": 12,
+        "materials": [
+            {
+                "name": "Firestone",
+                "amount": 4
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 2
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Naag Serpentblade",
+        "type": "lance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 5,
+        "create-price": 5600,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Remobra Skull",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin",
+                "amount": 8
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 10
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Venom Lance",
+        "type": "lance",
+        "attack": 299,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 3100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Basarios Wing",
+                "amount": 1
+            },
+            {
+                "name": "Basarios Shell",
+                "amount": 4
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 20
+            },
+            {
+                "name": "Toadstool",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Black Belt Lance",
+        "type": "lance",
+        "attack": 345,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 6000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Blackbelt Ticket",
+                "amount": 8
+            },
+            {
+                "name": "Congalala Coin",
+                "amount": 10
+            },
+            {
+                "name": "Plesioth Coin",
+                "amount": 10
+            },
+            {
+                "name": "Kut-Ku Coin",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Thunderspear",
+        "type": "lance",
+        "attack": 322,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 20000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Kirin Horn",
+                "amount": 3
+            },
+            {
+                "name": "Kirin Hide",
+                "amount": 8
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 5
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 16
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Incessant Raven",
+        "type": "lance",
+        "attack": 368,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 10000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Garuga Tail",
+                "amount": 3
+            },
+            {
+                "name": "Sharpened Beak",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Ear",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 80
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Black Lance",
+        "type": "lance",
+        "attack": 322,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 15000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dark Stone",
+                "amount": 1
+            },
+            {
+                "name": "Dark Piece",
+                "amount": 4
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 290
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Tiger Stinger",
+        "type": "lance",
+        "attack": 391,
+        "rare": 5,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 35000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Tigrex Scale",
+                "amount": 6
+            },
+            {
+                "name": "Tigrex Tail",
+                "amount": 1
+            },
+            {
+                "name": "Tigrex Claw",
+                "amount": 5
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Vermillion Rim",
+        "type": "lance",
+        "attack": 368,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 40000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Lao-Shan's Horn",
+                "amount": 2
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "amount": 3
+            },
+            {
+                "name": "Gaoren Shell",
+                "amount": 4
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Knight Lance",
+        "type": "lance",
+        "attack": 437,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 25000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 50
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 15
+            },
+            {
+                "name": "Velocidrome Hide",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Aqua Spear",
+        "type": "lance",
+        "attack": 368,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 40000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Cephalos Fin+",
+                "amount": 3
+            },
+            {
+                "name": "Plesioth Fin",
+                "amount": 12
+            },
+            {
+                "name": "Plesioth Scale",
+                "amount": 15
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Cold Icicle",
+        "type": "lance",
+        "attack": 414,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 40000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Blangonga Fang+",
+                "amount": 3
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 15
+            },
+            {
+                "name": "Rubbery Hide+",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            11
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Hard Bone Lance",
+        "type": "lance",
+        "attack": 460,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 25000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Stout Bone",
+                "amount": 5
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 15
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 30
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            7
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Worn Spear",
+        "type": "lance",
+        "attack": 299,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Ancient StoneRod",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            4
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Demon Lance",
+        "type": "lance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 20,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Rajang Horn",
+                "amount": 2
+            },
+            {
+                "name": "Rajang Fang",
+                "amount": 4
+            },
+            {
+                "name": "Blk Rajang Pelt",
+                "amount": 6
+            },
+            {
+                "name": "Commendation",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Hidden Stinger",
+        "type": "lance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Nargacuga Tail",
+                "amount": 3
+            },
+            {
+                "name": "NargaCuttingWing",
+                "amount": 5
+            },
+            {
+                "name": "Nargacuga Fang+",
+                "amount": 1
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 33,
+        "name": "SanctionedDrillLance",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 8
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Sadalsuud",
+        "type": "lance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Scale+",
+                "amount": 15
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 40
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Spark Plug",
+        "type": "lance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 90000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "HrdPuGypcerosWng",
+                "amount": 8
+            },
+            {
+                "name": "Thunderbug Juice",
+                "amount": 10
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Shell Claw Lance",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 85000,
+        "defense": 40,
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 8
+            },
+            {
+                "name": "PlumD.HermitrClaw",
+                "amount": 2
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 3
+            },
+            {
+                "name": "Monster Broth",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Carmine Stinger",
+        "type": "lance",
+        "attack": 575,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 85000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 4
+            },
+            {
+                "name": "TerraCeanatrShl",
+                "amount": 8
+            },
+            {
+                "name": "Ceanataur Leg",
+                "amount": 15
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Iron Lance G",
+        "type": "lance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 40
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 25
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Long Tusk G",
+        "type": "lance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 20
+            },
+            {
+                "name": "Bone",
+                "amount": 50
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Tarnished Lance G",
+        "type": "lance",
+        "attack": 736,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Ruststone Rod",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Spiked Spear G",
+        "type": "lance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 10
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Rampart G",
+        "type": "lance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 6,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Lightcrystal",
+                "amount": 10
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Mellanje Ore",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Valhalla G",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 12,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 5
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Fragrance G",
+        "type": "lance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Dosbiscus",
+                "amount": 10
+            },
+            {
+                "name": "Giant Corn",
+                "amount": 5
+            },
+            {
+                "name": "AncientDrgnmoss",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Requiem Spear G",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Sleep Sac",
+                "amount": 15
+            },
+            {
+                "name": "SpecPlesiothFin+",
+                "amount": 8
+            },
+            {
+                "name": "Sleepyfish",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Dark Spear G",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Hornet Razorwing",
+                "amount": 5
+            },
+            {
+                "name": "Hornetaur Head",
+                "amount": 5
+            },
+            {
+                "name": "VespoidQn'sCrown",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Bulldrome Spear G",
+        "type": "lance",
+        "attack": 690,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Bullfango Head",
+                "amount": 5
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 8
+            },
+            {
+                "name": "ThkBullfangoPelt",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            4,
+            17,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Bone Claw Lance G",
+        "type": "lance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 20,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "amount": 3
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 6
+            },
+            {
+                "name": "Piercing Claw",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Trident G",
+        "type": "lance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 10
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "amount": 7
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Gatling Lance G",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 16,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Gunpowder",
+                "amount": 20
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Venom Lance G",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Basarios Tears",
+                "amount": 5
+            },
+            {
+                "name": "HvyBasariosShell",
+                "amount": 8
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Crimson War Pike G",
+        "type": "lance",
+        "attack": 575,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Top-GrdRedHorn",
+                "amount": 3
+            },
+            {
+                "name": "MonoblosThoracic",
+                "amount": 5
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Diablo Spear G",
+        "type": "lance",
+        "attack": 667,
+        "rare": 9,
+        "slots": 0,
+        "affinity": -10,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "StoutWarpedHorn",
+                "amount": 2
+            },
+            {
+                "name": "HvyDiablosSpine",
+                "amount": 4
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Native Spear G",
+        "type": "lance",
+        "attack": 391,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Master's Skull",
+                "amount": 3
+            },
+            {
+                "name": "Iodrome Skull",
+                "amount": 5
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Black Belt Lance G",
+        "type": "lance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Expert Ticket",
+                "amount": 10
+            },
+            {
+                "name": "Kirin Coin",
+                "amount": 6
+            },
+            {
+                "name": "Legend Coin G",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Undertaker G",
+        "type": "lance",
+        "attack": 667,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -20,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Ancient StoneRod",
+                "amount": 3
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 10
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Knight Spear G",
+        "type": "lance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 7
+            },
+            {
+                "name": "Velociprey Hide+",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Hard Bone Lance G",
+        "type": "lance",
+        "attack": 667,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 7
+            },
+            {
+                "name": "Mellanje Ore",
+                "amount": 7
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Roaring Wyvern G",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Great Ogre Tusk G",
+        "type": "lance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 8
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 15
+            },
+            {
+                "name": "Ioprey Hide+",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            15,
+            6,
+            4,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            15,
+            6,
+            4,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Barbarian Tusk G",
+        "type": "lance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 10
+            },
+            {
+                "name": "HvyDiablosSpine",
+                "amount": 3
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Noble Fragrance G",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Dosbiscus",
+                "amount": 10
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "HrdCongalalaPlt+",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Hyper Vacuum G",
+        "type": "lance",
+        "attack": 368,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "amount": 2
+            },
+            {
+                "name": "AncientDrgnwood",
+                "amount": 2
+            },
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Aqua Spear G",
+        "type": "lance",
+        "attack": 552,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "SpecPlesiothFin+",
+                "amount": 6
+            },
+            {
+                "name": "Plesioth Scale+",
+                "amount": 10
+            },
+            {
+                "name": "Plesioth Fin",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Emerald Spear G",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "SpecGrnPlesioFn+",
+                "amount": 4
+            },
+            {
+                "name": "Grn Plsioth Scl+",
+                "amount": 10
+            },
+            {
+                "name": "Grn Plesioth Fin+",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Black Rain Darklance",
+        "type": "lance",
+        "attack": 552,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "create-price": 120000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "LeatherNargaTail",
+                "amount": 3
+            },
+            {
+                "name": "StrNargaCttngWing",
+                "amount": 7
+            },
+            {
+                "name": "ThickNargaScale",
+                "amount": 10
+            },
+            {
+                "name": "HvnlyNargaScale",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Ukanlos Calamity",
+        "type": "lance",
+        "attack": 805,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 150000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "UkanlosUnderscl",
+                "amount": 8
+            },
+            {
+                "name": "HvyUkanlosShell",
+                "amount": 4
+            },
+            {
+                "name": "Hvy Ukanlos Tail",
+                "amount": 2
+            },
+            {
+                "name": "Ukanlos Stone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Grayburg Javelin G",
+        "type": "lance",
+        "attack": 644,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 8,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "ThckDaoraDrgnScl",
+                "amount": 5
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Firestone",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Sanctioned Gunlance G",
+        "type": "lance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 10
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "amount": 10
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Ceanataur Piercer G",
+        "type": "lance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 15,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 3
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 6
+            },
+            {
+                "name": "Ceanataur Leg",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Ceramic Blos Lance G",
+        "type": "lance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 20,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Top-GrdPlatHorn",
+                "amount": 3
+            },
+            {
+                "name": "WhtMonoblosThora",
+                "amount": 5
+            },
+            {
+                "name": "HvyDiablosSpine",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Gravios Spear G",
+        "type": "lance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 6,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "HvyGraviosShell",
+                "amount": 8
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 20
+            },
+            {
+                "name": "Gravios BrainStm",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 73,
+        "name": "BlackGraviousSpear G",
+        "type": "lance",
+        "attack": 552,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 12,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "amount": 8
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 15
+            },
+            {
+                "name": "Gravios BrainStm",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 360
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Spear of Prominence G",
+        "type": "lance",
+        "attack": 529,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "LthrRathalosTail",
+                "amount": 3
+            },
+            {
+                "name": "HvyRathalosShl",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Plate",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 460
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Sealed Dragonlance G",
+        "type": "lance",
+        "attack": 552,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 20,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "amount": 7
+            },
+            {
+                "name": "Lao-Shan'sHvyShl",
+                "amount": 3
+            },
+            {
+                "name": "HvyGaorenShell",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    }
+]

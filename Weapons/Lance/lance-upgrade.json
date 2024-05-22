@@ -1,0 +1,3917 @@
+[
+    {
+        "id": 0,
+        "name": "Iron Lance+",
+        "type": "lance",
+        "attack": 161,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 650,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Steel Lance",
+        "type": "lance",
+        "attack": 207,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Longhorn+",
+        "type": "lance",
+        "attack": 207,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            5
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            1
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Long Tusk",
+        "type": "lance",
+        "attack": 253,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1750,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            6
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Tarnished Lance",
+        "type": "lance",
+        "attack": 253,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            4
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Paladin Lance",
+        "type": "lance",
+        "attack": 253,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1750,
+        "defense": 4,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Estoc",
+        "type": "lance",
+        "attack": 230,
+        "rare": 2,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Bone Javelin",
+        "type": "lance",
+        "attack": 230,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            6
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Spiked Spear",
+        "type": "lance",
+        "attack": 276,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Barbaroi Tusk",
+        "type": "lance",
+        "attack": 322,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            7
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Dark Lance",
+        "type": "lance",
+        "attack": 230,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Wild Bone Lance",
+        "type": "lance",
+        "attack": 230,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Fragrance",
+        "type": "lance",
+        "attack": 207,
+        "rare": 2,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Rampart",
+        "type": "lance",
+        "attack": 299,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 6,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Lullaby Spear",
+        "type": "lance",
+        "attack": 184,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 1750,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Paralysisr",
+        "type": "lance",
+        "attack": 276,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            6
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Ogre Tusk",
+        "type": "lance",
+        "attack": 414,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            15,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            15,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Crimson Lance",
+        "type": "lance",
+        "attack": 276,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 190
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            6
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Bone Claw Lance",
+        "type": "lance",
+        "attack": 299,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 15,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            4,
+            13
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            1
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Wild Bone Lance+",
+        "type": "lance",
+        "attack": 276,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            9
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            14
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Red Tail",
+        "type": "lance",
+        "attack": 253,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Growling Wyvern",
+        "type": "lance",
+        "attack": 345,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4900,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Gatling Lance",
+        "type": "lance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 12,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Naag Serpentblade",
+        "type": "lance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 5,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Valhalla",
+        "type": "lance",
+        "attack": 345,
+        "rare": 4,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            11
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Requiem Spear",
+        "type": "lance",
+        "attack": 276,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 4900,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Trident",
+        "type": "lance",
+        "attack": 299,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Venom Lance",
+        "type": "lance",
+        "attack": 299,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Basarios Venom Spear",
+        "type": "lance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Crimson War Pike",
+        "type": "lance",
+        "attack": 368,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 6350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            6
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Ceramic Blos Lance",
+        "type": "lance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            6
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Diablo Horn",
+        "type": "lance",
+        "attack": 391,
+        "rare": 4,
+        "slots": 0,
+        "affinity": -5,
+        "upgrade-price": 4900,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Bone Claw Lance+",
+        "type": "lance",
+        "attack": 368,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Blade Stinger",
+        "type": "lance",
+        "attack": 345,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3560,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Ceanataur Stinger",
+        "type": "lance",
+        "attack": 391,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Dark Spear",
+        "type": "lance",
+        "attack": 299,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Blue Tail",
+        "type": "lance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4900,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Fragrance+",
+        "type": "lance",
+        "attack": 276,
+        "rare": 4,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 3650,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Gatling Lance+",
+        "type": "lance",
+        "attack": 391,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 7150,
+        "defense": 16,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Gravios Spear",
+        "type": "lance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 5,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Black Gravios Spear",
+        "type": "lance",
+        "attack": 368,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Thunderspear",
+        "type": "lance",
+        "attack": 322,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 20000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Incessant Raven",
+        "type": "lance",
+        "attack": 368,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 80
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Ceramic Blos Lance+",
+        "type": "lance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 8350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Diablo Spear",
+        "type": "lance",
+        "attack": 460,
+        "rare": 5,
+        "slots": 0,
+        "affinity": -10,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Spear of Prominence",
+        "type": "lance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 460
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Undertaker",
+        "type": "lance",
+        "attack": 414,
+        "rare": 5,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Steel Ice Spear",
+        "type": "lance",
+        "attack": 322,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 4,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            1
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            6
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Steel Ice Spear+",
+        "type": "lance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 6,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            6
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Knight Lance",
+        "type": "lance",
+        "attack": 437,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Knight Spear",
+        "type": "lance",
+        "attack": 460,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Aqua Spear",
+        "type": "lance",
+        "attack": 368,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Aqua Spear+",
+        "type": "lance",
+        "attack": 391,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Cold Icicle",
+        "type": "lance",
+        "attack": 414,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            11
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Frost Icicle",
+        "type": "lance",
+        "attack": 483,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Sanctioned Gunlance",
+        "type": "lance",
+        "attack": 414,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Devta Serpentblade",
+        "type": "lance",
+        "attack": 368,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Great Ogre Tusk",
+        "type": "lance",
+        "attack": 483,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            15,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            15,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Hard Bone Lance",
+        "type": "lance",
+        "attack": 460,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            7
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Hard Bone Lance+",
+        "type": "lance",
+        "attack": 483,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Ceanataur Piercer",
+        "type": "lance",
+        "attack": 460,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Dark",
+        "type": "lance",
+        "attack": 322,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Bulldrome Spear",
+        "type": "lance",
+        "attack": 483,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            4,
+            17,
+            6
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Noble Fragrance",
+        "type": "lance",
+        "attack": 345,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Weathered Spear",
+        "type": "lance",
+        "attack": 345,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 12500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Primal Spear",
+        "type": "lance",
+        "attack": 230,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Hyper Vacuum",
+        "type": "lance",
+        "attack": 253,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Roaring Wyvern",
+        "type": "lance",
+        "attack": 460,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 16,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Babel Spear",
+        "type": "lance",
+        "attack": 529,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Emerald Spear",
+        "type": "lance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Grayburg Javelin",
+        "type": "lance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Gravios Venom Spear",
+        "type": "lance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 6,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Void Gravios Spear",
+        "type": "lance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 12,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 360
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Barbarian Tusk",
+        "type": "lance",
+        "attack": 506,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Demon Lance",
+        "type": "lance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Incessant Wolf",
+        "type": "lance",
+        "attack": 460,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Crimson War Pike+",
+        "type": "lance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 77,
+        "name": "White Disaster",
+        "type": "lance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 78,
+        "name": "White Catastrophe",
+        "type": "lance",
+        "attack": 460,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Black Tempest",
+        "type": "lance",
+        "attack": 552,
+        "rare": 7,
+        "slots": 1,
+        "affinity": -30,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            15,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            15,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Blue Prominence",
+        "type": "lance",
+        "attack": 391,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 420
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Matenro",
+        "type": "lance",
+        "attack": 483,
+        "rare": 7,
+        "slots": 2,
+        "affinity": -20,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Teostra's Howl",
+        "type": "lance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 5,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            6
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Tigrex Lance",
+        "type": "lance",
+        "attack": 506,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Hidden Stinger",
+        "type": "lance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Dragonic Rim",
+        "type": "lance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Dragon Rider Spear",
+        "type": "lance",
+        "attack": 506,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Thunderlance",
+        "type": "lance",
+        "attack": 391,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Great Demon Lance",
+        "type": "lance",
+        "attack": 437,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 25,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 210
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Daora's Fang",
+        "type": "lance",
+        "attack": 437,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Teostra's Roar",
+        "type": "lance",
+        "attack": 460,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Expert Lance",
+        "type": "lance",
+        "attack": 460,
+        "rare": 8,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 20000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 80
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Black Dragon Spear",
+        "type": "lance",
+        "attack": 483,
+        "rare": 8,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            6
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Black Ruiner Lance",
+        "type": "lance",
+        "attack": 460,
+        "rare": 8,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Sealed Dragonlance",
+        "type": "lance",
+        "attack": 437,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 95,
+        "name": "SanctionedDrillLance",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Gravedigger",
+        "type": "lance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Sadalsuud",
+        "type": "lance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Sadalmelek",
+        "type": "lance",
+        "attack": 575,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Spark Plug",
+        "type": "lance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 100,
+        "name": "ThunderbugShockLance",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Icicle Blizzard",
+        "type": "lance",
+        "attack": 575,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 102,
+        "name": "OuroborosSerpntblade",
+        "type": "lance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 20,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 470
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Gravios Lance",
+        "type": "lance",
+        "attack": 552,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 14,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Shell Claw Lance",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 105,
+        "name": "GiantHermitaurLance",
+        "type": "lance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Giant Tusk",
+        "type": "lance",
+        "attack": 552,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Brutal Tusk",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 20,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Incessant Crow",
+        "type": "lance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Carmine Stinger",
+        "type": "lance",
+        "attack": 575,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Darkness",
+        "type": "lance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Sky Scraper",
+        "type": "lance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 2,
+        "affinity": -15,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 112,
+        "name": "DragonSealer\"Virtue\"",
+        "type": "lance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Lost Babel",
+        "type": "lance",
+        "attack": 667,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 28,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Aquarius",
+        "type": "lance",
+        "attack": 621,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Dragoon's Gáe Bulg",
+        "type": "lance",
+        "attack": 690,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Gravios Fire Lance",
+        "type": "lance",
+        "attack": 598,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 14,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 117,
+        "name": "Naar Thunderlance",
+        "type": "lance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Demonlance Rajang",
+        "type": "lance",
+        "attack": 621,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 30,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 119,
+        "name": "Rising Tempest",
+        "type": "lance",
+        "attack": 736,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -20,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Shish Kabob Stick",
+        "type": "lance",
+        "attack": 598,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Prominence Soul",
+        "type": "lance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Daora's Regulus",
+        "type": "lance",
+        "attack": 621,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 135000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Teostra's Fire",
+        "type": "lance",
+        "attack": 621,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Warrior's Lance",
+        "type": "lance",
+        "attack": 598,
+        "rare": 10,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 80
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 125,
+        "name": "True Blk Dragon Spr",
+        "type": "lance",
+        "attack": 644,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -10,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 360
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 126,
+        "name": "True Blk Dragon Spr+",
+        "type": "lance",
+        "attack": 598,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Great Tigrex Lance",
+        "type": "lance",
+        "attack": 667,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Black Rain Darklance",
+        "type": "lance",
+        "attack": 552,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 129,
+        "name": "DragonSealer\"Null\"",
+        "type": "lance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 25,
+        "upgrade-price": 140000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ]
+    }
+]
