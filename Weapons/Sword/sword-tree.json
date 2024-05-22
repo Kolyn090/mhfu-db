@@ -3,6 +3,13 @@
         "upgrade-id": 0,
         "name": "Hunter's Dagger+",
         "type": "sword",
+        "upgrade-price": 510,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 0,
@@ -16,6 +23,21 @@
         "upgrade-id": 1,
         "name": "Assassin's Dagger",
         "type": "sword",
+        "upgrade-price": 840,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 1,
@@ -29,6 +51,21 @@
         "upgrade-id": 2,
         "name": "Snake Bite",
         "type": "sword",
+        "upgrade-price": 660,
+        "materials": [
+            {
+                "name": "Sharp Claw",
+                "amount": 1
+            },
+            {
+                "name": "Giaprey Hide",
+                "amount": 3
+            },
+            {
+                "name": "Sm Monster Bone",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 0,
@@ -42,6 +79,17 @@
         "upgrade-id": 3,
         "name": "Bone Kris+",
         "type": "sword",
+        "upgrade-price": 510,
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "amount": 1
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 3,
@@ -55,6 +103,21 @@
         "upgrade-id": 4,
         "name": "Chief Kris",
         "type": "sword",
+        "upgrade-price": 840,
+        "materials": [
+            {
+                "name": "Med Monster Bone",
+                "amount": 1
+            },
+            {
+                "name": "Sm Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Sm Bone Husk",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 3,
@@ -68,6 +131,13 @@
         "upgrade-id": 5,
         "name": "Tarnished Sword",
         "type": "sword",
+        "upgrade-price": 2550,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 20
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 5,
@@ -81,6 +151,21 @@
         "upgrade-id": 6,
         "name": "Velocidrome Bite",
         "type": "sword",
+        "upgrade-price": 1290,
+        "materials": [
+            {
+                "name": "Velocidrome Claw",
+                "amount": 4
+            },
+            {
+                "name": "Velocidrome Hide",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 1,
@@ -94,6 +179,21 @@
         "upgrade-id": 7,
         "name": "Velocidrome Bite+",
         "type": "sword",
+        "upgrade-price": 3360,
+        "materials": [
+            {
+                "name": "Velocidrome Claw",
+                "amount": 6
+            },
+            {
+                "name": "Velocidrome Head",
+                "amount": 2
+            },
+            {
+                "name": "Striped Skin",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 6,
@@ -107,6 +207,17 @@
         "upgrade-id": 8,
         "name": "Kitchen Knife",
         "type": "sword",
+        "upgrade-price": 510,
+        "materials": [
+            {
+                "name": "FlynMealPassReg",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 1,
@@ -120,6 +231,21 @@
         "upgrade-id": 9,
         "name": "Frost Edge",
         "type": "sword",
+        "upgrade-price": 840,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 1,
@@ -133,6 +259,21 @@
         "upgrade-id": 10,
         "name": "Snake Bite+",
         "type": "sword",
+        "upgrade-price": 1050,
+        "materials": [
+            {
+                "name": "Giadrome hide",
+                "amount": 1
+            },
+            {
+                "name": "Giadrome Claw",
+                "amount": 4
+            },
+            {
+                "name": "Carpenterbug",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 2,
@@ -146,6 +287,21 @@
         "upgrade-id": 11,
         "name": "Viper Bite",
         "type": "sword",
+        "upgrade-price": 1290,
+        "materials": [
+            {
+                "name": "Genprey Hide",
+                "amount": 5
+            },
+            {
+                "name": "Genprey Fang",
+                "amount": 15
+            },
+            {
+                "name": "Sm Monster Bone",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 10,
@@ -159,6 +315,21 @@
         "upgrade-id": 12,
         "name": "Crimson Club",
         "type": "sword",
+        "upgrade-price": 1860,
+        "materials": [
+            {
+                "name": "Blood Red Horn",
+                "amount": 1
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Mega Demondrug",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 4,
@@ -172,6 +343,21 @@
         "upgrade-id": 13,
         "name": "Thunderbane",
         "type": "sword",
+        "upgrade-price": 1860,
+        "materials": [
+            {
+                "name": "Rubbery Hide",
+                "amount": 4
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 3
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 1,
@@ -185,6 +371,21 @@
         "upgrade-id": 14,
         "name": "Poison Battleaxe",
         "type": "sword",
+        "upgrade-price": 2190,
+        "materials": [
+            {
+                "name": "Rubbery Hide",
+                "amount": 4
+            },
+            {
+                "name": "Med Monster Bone",
+                "amount": 3
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 1,
@@ -198,6 +399,21 @@
         "upgrade-id": 15,
         "name": "Hydra Bite",
         "type": "sword",
+        "upgrade-price": 1290,
+        "materials": [
+            {
+                "name": "Ioprey Hide",
+                "amount": 5
+            },
+            {
+                "name": "Ioprey Fang",
+                "amount": 15
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 10,
@@ -211,6 +427,21 @@
         "upgrade-id": 16,
         "name": "Monoblos Club",
         "type": "sword",
+        "upgrade-price": 2940,
+        "materials": [
+            {
+                "name": "Blood Red Horn",
+                "amount": 2
+            },
+            {
+                "name": "Monoblos Spine",
+                "amount": 2
+            },
+            {
+                "name": "Monoblos Shell",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 10,
@@ -224,6 +455,21 @@
         "upgrade-id": 17,
         "name": "Weary Finsword",
         "type": "sword",
+        "upgrade-price": 1860,
+        "materials": [
+            {
+                "name": "Plesioth Fin",
+                "amount": 2
+            },
+            {
+                "name": "Cephalos Fin",
+                "amount": 2
+            },
+            {
+                "name": "Sleep Herb",
+                "amount": 10
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 4,
@@ -237,6 +483,21 @@
         "upgrade-id": 18,
         "name": "Red Saber",
         "type": "sword",
+        "upgrade-price": 1560,
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "amount": 2
+            },
+            {
+                "name": "Med Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 4,
@@ -250,6 +511,21 @@
         "upgrade-id": 19,
         "name": "Melynx Tool",
         "type": "sword",
+        "upgrade-price": 1290,
+        "materials": [
+            {
+                "name": "Pawprint Stamp",
+                "amount": 3
+            },
+            {
+                "name": "Felvine",
+                "amount": 10
+            },
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 11,
@@ -263,6 +539,25 @@
         "upgrade-id": 20,
         "name": "Frightbane",
         "type": "sword",
+        "upgrade-price": 2550,
+        "materials": [
+            {
+                "name": "Rubbery Hide",
+                "amount": 6
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "amount": 2
+            },
+            {
+                "name": "Electro Sac",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 13,
@@ -276,6 +571,21 @@
         "upgrade-id": 21,
         "name": "Upper Battleaxe",
         "type": "sword",
+        "upgrade-price": 3810,
+        "materials": [
+            {
+                "name": "Pur Rubbery Hide",
+                "amount": 5
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 3
+            },
+            {
+                "name": "Gypceros Head",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 14,
@@ -289,6 +599,21 @@
         "upgrade-id": 22,
         "name": "Iron Chefblade",
         "type": "sword",
+        "upgrade-price": 7500,
+        "materials": [
+            {
+                "name": "FlynMealPassReg",
+                "amount": 3
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 8,
@@ -302,6 +627,21 @@
         "upgrade-id": 23,
         "name": "Millennium Knife",
         "type": "sword",
+        "upgrade-price": 45000,
+        "materials": [
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 3
+            },
+            {
+                "name": "FlynMealPassReg",
+                "amount": 5
+            },
+            {
+                "name": "Novacrystal",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 22,
@@ -315,6 +655,21 @@
         "upgrade-id": 24,
         "name": "Frost Edge+",
         "type": "sword",
+        "upgrade-price": 3400,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Blangonga Fang",
+                "amount": 2
+            },
+            {
+                "name": "Wht Monoblos Shl",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 9,
@@ -328,6 +683,25 @@
         "upgrade-id": 25,
         "name": "Deathprize",
         "type": "sword",
+        "upgrade-price": 3360,
+        "materials": [
+            {
+                "name": "Gendrome Hide",
+                "amount": 3
+            },
+            {
+                "name": "Paralysis Sac",
+                "amount": 5
+            },
+            {
+                "name": "Thunderbug Juice",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 11,
@@ -341,6 +715,21 @@
         "upgrade-id": 26,
         "name": "Deadly Poison",
         "type": "sword",
+        "upgrade-price": 2550,
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Iodrome Hide",
+                "amount": 5
+            },
+            {
+                "name": "Iodrome Skull",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 12,
@@ -354,6 +743,21 @@
         "upgrade-id": 27,
         "name": "Studded Club",
         "type": "sword",
+        "upgrade-price": 3360,
+        "materials": [
+            {
+                "name": "Twisted Horn",
+                "amount": 1
+            },
+            {
+                "name": "Wyvern Fang",
+                "amount": 10
+            },
+            {
+                "name": "Diablos Shell",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 16,
@@ -367,6 +771,21 @@
         "upgrade-id": 28,
         "name": "Sandman Finsword",
         "type": "sword",
+        "upgrade-price": 2550,
+        "materials": [
+            {
+                "name": "Plesioth Fin",
+                "amount": 5
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Sleepyfish",
+                "amount": 10
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 17,
@@ -380,6 +799,21 @@
         "upgrade-id": 29,
         "name": "Djinn",
         "type": "sword",
+        "upgrade-price": 3360,
+        "materials": [
+            {
+                "name": "Rathalos Shell",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 3
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 13,
@@ -393,6 +827,21 @@
         "upgrade-id": 30,
         "name": "Catburglar",
         "type": "sword",
+        "upgrade-price": 2550,
+        "materials": [
+            {
+                "name": "Pawprint Stamp",
+                "amount": 3
+            },
+            {
+                "name": "Felvine",
+                "amount": 10
+            },
+            {
+                "name": "FlynMealPassReg",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 11,
@@ -406,6 +855,21 @@
         "upgrade-id": 31,
         "name": "Shaka Poison Bite",
         "type": "sword",
+        "upgrade-price": 2940,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 10
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 8
+            },
+            {
+                "name": "ShakalakaTreasre",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 19,
@@ -419,6 +883,21 @@
         "upgrade-id": 32,
         "name": "Raven Blade",
         "type": "sword",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Garuga Ear",
+                "amount": 2
+            },
+            {
+                "name": "Garuga Wing",
+                "amount": 1
+            },
+            {
+                "name": "Garuga Scale",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 6,
@@ -438,6 +917,21 @@
         "upgrade-id": 33,
         "name": "Kirin Bolt Indora",
         "type": "sword",
+        "upgrade-price": 3810,
+        "materials": [
+            {
+                "name": "Pur Rubbery Hide",
+                "amount": 8
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 3
+            },
+            {
+                "name": "Pale Bone",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 20,
@@ -451,6 +945,21 @@
         "upgrade-id": 34,
         "name": "Ninja Sword",
         "type": "sword",
+        "upgrade-price": 15000,
+        "materials": [
+            {
+                "name": "Daora Horn",
+                "amount": 3
+            },
+            {
+                "name": "Chameleos Horn",
+                "amount": 3
+            },
+            {
+                "name": "Lunastra Horn",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 16,
@@ -464,6 +973,21 @@
         "upgrade-id": 35,
         "name": "Princess Rapier",
         "type": "sword",
+        "upgrade-price": 4290,
+        "materials": [
+            {
+                "name": "Rathian Spike",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Scale",
+                "amount": 4
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 26,
@@ -477,6 +1001,21 @@
         "upgrade-id": 36,
         "name": "Spiked Bat",
         "type": "sword",
+        "upgrade-price": 4290,
+        "materials": [
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Blos Fang",
+                "amount": 10
+            },
+            {
+                "name": "Diablos Spine",
+                "amount": 7
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 14,
@@ -490,6 +1029,21 @@
         "upgrade-id": 37,
         "name": "Kirin Bolt",
         "type": "sword",
+        "upgrade-price": 1860,
+        "materials": [
+            {
+                "name": "Kirin Horn",
+                "amount": 1
+            },
+            {
+                "name": "Kirin Mane",
+                "amount": 3
+            },
+            {
+                "name": "Pur Rubbery Hide",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 16,
@@ -503,6 +1057,21 @@
         "upgrade-id": 38,
         "name": "Kirin Bolt+",
         "type": "sword",
+        "upgrade-price": 3360,
+        "materials": [
+            {
+                "name": "Kirin Horn",
+                "amount": 2
+            },
+            {
+                "name": "Kirin Mane",
+                "amount": 6
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 21,
@@ -516,6 +1085,21 @@
         "upgrade-id": 39,
         "name": "Sandman Spike",
         "type": "sword",
+        "upgrade-price": 3360,
+        "materials": [
+            {
+                "name": "Grn Plesioth Fin",
+                "amount": 5
+            },
+            {
+                "name": "Plesioth Fin",
+                "amount": 5
+            },
+            {
+                "name": "Sleep Sac",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 28,
@@ -529,6 +1113,21 @@
         "upgrade-id": 40,
         "name": "Blazing Falchion",
         "type": "sword",
+        "upgrade-price": 7500,
+        "materials": [
+            {
+                "name": "Rathalos Shell",
+                "amount": 10
+            },
+            {
+                "name": "Rathalos Webbing",
+                "amount": 10
+            },
+            {
+                "name": "Fire Dragon Scl",
+                "amount": 6
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 29,
@@ -542,6 +1141,21 @@
         "upgrade-id": 41,
         "name": "Corona",
         "type": "sword",
+        "upgrade-price": 20000,
+        "materials": [
+            {
+                "name": "Rathalos Scale",
+                "amount": 8
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 10
+            },
+            {
+                "name": "Rathalos Plate",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 13,
@@ -555,6 +1169,21 @@
         "upgrade-id": 42,
         "name": "Flame Syphos",
         "type": "sword",
+        "upgrade-price": 15000,
+        "materials": [
+            {
+                "name": "Gravios Shell",
+                "amount": 4
+            },
+            {
+                "name": "Blk Gravios Shl",
+                "amount": 4
+            },
+            {
+                "name": "Firestone",
+                "amount": 6
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 13,
@@ -568,6 +1197,17 @@
         "upgrade-id": 43,
         "name": "Master's Replica",
         "type": "sword",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Monoblos Heart",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 16,
@@ -581,6 +1221,21 @@
         "upgrade-id": 44,
         "name": "Eternal Replica",
         "type": "sword",
+        "upgrade-price": 10000,
+        "materials": [
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "amount": 3
+            },
+            {
+                "name": "Lao-Shan's scale",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 17,
@@ -594,6 +1249,17 @@
         "upgrade-id": 45,
         "name": "Eternal Strife",
         "type": "sword",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Earth Crystal",
+                "amount": 40
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 5,
@@ -607,6 +1273,21 @@
         "upgrade-id": 46,
         "name": "Steel Ice Dagger",
         "type": "sword",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Daora Claw",
+                "amount": 2
+            },
+            {
+                "name": "Daora Shell",
+                "amount": 2
+            },
+            {
+                "name": "DaoraDragonScale",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 5,
@@ -620,6 +1301,21 @@
         "upgrade-id": 47,
         "name": "Steel Ice Dagger+",
         "type": "sword",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Daora Horn",
+                "amount": 2
+            },
+            {
+                "name": "Daora Tail",
+                "amount": 3
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 46,
@@ -633,6 +1329,21 @@
         "upgrade-id": 48,
         "name": "Dos Fang Dagger",
         "type": "sword",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Velociprey Hide+",
+                "amount": 15
+            },
+            {
+                "name": "Velocidrome Clw+",
+                "amount": 8
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 7,
@@ -646,6 +1357,21 @@
         "upgrade-id": 49,
         "name": "Odyssey",
         "type": "sword",
+        "upgrade-price": 25000,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 7,
@@ -659,6 +1385,21 @@
         "upgrade-id": 50,
         "name": "Odyssey+",
         "type": "sword",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 8
+            },
+            {
+                "name": "Basarios Tears",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Plate",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 24,
@@ -672,6 +1413,21 @@
         "upgrade-id": 51,
         "name": "Serpent Bite",
         "type": "sword",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "Velociprey Hide+",
+                "amount": 10
+            },
+            {
+                "name": "Velociprey Fang",
+                "amount": 30
+            },
+            {
+                "name": "Velocidrome Head",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 24,
@@ -685,6 +1441,21 @@
         "upgrade-id": 52,
         "name": "Deadly Battleaxe",
         "type": "sword",
+        "upgrade-price": 3810,
+        "materials": [
+            {
+                "name": "Pur Gypceros Wng",
+                "amount": 7
+            },
+            {
+                "name": "Gypceros Head",
+                "amount": 3
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 6
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 21,
@@ -698,6 +1469,21 @@
         "upgrade-id": 53,
         "name": "Hi Frost Edge",
         "type": "sword",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Blangonga Fang+",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 10
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 24,
@@ -711,6 +1497,21 @@
         "upgrade-id": 54,
         "name": "Princess Rapier+",
         "type": "sword",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Rathian Spike+",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Scale+",
+                "amount": 5
+            },
+            {
+                "name": "Rathian Plate",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 35,
@@ -724,6 +1525,21 @@
         "upgrade-id": 55,
         "name": "Osteon Pick",
         "type": "sword",
+        "upgrade-price": 25000,
+        "materials": [
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 4
+            },
+            {
+                "name": "Sm Bone Husk",
+                "amount": 50
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 14,
@@ -737,6 +1553,25 @@
         "upgrade-id": 56,
         "name": "Feather Knife",
         "type": "sword",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt",
+                "amount": 3
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Velocidrome Clw+",
+                "amount": 5
+            },
+            {
+                "name": "Sleep Sac",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 25,
@@ -750,6 +1585,21 @@
         "upgrade-id": 57,
         "name": "Osteon Pick+",
         "type": "sword",
+        "upgrade-price": 35000,
+        "materials": [
+            {
+                "name": "Stout Bone",
+                "amount": 4
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 10
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 25,
@@ -763,6 +1613,21 @@
         "upgrade-id": 58,
         "name": "Melynx Gadget",
         "type": "sword",
+        "upgrade-price": 30000,
+        "materials": [
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 5
+            },
+            {
+                "name": "Gastronome Tuna",
+                "amount": 5
+            },
+            {
+                "name": "Felyne Fur Ruby",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 19,
@@ -776,6 +1641,21 @@
         "upgrade-id": 59,
         "name": "Shakalaka Saber",
         "type": "sword",
+        "upgrade-price": 4000,
+        "materials": [
+            {
+                "name": "ShakaInheritance",
+                "amount": 3
+            },
+            {
+                "name": "ShakalakaTreasre",
+                "amount": 8
+            },
+            {
+                "name": "Toxin Sac",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 15,
@@ -789,6 +1669,21 @@
         "upgrade-id": 60,
         "name": "Odyssey Blade",
         "type": "sword",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Gravios BrainStm",
+                "amount": 1
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Ruby",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 50,
@@ -802,6 +1697,21 @@
         "upgrade-id": 61,
         "name": "Serpent Bite+",
         "type": "sword",
+        "upgrade-price": 40000,
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Velocidrome Clw+",
+                "amount": 5
+            },
+            {
+                "name": "Velociprey Scle+",
+                "amount": 10
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 51,
@@ -815,6 +1725,21 @@
         "upgrade-id": 62,
         "name": "Wolf Blade",
         "type": "sword",
+        "upgrade-price": 65000,
+        "materials": [
+            {
+                "name": "Long Garuga Ear",
+                "amount": 2
+            },
+            {
+                "name": "Garuga Wing",
+                "amount": 4
+            },
+            {
+                "name": "Garuga Scale+",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 19,
@@ -828,6 +1753,21 @@
         "upgrade-id": 63,
         "name": "Queen Rapier",
         "type": "sword",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Rathian Carapace",
+                "amount": 5
+            },
+            {
+                "name": "Rathian Ruby",
+                "amount": 1
+            },
+            {
+                "name": "Chameleos Spike",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 54,
@@ -841,6 +1781,21 @@
         "upgrade-id": 64,
         "name": "Cursed Spirit",
         "type": "sword",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "TwstBlkBlosHrn",
+                "amount": 3
+            },
+            {
+                "name": "Blk Blos Thracic",
+                "amount": 3
+            },
+            {
+                "name": "Black Blos Cpc",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 36,
@@ -854,6 +1809,21 @@
         "upgrade-id": 65,
         "name": "Rajang Club",
         "type": "sword",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Rajang Horn",
+                "amount": 1
+            },
+            {
+                "name": "Blk Rajang Pelt",
+                "amount": 5
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 8
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 57,
@@ -867,6 +1837,21 @@
         "upgrade-id": 66,
         "name": "Kirin Bolt Ultimus",
         "type": "sword",
+        "upgrade-price": 50000,
+        "materials": [
+            {
+                "name": "Kirin Thndr Tail",
+                "amount": 2
+            },
+            {
+                "name": "Pur Gypceros Wng",
+                "amount": 3
+            },
+            {
+                "name": "Novacrystal",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 38,
@@ -880,6 +1865,21 @@
         "upgrade-id": 67,
         "name": "High Sandman Spike",
         "type": "sword",
+        "upgrade-price": 55000,
+        "materials": [
+            {
+                "name": "Grn Plsioth Fin+",
+                "amount": 4
+            },
+            {
+                "name": "Plesioth Fin+",
+                "amount": 4
+            },
+            {
+                "name": "Coral Cphlos Fin",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 39,
@@ -893,6 +1893,21 @@
         "upgrade-id": 68,
         "name": "Black Doom Flame",
         "type": "sword",
+        "upgrade-price": 70000,
+        "materials": [
+            {
+                "name": "Gravios Carapace",
+                "amount": 6
+            },
+            {
+                "name": "Blk Gravios Cpc",
+                "amount": 6
+            },
+            {
+                "name": "Gravios BrainStm",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 42,
@@ -906,6 +1921,25 @@
         "upgrade-id": 69,
         "name": "Dual Carapace",
         "type": "sword",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 1
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 1
+            },
+            {
+                "name": "Hermitaur Carpce",
+                "amount": 3
+            },
+            {
+                "name": "Black Pearl",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 29,
@@ -919,6 +1953,21 @@
         "upgrade-id": 70,
         "name": "Tigrex Sword",
         "type": "sword",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Tigrex Claw+",
+                "amount": 4
+            },
+            {
+                "name": "Tigrex Claw",
+                "amount": 10
+            },
+            {
+                "name": "Tigrex Carapace",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 23,
@@ -932,6 +1981,21 @@
         "upgrade-id": 71,
         "name": "Hidden Edge",
         "type": "sword",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "Black Narga Pelt",
+                "amount": 6
+            },
+            {
+                "name": "Narga Scale+",
+                "amount": 4
+            },
+            {
+                "name": "Narga Tail Spike",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 23,
@@ -945,6 +2009,21 @@
         "upgrade-id": 72,
         "name": "Hi Ninja Sword",
         "type": "sword",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Lao-Shan's Horn",
+                "amount": 3
+            },
+            {
+                "name": "Teostra Horn",
+                "amount": 3
+            },
+            {
+                "name": "Pokke Ticket+",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 20,
@@ -958,6 +2037,21 @@
         "upgrade-id": 73,
         "name": "Taboo Rajang Club",
         "type": "sword",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Rajang Fang",
+                "amount": 4
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 27,
@@ -971,6 +2065,21 @@
         "upgrade-id": 74,
         "name": "Thor's Dagger",
         "type": "sword",
+        "upgrade-price": 60000,
+        "materials": [
+            {
+                "name": "Kirin Azure Horn",
+                "amount": 3
+            },
+            {
+                "name": "Kirin Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Kirin Thndr Tail",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 66,
@@ -984,6 +2093,21 @@
         "upgrade-id": 75,
         "name": "Golden Falchion",
         "type": "sword",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Gld Rathian Scl+",
+                "amount": 10
+            },
+            {
+                "name": "Gld Rathian Cpc",
+                "amount": 8
+            },
+            {
+                "name": "Rathian Ruby",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 41,
@@ -997,6 +2121,21 @@
         "upgrade-id": 76,
         "name": "Black Dragon Sword",
         "type": "sword",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "amount": 3
+            },
+            {
+                "name": "Fatalis Scale",
+                "amount": 7
+            },
+            {
+                "name": "Chameleos Jewel",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 22,
@@ -1010,6 +2149,21 @@
         "upgrade-id": 77,
         "name": "Black Ruiner Sword",
         "type": "sword",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Fatalis CrmsnHrn",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis CrmsnScl",
+                "amount": 6
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 22,
@@ -1023,6 +2177,21 @@
         "upgrade-id": 78,
         "name": "Azure Ogre Sword",
         "type": "sword",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 2
+            },
+            {
+                "name": "Lao Shan's Ruby",
+                "amount": 1
+            },
+            {
+                "name": "Gaoren Thoracic",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 30,
@@ -1042,6 +2211,21 @@
         "upgrade-id": 79,
         "name": "Blue Ogre Sword",
         "type": "sword",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Azure LaoS Horn",
+                "amount": 1
+            },
+            {
+                "name": "Azure LaoS Shell",
+                "amount": 3
+            },
+            {
+                "name": "Lao-Shan Scale+",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 14,
@@ -1055,6 +2239,21 @@
         "upgrade-id": 80,
         "name": "Daora's Razor",
         "type": "sword",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Daora Carapace",
+                "amount": 4
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "amount": 5
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 47,
@@ -1068,6 +2267,21 @@
         "upgrade-id": 81,
         "name": "Expert Sword",
         "type": "sword",
+        "upgrade-price": 20000,
+        "materials": [
+            {
+                "name": "Expert Ticket",
+                "amount": 15
+            },
+            {
+                "name": "Fire Coin",
+                "amount": 10
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 18,
@@ -1081,6 +2295,21 @@
         "upgrade-id": 82,
         "name": "Master Odyssey",
         "type": "sword",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "StrBasariosWing",
+                "amount": 1
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 3
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 60,
@@ -1094,6 +2323,21 @@
         "upgrade-id": 83,
         "name": "Heavy Bang",
         "type": "sword",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Union Ore",
+                "amount": 10
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 15
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 60,
@@ -1107,6 +2351,25 @@
         "upgrade-id": 84,
         "name": "Master Bang",
         "type": "sword",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Mellanje Ore",
+                "amount": 8
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 5
+            },
+            {
+                "name": "Monster Essence",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 32,
@@ -1120,6 +2383,25 @@
         "upgrade-id": 85,
         "name": "Thunderblade Vajra",
         "type": "sword",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "Lightning Sac",
+                "amount": 2
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "amount": 3
+            },
+            {
+                "name": "Kirin Azure Horn",
+                "amount": 1
+            },
+            {
+                "name": "Kirin Hide",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 60,
@@ -1133,6 +2415,25 @@
         "upgrade-id": 86,
         "name": "Crow Blade",
         "type": "sword",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Long Garuga Ear",
+                "amount": 4
+            },
+            {
+                "name": "Str Garuga Wing",
+                "amount": 2
+            },
+            {
+                "name": "Rejuvenated Beak",
+                "amount": 1
+            },
+            {
+                "name": "Hvy Garuga Shell",
+                "amount": 7
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 62,
@@ -1146,6 +2447,25 @@
         "upgrade-id": 87,
         "name": "Ice Fang",
         "type": "sword",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "HvyBlangongaFang",
+                "amount": 2
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 53,
@@ -1159,6 +2479,21 @@
         "upgrade-id": 88,
         "name": "Queen's Rose",
         "type": "sword",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Rathian Thorn",
+                "amount": 1
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "amount": 5
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 63,
@@ -1172,6 +2507,25 @@
         "upgrade-id": 89,
         "name": "Feather Sword",
         "type": "sword",
+        "upgrade-price": 80000,
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt+",
+                "amount": 3
+            },
+            {
+                "name": "Hypno Claw+",
+                "amount": 2
+            },
+            {
+                "name": "Hypno Bezoar",
+                "amount": 1
+            },
+            {
+                "name": "HrdCongalalaPlt+",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 26,
@@ -1185,6 +2539,25 @@
         "upgrade-id": 90,
         "name": "Hi Feather Sword",
         "type": "sword",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "Hypno Claw+",
+                "amount": 5
+            },
+            {
+                "name": "Hypno Bezoar+",
+                "amount": 1
+            },
+            {
+                "name": "Coma Sac",
+                "amount": 3
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 35,
@@ -1198,6 +2571,21 @@
         "upgrade-id": 91,
         "name": "Binding Blade",
         "type": "sword",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 3
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "amount": 5
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 57,
@@ -1211,6 +2599,21 @@
         "upgrade-id": 92,
         "name": "Binding Blade+",
         "type": "sword",
+        "upgrade-price": 100000,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "amount": 2
+            },
+            {
+                "name": "HvyC.BlangoFang",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 36,
@@ -1224,6 +2627,25 @@
         "upgrade-id": 93,
         "name": "Golden Falchion+",
         "type": "sword",
+        "upgrade-price": 105000,
+        "materials": [
+            {
+                "name": "ThckRathianScl",
+                "amount": 8
+            },
+            {
+                "name": "Gld Rathian Cpc",
+                "amount": 8
+            },
+            {
+                "name": "Rathian Thorn",
+                "amount": 1
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 75,
@@ -1237,6 +2659,21 @@
         "upgrade-id": 94,
         "name": "Dual Carapace+",
         "type": "sword",
+        "upgrade-price": 85000,
+        "materials": [
+            {
+                "name": "Ceanataur Claw+",
+                "amount": 3
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "amount": 2
+            },
+            {
+                "name": "HvyHermitaurShl",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 28,
@@ -1250,6 +2687,25 @@
         "upgrade-id": 95,
         "name": "Twin Shells",
         "type": "sword",
+        "upgrade-price": 90000,
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 2
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 2
+            },
+            {
+                "name": "TerraCeanatrShl",
+                "amount": 4
+            },
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 94,
@@ -1263,6 +2719,25 @@
         "upgrade-id": 96,
         "name": "Hexed Shaka Hatchet",
         "type": "sword",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "ShakalakaTreasr+",
+                "amount": 3
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 20
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 59,
@@ -1276,6 +2751,25 @@
         "upgrade-id": 97,
         "name": "Hexed Shaka Sword",
         "type": "sword",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "ShakalakaTreasr+",
+                "amount": 5
+            },
+            {
+                "name": "LethrGarugatail",
+                "amount": 2
+            },
+            {
+                "name": "HardGypcerosHead",
+                "amount": 1
+            },
+            {
+                "name": "Remobra Skull",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 96,
@@ -1289,6 +2783,25 @@
         "upgrade-id": 98,
         "name": "Thunderblade Vajra+",
         "type": "sword",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "SpecialKirinHide",
+                "amount": 3
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "amount": 1
+            },
+            {
+                "name": "HardGypcerosHead",
+                "amount": 1
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 33,
@@ -1302,6 +2815,21 @@
         "upgrade-id": 99,
         "name": "Royal Rose",
         "type": "sword",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "GoldRathianThorn",
+                "amount": 1
+            },
+            {
+                "name": "HvyPnkRathianShl",
+                "amount": 5
+            },
+            {
+                "name": "ThckRathianScl",
+                "amount": 8
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 34,
@@ -1315,6 +2843,21 @@
         "upgrade-id": 100,
         "name": "Black Curse",
         "type": "sword",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "StoutBlkTwstdHrn",
+                "amount": 2
+            },
+            {
+                "name": "HvyBlkBlosSpine",
+                "amount": 3
+            },
+            {
+                "name": "HvyBlkBlosShell",
+                "amount": 4
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 64,
@@ -1328,6 +2871,25 @@
         "upgrade-id": 101,
         "name": "ForbiddenRajangClub",
         "type": "sword",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "Hard Rajang Horn",
+                "amount": 2
+            },
+            {
+                "name": "Blk Rajang Pelt+",
+                "amount": 5
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "amount": 1
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 73,
@@ -1341,6 +2903,25 @@
         "upgrade-id": 102,
         "name": "Great Kris",
         "type": "sword",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "YamaTsukamiFluid",
+                "amount": 2
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 30
+            },
+            {
+                "name": "Hvy Tigrex Fang",
+                "amount": 2
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 92,
@@ -1354,6 +2935,21 @@
         "upgrade-id": 103,
         "name": "Golden Eclipse",
         "type": "sword",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "ThckGldRathnScl",
+                "amount": 7
+            },
+            {
+                "name": "HvyGldRathianShl",
+                "amount": 5
+            },
+            {
+                "name": "GoldRathianThorn",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 93,
@@ -1367,6 +2963,25 @@
         "upgrade-id": 104,
         "name": "Red Divine Flame",
         "type": "sword",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "HvyGraviosShell",
+                "amount": 6
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "amount": 6
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 8
+            },
+            {
+                "name": "Gravios BrainStm",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 68,
@@ -1380,6 +2995,25 @@
         "upgrade-id": 105,
         "name": "Dual Scissors",
         "type": "sword",
+        "upgrade-price": 110000,
+        "materials": [
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 2
+            },
+            {
+                "name": "HvyCeanataurShl",
+                "amount": 4
+            },
+            {
+                "name": "HvyHermitaurShl",
+                "amount": 2
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 94,
@@ -1393,6 +3027,25 @@
         "upgrade-id": 106,
         "name": "Twin Shears",
         "type": "sword",
+        "upgrade-price": 115000,
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "amount": 4
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 4
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 3
+            },
+            {
+                "name": "HvnlyGaorenShell",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 95,
@@ -1406,6 +3059,21 @@
         "upgrade-id": 107,
         "name": "True Blk Dragon Swd",
         "type": "sword",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HardFatalisHorn",
+                "amount": 2
+            },
+            {
+                "name": "ThckFatalisScale",
+                "amount": 5
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 76,
@@ -1419,6 +3087,21 @@
         "upgrade-id": 108,
         "name": "True Blk Ruiner Swd",
         "type": "sword",
+        "upgrade-price": 150000,
+        "materials": [
+            {
+                "name": "HrdFatlisCrmHorn",
+                "amount": 2
+            },
+            {
+                "name": "ThckFatlisCrmScl",
+                "amount": 6
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 77,
@@ -1432,6 +3115,25 @@
         "upgrade-id": 109,
         "name": "Indigo Ogre Sword",
         "type": "sword",
+        "upgrade-price": 95000,
+        "materials": [
+            {
+                "name": "Lao-Shan'sHvyShl",
+                "amount": 5
+            },
+            {
+                "name": "Azure LaoS Claw",
+                "amount": 2
+            },
+            {
+                "name": "Lao-ShanHvnlyScl",
+                "amount": 1
+            },
+            {
+                "name": "YamaTsukamiFluid",
+                "amount": 3
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 78,
@@ -1445,6 +3147,25 @@
         "upgrade-id": 110,
         "name": "Daora's Maelstrom",
         "type": "sword",
+        "upgrade-price": 130000,
+        "materials": [
+            {
+                "name": "Hard Daora Horn",
+                "amount": 2
+            },
+            {
+                "name": "Lthr Daora Tail",
+                "amount": 3
+            },
+            {
+                "name": "Hvy Daora Shell",
+                "amount": 5
+            },
+            {
+                "name": "BigEDragonJewel",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 80,
@@ -1458,6 +3179,25 @@
         "upgrade-id": 111,
         "name": "Tigrex Sword+",
         "type": "sword",
+        "upgrade-price": 125000,
+        "materials": [
+            {
+                "name": "Hard Tigrex Claw",
+                "amount": 4
+            },
+            {
+                "name": "Hvy Tigrex Fang",
+                "amount": 4
+            },
+            {
+                "name": "Hvy Tigrex Shell",
+                "amount": 2
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 70,
@@ -1471,6 +3211,25 @@
         "upgrade-id": 112,
         "name": "Midnight Blades",
         "type": "sword",
+        "upgrade-price": 120000,
+        "materials": [
+            {
+                "name": "ThickNargaScale",
+                "amount": 4
+            },
+            {
+                "name": "HvyNargaTailSpik",
+                "amount": 8
+            },
+            {
+                "name": "BlackNargaPelt+",
+                "amount": 4
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 2
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 29,
@@ -1484,6 +3243,25 @@
         "upgrade-id": 113,
         "name": "Warrior's Sword",
         "type": "sword",
+        "upgrade-price": 75000,
+        "materials": [
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 4
+            },
+            {
+                "name": "Legend Coin G",
+                "amount": 2
+            },
+            {
+                "name": "BlackBeltCoinG",
+                "amount": 8
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            }
+        ],
         "upgrade-from": [
             {
                 "id": 81,
