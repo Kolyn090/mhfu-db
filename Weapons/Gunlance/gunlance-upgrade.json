@@ -1,0 +1,2430 @@
+[
+    {
+        "id": 0,
+        "name": "Iron Gunlance",
+        "type": "gunlance",
+        "attack": 207,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 1
+        }
+    },
+    {
+        "id": 1,
+        "name": "Wyvern Bone Gunlance",
+        "type": "gunlance",
+        "attack": 299,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            2,
+            4,
+            16,
+            1
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            16,
+            6
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 2,
+        "name": "Snow Gunlance",
+        "type": "gunlance",
+        "attack": 207,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            9
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "Iron Gunlance+",
+        "type": "gunlance",
+        "attack": 253,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 1750,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 1
+        }
+    },
+    {
+        "id": 4,
+        "name": "Steel Gunlance",
+        "type": "gunlance",
+        "attack": 276,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 5,
+        "name": "Great Bone Gunlance",
+        "type": "gunlance",
+        "attack": 230,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            2,
+            4,
+            12
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            16,
+            1
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 6,
+        "name": "Snow Gunlance Mk. II",
+        "type": "gunlance",
+        "attack": 253,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            8,
+            1
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            8,
+            6
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 7,
+        "name": "Marine Fisher",
+        "type": "gunlance",
+        "attack": 299,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            8,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            8,
+            11
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 1
+        }
+    },
+    {
+        "id": 8,
+        "name": "Special Ops Gunlance",
+        "type": "gunlance",
+        "attack": 322,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 9,
+        "name": "Average Hitter",
+        "type": "gunlance",
+        "attack": 299,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            7,
+            4,
+            8
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            13
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 10,
+        "name": "Deep Fisher",
+        "type": "gunlance",
+        "attack": 368,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            8,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            8,
+            13,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 1
+        }
+    },
+    {
+        "id": 11,
+        "name": "Imperial Gunlance",
+        "type": "gunlance",
+        "attack": 391,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 6500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 12,
+        "name": "White Gunlance",
+        "type": "gunlance",
+        "attack": 368,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4900,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            11
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 1
+        }
+    },
+    {
+        "id": 13,
+        "name": "Hellsting",
+        "type": "gunlance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            15,
+            4,
+            3,
+            5
+        ],
+        "sharpness-artisan": [
+            15,
+            4,
+            3,
+            9,
+            1
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 1
+        }
+    },
+    {
+        "id": 14,
+        "name": "Grand Slam",
+        "type": "gunlance",
+        "attack": 391,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            7,
+            4,
+            8,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            8,
+            6
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 15,
+        "name": "Luna's Howl",
+        "type": "gunlance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            8,
+            6
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            8,
+            9,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 1
+        }
+    },
+    {
+        "id": 16,
+        "name": "Luna's Roar",
+        "type": "gunlance",
+        "attack": 368,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 2
+        }
+    },
+    {
+        "id": 17,
+        "name": "White Cannon",
+        "type": "gunlance",
+        "attack": 414,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            8,
+            11
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            8,
+            12,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 2
+        }
+    },
+    {
+        "id": 18,
+        "name": "Hellsting+",
+        "type": "gunlance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 10,
+        "upgrade-price": 6350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            2,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            16,
+            7,
+            3
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 2
+        }
+    },
+    {
+        "id": 19,
+        "name": "Feather Gunlance",
+        "type": "gunlance",
+        "attack": 368,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            7,
+            4,
+            8,
+            6
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            8,
+            9,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 2
+        }
+    },
+    {
+        "id": 20,
+        "name": "Blizzard Gunlance",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            12,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            12,
+            4,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 21,
+        "name": "Deep Ocean",
+        "type": "gunlance",
+        "attack": 391,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 2
+        }
+    },
+    {
+        "id": 22,
+        "name": "Scissor Gunlance",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 24,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            12
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 23,
+        "name": "Black Gunlance",
+        "type": "gunlance",
+        "attack": 483,
+        "rare": 6,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 60000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            8,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            8,
+            8,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 2
+        }
+    },
+    {
+        "id": 24,
+        "name": "Hard Hitter",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 290
+            }
+        ],
+        "sharpness": [
+            6,
+            3,
+            15,
+            3
+        ],
+        "sharpness-artisan": [
+            6,
+            3,
+            15,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 25,
+        "name": "Sea King Gunlance",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            4,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 26,
+        "name": "Scissor Cannon",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 28,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            15,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            15,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 27,
+        "name": "Silver Rook",
+        "type": "gunlance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 28,
+        "name": "Black Gore Cannon",
+        "type": "gunlance",
+        "attack": 529,
+        "rare": 7,
+        "slots": 1,
+        "affinity": -10,
+        "upgrade-price": 75000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 29,
+        "name": "Full Voltage",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            11,
+            9,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            11,
+            9,
+            4,
+            9,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 2
+        }
+    },
+    {
+        "id": 30,
+        "name": "Hellstinger",
+        "type": "gunlance",
+        "attack": 414,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 20,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            2,
+            4,
+            16,
+            7,
+            5
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            16,
+            7,
+            5,
+            5
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 31,
+        "name": "Big Slugger",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            4,
+            4,
+            9,
+            11
+        ],
+        "sharpness-artisan": [
+            4,
+            4,
+            9,
+            12,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 32,
+        "name": "Tigrex Gunlance",
+        "type": "gunlance",
+        "attack": 506,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            6,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 33,
+        "name": "Hidden Gunlance",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 34,
+        "name": "Gun Chariot",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 35,
+        "name": "Luna's Flare",
+        "type": "gunlance",
+        "attack": 414,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            2,
+            4,
+            16,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            16,
+            7,
+            5,
+            4
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 36,
+        "name": "Venomous Cologne",
+        "type": "gunlance",
+        "attack": 483,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            8,
+            4,
+            7,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            4,
+            7,
+            10,
+            3,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 2
+        }
+    },
+    {
+        "id": 37,
+        "name": "BlackDragonGunlance",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 8,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 310
+            }
+        ],
+        "sharpness": [
+            11,
+            7,
+            4,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            7,
+            4,
+            7,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 38,
+        "name": "Gld Dragonwd GLance",
+        "type": "gunlance",
+        "attack": 368,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            6,
+            3,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            6,
+            3,
+            13,
+            5,
+            3,
+            4
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 39,
+        "name": "Ancient Destroyer",
+        "type": "gunlance",
+        "attack": 552,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            7,
+            9,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            7,
+            9,
+            4,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 40,
+        "name": "Feather Gunlance+",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            10,
+            4,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 41,
+        "name": "Hypno Cannon",
+        "type": "gunlance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 42,
+        "name": "Sea God Leviathan",
+        "type": "gunlance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 370
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            6,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 43,
+        "name": "Volcano Gunlance",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 44,
+        "name": "Violet Cannon",
+        "type": "gunlance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            15,
+            7,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 45,
+        "name": "Violet Buster",
+        "type": "gunlance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 46,
+        "name": "Gun Chariot+",
+        "type": "gunlance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 47,
+        "name": "Heavy Bone Gunlance",
+        "type": "gunlance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            11,
+            9,
+            4,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            9,
+            4,
+            9,
+            4,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 48,
+        "name": "Hard Bone Cannon",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            11,
+            9,
+            4,
+            9,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            9,
+            4,
+            9,
+            4,
+            4,
+            4
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 5
+        }
+    },
+    {
+        "id": 49,
+        "name": "Full Generator",
+        "type": "gunlance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            11,
+            9,
+            4,
+            9,
+            2
+        ],
+        "sharpness-artisan": [
+            11,
+            9,
+            4,
+            9,
+            4,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 50,
+        "name": "High Volt Gunlance",
+        "type": "gunlance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            11,
+            9,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            11,
+            9,
+            4,
+            9,
+            4,
+            4,
+            4
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 51,
+        "name": "Desert Slingshot",
+        "type": "gunlance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 52,
+        "name": "Triple Crown",
+        "type": "gunlance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            4,
+            4,
+            9,
+            12,
+            3
+        ],
+        "sharpness-artisan": [
+            4,
+            4,
+            9,
+            12,
+            4,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 53,
+        "name": "Venomous Attar",
+        "type": "gunlance",
+        "attack": 575,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            18,
+            5,
+            3,
+            9,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            5,
+            3,
+            9,
+            3,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 54,
+        "name": "AncientDrgnwoodLance",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            15,
+            5,
+            4,
+            9,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            5,
+            4,
+            9,
+            3,
+            6,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 55,
+        "name": "Large Pop Corn",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 5
+        }
+    },
+    {
+        "id": 56,
+        "name": "Genesis",
+        "type": "gunlance",
+        "attack": 621,
+        "rare": 10,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            4,
+            3,
+            10,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            4,
+            3,
+            10,
+            3,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 4
+        }
+    },
+    {
+        "id": 57,
+        "name": "Sea Abyss",
+        "type": "gunlance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 58,
+        "name": "Lavasioth Gunlance",
+        "type": "gunlance",
+        "attack": 644,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 59,
+        "name": "World's End",
+        "type": "gunlance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 370
+            }
+        ],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 60,
+        "name": "Luna's Sun",
+        "type": "gunlance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            2,
+            4,
+            16,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            16,
+            7,
+            5,
+            6,
+            5
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 4
+        }
+    },
+    {
+        "id": 61,
+        "name": "Black Gore Buster",
+        "type": "gunlance",
+        "attack": 690,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            6,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 62,
+        "name": "Demonic Blizzard",
+        "type": "gunlance",
+        "attack": 575,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 25,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            2,
+            4,
+            16,
+            7,
+            5,
+            5
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            16,
+            7,
+            5,
+            6,
+            5
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 4
+        }
+    },
+    {
+        "id": 63,
+        "name": "Desert Slingshoter",
+        "type": "gunlance",
+        "attack": 736,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            8,
+            5,
+            8,
+            5,
+            4,
+            4
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 64,
+        "name": "Venomous Perfume",
+        "type": "gunlance",
+        "attack": 644,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 65,
+        "name": "TrueBlkDrgnGunlance",
+        "type": "gunlance",
+        "attack": 621,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            18,
+            5,
+            3,
+            9,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            5,
+            3,
+            9,
+            3,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 4
+        }
+    },
+    {
+        "id": 66,
+        "name": "AncientDrgnwoodLanc+",
+        "type": "gunlance",
+        "attack": 529,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 67,
+        "name": "GreatTigrexGunlance",
+        "type": "gunlance",
+        "attack": 667,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            5,
+            9,
+            10,
+            4,
+            6,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 4
+        }
+    },
+    {
+        "id": 68,
+        "name": "WanningMoonDarklance",
+        "type": "gunlance",
+        "attack": 552,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 69,
+        "name": "AkantorNoirGunlance",
+        "type": "gunlance",
+        "attack": 759,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 40,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            4,
+            7,
+            4,
+            8
+        ],
+        "sharpness-artisan": [
+            4,
+            7,
+            4,
+            14
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    }
+]

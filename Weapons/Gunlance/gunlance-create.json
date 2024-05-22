@@ -1,0 +1,1853 @@
+[
+    {
+        "id": 0,
+        "name": "Iron Gunlance",
+        "type": "gunlance",
+        "attack": 207,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 10
+            },
+            {
+                "name": "Gunpowder",
+                "amount": 5
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            1
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            6
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 1
+        }
+    },
+    {
+        "id": 1,
+        "name": "Bone Gunlance",
+        "type": "gunlance",
+        "attack": 161,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 650,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 2
+            },
+            {
+                "name": "Rumblefish",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            2,
+            4,
+            7
+        ],
+        "sharpness-artisan": [
+            2,
+            4,
+            10
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 1
+        }
+    },
+    {
+        "id": 2,
+        "name": "Snow Gunlance",
+        "type": "gunlance",
+        "attack": 207,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1400,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Giaprey Hide",
+                "amount": 3
+            },
+            {
+                "name": "Giaprey Scale",
+                "amount": 6
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Carpenterbug",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            9
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "Marine Fisher",
+        "type": "gunlance",
+        "attack": 299,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 3100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Plesioth Fin",
+                "amount": 4
+            },
+            {
+                "name": "Plesioth Scale",
+                "amount": 6
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 20
+            },
+            {
+                "name": "Burst Arrowana",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            8,
+            6
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            8,
+            11
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 1
+        }
+    },
+    {
+        "id": 4,
+        "name": "Special Ops Gunlance",
+        "type": "gunlance",
+        "attack": 322,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 3100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Plus Class Tcket",
+                "amount": 1
+            },
+            {
+                "name": "Firestone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            13
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 5,
+        "name": "Average Hitter",
+        "type": "gunlance",
+        "attack": 299,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 3100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Pur Rubbery Hide",
+                "amount": 4
+            },
+            {
+                "name": "Gypceros Head",
+                "amount": 1
+            },
+            {
+                "name": "Poison Sac",
+                "amount": 10
+            },
+            {
+                "name": "Firestone",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            7,
+            4,
+            8
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            13
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 6,
+        "name": "Hellsting",
+        "type": "gunlance",
+        "attack": 322,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 10,
+        "create-price": 4250,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Blangonga Fang",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt",
+                "amount": 20
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 2
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            15,
+            4,
+            3,
+            5
+        ],
+        "sharpness-artisan": [
+            15,
+            4,
+            3,
+            9,
+            1
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 1
+        }
+    },
+    {
+        "id": 7,
+        "name": "Luna's Howl",
+        "type": "gunlance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 5600,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Lunastra Tail",
+                "amount": 2
+            },
+            {
+                "name": "Lunastra Shell",
+                "amount": 5
+            },
+            {
+                "name": "Lunastra Mane",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            8,
+            6
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            8,
+            9,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 1
+        }
+    },
+    {
+        "id": 8,
+        "name": "Black Smoke Gunlance",
+        "type": "gunlance",
+        "attack": 345,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 15000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dark Stone",
+                "amount": 1
+            },
+            {
+                "name": "Dark Piece",
+                "amount": 4
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            7
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            10
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 1
+        }
+    },
+    {
+        "id": 9,
+        "name": "Dragonwood Gunlance",
+        "type": "gunlance",
+        "attack": 299,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 20000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dragonwood",
+                "amount": 4
+            },
+            {
+                "name": "Sinister Cloth",
+                "amount": 1
+            },
+            {
+                "name": "Thunderbug Juice",
+                "amount": 5
+            },
+            {
+                "name": "FireWyvern Fluid",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            6,
+            3,
+            13,
+            5
+        ],
+        "sharpness-artisan": [
+            6,
+            3,
+            13,
+            6,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 10,
+        "name": "Rex Blast",
+        "type": "gunlance",
+        "attack": 391,
+        "rare": 5,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 35000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Tigrex Fang",
+                "amount": 4
+            },
+            {
+                "name": "Tigrex Claw",
+                "amount": 5
+            },
+            {
+                "name": "Tigrex Shell",
+                "amount": 2
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            4,
+            3,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            13,
+            4,
+            3,
+            9,
+            3,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 2
+        }
+    },
+    {
+        "id": 11,
+        "name": "Feather Gunlance",
+        "type": "gunlance",
+        "attack": 368,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 50000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Top-GrdHypnoClaw",
+                "amount": 5
+            },
+            {
+                "name": "OrangeHypnoPelt",
+                "amount": 6
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 20
+            },
+            {
+                "name": "Sleep Sac",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            7,
+            4,
+            8,
+            6
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            8,
+            9,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 2
+        }
+    },
+    {
+        "id": 12,
+        "name": "Scissor Gunlance",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 40000,
+        "defense": 24,
+        "materials": [
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 3
+            },
+            {
+                "name": "Hermitaur Carpce",
+                "amount": 5
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 10
+            },
+            {
+                "name": "Black Pearl",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            12
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 13,
+        "name": "Pop Corn",
+        "type": "gunlance",
+        "attack": 414,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 40000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Giant Corn",
+                "amount": 2
+            },
+            {
+                "name": "Inferno Sac",
+                "amount": 5
+            },
+            {
+                "name": "Ivy",
+                "amount": 10
+            },
+            {
+                "name": "Commendation G",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 14,
+        "name": "Full Voltage",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 50000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Khezu Hide - Tan",
+                "amount": 8
+            },
+            {
+                "name": "Thunder Sac",
+                "amount": 5
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Rubbery Hide+",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            11,
+            9,
+            4,
+            6
+        ],
+        "sharpness-artisan": [
+            11,
+            9,
+            4,
+            9,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 2
+        }
+    },
+    {
+        "id": 15,
+        "name": "Hidden Gunlance",
+        "type": "gunlance",
+        "attack": 437,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "NargaCuttingWing",
+                "amount": 4
+            },
+            {
+                "name": "Nargacuga Tail",
+                "amount": 3
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 16,
+        "name": "Venomous Cologne",
+        "type": "gunlance",
+        "attack": 483,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 90000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Chameleos Hide+",
+                "amount": 5
+            },
+            {
+                "name": "Novacrystal",
+                "amount": 5
+            },
+            {
+                "name": "Chameleos Spike",
+                "amount": 2
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            8,
+            4,
+            7,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            4,
+            7,
+            10,
+            3,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 2
+        }
+    },
+    {
+        "id": 17,
+        "name": "Akantor Gunlance",
+        "type": "gunlance",
+        "attack": 575,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 40,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Akantor Fang",
+                "amount": 4
+            },
+            {
+                "name": "Akantor Claw",
+                "amount": 3
+            },
+            {
+                "name": "Akantor Shell",
+                "amount": 5
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            4,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            4,
+            7,
+            4,
+            7
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 2
+        }
+    },
+    {
+        "id": 18,
+        "name": "Ancient Destroyer",
+        "type": "gunlance",
+        "attack": 552,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 80
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 5
+            },
+            {
+                "name": "Lightning Sac",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            4,
+            7,
+            9,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            7,
+            9,
+            4,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 19,
+        "name": "Feather Gunlance+",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 80000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Hypno Fang",
+                "amount": 3
+            },
+            {
+                "name": "OrangeHypnoPelt+",
+                "amount": 8
+            },
+            {
+                "name": "HvyPiscineFang",
+                "amount": 5
+            },
+            {
+                "name": "Hypno Bezoar+",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            6,
+            4,
+            8,
+            10,
+            2
+        ],
+        "sharpness-artisan": [
+            6,
+            4,
+            8,
+            10,
+            4,
+            2
+        ],
+        "shelling": {
+            "type": "Spread",
+            "level": 3
+        }
+    },
+    {
+        "id": 20,
+        "name": "Volcano Gunlance",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "ThckLavasiothScl",
+                "amount": 8
+            },
+            {
+                "name": "HvyLavasiothShl",
+                "amount": 6
+            },
+            {
+                "name": "HvyLavasiothFang",
+                "amount": 3
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 21,
+        "name": "Violet Cannon",
+        "type": "gunlance",
+        "attack": 529,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 85000,
+        "defense": 40,
+        "materials": [
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 4
+            },
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 8
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 3
+            },
+            {
+                "name": "Fire Wyvern BrnStm",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            15,
+            7,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 22,
+        "name": "Heavy Bone Gunlance",
+        "type": "gunlance",
+        "attack": 506,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 2
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            },
+            {
+                "name": "Rajang Horn",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            11,
+            9,
+            4,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            11,
+            9,
+            4,
+            9,
+            4,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 23,
+        "name": "AncientDrgnwoodLance",
+        "type": "gunlance",
+        "attack": 460,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 120000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "AncientDrgnwood",
+                "amount": 5
+            },
+            {
+                "name": "YamaTsukaFillet",
+                "amount": 2
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 10
+            },
+            {
+                "name": "Fire Dragon Pwdr",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            15,
+            5,
+            4,
+            9,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            5,
+            4,
+            9,
+            3,
+            6,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 24,
+        "name": "dummy (EldrDrgGLance\"Emblem\")",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 250,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "SpecFamitsuTckt",
+                "amount": 4
+            },
+            {
+                "name": "Lthr Daora Tail",
+                "amount": 4
+            },
+            {
+                "name": "ThckFireDrgnScl",
+                "amount": 20
+            },
+            {
+                "name": "SpecChameleHide+",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 5
+        }
+    },
+    {
+        "id": 25,
+        "name": "Iron Gunlance G",
+        "type": "gunlance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Gunpowder",
+                "amount": 20
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    },
+    {
+        "id": 26,
+        "name": "WyvernBone Gunlance G",
+        "type": "gunlance",
+        "attack": 644,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 8
+            },
+            {
+                "name": "Massive Bone",
+                "amount": 5
+            },
+            {
+                "name": "Burst Arrowana",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            4,
+            17,
+            7,
+            5,
+            5,
+            4
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 27,
+        "name": "Blizzard Gunlance G",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Giadrome Claw+",
+                "amount": 10
+            },
+            {
+                "name": "Giaprey Hide+",
+                "amount": 10
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 28,
+        "name": "Imperial Gunlance G",
+        "type": "gunlance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Firestone",
+                "amount": 20
+            },
+            {
+                "name": "Mellanje Ore",
+                "amount": 5
+            },
+            {
+                "name": "Purecrystal",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            4,
+            16,
+            7,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 4
+        }
+    },
+    {
+        "id": 29,
+        "name": "Scissor Cannon G",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 28,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "amount": 2
+            },
+            {
+                "name": "HvyHermitaurShl",
+                "amount": 4
+            },
+            {
+                "name": "Inferno Sac",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            5,
+            7,
+            5,
+            16,
+            5,
+            5,
+            2
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 30,
+        "name": "Grand Slam G",
+        "type": "gunlance",
+        "attack": 621,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Gypceros Head",
+                "amount": 3
+            },
+            {
+                "name": "HrdPuGypcerosWng",
+                "amount": 4
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            7,
+            4,
+            15,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            15,
+            6,
+            4,
+            4
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 31,
+        "name": "Marine Fisher G",
+        "type": "gunlance",
+        "attack": 598,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "SpecPlesiothFin+",
+                "amount": 4
+            },
+            {
+                "name": "ThckPlesiothScl",
+                "amount": 5
+            },
+            {
+                "name": "Cephalos Fin+",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 32,
+        "name": "WanningMoonDarklance",
+        "type": "gunlance",
+        "attack": 552,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "create-price": 120000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "LeatherNargaTail",
+                "amount": 4
+            },
+            {
+                "name": "ThickNargaScale",
+                "amount": 10
+            },
+            {
+                "name": "HvnlyNargaScale",
+                "amount": 1
+            },
+            {
+                "name": "LeathrTigrexTail",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 4
+        }
+    },
+    {
+        "id": 33,
+        "name": "UkanlosBlazeGunlance",
+        "type": "gunlance",
+        "attack": 805,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 150000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "UkanlosShovelJaw",
+                "amount": 2
+            },
+            {
+                "name": "StrongUkanlosFin",
+                "amount": 4
+            },
+            {
+                "name": "HvyUkanlosShell",
+                "amount": 5
+            },
+            {
+                "name": "Ukanlos Stone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            16,
+            5,
+            4,
+            9,
+            1
+        ],
+        "sharpness-artisan": [
+            16,
+            5,
+            4,
+            9,
+            4,
+            2
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 5
+        }
+    },
+    {
+        "id": 34,
+        "name": "White Cannon G",
+        "type": "gunlance",
+        "attack": 621,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 8,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Gravios Skl Shl",
+                "amount": 3
+            },
+            {
+                "name": "HvyGraviosShell",
+                "amount": 5
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 20
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            5,
+            9,
+            13,
+            5,
+            5,
+            3
+        ],
+        "shelling": {
+            "type": "Long",
+            "level": 3
+        }
+    },
+    {
+        "id": 35,
+        "name": "Gld Dragonwd GLance G",
+        "type": "gunlance",
+        "attack": 506,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 100000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Dragonwood+",
+                "amount": 10
+            },
+            {
+                "name": "Sinister Cloth",
+                "amount": 10
+            },
+            {
+                "name": "ThckFireDrgnScl",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            7,
+            4,
+            15,
+            6,
+            4,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            4,
+            15,
+            6,
+            4,
+            6,
+            3
+        ],
+        "shelling": {
+            "type": "Normal",
+            "level": 3
+        }
+    }
+]
