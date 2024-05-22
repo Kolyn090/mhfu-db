@@ -1,0 +1,2849 @@
+[
+    {
+        "id": 0,
+        "name": "Bone Katana \"Wolf\"",
+        "type": "long-swd",
+        "attack": 528,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1750,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            4
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            9
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Iron Katana",
+        "type": "long-swd",
+        "attack": 480,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            7
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            3
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Large Bone",
+        "type": "long-swd",
+        "attack": 432,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 850,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            6
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            5
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Blango Destroyer",
+        "type": "long-swd",
+        "attack": 384,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            5
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Iron Katana \"Grace\"",
+        "type": "long-swd",
+        "attack": 528,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1750,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            8
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Iron Katana \"Gospel\"",
+        "type": "long-swd",
+        "attack": 576,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            6,
+            5
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            10
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bone Katana \"Shark\"",
+        "type": "long-swd",
+        "attack": 576,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            9
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Bone Katana \"Dragon\"",
+        "type": "long-swd",
+        "attack": 672,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            8
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Blango Destroyer+",
+        "type": "long-swd",
+        "attack": 480,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Eager Cleaver",
+        "type": "long-swd",
+        "attack": 624,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3650,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            9
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Dark Scythe",
+        "type": "long-swd",
+        "attack": 624,
+        "rare": 3,
+        "slots": 0,
+        "affinity": -10,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            11,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Crimson Scythe",
+        "type": "long-swd",
+        "attack": 624,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            6
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Wyvern Blade \"Fall\"",
+        "type": "long-swd",
+        "attack": 528,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            5
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            10
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Wyvern Blade \"Leaf\"",
+        "type": "long-swd",
+        "attack": 528,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            5
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            10
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Black Katana Mk.I",
+        "type": "long-swd",
+        "attack": 576,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2600,
+        "defense": 2,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Blango Decimator",
+        "type": "long-swd",
+        "attack": 672,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 4900,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Devil Slicer",
+        "type": "long-swd",
+        "attack": 720,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 6350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Tormentor",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 4,
+        "slots": 0,
+        "affinity": -10,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Monoblos Scythe",
+        "type": "long-swd",
+        "attack": 768,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 6350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 19,
+        "name": "White Mantis",
+        "type": "long-swd",
+        "attack": 672,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 210
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Black Katana Mk.II",
+        "type": "long-swd",
+        "attack": 624,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 3650,
+        "defense": 6,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Saber",
+        "type": "long-swd",
+        "attack": 720,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            10,
+            4
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            8
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Mirage Finsword",
+        "type": "long-swd",
+        "attack": 816,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 35000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Supremacy Blade",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Fire Dragonsword",
+        "type": "long-swd",
+        "attack": 720,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 6350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            4
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Red Dragonsword",
+        "type": "long-swd",
+        "attack": 768,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Wyvern Blade \"Blood\"",
+        "type": "long-swd",
+        "attack": 768,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 7150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Wyvern Blade \"Verde\"",
+        "type": "long-swd",
+        "attack": 768,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 7150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Guardian Sword",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Rusty Claymore",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 30000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Crab Cutter",
+        "type": "long-swd",
+        "attack": 864,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 28,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Scythe of Menace",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 6,
+        "slots": 0,
+        "affinity": -10,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            12,
+            11,
+            5,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            4,
+            8
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Black Katana Mk.III",
+        "type": "long-swd",
+        "attack": 720,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 55000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Demon Halberd",
+        "type": "long-swd",
+        "attack": 864,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Imperial Sword",
+        "type": "long-swd",
+        "attack": 1008,
+        "rare": 7,
+        "slots": 3,
+        "affinity": 10,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            4,
+            3,
+            9,
+            14
+        ],
+        "sharpness-artisan": [
+            4,
+            3,
+            9,
+            14,
+            5
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Blango Destructor",
+        "type": "long-swd",
+        "attack": 864,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            11,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            11,
+            11,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Grind Claymore",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 60000,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Daito Wolf",
+        "type": "long-swd",
+        "attack": 1008,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Daimyo Cutter",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 36,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 39,
+        "name": "True Devil Slicer",
+        "type": "long-swd",
+        "attack": 816,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Lion Dance Saber",
+        "type": "long-swd",
+        "attack": 816,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Monoblos Scythe+",
+        "type": "long-swd",
+        "attack": 1008,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Frost Ripper",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Weiss Crescent",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Wyvern Blade \"Maple\"",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Wyvern Blade \"Holly\"",
+        "type": "long-swd",
+        "attack": 864,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            5,
+            13,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            5,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Tigrex Katana",
+        "type": "long-swd",
+        "attack": 1056,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -25,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Hidden Saber",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Great Demon Halberd",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Gaelic Flame",
+        "type": "long-swd",
+        "attack": 1056,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 95000,
+        "defense": 14,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Icesteel Blade",
+        "type": "long-swd",
+        "attack": 1008,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Lion King Saber",
+        "type": "long-swd",
+        "attack": 864,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 460
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            18,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Lion Emperor Saber",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            12,
+            11,
+            5,
+            4,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            4,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Mirage Finsword+",
+        "type": "long-swd",
+        "attack": 1056,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 90000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Divine Slasher",
+        "type": "long-swd",
+        "attack": 1104,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Smolder Dragonsword",
+        "type": "long-swd",
+        "attack": 816,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Fanatic Dragonwd LS",
+        "type": "long-swd",
+        "attack": 768,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            18,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Fatalis Sickle",
+        "type": "long-swd",
+        "attack": 1008,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            18,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Susano Blade",
+        "type": "long-swd",
+        "attack": 1008,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 15,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 170
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Liquid Fire Blade",
+        "type": "long-swd",
+        "attack": 1200,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 15,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Aqua Guardian",
+        "type": "long-swd",
+        "attack": 1104,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            4,
+            3,
+            9,
+            14,
+            5
+        ],
+        "sharpness-artisan": [
+            4,
+            3,
+            9,
+            14,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Atlantica",
+        "type": "long-swd",
+        "attack": 1296,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            4,
+            3,
+            9,
+            14,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            4,
+            3,
+            9,
+            14,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Edelweiss Ice Blade",
+        "type": "long-swd",
+        "attack": 1104,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            4,
+            3,
+            9,
+            14,
+            5
+        ],
+        "sharpness-artisan": [
+            4,
+            3,
+            9,
+            14,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Edelweiss Ice Blade+",
+        "type": "long-swd",
+        "attack": 1344,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 64,
+        "name": "C.Blango Decimator",
+        "type": "long-swd",
+        "attack": 1392,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -10,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Daito Crow",
+        "type": "long-swd",
+        "attack": 1296,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Hermitaur Slicer",
+        "type": "long-swd",
+        "attack": 1104,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Hermitaur Slasher",
+        "type": "long-swd",
+        "attack": 1296,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Shogun Cutter",
+        "type": "long-swd",
+        "attack": 1200,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            11,
+            5,
+            4,
+            8,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            4,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Wailing Cleaver",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 540
+            }
+        ],
+        "sharpness": [
+            12,
+            11,
+            5,
+            4,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            4,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Big Menacing Scythe",
+        "type": "long-swd",
+        "attack": 1056,
+        "rare": 9,
+        "slots": 2,
+        "affinity": -10,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 340
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 71,
+        "name": "WyvernBlade\"Silver\"",
+        "type": "long-swd",
+        "attack": 1152,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Lost Black Katana",
+        "type": "long-swd",
+        "attack": 1008,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 20,
+        "upgrade-price": 80000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Final Black Katana",
+        "type": "long-swd",
+        "attack": 1152,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 25,
+        "upgrade-price": 105000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 74,
+        "name": "AncientDragonwoodLS",
+        "type": "long-swd",
+        "attack": 960,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 75,
+        "name": "ExceptnlHornflySaber",
+        "type": "long-swd",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 80,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 76,
+        "name": "dummy (LS Fan \"10K Gavas\")",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 77,
+        "name": "GrtDemnHalberdRaksha",
+        "type": "long-swd",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 25,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Divine Fire Blade",
+        "type": "long-swd",
+        "attack": 1296,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 79,
+        "name": "C.Blango Destructor",
+        "type": "long-swd",
+        "attack": 1536,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -20,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Last Gaelic Flame",
+        "type": "long-swd",
+        "attack": 1392,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 20,
+        "upgrade-price": 135000,
+        "defense": 16,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Killer's Sickle",
+        "type": "long-swd",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Daora's Raid",
+        "type": "long-swd",
+        "attack": 1296,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Wailing Cleaver Shin",
+        "type": "long-swd",
+        "attack": 1200,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 560
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Phantom Mirage",
+        "type": "long-swd",
+        "attack": 1344,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 30,
+        "upgrade-price": 130000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Hellish Slasher",
+        "type": "long-swd",
+        "attack": 1440,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Knockout Dragonsword",
+        "type": "long-swd",
+        "attack": 1056,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 140000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 540
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 87,
+        "name": "WyvrnBlade\"Camellia\"",
+        "type": "long-swd",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Tigrex Great Katana",
+        "type": "long-swd",
+        "attack": 1392,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -25,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Shadow of the Moon",
+        "type": "long-swd",
+        "attack": 1152,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 90,
+        "name": "AncientSlayrDrgnwdLS",
+        "type": "long-swd",
+        "attack": 1104,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 91,
+        "name": "LgndaryFatalisSickle",
+        "type": "long-swd",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            18,
+            4,
+            4,
+            4
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            4,
+            4,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Akantor Broadswrd S",
+        "type": "long-swd",
+        "attack": 1584,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 40,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    }
+]
