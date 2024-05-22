@@ -1,0 +1,3317 @@
+[
+    {
+        "id": 0,
+        "name": "Twin Dagger",
+        "type": "dual-blades",
+        "attack": 112,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 680,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Twin Dagger+",
+        "type": "dual-blades",
+        "attack": 140,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1120,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dual Tomahawk",
+        "type": "dual-blades",
+        "attack": 168,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1720,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            15,
+            3,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            8,
+            1
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Glutton's Set",
+        "type": "dual-blades",
+        "attack": 154,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            12
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Giaprey Claws",
+        "type": "dual-blades",
+        "attack": 98,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 880,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            10
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Giaprey Claws+",
+        "type": "dual-blades",
+        "attack": 140,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1720,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bone Scythe+",
+        "type": "dual-blades",
+        "attack": 126,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 880,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            5
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Chief Scythe",
+        "type": "dual-blades",
+        "attack": 154,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            3,
+            8,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Twin Kut-Ku",
+        "type": "dual-blades",
+        "attack": 154,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 1720,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            10
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Velociprey Claws",
+        "type": "dual-blades",
+        "attack": 196,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2480,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            3,
+            8,
+            7
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            12
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Order Rapier",
+        "type": "dual-blades",
+        "attack": 182,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2480,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            12,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Insector",
+        "type": "dual-blades",
+        "attack": 140,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2480,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            17
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17,
+            5
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Cutlass",
+        "type": "dual-blades",
+        "attack": 168,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2920,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Pink Maracas",
+        "type": "dual-blades",
+        "attack": 182,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2080,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Freezing Daggers",
+        "type": "dual-blades",
+        "attack": 196,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3400,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Dual Tomahawk+",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            5
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Holy Saber",
+        "type": "dual-blades",
+        "attack": 196,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3400,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 190
+            }
+        ],
+        "sharpness": [
+            12,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Insector+",
+        "type": "dual-blades",
+        "attack": 182,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2920,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            16,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Spatula Set",
+        "type": "dual-blades",
+        "attack": 196,
+        "rare": 4,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            15,
+            3,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Velociprey Claws+",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4480,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Snow Venom",
+        "type": "dual-blades",
+        "attack": 168,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 5080,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            },
+            {
+                "name": "Poison",
+                "attack": 80
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            7
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            12
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Twin Flames",
+        "type": "dual-blades",
+        "attack": 210,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3920,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            7
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            3
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Bladed Edge",
+        "type": "dual-blades",
+        "attack": 210,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            12
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Twin Kut-Ku+",
+        "type": "dual-blades",
+        "attack": 224,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3920,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            5
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Pink Maracas+",
+        "type": "dual-blades",
+        "attack": 224,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3920,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Rouge Flames",
+        "type": "dual-blades",
+        "attack": 210,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            8,
+            13,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            1
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Dual Diablo",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 5,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 30000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            5,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            8
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Kirin Bolts",
+        "type": "dual-blades",
+        "attack": 210,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5080,
+        "defense": 12,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Hi Twin Flames",
+        "type": "dual-blades",
+        "attack": 238,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5720,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 210
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Bladed Edge+",
+        "type": "dual-blades",
+        "attack": 224,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3920,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Cutlass+",
+        "type": "dual-blades",
+        "attack": 224,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 5080,
+        "defense": 13,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            7
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            12
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Raven Tessen",
+        "type": "dual-blades",
+        "attack": 196,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 25,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Double Dragon",
+        "type": "dual-blades",
+        "attack": 210,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 20000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            8,
+            5,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            8,
+            5,
+            5,
+            9
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Legendary Replica",
+        "type": "dual-blades",
+        "attack": 238,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            12
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Twin Nails",
+        "type": "dual-blades",
+        "attack": 238,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 300
+            },
+            {
+                "name": "Fire",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Hurricane",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 30000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Prototype Saw-Slicer",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            9,
+            1,
+            3,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            12
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Dual Battleaxe",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Icicle Daggers",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            12
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Insect Slicer",
+        "type": "dual-blades",
+        "attack": 224,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Chereau's Tool",
+        "type": "dual-blades",
+        "attack": 196,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 41,
+        "name": "White Death",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            12
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Hi Velociprey Claws",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            8
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Snow Venom+",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 160
+            },
+            {
+                "name": "Poison",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            8
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Melting Wail",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 150
+            },
+            {
+                "name": "Poison",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            13
+        ]
+    },
+    {
+        "id": 45,
+        "name": "dummy (DualTessen \"100Gavas\")",
+        "type": "dual-blades",
+        "attack": 224,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 350,
+        "defense": 15,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            8,
+            8,
+            5
+        ],
+        "sharpness-artisan": [
+            9,
+            8,
+            8,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Dual Kut-Ku",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            12,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Funky Maracas",
+        "type": "dual-blades",
+        "attack": 294,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 14,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Weathered Blades",
+        "type": "dual-blades",
+        "attack": 182,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 12500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Hi Twin Daggers",
+        "type": "dual-blades",
+        "attack": 224,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Cyclone",
+        "type": "dual-blades",
+        "attack": 308,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Sanctioned Blades",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            9,
+            1,
+            3,
+            12
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Guild Knight Sabers",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            8
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Dual Diablo+",
+        "type": "dual-blades",
+        "attack": 330,
+        "rare": 7,
+        "slots": 2,
+        "affinity": -5,
+        "upgrade-price": 70000,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            13,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            1
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Melting Wail+",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 180
+            },
+            {
+                "name": "Poison",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            5,
+            13
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            2
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Gradios Ultimus",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            9,
+            8,
+            8,
+            5
+        ],
+        "sharpness-artisan": [
+            9,
+            8,
+            8,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Limb Cutter",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            5,
+            5,
+            10,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Wolf Tessen",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 30,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            17,
+            5
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Dual Dragon Ultimus",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            8,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            5,
+            5,
+            12
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Eternal Schism",
+        "type": "dual-blades",
+        "attack": 182,
+        "rare": 7,
+        "slots": 1,
+        "affinity": -20,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            8
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Silhouette Sabers",
+        "type": "dual-blades",
+        "attack": 238,
+        "rare": 7,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Tigrex Claws",
+        "type": "dual-blades",
+        "attack": 308,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -25,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Hidden Ones",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            5,
+            5,
+            15,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            5,
+            5,
+            15,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Improved Power Saws",
+        "type": "dual-blades",
+        "attack": 294,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            9,
+            1,
+            3,
+            17
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17,
+            5
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Dual Chameleos",
+        "type": "dual-blades",
+        "attack": 238,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 190
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Festive Fall Typhoon",
+        "type": "dual-blades",
+        "attack": 238,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 12,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 180
+            },
+            {
+                "name": "Paralysis",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Corpse Blades",
+        "type": "dual-blades",
+        "attack": 266,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 390
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Ultimus Heaven&Earth",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            8,
+            5,
+            5,
+            15,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            5,
+            5,
+            15,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Fatalis Dual Blades",
+        "type": "dual-blades",
+        "attack": 294,
+        "rare": 8,
+        "slots": 0,
+        "affinity": -10,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            12,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Ultimus Celestials",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 200
+            },
+            {
+                "name": "Thunder",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Crimson Lotus Blades",
+        "type": "dual-blades",
+        "attack": 294,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Twin Nails+",
+        "type": "dual-blades",
+        "attack": 252,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 400
+            },
+            {
+                "name": "Fire",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Tornado Tomahawks",
+        "type": "dual-blades",
+        "attack": 322,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            5,
+            5,
+            10,
+            8
+        ],
+        "sharpness-artisan": [
+            12,
+            5,
+            5,
+            10,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Typhoon",
+        "type": "dual-blades",
+        "attack": 378,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Firestorm",
+        "type": "dual-blades",
+        "attack": 322,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 300
+            },
+            {
+                "name": "Water",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Divine Power Saws",
+        "type": "dual-blades",
+        "attack": 364,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Dual Battleaxe+",
+        "type": "dual-blades",
+        "attack": 322,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 140
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Frozen Death",
+        "type": "dual-blades",
+        "attack": 364,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 370
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Master Sabers",
+        "type": "dual-blades",
+        "attack": 308,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Alated Insect",
+        "type": "dual-blades",
+        "attack": 294,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Insect Lord",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            17,
+            5,
+            6,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Glacial Medusa",
+        "type": "dual-blades",
+        "attack": 308,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            },
+            {
+                "name": "Poison",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Blos Doppelganger",
+        "type": "dual-blades",
+        "attack": 406,
+        "rare": 9,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 70000,
+        "defense": 15,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 83,
+        "name": "dummy (DualTessen \"10KGavas\")",
+        "type": "dual-blades",
+        "attack": 280,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 30,
+        "upgrade-price": 350,
+        "defense": 15,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 20
+            }
+        ],
+        "sharpness": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            1
+        ],
+        "sharpness-artisan": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Carmine Edge",
+        "type": "dual-blades",
+        "attack": 336,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Crow Tessen",
+        "type": "dual-blades",
+        "attack": 364,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 35,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            1,
+            3,
+            17,
+            5,
+            5
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Jungle Maracas",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            1
+        ],
+        "sharpness-artisan": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Evergreen",
+        "type": "dual-blades",
+        "attack": 392,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 12,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Demonic Flaming Pair",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            9,
+            1,
+            3,
+            17,
+            5
+        ],
+        "sharpness-artisan": [
+            9,
+            1,
+            3,
+            17,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Eternal Sacrifice",
+        "type": "dual-blades",
+        "attack": 182,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 140000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 510
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Felyne and Melynx+",
+        "type": "dual-blades",
+        "attack": 210,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 6300,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 20
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Volcanic Storm",
+        "type": "dual-blades",
+        "attack": 364,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 350
+            },
+            {
+                "name": "Water",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Final Battleaxe",
+        "type": "dual-blades",
+        "attack": 378,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Holy Guild Knight",
+        "type": "dual-blades",
+        "attack": 364,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 94,
+        "name": "ChameleosDualBlades",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Grand Blos",
+        "type": "dual-blades",
+        "attack": 434,
+        "rare": 10,
+        "slots": 2,
+        "affinity": -5,
+        "upgrade-price": 115000,
+        "defense": 15,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            1
+        ],
+        "sharpness-artisan": [
+            8,
+            13,
+            6,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Melting Blazer",
+        "type": "dual-blades",
+        "attack": 378,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            },
+            {
+                "name": "Poison",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 97,
+        "name": "FestiveRustlingRain",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 135000,
+        "defense": 12,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 200
+            },
+            {
+                "name": "Paralysis",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Punishment Blades",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Red Rippers",
+        "type": "dual-blades",
+        "attack": 364,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 15,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Dual Dragon Ultimus+",
+        "type": "dual-blades",
+        "attack": 336,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            16,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Fatalis Dual Sky",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            9,
+            8,
+            8,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            8,
+            8,
+            7,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Ultimus Apocalypse",
+        "type": "dual-blades",
+        "attack": 364,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 300
+            },
+            {
+                "name": "Thunder",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Azure Dual Swords",
+        "type": "dual-blades",
+        "attack": 378,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 140000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 210
+            }
+        ],
+        "sharpness": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            4
+        ],
+        "sharpness-artisan": [
+            7,
+            3,
+            8,
+            13,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Fire and Ice",
+        "type": "dual-blades",
+        "attack": 350,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 450
+            },
+            {
+                "name": "Fire",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15,
+            7,
+            5,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Tigrex Claws+",
+        "type": "dual-blades",
+        "attack": 406,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -25,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            15,
+            3,
+            9,
+            7,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Ebony Wings",
+        "type": "dual-blades",
+        "attack": 336,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            5,
+            5,
+            15,
+            5,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            5,
+            5,
+            15,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Akantor Shadow Claws",
+        "type": "dual-blades",
+        "attack": 462,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 35,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            7,
+            5,
+            5,
+            8
+        ],
+        "sharpness-artisan": [
+            7,
+            5,
+            5,
+            13
+        ]
+    }
+]
