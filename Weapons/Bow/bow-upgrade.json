@@ -1,0 +1,2794 @@
+[
+    {
+        "id": 0,
+        "name": "Hunter's Bow II",
+        "type": "bow",
+        "attack": 120,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Hunter's Bow III",
+        "type": "bow",
+        "attack": 144,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1650,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Sctr",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hunter's Bow IV",
+        "type": "bow",
+        "attack": 168,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2750,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Wild Bow II",
+        "type": "bow",
+        "attack": 192,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Blango Fur Bow II",
+        "type": "bow",
+        "attack": 120,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 1500,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 80
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Kut-Ku Stave II",
+        "type": "bow",
+        "attack": 144,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2300,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Hunter's Power Bow I",
+        "type": "bow",
+        "attack": 192,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4400,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Hunter's Power Bow II",
+        "type": "bow",
+        "attack": 204,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 5500,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Wild Bow III",
+        "type": "bow",
+        "attack": 216,
+        "rare": 4,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 5250,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Wild Bow IV",
+        "type": "bow",
+        "attack": 228,
+        "rare": 4,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 6150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Blango Fur Bow III",
+        "type": "bow",
+        "attack": 168,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3850,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Blango Fur Bow IV",
+        "type": "bow",
+        "attack": 180,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 4600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Kut-Ku Stave III",
+        "type": "bow",
+        "attack": 180,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Daimyo's Warbow II",
+        "type": "bow",
+        "attack": 168,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 3850,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Daimyo's Warbow III",
+        "type": "bow",
+        "attack": 180,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 4600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Sonic Bow II",
+        "type": "bow",
+        "attack": 180,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 4600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Queen Blaster II",
+        "type": "bow",
+        "attack": 216,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 6600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Prominence Bow II",
+        "type": "bow",
+        "attack": 216,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 8250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Tiger Arrow II",
+        "type": "bow",
+        "attack": 276,
+        "rare": 4,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Hunter's Power Bow III",
+        "type": "bow",
+        "attack": 216,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 7900,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Wild Power Bow I",
+        "type": "bow",
+        "attack": 240,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 8950,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Wild Power Bow II",
+        "type": "bow",
+        "attack": 252,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 10550,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Abominable Bow I",
+        "type": "bow",
+        "attack": 192,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 7350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Wing Bow II",
+        "type": "bow",
+        "attack": 240,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 13450,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Daimyo's Warbow IV",
+        "type": "bow",
+        "attack": 192,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 7350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Blue Blade Bow II",
+        "type": "bow",
+        "attack": 264,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 23100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Sonic Bow III",
+        "type": "bow",
+        "attack": 192,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 7350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Queen Blaster III",
+        "type": "bow",
+        "attack": 264,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 16500,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Diablos Horn Bow II",
+        "type": "bow",
+        "attack": 276,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 25700,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Tigrex Whisker",
+        "type": "bow",
+        "attack": 312,
+        "rare": 6,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 25700,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Blue Kut-Ku Stave I",
+        "type": "bow",
+        "attack": 192,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 7350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Heartshot Bow I",
+        "type": "bow",
+        "attack": 240,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 13450,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Hidden Bow",
+        "type": "bow",
+        "attack": 252,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 27750,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Blue Kut-Ku Stave II",
+        "type": "bow",
+        "attack": 240,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 41600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 180
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Whole Swordfish Bow",
+        "type": "bow",
+        "attack": 204,
+        "rare": 8,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 5950,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Heartshot Bow II",
+        "type": "bow",
+        "attack": 264,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 19800,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Prominence Bow III",
+        "type": "bow",
+        "attack": 252,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 16500,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Courageous Wish",
+        "type": "bow",
+        "attack": 264,
+        "rare": 8,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 39600,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 80
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Dragon Bow Solar",
+        "type": "bow",
+        "attack": 240,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 23750,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 160
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Dragon Bow Mountain",
+        "type": "bow",
+        "attack": 288,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 47500,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 180
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Black Bow II",
+        "type": "bow",
+        "attack": 192,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 15000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Exterminator Bow I",
+        "type": "bow",
+        "attack": 312,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 80000,
+        "defense": 15,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Glorious Victory I",
+        "type": "bow",
+        "attack": 276,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 240
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Hunter's Power Bow IV",
+        "type": "bow",
+        "attack": 324,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 49500,
+        "defense": 30,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Icicle Bow I",
+        "type": "bow",
+        "attack": 228,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 34650,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Icicle Bow II",
+        "type": "bow",
+        "attack": 264,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 55450,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 230
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Jungle Bow I",
+        "type": "bow",
+        "attack": 324,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 49500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Jungle Bow II",
+        "type": "bow",
+        "attack": 360,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 74250,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Abominable Bow II",
+        "type": "bow",
+        "attack": 288,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 69300,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Blue Kut-Ku Stave III",
+        "type": "bow",
+        "attack": 276,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 62400,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Wolf Bow",
+        "type": "bow",
+        "attack": 348,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 83150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Wing Bow III",
+        "type": "bow",
+        "attack": 312,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 53450,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Wing Bow IV",
+        "type": "bow",
+        "attack": 348,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 77200,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Great Purple Emperor I",
+        "type": "bow",
+        "attack": 252,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 52000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 190
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Great Purple Emperor II",
+        "type": "bow",
+        "attack": 300,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 81700,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 210
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Blue Blade Bow III",
+        "type": "bow",
+        "attack": 360,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 90100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Showroom Model",
+        "type": "bow",
+        "attack": 372,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 103950,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Carmine Bow",
+        "type": "bow",
+        "attack": 312,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 89100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Khezu Bow II",
+        "type": "bow",
+        "attack": 288,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 74,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 240
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Queen Blaster IV",
+        "type": "bow",
+        "attack": 336,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 54450,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Prominence Bow IV",
+        "type": "bow",
+        "attack": 288,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 61900,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 160
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Gale Horn Bow",
+        "type": "bow",
+        "attack": 336,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 90100,
+        "defense": 30,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Dragonhead Harp II",
+        "type": "bow",
+        "attack": 204,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 30,
+        "upgrade-price": 50000,
+        "defense": 15,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 270
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Sonic Bow IV",
+        "type": "bow",
+        "attack": 240,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 0,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 180
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Crow Bow",
+        "type": "bow",
+        "attack": 360,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 103950,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Perfect Swordfish Bow",
+        "type": "bow",
+        "attack": 288,
+        "rare": 10,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 35650,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Eraser",
+        "type": "bow",
+        "attack": 324,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 103950,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Queen Blaster V",
+        "type": "bow",
+        "attack": 360,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 69300,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Heartshot Bow III",
+        "type": "bow",
+        "attack": 336,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 83150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Prominence Bow V",
+        "type": "bow",
+        "attack": 300,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 74250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 180
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Courageous Dream",
+        "type": "bow",
+        "attack": 336,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 111350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 110
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "DiablosKingHornBow",
+        "type": "bow",
+        "attack": 372,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 117800,
+        "defense": 30,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Tigrex Whisker+",
+        "type": "bow",
+        "attack": 384,
+        "rare": 10,
+        "slots": 1,
+        "affinity": -30,
+        "upgrade-price": 90100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Midnight Bow",
+        "type": "bow",
+        "attack": 324,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 103950,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Dragonhead Harp III",
+        "type": "bow",
+        "attack": 240,
+        "rare": 10,
+        "slots": 3,
+        "affinity": 30,
+        "upgrade-price": 125000,
+        "defense": 20,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 300
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Ancient Dragonwood Bow",
+        "type": "bow",
+        "attack": 300,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 115800,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 180
+            },
+            {
+                "name": "Paralysis",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Dragon Bow Chaos",
+        "type": "bow",
+        "attack": 360,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 124750,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 220
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "BeastKingThunderbow",
+        "type": "bow",
+        "attack": 336,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 118800,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 130
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Daora's Sagittarii",
+        "type": "bow",
+        "attack": 300,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 30,
+        "upgrade-price": 117800,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 180
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Akantor Chaos Bow",
+        "type": "bow",
+        "attack": 312,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 40,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 200
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Exterminator Bow II",
+        "type": "bow",
+        "attack": 384,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 150000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Glorious Victory II",
+        "type": "bow",
+        "attack": 336,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 270
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    }
+]

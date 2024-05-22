@@ -1,0 +1,2996 @@
+[
+    {
+        "id": 0,
+        "name": "Hunter's Bow I",
+        "type": "bow",
+        "attack": 96,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 550,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 2
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 5
+            },
+            {
+                "name": "Anteka Pelt",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Wild Bow I",
+        "type": "bow",
+        "attack": 168,
+        "rare": 2,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 2200,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "amount": 4
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 3
+            },
+            {
+                "name": "Bone",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Blango Fur Bow I",
+        "type": "bow",
+        "attack": 96,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 770,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Blango Pelt",
+                "amount": 4
+            },
+            {
+                "name": "Giaprey Scale",
+                "amount": 5
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 60
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Sctr",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Kut-Ku Stave I",
+        "type": "bow",
+        "attack": 120,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 1500,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Kut-Ku Shell",
+                "amount": 5
+            },
+            {
+                "name": "Kut-Ku Scale",
+                "amount": 5
+            },
+            {
+                "name": "Flame Sac",
+                "amount": 2
+            },
+            {
+                "name": "CarpenterBug",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 80
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 1
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Hunter's Bow III",
+        "type": "bow",
+        "attack": 144,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 1650,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Piscine Fang",
+                "amount": 4
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 4
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 8
+            },
+            {
+                "name": "Gendrome Hide",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Sctr",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Daimyo's Warbow I",
+        "type": "bow",
+        "attack": 144,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 2300,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "amount": 4
+            },
+            {
+                "name": "Plesioth Scale",
+                "amount": 4
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "amount": 10
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 80
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Sonic Bow I",
+        "type": "bow",
+        "attack": 144,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 2300,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Electro Sac",
+                "amount": 2
+            },
+            {
+                "name": "Vespoid Shell",
+                "amount": 10
+            },
+            {
+                "name": "Hornetaur Wing",
+                "amount": 5
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Hunter's Power Bow I",
+        "type": "bow",
+        "attack": 192,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 4400,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Basarios Wing",
+                "amount": 1
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 4
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 15
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Wild Bow III",
+        "type": "bow",
+        "attack": 216,
+        "rare": 4,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 5250,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Monoblos Spine",
+                "amount": 2
+            },
+            {
+                "name": "Congalala Claw",
+                "amount": 2
+            },
+            {
+                "name": "Pale Bone",
+                "amount": 1
+            },
+            {
+                "name": "Killer Beetle",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Blango Fur Bow III",
+        "type": "bow",
+        "attack": 168,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 3850,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Blangonga pelt",
+                "amount": 4
+            },
+            {
+                "name": "Wht Monoblos Hrn",
+                "amount": 2
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Blue Blade Bow I",
+        "type": "bow",
+        "attack": 204,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 7700,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "amount": 4
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "amount": 1
+            },
+            {
+                "name": "Hercudrome",
+                "amount": 2
+            },
+            {
+                "name": "Sharp Claw",
+                "amount": 7
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Queen Blaster I",
+        "type": "bow",
+        "attack": 204,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 5500,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Rathian Shell",
+                "amount": 3
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 1
+            },
+            {
+                "name": "Rathian Scale",
+                "amount": 5
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Prominence Bow I",
+        "type": "bow",
+        "attack": 204,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 6850,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Rathalos Shell",
+                "amount": 3
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 5
+            },
+            {
+                "name": "Blood Red Horn",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 80
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Tiger Arrow I",
+        "type": "bow",
+        "attack": 264,
+        "rare": 4,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 8550,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Tigrex Scale",
+                "amount": 6
+            },
+            {
+                "name": "Tigrex Fang",
+                "amount": 3
+            },
+            {
+                "name": "Tigrex Claw",
+                "amount": 2
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Defect Swordfish Bow",
+        "type": "bow",
+        "attack": 132,
+        "rare": 5,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 1250,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Speartuna",
+                "amount": 1
+            },
+            {
+                "name": "Black Pearl",
+                "amount": 2
+            },
+            {
+                "name": "Antiseptic Stone",
+                "amount": 2
+            },
+            {
+                "name": "FlynMealPassReg",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Dragon Bow Halo",
+        "type": "bow",
+        "attack": 192,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 10,
+        "create-price": 7900,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dragonwood",
+                "amount": 2
+            },
+            {
+                "name": "Dragonmoss",
+                "amount": 4
+            },
+            {
+                "name": "Kirin Thndr Tail",
+                "amount": 2
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Dragon Bow Earth",
+        "type": "bow",
+        "attack": 192,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 7900,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Lao-Shan's Horn",
+                "amount": 2
+            },
+            {
+                "name": "Lao-Shan's Scale",
+                "amount": 6
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "amount": 4
+            },
+            {
+                "name": "Rathian Plate",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 120
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Black Bow I",
+        "type": "bow",
+        "attack": 180,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 7500,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Dark Stone",
+                "amount": 1
+            },
+            {
+                "name": "Dark Piece",
+                "amount": 4
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Wild Power Bow I",
+        "type": "bow",
+        "attack": 240,
+        "rare": 6,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 8950,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 6
+            },
+            {
+                "name": "Congalala Fang",
+                "amount": 10
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 10
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Wing Bow I",
+        "type": "bow",
+        "attack": 228,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 11100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt",
+                "amount": 4
+            },
+            {
+                "name": "Hypno Beak",
+                "amount": 2
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Daimyo's Warbow IV",
+        "type": "bow",
+        "attack": 192,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 7350,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Hermitaur Carpce",
+                "amount": 6
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "amount": 3
+            },
+            {
+                "name": "Coral Cphlos Fin",
+                "amount": 1
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Sonic Bow III",
+        "type": "bow",
+        "attack": 192,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 7350,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Thunder Sac",
+                "amount": 4
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "amount": 3
+            },
+            {
+                "name": "Vespoid Carapace",
+                "amount": 15
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Queen Blaster III",
+        "type": "bow",
+        "attack": 264,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 16500,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Rathian Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Scale+",
+                "amount": 5
+            },
+            {
+                "name": "Rathian Plate",
+                "amount": 1
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Diablos Horn Bow I",
+        "type": "bow",
+        "attack": 216,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 10,
+        "create-price": 10250,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Diablos Carapace",
+                "amount": 4
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 2
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 2
+            },
+            {
+                "name": "Black Blos Spine",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Tigrex Whisker",
+        "type": "bow",
+        "attack": 312,
+        "rare": 6,
+        "slots": 0,
+        "affinity": -30,
+        "create-price": 25700,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Tigrex Carapace",
+                "amount": 4
+            },
+            {
+                "name": "Tigrex Scale+",
+                "amount": 3
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 2
+            },
+            {
+                "name": "Wyvern Stone",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Blue Kut-Ku Stave I",
+        "type": "bow",
+        "attack": 192,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 7350,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Blue Kut-Ku Cpc",
+                "amount": 4
+            },
+            {
+                "name": "Lunastra Shell",
+                "amount": 4
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 4
+            },
+            {
+                "name": "Inferno Sac",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 140
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Heartshot Bow I",
+        "type": "bow",
+        "attack": 240,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 10,
+        "create-price": 13450,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Pnk Rathian Cpc",
+                "amount": 3
+            },
+            {
+                "name": "Pnk Rathian Scl+",
+                "amount": 5
+            },
+            {
+                "name": "Rathian Spike+",
+                "amount": 1
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Hidden Bow",
+        "type": "bow",
+        "attack": 252,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "create-price": 27750,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Black Narga Pelt",
+                "amount": 6
+            },
+            {
+                "name": "NargaCuttingWing",
+                "amount": 4
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Courageous Hope",
+        "type": "bow",
+        "attack": 240,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 16800,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Teostra Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Teostra Mane",
+                "amount": 2
+            },
+            {
+                "name": "Lunastra Mane",
+                "amount": 2
+            },
+            {
+                "name": "Firecell Stone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 60
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Dragonhead Harp I",
+        "type": "bow",
+        "attack": 156,
+        "rare": 8,
+        "slots": 3,
+        "affinity": 30,
+        "create-price": 50000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Wyverian Harp",
+                "amount": 1
+            },
+            {
+                "name": "Plesioth Scale+",
+                "amount": 4
+            },
+            {
+                "name": "Grn Plsioth Scl+",
+                "amount": 4
+            },
+            {
+                "name": "Novacrystal",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 240
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Akantor Bow",
+        "type": "bow",
+        "attack": 252,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 40,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Akantor Fang",
+                "amount": 2
+            },
+            {
+                "name": "Akantor Spike",
+                "amount": 1
+            },
+            {
+                "name": "Akantor Scale",
+                "amount": 6
+            },
+            {
+                "name": "Gaoren Pincer",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 160
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Exterminator Bow I",
+        "type": "bow",
+        "attack": 312,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 20,
+        "create-price": 80000,
+        "defense": 15,
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "amount": 4
+            },
+            {
+                "name": "Fatalis Scale",
+                "amount": 2
+            },
+            {
+                "name": "Fatalis Shell",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Glorious Victory I",
+        "type": "bow",
+        "attack": 276,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 80000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Wht Fatalis Horn",
+                "amount": 4
+            },
+            {
+                "name": "Wht Fatalis Scl",
+                "amount": 2
+            },
+            {
+                "name": "Wht Fatalis Shl",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 240
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 1
+            },
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Icicle Bow I",
+        "type": "bow",
+        "attack": 228,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 34650,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 1
+            },
+            {
+                "name": "Ice Crystal",
+                "amount": 20
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 15
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Jungle Bow I",
+        "type": "bow",
+        "attack": 324,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 10,
+        "create-price": 49500,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "amount": 6
+            },
+            {
+                "name": "Vibrant Comb",
+                "amount": 2
+            },
+            {
+                "name": "HrdCongalalaClw+",
+                "amount": 3
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Wolf Bow",
+        "type": "bow",
+        "attack": 348,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 10,
+        "create-price": 83150,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Hvy Garuga Shell",
+                "amount": 5
+            },
+            {
+                "name": "SilverGarugaPelt",
+                "amount": 3
+            },
+            {
+                "name": "LethrGarugaTail",
+                "amount": 1
+            },
+            {
+                "name": "HardGypcerosHead",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Wing Bow III",
+        "type": "bow",
+        "attack": 312,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 53450,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt+",
+                "amount": 8
+            },
+            {
+                "name": "Hypno Claw+",
+                "amount": 6
+            },
+            {
+                "name": "Hypno Bezoar",
+                "amount": 1
+            },
+            {
+                "name": "Lucky Kut-Ku Ear",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Great Purple Emperor I",
+        "type": "bow",
+        "attack": 252,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 52000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "amount": 8
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "amount": 3
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "amount": 3
+            },
+            {
+                "name": "SpecGrnPlesioFn+",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 190
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Blue Blade Bow III",
+        "type": "bow",
+        "attack": 360,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 90100,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "HvyCeanataurShl",
+                "amount": 5
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "amount": 3
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "amount": 2
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Khezu Bow I",
+        "type": "bow",
+        "attack": 252,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 52000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "KhezuHide-Cream",
+                "amount": 4
+            },
+            {
+                "name": "Lightning Sac",
+                "amount": 3
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "amount": 3
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 5
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 210
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Prominence Bow IV",
+        "type": "bow",
+        "attack": 288,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 61900,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "HvyRathalosShl",
+                "amount": 6
+            },
+            {
+                "name": "StrRathalosWing",
+                "amount": 4
+            },
+            {
+                "name": "Rathalos Ruby",
+                "amount": 1
+            },
+            {
+                "name": "ThckLavasiothScl",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 160
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Gale Horn Bow",
+        "type": "bow",
+        "attack": 336,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 20,
+        "create-price": 90100,
+        "defense": 30,
+        "materials": [
+            {
+                "name": "HvyBlkBlosShell",
+                "amount": 8
+            },
+            {
+                "name": "HvyDiablosSpine",
+                "amount": 5
+            },
+            {
+                "name": "StoutBlkTwstdHrn",
+                "amount": 3
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "dummy (Diasorute Arrow)",
+        "type": "bow",
+        "attack": 324,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 10,
+        "create-price": 690,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "Dengeki Ticket G",
+                "amount": 4
+            },
+            {
+                "name": "HvyDiablosSpine",
+                "amount": 4
+            },
+            {
+                "name": "HvyDiablosShell",
+                "amount": 8
+            },
+            {
+                "name": "Top-GrdRedHorn",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 150
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Hunter's Bow G",
+        "type": "bow",
+        "attack": 276,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "amount": 3
+            },
+            {
+                "name": "RobustWyvernBone",
+                "amount": 10
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Wild Bow G",
+        "type": "bow",
+        "attack": 336,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "HrdCongalalaPlt+",
+                "amount": 6
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "amount": 4
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Wild Power Bow G",
+        "type": "bow",
+        "attack": 360,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Vibrant Pelt",
+                "amount": 3
+            },
+            {
+                "name": "HrdCongalalaClw+",
+                "amount": 4
+            },
+            {
+                "name": "PhantomButterfly",
+                "amount": 4
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Blango Fur Bow G",
+        "type": "bow",
+        "attack": 276,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "HrdBlangongaPlt+",
+                "amount": 4
+            },
+            {
+                "name": "Top-GrdPlatHorn",
+                "amount": 3
+            },
+            {
+                "name": "HvyBlangongaFang",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 180
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Kut-Ku Stave G",
+        "type": "bow",
+        "attack": 276,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation G",
+                "amount": 1
+            },
+            {
+                "name": "Thick Kut-Ku Scl",
+                "amount": 8
+            },
+            {
+                "name": "Hvy Kut-Ku Shell",
+                "amount": 6
+            },
+            {
+                "name": "Top-GrdRedHorn",
+                "amount": 3
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "fire",
+                "attack": 220
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Daimyo's Warbow G",
+        "type": "bow",
+        "attack": 276,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "HvyHermitaurShl",
+                "amount": 6
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "amount": 4
+            },
+            {
+                "name": "MonoblosCarapace",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 180
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Sonic Bow G",
+        "type": "bow",
+        "attack": 276,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "VespoidQn'sCrown",
+                "amount": 5
+            },
+            {
+                "name": "Lightning Sac",
+                "amount": 4
+            },
+            {
+                "name": "Hornet Razorwing",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 200
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Diablos Horn Bow G",
+        "type": "bow",
+        "attack": 372,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 10,
+        "create-price": 75000,
+        "defense": 20,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "StoutWarpedHorn",
+                "amount": 2
+            },
+            {
+                "name": "HvyDiablosShell",
+                "amount": 8
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 6
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Midnight Bow",
+        "type": "bow",
+        "attack": 324,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 50,
+        "create-price": 103950,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "ThickNargaScale",
+                "amount": 10
+            },
+            {
+                "name": "StrNargaCttngWng",
+                "amount": 6
+            },
+            {
+                "name": "HvyNargacugaFang",
+                "amount": 8
+            },
+            {
+                "name": "HvnlyNargaScale",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Ancient Dragonwood Bow",
+        "type": "bow",
+        "attack": 300,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 20,
+        "create-price": 115800,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "YamaTsukamiHide",
+                "amount": 6
+            },
+            {
+                "name": "YamaTsukaFillet",
+                "amount": 4
+            },
+            {
+                "name": "YamaTsukamiFluid",
+                "amount": 6
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 180
+            },
+            {
+                "name": "Paralysis",
+                "attack": "Add"
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Beast Thunderbow",
+        "type": "bow",
+        "attack": 300,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "create-price": 95000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Hvy Rajang Fang",
+                "amount": 5
+            },
+            {
+                "name": "Hard Rajang Claw",
+                "amount": 3
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "amount": 2
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 110
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Icy Steel Bow",
+        "type": "bow",
+        "attack": 264,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 20,
+        "create-price": 84150,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Hvy Daora Shell",
+                "amount": 5
+            },
+            {
+                "name": "ThckDaoraDrgnScl",
+                "amount": 8
+            },
+            {
+                "name": "BigEDragonBone",
+                "amount": 4
+            },
+            {
+                "name": "Daora Jewel",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 160
+            }
+        ],
+        "charge": [
+            {
+                "name": "Rapd",
+                "level": 3
+            },
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Rapd",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Ukanlos Bow",
+        "type": "bow",
+        "attack": 432,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -40,
+        "create-price": 150000,
+        "defense": 10,
+        "materials": [
+            {
+                "name": "UkanlosShovelJaw",
+                "amount": 3
+            },
+            {
+                "name": "StrongUkanlosFin",
+                "amount": 4
+            },
+            {
+                "name": "UkanlosUnderscl",
+                "amount": 6
+            },
+            {
+                "name": "Ukanlos Stone",
+                "amount": 1
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 100
+            }
+        ],
+        "charge": [
+            {
+                "name": "Prce",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 2
+            },
+            {
+                "name": "Sctr",
+                "level": 2
+            },
+            {
+                "name": "Rapd",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Dragon Bow Solar G",
+        "type": "bow",
+        "attack": 288,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 10,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Dragonwood+",
+                "amount": 20
+            },
+            {
+                "name": "Dragonwood",
+                "amount": 20
+            },
+            {
+                "name": "YamaTsukamiFluid",
+                "amount": 8
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 210
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            },
+            {
+                "name": "Prce",
+                "level": 3
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Black Bow G",
+        "type": "bow",
+        "attack": 300,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "create-price": 75000,
+        "defense": 0,
+        "materials": [
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "amount": 10
+            },
+            {
+                "name": "Dark Piece",
+                "amount": 20
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 10
+            }
+        ],
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 160
+            }
+        ],
+        "charge": [
+            {
+                "name": "Sctr",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 4
+            },
+            {
+                "name": "Prce",
+                "level": 5
+            },
+            {
+                "name": "Sctr",
+                "level": 5
+            }
+        ]
+    }
+]
