@@ -1,0 +1,3784 @@
+[
+    {
+        "id": 0,
+        "name": "Buster Sword+",
+        "type": "great-swd",
+        "attack": 384,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 850,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            3
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Buster Blade",
+        "type": "great-swd",
+        "attack": 480,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            2,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            2,
+            9,
+            8
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bone Blade+",
+        "type": "great-swd",
+        "attack": 384,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 850,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            7
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            1
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bone Slasher",
+        "type": "great-swd",
+        "attack": 432,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1100,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            6
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Tarnished Great Swd",
+        "type": "great-swd",
+        "attack": 528,
+        "rare": 1,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            5
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Ravager Blade",
+        "type": "great-swd",
+        "attack": 576,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 1,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            8
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Defender",
+        "type": "great-swd",
+        "attack": 432,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1400,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            10
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sentinel",
+        "type": "great-swd",
+        "attack": 576,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2600,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            10
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            15
+        ]
+    },
+    {
+        "id": 8,
+        "name": "White Serpentblade",
+        "type": "great-swd",
+        "attack": 384,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 1100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 120
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            5
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Silver Serpentblade",
+        "type": "great-swd",
+        "attack": 480,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Vile Serpentblade",
+        "type": "great-swd",
+        "attack": 528,
+        "rare": 2,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Golem Blade",
+        "type": "great-swd",
+        "attack": 528,
+        "rare": 2,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 1750,
+        "defense": 2,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            2
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Finblade",
+        "type": "great-swd",
+        "attack": 480,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 260
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            4
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            9
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Chick Decapitator",
+        "type": "great-swd",
+        "attack": 528,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 10,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            8
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Red Stripe",
+        "type": "great-swd",
+        "attack": 624,
+        "rare": 2,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 4,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            5
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            10
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Ravager Blade+",
+        "type": "great-swd",
+        "attack": 768,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 2,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Khezu Shock Sword",
+        "type": "great-swd",
+        "attack": 624,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            5
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            10
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Cat's Soul",
+        "type": "great-swd",
+        "attack": 480,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            5
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            10
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Barbaroi Blade",
+        "type": "great-swd",
+        "attack": 480,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 12,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            6
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Golem Blade+",
+        "type": "great-swd",
+        "attack": 576,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 2600,
+        "defense": 4,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            8
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Valkyrie Blade",
+        "type": "great-swd",
+        "attack": 624,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 6,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            8
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Plesioth Watersword",
+        "type": "great-swd",
+        "attack": 576,
+        "rare": 3,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3650,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 390
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            5
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            10
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Red Wing",
+        "type": "great-swd",
+        "attack": 528,
+        "rare": 3,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 2150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            8
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Red Pincer",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 3,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 3100,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            15
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            2
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Cat's Curse",
+        "type": "great-swd",
+        "attack": 624,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 360
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Crimson Goat",
+        "type": "great-swd",
+        "attack": 624,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 6350,
+        "defense": 16,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            18,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Halberd",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Deadly Serpentblade",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 4900,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Spartacus Blade",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 6350,
+        "defense": 4,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Executioner",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4250,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            5
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Executioner+",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Plesioth Crystasword",
+        "type": "great-swd",
+        "attack": 672,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 6350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 470
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Chicken Decapitator",
+        "type": "great-swd",
+        "attack": 768,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 4900,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Blue Wing",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 4,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 6350,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Great Pincer",
+        "type": "great-swd",
+        "attack": 768,
+        "rare": 4,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 5600,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            3,
+            7,
+            18,
+            2
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Ceanataur Blade",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 3650,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Blue Claw Blade",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 4,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 4900,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Tactical Blade",
+        "type": "great-swd",
+        "attack": 960,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 6,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            8
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Chrome Razor",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 7150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 320
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Bronze Coin",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 20,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            11,
+            5,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            2,
+            8
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Sieglinde",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 8000,
+        "defense": 6,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Titernia",
+        "type": "great-swd",
+        "attack": 768,
+        "rare": 5,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 7150,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 160
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Kirin Thundersword",
+        "type": "great-swd",
+        "attack": 624,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 20000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 550
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Sword of the Diablos",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 5,
+        "slots": 0,
+        "affinity": -10,
+        "upgrade-price": 5600,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Sentoryu Raven",
+        "type": "great-swd",
+        "attack": 672,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 10000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Rathalos Firesword",
+        "type": "great-swd",
+        "attack": 768,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 8000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 420
+            }
+        ],
+        "sharpness": [
+            7,
+            2,
+            10,
+            7
+        ],
+        "sharpness-artisan": [
+            7,
+            2,
+            10,
+            7,
+            2
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Eternal Annihilator",
+        "type": "great-swd",
+        "attack": 672,
+        "rare": 5,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Ancient Blade",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 5,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Steel Ice Blade",
+        "type": "great-swd",
+        "attack": 672,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            4
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Steel Ice Blade+",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 5,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Carbalite Sword",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            8
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Carbalite Sword+",
+        "type": "great-swd",
+        "attack": 960,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Cat's King",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Judgment",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            8
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Poison Serpentblade",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Golden Serpentblade",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Obelion",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 180
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Enforcer's Axe",
+        "type": "great-swd",
+        "attack": 1104,
+        "rare": 6,
+        "slots": 1,
+        "affinity": -5,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Agito",
+        "type": "great-swd",
+        "attack": 960,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 25000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            1
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            6
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Wyvern Agito",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 35000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Plesioth Azureblade",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 620
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Rooster Decapitator",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            6,
+            10
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Pickaxe Blade",
+        "type": "great-swd",
+        "attack": 672,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 8,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 150
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Slaughter",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 420
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Killer's Scythe",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 6,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Crystallized Tuna",
+        "type": "great-swd",
+        "attack": 480,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 45000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 700
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Weathered Grt Sword",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 6,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 12500,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            11,
+            2
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Strategic Blade",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 7,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 40000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Lacerator Blade",
+        "type": "great-swd",
+        "attack": 1104,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 4,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Khezu Shock Blade",
+        "type": "great-swd",
+        "attack": 960,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 50000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Blushing Dame",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Siegmund",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 15,
+        "upgrade-price": 75000,
+        "defense": 10,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Pael Keizah",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 230
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 73,
+        "name": "True Dragon's Jaw",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 55000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Demon Rod",
+        "type": "great-swd",
+        "attack": 768,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 300
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            6
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Diablo Destroyer",
+        "type": "great-swd",
+        "attack": 1152,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Sentoryu Wolf",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 35,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Shiny Rathalos Sword",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 7,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 70000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 520
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Tigrex Great Sword",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Hidden Blaze",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 7,
+        "slots": 1,
+        "affinity": 50,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Epitaph Blade",
+        "type": "great-swd",
+        "attack": 960,
+        "rare": 7,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            3,
+            7,
+            18,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            3,
+            7,
+            18,
+            4,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Teostra Blade",
+        "type": "great-swd",
+        "attack": 768,
+        "rare": 7,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 480
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            13
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Chrome Death Razor",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 7150,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 500
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Gaoren Coin",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 30,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Great Demon Rod",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 85,
+        "name": "King Thundersword",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 60000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 610
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Expert Blade",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 8,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 20000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            8
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            3
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Eternal Eradicator",
+        "type": "great-swd",
+        "attack": 720,
+        "rare": 8,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 65000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 840
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Fatalis Blade",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Fatalis Ancestor",
+        "type": "great-swd",
+        "attack": 960,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 380
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Daora's Decimator",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 91,
+        "name": "King Teostra Blade",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 8,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 620
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Master Blaze",
+        "type": "great-swd",
+        "attack": 1440,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 8,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Decider",
+        "type": "great-swd",
+        "attack": 1104,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Punisher",
+        "type": "great-swd",
+        "attack": 1296,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Igneous Blade",
+        "type": "great-swd",
+        "attack": 1200,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 10,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 200
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            1
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Khezu Shock Full",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 280
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Khezu Shock Full+",
+        "type": "great-swd",
+        "attack": 1200,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 350
+            }
+        ],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Cat of Venus",
+        "type": "great-swd",
+        "attack": 912,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            12,
+            11,
+            5,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            4,
+            8
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Cat of Gold",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 95000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Paralysis",
+                "attack": 460
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Alveblade",
+        "type": "great-swd",
+        "attack": 1200,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 240
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Plesioth Wave Sword",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            4
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Plesioth Wave Blade",
+        "type": "great-swd",
+        "attack": 1296,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 110000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Water",
+                "attack": 470
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Pickaxe Blade+",
+        "type": "great-swd",
+        "attack": 864,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 80000,
+        "defense": 14,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 170
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            2
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Sleep Sword Zantoma",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 9,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 18,
+        "description": "",
+        "elements": [
+            {
+                "name": "Sleep",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Slaughter+",
+        "type": "great-swd",
+        "attack": 1056,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 15,
+        "upgrade-price": 90000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            4
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Poison King",
+        "type": "great-swd",
+        "attack": 1296,
+        "rare": 9,
+        "slots": 0,
+        "affinity": 20,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Poison",
+                "attack": 470
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Sentoryu Crow",
+        "type": "great-swd",
+        "attack": 1248,
+        "rare": 9,
+        "slots": 3,
+        "affinity": 40,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Violet Pincer",
+        "type": "great-swd",
+        "attack": 1104,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Grand Pincer",
+        "type": "great-swd",
+        "attack": 1296,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 40,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Carmine Blade",
+        "type": "great-swd",
+        "attack": 1200,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 85000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            12,
+            11,
+            5,
+            4,
+            8,
+            3,
+            2
+        ],
+        "sharpness-artisan": [
+            12,
+            11,
+            5,
+            4,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Epitaph Eternal",
+        "type": "great-swd",
+        "attack": 1152,
+        "rare": 9,
+        "slots": 0,
+        "affinity": -20,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 100
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Igneous Sword",
+        "type": "great-swd",
+        "attack": 1344,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 20,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 220
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Gaoren Cleaver",
+        "type": "great-swd",
+        "attack": 1440,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 30,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Brünhild",
+        "type": "great-swd",
+        "attack": 1296,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 0,
+        "upgrade-price": 125000,
+        "defense": 10,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 250
+            }
+        ],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Great Demon Hot Rod",
+        "type": "great-swd",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 25,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 116,
+        "name": "ImperialThundersword",
+        "type": "great-swd",
+        "attack": 1152,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 100000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Thunder",
+                "attack": 640
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 117,
+        "name": "King Atillart Sword",
+        "type": "great-swd",
+        "attack": 1488,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -15,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            9,
+            4,
+            11,
+            7,
+            6,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Killer's Carver",
+        "type": "great-swd",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 115000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 119,
+        "name": "Warrior's Blade",
+        "type": "great-swd",
+        "attack": 1344,
+        "rare": 10,
+        "slots": 3,
+        "affinity": 0,
+        "upgrade-price": 75000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Tigrex Supreme Sword",
+        "type": "great-swd",
+        "attack": 1392,
+        "rare": 10,
+        "slots": 0,
+        "affinity": -30,
+        "upgrade-price": 125000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Darkness Darkblade",
+        "type": "great-swd",
+        "attack": 1152,
+        "rare": 10,
+        "slots": 2,
+        "affinity": 50,
+        "upgrade-price": 120000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            10,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Eternal Destroyer",
+        "type": "great-swd",
+        "attack": 1008,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 105000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 860
+            }
+        ],
+        "sharpness": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            3
+        ],
+        "sharpness-artisan": [
+            13,
+            1,
+            6,
+            13,
+            4,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Black Fatalis Blade",
+        "type": "great-swd",
+        "attack": 1344,
+        "rare": 10,
+        "slots": 1,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 270
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            5
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Fatalis Legacy",
+        "type": "great-swd",
+        "attack": 1200,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 150000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Dragon",
+                "attack": 400
+            }
+        ],
+        "sharpness": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            2
+        ],
+        "sharpness-artisan": [
+            18,
+            2,
+            7,
+            7,
+            4,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Akantor Broadsword+",
+        "type": "great-swd",
+        "attack": 1584,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 50,
+        "upgrade-price": 145000,
+        "defense": 0,
+        "description": "",
+        "elements": [],
+        "sharpness": [
+            8,
+            3,
+            11,
+            3
+        ],
+        "sharpness-artisan": [
+            8,
+            3,
+            11,
+            8
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Daora's Tughril Beg",
+        "type": "great-swd",
+        "attack": 1296,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 450
+            }
+        ],
+        "sharpness": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            3
+        ],
+        "sharpness-artisan": [
+            16,
+            3,
+            2,
+            9,
+            7,
+            6,
+            2
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Teostra del Sol",
+        "type": "great-swd",
+        "attack": 1248,
+        "rare": 10,
+        "slots": 0,
+        "affinity": 0,
+        "upgrade-price": 130000,
+        "defense": 0,
+        "description": "",
+        "elements": [
+            {
+                "name": "Fire",
+                "attack": 650
+            }
+        ],
+        "sharpness": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            3
+        ],
+        "sharpness-artisan": [
+            5,
+            3,
+            9,
+            14,
+            6,
+            5,
+            3
+        ]
+    }
+]
