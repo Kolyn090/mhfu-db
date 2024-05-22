@@ -40,8 +40,8 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
-                "craft-type": "create",
+                "id": 0,
+                "craft-type": "upgrade",
                 "name": "Hunter's Dagger+",
                 "type": "sword"
             }
@@ -248,8 +248,8 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
-                "craft-type": "create",
+                "id": 0,
+                "craft-type": "upgrade",
                 "name": "Hunter's Dagger+",
                 "type": "sword"
             }
