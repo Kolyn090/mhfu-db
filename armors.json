@@ -97371,5 +97371,45 @@
         "water-res": 0,
         "ice-res": 0,
         "materials": []
+    },
+    {
+        "id": 4280,
+        "part": "helmet",
+        "name": "Protection Piercing",
+        "rare": 2,
+        "price": 550,
+        "hunter-type": "BG",
+        "defense": 12,
+        "skill-points": [
+            {
+                "name": "Auto-Guard",
+                "points": 10
+            }
+        ],
+        "description": "",
+        "slots": 0,
+        "fire-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "water-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Kut-Ku Scale",
+                "amount": 2
+            },
+            {
+                "name": "Velociprey Fang",
+                "amount": 4
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 5
+            }
+        ]
     }
 ]
