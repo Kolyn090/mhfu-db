@@ -82984,7 +82984,7 @@
                 "amount": 1
             },
             {
-                "name": "Ancient FIsh",
+                "name": "Ancient Fish",
                 "amount": 3
             },
             {
@@ -97411,6 +97411,54 @@
             {
                 "name": "Iron Ore",
                 "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 4290,
+        "part": "helmet",
+        "name": "Skull Face",
+        "rare": 8,
+        "price": 2200,
+        "hunter-type": "BG",
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "Artisan",
+                "points": 2
+            },
+            {
+                "name": "Expert",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            }
+        ],
+        "description": "",
+        "slots": 2,
+        "fire-res": 2,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "water-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Master's Skull",
+                "amount": 1
+            },
+            {
+                "name": "Ancient Potion",
+                "amount": 1
+            },
+            {
+                "name": "Lifecrystals",
+                "amount": 1
+            },
+            {
+                "name": "Novacrystal",
+                "amount": 1
             }
         ]
     }
