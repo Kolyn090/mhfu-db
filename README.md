@@ -12,14 +12,14 @@ Welcome to this dedicated repo for a 15 years-old game! If you have played the M
 I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHFU! 
 (or MHP2G in Japan) 
 
-### ❓What is this?
+### ❓What is this
 This is a database repo for game Monster Hunter Freedom Unite by CAPCOM. My current plan is to 
 store data in JSON format. I try to make sure that the data are organized in a way that it is 
 easy to read and understand (at least by someone who has played the game before). Each JSON file
 will store an array of objects, and each object has the *same* properties, so a JSON file is really 
 a table. 
 
-### ❓What is 'id'?
+### ❓What is 'id'
 The 'id' field is manufactured by me (not existing in the actual game) mainly for a better debugging purpose, 
 and every object has some kind of 'id' field. The 'id' will only be unique in the JSON file storing 
 it so it is insufficient to use 'id' alone to identify a particular object in this database. In some cases, 
@@ -86,7 +86,7 @@ Feel free to send an issue if you spot any typo/mistake. Of course, you are free
 and contribute as well! ❗️Please note that your contribution must be from a crediable source and 
 it's not violating any copyright.
 
-### ❓Why am I creating a database for MHFU?
+### ❓Why am I creating a database for MHFU
 First of all, I have played this particular MH version for a long time - probably the longest 
 time I have spent on a game. It all started on the iOS version ($15 USD but definitely worth it).
 I had continued to play this game at my leisure since then! Until the game was taken down from
