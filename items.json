@@ -1,0 +1,2984 @@
+[
+    {
+        "id": 0,
+        "name": "Book of Combos 1",
+        "rare": 4,
+        "description": "Intro text for first-tie combiners. Improves your combining success rate."
+    },
+    {
+        "id": 0,
+        "name": "Book of Combos 2",
+        "rare": 4,
+        "description": "Basic text. Together with 1, improves your combining success rate."
+    },
+    {
+        "id": 0,
+        "name": "Book of Combos 3",
+        "rare": 4,
+        "description": "Intermediate text. Along with 1 & 2, improves your combining success rate."
+    },
+    {
+        "id": 0,
+        "name": "Book of Combos 4",
+        "rare": 5,
+        "description": "Advanced text. Along with 1, 2, and 3, improves your combining success rate."
+    },
+    {
+        "id": 0,
+        "name": "Book of Combos 5",
+        "rare": 5,
+        "description": "Pro text. Along with 1, 2, 3, and 4, improves your combining success rate."
+    },
+    {
+        "id": 0,
+        "name": "Alchemy Guide",
+        "rare": 5,
+        "description": "With this book, you too can use alchemy. What will you create?"
+    },
+    {
+        "id": 0,
+        "name": "Potion",
+        "rare": 1,
+        "description": "Restores a small amount of Health."
+    },
+    {
+        "id": 0,
+        "name": "Mega Potion",
+        "rare": 2,
+        "description": "Restores a moderate amount of Health."
+    },
+    {
+        "id": 0,
+        "name": "Nutrients",
+        "rare": 2,
+        "description": "Increases the maximum Health level slightly."
+    },
+    {
+        "id": 0,
+        "name": "Mega Nurtrients",
+        "rare": 3,
+        "description": "Medicine that increases the maximum Health level by a small amount."
+    },
+    {
+        "id": 0,
+        "name": "Antidote",
+        "rare": 1,
+        "description": "Effectively removes all traces of poison from your system."
+    },
+    {
+        "id": 0,
+        "name": "Immunizer",
+        "rare": 3,
+        "description": "Medicine that enhances natural recovery ability."
+    },
+    {
+        "id": 0,
+        "name": "Power Juice",
+        "rare": 2,
+        "description": "Allows you to run without becoming fatigued for a period of time."
+    },
+    {
+        "id": 0,
+        "name": "Mega Juice",
+        "rare": 3,
+        "description": "Allows you to run without fatiguing for even longer than Power Juice."
+    },
+    {
+        "id": 0,
+        "name": "Demondrug",
+        "rare": 4,
+        "description": "Increases Attack power, bestowing the strength of Asura himself on user."
+    },
+    {
+        "id": 0,
+        "name": "Mega Demondrug",
+        "rare": 5,
+        "description": "Increases Attack power even more than Demondrug."
+    },
+    {
+        "id": 0,
+        "name": "Power Pill",
+        "rare": 1,
+        "description": "A strengthening pill that endows you with the power of a fierce god."
+    },
+    {
+        "id": 0,
+        "name": "Armorskin",
+        "rare": 4,
+        "description": "Increases Defense by hardening your skin to stone-like armor."
+    },
+    {
+        "id": 0,
+        "name": "Mega Armorskin",
+        "rare": 5,
+        "description": "Increases Defense even more than Armorskin."
+    },
+    {
+        "id": 0,
+        "name": "Armor Pill",
+        "rare": 1,
+        "description": "A pill that temporarily makes your skin as hard as metal."
+    },
+    {
+        "id": 0,
+        "name": "Cool drink",
+        "rare": 1,
+        "description": "A drink that bestows temporary resistance to extreme heat."
+    },
+    {
+        "id": 0,
+        "name": "Hot drink",
+        "rare": 1,
+        "description": "A drink that bestows temporary resistance to extreme cold."
+    },
+    {
+        "id": 0,
+        "name": "Thawing Agent",
+        "rare": 1,
+        "description": "A chemical agent that melts away the frozen tundra in the soul."
+    },
+    {
+        "id": 0,
+        "name": "Psychoserum",
+        "rare": 3,
+        "description": "Temporarily activates an ESP-like ability to sense monsters."
+    },
+    {
+        "id": 0,
+        "name": "Monster Fluid",
+        "rare": 4,
+        "description": "Can be mixed with insect stomach juices to make an adhesive."
+    },
+    {
+        "id": 0,
+        "name": "Monster Broth",
+        "rare": 5,
+        "description": "A broth made from only the thickest of a monster's juices. Quite rich."
+    },
+    {
+        "id": 0,
+        "name": "Monster Essence",
+        "rare": 5,
+        "description": "Further distilled monster broth, although I don't recommend touching it..."
+    },
+    {
+        "id": 0,
+        "name": "Thunderbug Juice",
+        "rare": 5,
+        "description": "Fluids of a Thunderbug. When stockpilled, can causes an electrical discharge."
+    },
+    {
+        "id": 0,
+        "name": "Thunderbug Jelly",
+        "rare": 5,
+        "description": "Gelatin from a Great Thunderbug. More powerful than Juice. Easier to use."
+    },
+    {
+        "id": 0,
+        "name": "Herbal Medicine",
+        "rare": 2,
+        "description": "Effectively cures posion, and restores a slight amount of Health."
+    },
+    {
+        "id": 0,
+        "name": "Max Potion",
+        "rare": 3,
+        "description": "Restores Health to the maximum level, enabling a full recovery."
+    },
+    {
+        "id": 0,
+        "name": "Ancient Potion",
+        "rare": 5,
+        "description": "Restores Health and Stamina to maximum levels, enabling a full recovery."
+    },
+    {
+        "id": 0,
+        "name": "Catalyst",
+        "rare": 2,
+        "description": "Mixes with other materials to improve their effect. Cannot be used by itself."
+    },
+    {
+        "id": 0,
+        "name": "Energy Drink",
+        "rare": 2,
+        "description": "Recovers Stamina and cures fatigue. Approved by the Guild."
+    },
+    {
+        "id": 0,
+        "name": "Gunpowder",
+        "rare": 2,
+        "description": "A dangerous chemical that explodes when disturbed or heated."
+    },
+    {
+        "id": 0,
+        "name": "Lifecrystals",
+        "rare": 3,
+        "description": "Mysterious crystals long worshipped as a fount of life."
+    },
+    {
+        "id": 0,
+        "name": "Lifepowder",
+        "rare": 4,
+        "description": "Medicine created by combining Lifecrystals. Strong restorative power."
+    },
+    {
+        "id": 0,
+        "name": "Powercharm",
+        "rare": 5,
+        "description": "Amulet that raises Attack power. The holder gains the strength of a demon."
+    },
+    {
+        "id": 0,
+        "name": "Powertalon",
+        "rare": 5,
+        "description": "Amulet that raises Attack. Made from a Lao-Shan's Claw."
+    },
+    {
+        "id": 0,
+        "name": "Armorcharm",
+        "rare": 5,
+        "description": "Amulet that causes one's skin to become as hard as stone. Raises Defense"
+    },
+    {
+        "id": 0,
+        "name": "Armortalon",
+        "rare": 5,
+        "description": "Amulet that raises Defense. Made from a Lao-Shan's Claw."
+    },
+    {
+        "id": 0,
+        "name": "Tranquilizer",
+        "rare": 4,
+        "description": "Medicine that is used as an anesthetic when combined."
+    },
+    {
+        "id": 0,
+        "name": "Raw Meat",
+        "rare": 1,
+        "description": "Meat obtained through carving up a monster. Has many uses."
+    },
+    {
+        "id": 0,
+        "name": "Poisoned Meat",
+        "rare": 1,
+        "description": "Poisons if consumed. Used as bait in traps."
+    },
+    {
+        "id": 0,
+        "name": "Tainted Meat",
+        "rare": 2,
+        "description": "Paralyzes if consumed. Used as bait in traps."
+    },
+    {
+        "id": 0,
+        "name": "Drugged Meat",
+        "rare": 1,
+        "description": "Causes sleepiness if consumed. Used as bait in traps."
+    },
+    {
+        "id": 0,
+        "name": "Rare Steak",
+        "rare": 1,
+        "description": "Meat cooked on the rare side. Gives a small boost to Stamina."
+    },
+    {
+        "id": 0,
+        "name": "Well-Done Steak",
+        "rare": 2,
+        "description": "Well-cooked meat. Gives a medium boost to Stamina."
+    },
+    {
+        "id": 0,
+        "name": "Gourmet Steak",
+        "rare": 3,
+        "description": "A gourmet steak cooked to perfection. Give a full boost to Stamina."
+    },
+    {
+        "id": 0,
+        "name": "Burnt Meat",
+        "rare": 1,
+        "description": "Meat burnt to a crisp. Boots Stamina sometimes, but can also weaken you."
+    },
+    {
+        "id": 0,
+        "name": "Hot Meat",
+        "rare": 1,
+        "description": "Eat to warm the body, ward off the cold, and even recover a bit of Stamina."
+    },
+    {
+        "id": 0,
+        "name": "Cold Meat",
+        "rare": 1,
+        "description": "Eat to cool the body, ward off the heat, and even recover a bit of Stamina."
+    },
+    {
+        "id": 0,
+        "name": "Rare Fish",
+        "rare": 1,
+        "description": "A lightly brazed fish. Recovers red portion of Health Gauge when eaten."
+    },
+    {
+        "id": 0,
+        "name": "Gourmet Fish",
+        "rare": 2,
+        "description": "Recover the red portion of the Health gauge and increases natrual recovery."
+    },
+    {
+        "id": 0,
+        "name": "Gourmet Fish+",
+        "rare": 3,
+        "description": "Recovers red portion of the Health gauge and increases reilience."
+    },
+    {
+        "id": 0,
+        "name": "Burnt Fish",
+        "rare": 1,
+        "description": "A fish burnt to a crisp. Sometimes recovers Health, but can also harm you..."
+    },
+    {
+        "id": 0,
+        "name": "Boomerang",
+        "rare": 4,
+        "description": "Returns when thrown. A peculiar shaped weapon form a foreign land."
+    },
+    {
+        "id": 0,
+        "name": "Throwing Knife",
+        "rare": 1,
+        "description": "A standard throwing knife. Goes straight to a target. (Supply Item)"
+    },
+    {
+        "id": 0,
+        "name": "Posion Thrw Knf",
+        "rare": 1,
+        "description": "Throwing knift with a posion edge. Has a toxic effect (Supply Item)"
+    },
+    {
+        "id": 0,
+        "name": "Sleeping Thr Knf",
+        "rare": 1,
+        "description": "Throwing knife with an edge daubed with sleeping powder. (Supply Item)"
+    },
+    {
+        "id": 0,
+        "name": "Paralyze Thr Knf",
+        "rare": 1,
+        "description": "Throwing knife with a paralysis toxin coated edge. (Supply Item)"
+    },
+    {
+        "id": 0,
+        "name": "Tranq Thrwng Knf",
+        "rare": 4,
+        "description": "A knife made to assist in the capture of monsters it strikes. (Supply Item)"
+    },
+    {
+        "id": 0,
+        "name": "Bomb Material",
+        "rare": 1,
+        "description": "Basic ingredient for making hand-thrown bombs,"
+    },
+    {
+        "id": 0,
+        "name": "Paintball",
+        "rare": 1,
+        "description": "Can be thrown at a monster to mark it for easy tracking."
+    },
+    {
+        "id": 0,
+        "name": "Flash Bomb",
+        "rare": 2,
+        "description": "Bomb that flashes brightly upon impact. Blinds monsters."
+    },
+    {
+        "id": 0,
+        "name": "Sonic Bomb",
+        "rare": 2,
+        "description": "Emits a powerful high-frequency sound upon detonation."
+    },
+    {
+        "id": 0,
+        "name": "Dung",
+        "rare": 1,
+        "description": "Monster excrement. One dropping can maximize the fertility of a row."
+    },
+    {
+        "id": 0,
+        "name": "Wyvern Droppings",
+        "rare": 4,
+        "description": "Wyvern excrement. One dropping can maximize the fertility of all rows."
+    },
+    {
+        "id": 0,
+        "name": "Dung Bomb",
+        "rare": 2,
+        "description": "Creates a terrible smell upon impact, which certain wyverns dislike."
+    },
+    {
+        "id": 0,
+        "name": "Smoke Bomb",
+        "rare": 2,
+        "description": "Creates a large cloud of smoke in the area where it lands."
+    },
+    {
+        "id": 0,
+        "name": "Poison Smoke Bmb",
+        "rare": 2,
+        "description": "Smoke bomb containing a toxic chemical. Popular as a household bug bomb."
+    },
+    {
+        "id": 0,
+        "name": "Farcaster",
+        "rare": 3,
+        "description": "Instantly transports you back to base camp."
+    },
+    {
+        "id": 0,
+        "name": "Deodorant",
+        "rare": 2,
+        "description": "Removes item usage blocks. When thrown on the ground, its smoke deodorizes."
+    },
+    {
+        "id": 0,
+        "name": "Tranq Bomb",
+        "rare": 4,
+        "description": "Use to subdue and capture a trapped monster."
+    },
+    {
+        "id": 0,
+        "name": "Spiderweb",
+        "rare": 1,
+        "description": "A spider's web. Very sticky."
+    },
+    {
+        "id": 0,
+        "name": "Net",
+        "rare": 2,
+        "description": "Powerful net able to withstand a certain amount of weight."
+    },
+    {
+        "id": 0,
+        "name": "Trap Tool",
+        "rare": 3,
+        "description": "A tool needed to set up various types of traps, such as the Pitfall Trap."
+    },
+    {
+        "id": 0,
+        "name": "Pitfall Trap",
+        "rare": 3,
+        "description": "Trap for catching certain large monsters. It is tripped by a heavy weight."
+    },
+    {
+        "id": 0,
+        "name": "Shock Trap",
+        "rare": 3,
+        "description": "A trap taht can immobilize a monster. Used for capturing."
+    },
+    {
+        "id": 0,
+        "name": "Lightning Rod",
+        "rare": 3,
+        "description": "Will attract lightning after a while. Can be used in the rain."
+    },
+    {
+        "id": 0,
+        "name": "Barrel Lid",
+        "rare": 5,
+        "description": "A small barrel lid. There appears to be a drawing on it."
+    },
+    {
+        "id": 0,
+        "name": "Small Barrel",
+        "rare": 1,
+        "description": "A small, empty barrel."
+    },
+    {
+        "id": 0,
+        "name": "Large Barrel",
+        "rare": 2,
+        "description": "A large, empty barrel."
+    },
+    {
+        "id": 0,
+        "name": "Sm Barrel-Bomb",
+        "rare": 2,
+        "description": "A small time-bomb."
+    },
+    {
+        "id": 0,
+        "name": "Sm Barrel-Bomb+",
+        "rare": 2,
+        "description": "Upgraded Small Barrel Bomb. Not to be taken lightly despite its size."
+    },
+    {
+        "id": 0,
+        "name": "Lg Barrel-Bomb",
+        "rare": 3,
+        "description": "Powerful bomb triggered by external physical impact."
+    },
+    {
+        "id": 0,
+        "name": "Lg Barrel-Bomb+",
+        "rare": 4,
+        "description": "Upgraded Large Barrel Bomb. Effective against large monsters."
+    },
+    {
+        "id": 0,
+        "name": "Bounce Bomb",
+        "rare": 2,
+        "description": "Bounces into the air when set. This modified bomb requires skill to use."
+    },
+    {
+        "id": 0,
+        "name": "Bounce Bomb+",
+        "rare": 4,
+        "description": "Improved version of the Bounce Bomb. Requires some skill to use."
+    },
+    {
+        "id": 0,
+        "name": "Anti-Dragon Bomb",
+        "rare": 3,
+        "description": "Small time bomb that attaches to an enemy. (Supply Item)"
+    },
+    {
+        "id": 0,
+        "name": "Huskberry",
+        "rare": 1,
+        "description": "An empty berry that can grow anywhere. Try planting it in the field."
+    },
+    {
+        "id": 0,
+        "name": "Sm Bone Husk",
+        "rare": 2,
+        "description": "Bone ammunition casing. Stronger than a Huskberry ammunition casing."
+    },
+    {
+        "id": 0,
+        "name": "Lg Bone Husk",
+        "rare": 3,
+        "description": "Bone ammunition casing that can withstand powerful explosions."
+    },
+    {
+        "id": 0,
+        "name": "Normal S Lv1",
+        "rare": 1,
+        "description": "Inexpensive ammo for novices, but don't expect much. Unlimited shots."
+    },
+    {
+        "id": 0,
+        "name": "Normal S Lv2",
+        "rare": 1,
+        "description": "Normal ammo that is more powerful than Normal S Lv1. Maximum of 99 shots."
+    },
+    {
+        "id": 0,
+        "name": "Normal S Lv3",
+        "rare": 2,
+        "description": "Normal ammo that causes more damage than its predecessor. Max 99 shots."
+    },
+    {
+        "id": 0,
+        "name": "Pierce S Lv1",
+        "rare": 2,
+        "description": "Piercing round that causes multiple hits to monsters. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Pierce S Lv2",
+        "rare": 2,
+        "description": "Piercing round that causes more hits than Lv1 ammo. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Pierce S Lv3",
+        "rare": 3,
+        "description": "Piercing round that causes the most hits in the class. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Pellet S Lv1",
+        "rare": 2,
+        "description": "Sprays a wide area and can cause multiple hits at close range. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Pellet s Lv2",
+        "rare": 2,
+        "description": "Sprays a wide area, causing more hits than Lv1 ammo. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Pellet S Lv3",
+        "rare": 3,
+        "description": "Sprays a wide area, causing the most hits in the class. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Crag S Lv1",
+        "rare": 3,
+        "description": "Penetrates and explodes in its target. Quite powerful and stunning. Max 9 shots."
+    },
+    {
+        "id": 0,
+        "name": "Crag S Lv2",
+        "rare": 3,
+        "description": "Very powerful & stunning shot. Penetrates and explodes. Max 9 shots."
+    },
+    {
+        "id": 0,
+        "name": "Crag S Lv3",
+        "rare": 3,
+        "description": "Tremendously powerful and stunning shot. Penetrates and explodes. Max 9 shots."
+    },
+    {
+        "id": 0,
+        "name": "Clust S Lv1",
+        "rare": 2,
+        "description": "Splits into 3 bombs upon impact. Beware of friendly fire. Max 3 shots."
+    },
+    {
+        "id": 0,
+        "name": "Clust S Lv2",
+        "rare": 3,
+        "description": "Splits into 4 bombs upon impact. Beware of friendly fire. Max 3 shots."
+    },
+    {
+        "id": 0,
+        "name": "Clust S Lv3",
+        "rare": 3,
+        "description": "Splits into 5 bombs upon impact. Beware of friendly fire. Max 3 shots."
+    },
+    {
+        "id": 0,
+        "name": "Flaming S",
+        "rare": 3,
+        "description": "Shot effective against monsters vulnerable to fire. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Water S",
+        "rare": 3,
+        "description": "Shot effective against monsters vulnerable to water. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Thunder S",
+        "rare": 3,
+        "description": "Shot effective against monsters vulnerable to thunder. Max 60 shots."
+    },
+    {
+        "id": 0,
+        "name": "Freeze S",
+        "rare": 3,
+        "description": "Shot effective against monster vulnerable to ice. Max 60 shots. "
+    },
+    {
+        "id": 0,
+        "name": "Dragon S",
+        "rare": 5,
+        "description": "Mysterious ammo that can't be used in normal Bowguns. Maximum of 3 shots."
+    },
+    {
+        "id": 0,
+        "name": "Recov S Lv1",
+        "rare": 1,
+        "description": "Restores a small amount of Health to the target. Maximum of 12 shots."
+    },
+    {
+        "id": 0,
+        "name": "Recov S Lv2",
+        "rare": 2,
+        "description": "Restores a moderate amount of Health to the target. Maximum of 12 shots."
+    },
+    {
+        "id": 0,
+        "name": "Poison S Lv1",
+        "rare": 2,
+        "description": "Poisons target, but may require several shots. Maximum of 12 shots."
+    },
+    {
+        "id": 0,
+        "name": "Poison S Lv2",
+        "rare": 3,
+        "description": "Uses a stronger poison, but may require several shots. Max 8 shots."
+    },
+    {
+        "id": 0,
+        "name": "Para S Lv1",
+        "rare": 3,
+        "description": "Paralyzes target, but may require several shots. Maximum of 12 shots."
+    },
+    {
+        "id": 0,
+        "name": "Para S lv2",
+        "rare": 4,
+        "description": "Stronger paralysis effect, but may require several shots. Max 8 shots."
+    },
+    {
+        "id": 0,
+        "name": "Sleep S Lv1",
+        "rare": 3,
+        "description": "Puts target to sleep, but may require several shots. Maximum of 12 shots."
+    },
+    {
+        "id": 0,
+        "name": "Sleep S Lv2",
+        "rare": 4,
+        "description": "Stronger sleep effect, but may require several shots. Max 8 shots."
+    },
+    {
+        "id": 0,
+        "name": "Tranq S",
+        "rare": 4,
+        "description": "Tranquilizer for use on large trapped monsters. Max 8 shots."
+    },
+    {
+        "id": 0,
+        "name": "Paint S",
+        "rare": 1,
+        "description": "Marks a monster's position on the map for a set time period. Max 99 shots."
+    },
+    {
+        "id": 0,
+        "name": "Demon S",
+        "rare": 3,
+        "description": "Said to bestow the strength of Asura on the target. Max 5 shots."
+    },
+    {
+        "id": 0,
+        "name": "Armor S",
+        "rare": 3,
+        "description": "Said to make the target's skin as hard as stone. Maximum of 5 shots."
+    },
+    {
+        "id": 0,
+        "name": "Empty Bottle",
+        "rare": 1,
+        "description": "A bottle with nothign in it. Nothing more, nothing less."
+    },
+    {
+        "id": 0,
+        "name": "Power Coating",
+        "rare": 2,
+        "description": "Bows loaded with these bottles will have high attack power. Max 50."
+    },
+    {
+        "id": 0,
+        "name": "Poison Coating",
+        "rare": 3,
+        "description": "Bows loaded with these bottles posion enemies on shaft impact. Max 20."
+    },
+    {
+        "id": 0,
+        "name": "ParalysisCoating",
+        "rare": 3,
+        "description": "Bows loaded with these bottles paralyze enemies on shaft impact. Max 20."
+    },
+    {
+        "id": 0,
+        "name": "Sleep Coating",
+        "rare": 3,
+        "description": "Bows loaded with these bottles will put enemies to sleep. Max 20."
+    },
+    {
+        "id": 0,
+        "name": "CloseRngCoating",
+        "rare": 3,
+        "description": "Bows loaded with these get higher close-range power & melee Sharpness. Max 20."
+    },
+    {
+        "id": 0,
+        "name": "Paint Coating",
+        "rare": 1,
+        "description": "Bows loaded with these can make monsters appear on the map. Max 99."
+    },
+    {
+        "id": 0,
+        "name": "Cricket",
+        "rare": 1,
+        "description": "Energetic insect that works well as fishing bait."
+    },
+    {
+        "id": 0,
+        "name": "Worm",
+        "rare": 1,
+        "description": "Nightcrawler for fishing. Use 5 worms to raise soil fertility one level."
+    },
+    {
+        "id": 0,
+        "name": "Firefly",
+        "rare": 2,
+        "description": "A firefly that's always glowing. Works well as fishing bait."
+    },
+    {
+        "id": 0,
+        "name": "Frog",
+        "rare": 2,
+        "description": "A frog. Works well as fishing bait."
+    },
+    {
+        "id": 0,
+        "name": "Tuna Bait",
+        "rare": 2,
+        "description": "The bait preferred by the tuna family of fish."
+    },
+    {
+        "id": 0,
+        "name": "Arrowana Bait",
+        "rare": 2,
+        "description": "The bait preferred by the arrowana family of fish."
+    },
+    {
+        "id": 0,
+        "name": "Goldenfish Bait",
+        "rare": 4,
+        "description": "The bait preferred by Goldenfish."
+    },
+    {
+        "id": 0,
+        "name": "Mega Fishing Fly",
+        "rare": 3,
+        "description": "A fly lure that causes a feeding frenz, no matter what fish is biting."
+    },
+    {
+        "id": 0,
+        "name": "Old Pickaxe",
+        "rare": 1,
+        "description": "A cheap pickaxe with an easily chipped blade."
+    },
+    {
+        "id": 0,
+        "name": "Iron Pickaxe",
+        "rare": 1,
+        "description": "An iron pickaxe with a strong blade."
+    },
+    {
+        "id": 0,
+        "name": "Mega Pickaxe",
+        "rare": 3,
+        "description": "A steel-reinforced pickaxe that is hard to chip."
+    },
+    {
+        "id": 0,
+        "name": "Expand Pickaxe",
+        "rare": 5,
+        "description": "Small pickaxe that appears unsuitable for mining. You sense a strange power..."
+    },
+    {
+        "id": 0,
+        "name": "Old Bugnet",
+        "rare": 1,
+        "description": "Cheap and easily torn net for catching bugs."
+    },
+    {
+        "id": 0,
+        "name": "Bugnet",
+        "rare": 1,
+        "description": "Strong net for catching bugs."
+    },
+    {
+        "id": 0,
+        "name": "Mega Bugnet",
+        "rare": 3,
+        "description": "Extremely durable net for catching bugs."
+    },
+    {
+        "id": 0,
+        "name": "BBQ Spit",
+        "rare": 1,
+        "description": "A must-have item for any hunter. Allows for the cookign of meat."
+    },
+    {
+        "id": 0,
+        "name": "Gourmet BBQ Spit",
+        "rare": 4,
+        "description": "A gourmet BBQ spit that allows you to make Well-Done Steaks more easily."
+    },
+    {
+        "id": 0,
+        "name": "Whetstone",
+        "rare": 1,
+        "description": "A standard whetstone. By grinding weawopns with it, Sharpness is restored."
+    },
+    {
+        "id": 0,
+        "name": "Binoculars",
+        "rare": 1,
+        "description": "Lets you observe from a distance."
+    },
+    {
+        "id": 0,
+        "name": "Garbage",
+        "rare": 1,
+        "description": "Junk created when a combination attempt fails."
+    },
+    {
+        "id": 0,
+        "name": "Flute",
+        "rare": 2,
+        "description": "A dangerous device used to attract certain monsters. May break when used."
+    },
+    {
+        "id": 0,
+        "name": "Health Flute",
+        "rare": 4,
+        "description": "Restores the Health of those who hear it. May break when used."
+    },
+    {
+        "id": 0,
+        "name": "Antidote Flute",
+        "rare": 4,
+        "description": "Eliminates poison in the blood of those who hear it. May break when used."
+    },
+    {
+        "id": 0,
+        "name": "Demon Flute",
+        "rare": 5,
+        "description": "Increases the strength of those who hear it. May break when used."
+    },
+    {
+        "id": 0,
+        "name": "Armor Flute",
+        "rare": 5,
+        "description": "Improves the endurance of those who hear it. May break when used."
+    },
+    {
+        "id": 0,
+        "name": "Honey",
+        "rare": 2,
+        "description": "Normal honey. Highly nutritious."
+    },
+    {
+        "id": 0,
+        "name": "Sunset Herb",
+        "rare": 2,
+        "description": "A strange herb with a pleasant smell. Good for combining."
+    },
+    {
+        "id": 0,
+        "name": "Herb",
+        "rare": 1,
+        "description": "A plant that restores a slight amount of Health."
+    },
+    {
+        "id": 0,
+        "name": "Antidote Herb",
+        "rare": 1,
+        "description": "Field plant with antidotal qualities. Relying on it too heavily poses a risk."
+    },
+    {
+        "id": 0,
+        "name": "Fire Herb",
+        "rare": 1,
+        "description": "A plant that has flammable properties."
+    },
+    {
+        "id": 0,
+        "name": "Ivy",
+        "rare": 1,
+        "description": "A lightweight and extremely strong plant."
+    },
+    {
+        "id": 0,
+        "name": "Sleep Herb",
+        "rare": 1,
+        "description": "Plant with sleep-inducing qualities. Can be planted in the field."
+    },
+    {
+        "id": 0,
+        "name": "Sap Plant",
+        "rare": 1,
+        "description": "A plant with leaves coated in sticky sap. Difficult to remove once attached."
+    },
+    {
+        "id": 0,
+        "name": "Felvine",
+        "rare": 1,
+        "description": "A Melynx favorite. They can't resist its charm."
+    },
+    {
+        "id": 0,
+        "name": "Cactus Flower",
+        "rare": 1,
+        "description": "Contains antidotal substances, but has no effect by itself."
+    },
+    {
+        "id": 0,
+        "name": "Hot Pepper",
+        "rare": 2,
+        "description": "Ignites a fire after only a single bite. Warms you up, but too hot to handle."
+    },
+    {
+        "id": 0,
+        "name": "Dosbiscus",
+        "rare": 4,
+        "description": "A large, beautifully colored flowering plant foreign to this land."
+    },
+    {
+        "id": 0,
+        "name": "Mountain Herbs",
+        "rare": 5,
+        "description": "Highly valued natrual grass found only in the mountains. (Account Item)"
+    },
+    {
+        "id": 0,
+        "name": "Giant Corn",
+        "rare": 5,
+        "description": "Gigantic corn that's hard to grow in this region. Packed with kernels."
+    },
+    {
+        "id": 0,
+        "name": "Special Mushroom",
+        "rare": 5,
+        "description": "Tiny, difficult to pick. A Mosswine's favorite food. (Account Item)"
+    },
+    {
+        "id": 0,
+        "name": "Select Mushroom",
+        "rare": 5,
+        "description": "Selected from Special Mushrooms for their size and taste (Account Item)"
+    },
+    {
+        "id": 0,
+        "name": "Blue Mushroom",
+        "rare": 2,
+        "description": "Rare mushroom with a power-enhancing effect."
+    },
+    {
+        "id": 0,
+        "name": "Nitroshroom",
+        "rare": 2,
+        "description": "Rare mushroom with the power to generate heat."
+    },
+    {
+        "id": 0,
+        "name": "Parashroom",
+        "rare": 3,
+        "description": "Mushroom that induces a paralysis effect."
+    },
+    {
+        "id": 0,
+        "name": "Toadstool",
+        "rare": 2,
+        "description": "A poisonous fungus. Perhaps it has other effects as well..."
+    },
+    {
+        "id": 0,
+        "name": "Exciteshroom",
+        "rare": 3,
+        "description": "A mushroom with a very strange smell. What would happen if you ate it...?"
+    },
+    {
+        "id": 0,
+        "name": "Dragon Toadstool",
+        "rare": 3,
+        "description": "A dangerous fungus said to draw the life out of people. Beware."
+    },
+    {
+        "id": 0,
+        "name": "Spicy Mushroom",
+        "rare": 3,
+        "description": "Speical Spicy Mushroom that recovers a small amount of Stamina."
+    },
+    {
+        "id": 0,
+        "name": "Chaos Mushroom",
+        "rare": 4,
+        "description": "Said to cause chaos. Its spores cause monsters to hallucinate."
+    },
+    {
+        "id": 0,
+        "name": "Paintberry",
+        "rare": 1,
+        "description": "Releases a smelly paint-like juice when broken. Can be planted."
+    },
+    {
+        "id": 0,
+        "name": "Power Seed",
+        "rare": 2,
+        "description": "Temporarily raises Attack power. Short-lived effect if used raw. Plantable."
+    },
+    {
+        "id": 0,
+        "name": "Armor Seed",
+        "rare": 2,
+        "description": "Temporarily increases Defense when consumed. Very invigorating."
+    },
+    {
+        "id": 0,
+        "name": "Dragon Seed",
+        "rare": 2,
+        "description": "Mysterious berry said to be hated by dragons."
+    },
+    {
+        "id": 0,
+        "name": "Scatternut",
+        "rare": 2,
+        "description": "A nut that shatters to pieces when subjected to an impact."
+    },
+    {
+        "id": 0,
+        "name": "Needleberry",
+        "rare": 1,
+        "description": "Berry covered in needle-like thorns. Can be made into bullets. Plantable."
+    },
+    {
+        "id": 0,
+        "name": "Bomberry",
+        "rare": 2,
+        "description": "A berry that explodes when subjected to an impact."
+    },
+    {
+        "id": 0,
+        "name": "Tropical Berry",
+        "rare": 5,
+        "description": "A blood red berry grown in the scorching heat. (Account Item)"
+    },
+    {
+        "id": 0,
+        "name": "Frozen Berry",
+        "rare": 3,
+        "description": "A completely frozen berry. Can provide relief from heat and recover Stamina."
+    },
+    {
+        "id": 0,
+        "name": "Red Seed",
+        "rare": 2,
+        "description": "A strange red seed of unknown variety. Can be planted in the field."
+    },
+    {
+        "id": 0,
+        "name": "Green Seed",
+        "rare": 2,
+        "description": "A strange green seed of unknown variety. Can be planted in the field."
+    },
+    {
+        "id": 0,
+        "name": "Yellow Seed",
+        "rare": 4,
+        "description": "A strange yellow seed of unknown variety. Can be planted in the field."
+    },
+    {
+        "id": 0,
+        "name": "Beautiful Shell",
+        "rare": 2,
+        "description": "A beautiful shell with a faint tinge of color. (Account Item)"
+    },
+    {
+        "id": 0,
+        "name": "Black Pearl",
+        "rare": 4,
+        "description": "Taken from the depths of a shell. Valued as treasure, as well as material."
+    },
+    {
+        "id": 0,
+        "name": "Giant Blk Pearl",
+        "rare": 5,
+        "description": "Largest and most beautiful of all Black Pearls. Very valuable and hard to find."
+    },
+    {
+        "id": 0,
+        "name": "Stone",
+        "rare": 1,
+        "description": "A small rock. Can be thrown."
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    },
+    {
+        "id": 0,
+        "name": "",
+        "rare": 1,
+        "description": ""
+    }
+]
