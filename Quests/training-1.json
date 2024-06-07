@@ -1,0 +1,45 @@
+[
+    {
+        "id": 0,
+        "name": "Yian Kut-Ku Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Yian Kut-Ku",
+        "goal-condition": "Hunt the Yian Kut-Ku",
+        "quest-details": "The key to using a Sword is speed. Use your speed to get into the absolute best position possible!",
+        "difficulty": 1,
+        "point-multiplier": 95,
+        "weapon": {
+            "id": 14,
+            "name": "Poison Battleaxe",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "id": 12,
+                "name": "Leather Vambraces",
+                "decorations": [
+                    {
+                        "id": 71,
+                        "name": "Hardball Jewel"
+                    }
+                ]
+            },
+            {
+                "id": 193,
+                "name": "Hermitaur Tasset",
+                "decorations": []
+            },
+            {
+                "id": 14,
+                "name": "Green Pants",
+                "decorations": [
+                    {
+                        "id": 71,
+                        "name": "Hardball Jewel"
+                    }
+                ]
+            }
+        ]
+    }
+]
