@@ -3,1491 +3,1278 @@
         "id": 0,
         "name": "Attack Up (Large)",
         "skill-point": "Attack",
-        "points": 20,
-        "description": "True Raw +20"
+        "points": 20
     },
     {
         "id": 1,
         "name": "Attack Up (Medium)",
         "skill-point": "Attack",
-        "points": 15,
-        "description": "True Raw +15"
+        "points": 15
     },
     {
         "id": 2,
         "name": "Attack Up (Small)",
         "skill-point": "Attack",
-        "points": 10,
-        "description": "True Raw +10"
+        "points": 10
     },
     {
         "id": 3,
         "name": "Attack Down (Small)",
         "skill-point": "Attack",
-        "points": -10,
-        "description": "True Raw -5"
+        "points": -10
     },
     {
         "id": 4,
         "name": "Attack Down (Medium)",
         "skill-point": "Attack",
-        "points": -15,
-        "description": "True Raw -10"
+        "points": -15
     },
     {
         "id": 5,
         "name": "Attack Down (Large)",
         "skill-point": "Attack",
-        "points": -20,
-        "description": "True Raw -15"
+        "points": -20
     },
     {
         "id": 6,
         "name": "Defense +40",
         "skill-point": "Defense",
-        "points": 20,
-        "description": "Defense +40"
+        "points": 20
     },
     {
         "id": 7,
         "name": "Defense +30",
         "skill-point": "Defense",
-        "points": 15,
-        "description": "Defense +30"
+        "points": 15
     },
     {
         "id": 8,
         "name": "Defense +20",
         "skill-point": "Defense",
-        "points": 10,
-        "description": "Defense +20"
+        "points": 10
     },
     {
         "id": 9,
         "name": "Defense -20",
         "skill-point": "Defense",
-        "points": -10,
-        "description": "Defense -20"
+        "points": -10
     },
     {
         "id": 10,
         "name": "Defense -30",
         "skill-point": "Defense",
-        "points": -15,
-        "description": "Defense -30"
+        "points": -15
     },
     {
         "id": 11,
         "name": "Defense -40",
         "skill-point": "Defense",
-        "points": -20,
-        "description": "Defense -40"
+        "points": -20
     },
     {
         "id": 12,
         "name": "Health +50",
         "skill-point": "Health",
-        "points": 20,
-        "description": "Health +50"
+        "points": 20
     },
     {
         "id": 13,
         "name": "Health +30",
         "skill-point": "Health",
-        "points": 15,
-        "description": "Health +30"
+        "points": 15
     },
     {
         "id": 14,
         "name": "Health +20",
         "skill-point": "Health",
-        "points": 10,
-        "description": "Health +20"
+        "points": 10
     },
     {
         "id": 15,
         "name": "Health -10",
         "skill-point": "Health",
-        "points": -10,
-        "description": "Health -10"
+        "points": -10
     },
     {
         "id": 16,
         "name": "Health -20",
         "skill-point": "Health",
-        "points": -15,
-        "description": "Health -20"
+        "points": -15
     },
     {
         "id": 17,
         "name": "Health -30",
         "skill-point": "Health",
-        "points": -20,
-        "description": "Health -30"
+        "points": -20
     },
     {
         "id": 18,
         "name": "All Res +10",
         "skill-point": "All Resist",
-        "points": 20,
-        "description": "All Resistances +10"
+        "points": 20
     },
     {
         "id": 19,
         "name": "All Res +5",
         "skill-point": "All Resist",
-        "points": 15,
-        "description": "All Resistances +5"
+        "points": 15
     },
     {
         "id": 20,
         "name": "All Res +3",
         "skill-point": "All Resist",
-        "points": 10,
-        "description": "All Resistances +3"
+        "points": 10
     },
     {
         "id": 21,
         "name": "All Res -3",
         "skill-point": "All Resist",
-        "points": -10,
-        "description": "All Resistances -3"
+        "points": -10
     },
     {
         "id": 22,
         "name": "All Res -5",
         "skill-point": "All Resist",
-        "points": -15,
-        "description": "All Resistances -5"
+        "points": -15
     },
     {
         "id": 23,
         "name": "All Res -10",
         "skill-point": "All Resist",
-        "points": -20,
-        "description": "All Resistances -10"
+        "points": -20
     },
     {
         "id": 24,
         "name": "Fire Res +10",
         "skill-point": "Fire Res",
-        "points": 15,
-        "description": "Fire Resistance +10"
+        "points": 15
     },
     {
         "id": 25,
         "name": "Fire Res +5",
         "skill-point": "Fire Res",
-        "points": 10,
-        "description": "Fire Resistance +5"
+        "points": 10
     },
     {
         "id": 26,
         "name": "Fire Res -5",
         "skill-point": "Fire Res",
-        "points": -10,
-        "description": "Fire Resistance -5"
+        "points": -10
     },
     {
         "id": 27,
         "name": "Fire Res -10",
         "skill-point": "Fire Res",
-        "points": -15,
-        "description": "Fire Resistance -10"
+        "points": -15
     },
     {
         "id": 28,
         "name": "Water Res +10",
         "skill-point": "Water Res",
-        "points": 15,
-        "description": "Water Resistance +10"
+        "points": 15
     },
     {
         "id": 29,
         "name": "Water Res +5",
         "skill-point": "Water Res",
-        "points": 10,
-        "description": "Water Resistance +5"
+        "points": 10
     },
     {
         "id": 30,
         "name": "Water Res -5",
         "skill-point": "Water Res",
-        "points": -10,
-        "description": "Water Resistance -5"
+        "points": -10
     },
     {
         "id": 31,
         "name": "Water Res -10",
         "skill-point": "Water Res",
-        "points": -15,
-        "description": "Water Resistance -10"
+        "points": -15
     },
     {
         "id": 32,
         "name": "Thunder Res +10",
         "skill-point": "ThunderRes",
-        "points": 15,
-        "description": "Thunder Resistance +10"
+        "points": 15
     },
     {
         "id": 33,
         "name": "Thunder Res +5",
         "skill-point": "ThunderRes",
-        "points": 10,
-        "description": "Thunder Resistance +5"
+        "points": 10
     },
     {
         "id": 34,
         "name": "Thunder Res -5",
         "skill-point": "ThunderRes",
-        "points": -10,
-        "description": "Thunder Resistance -5"
+        "points": -10
     },
     {
         "id": 35,
         "name": "Thunder Res -10",
         "skill-point": "ThunderRes",
-        "points": -15,
-        "description": "Thunder Resistance -10"
+        "points": -15
     },
     {
         "id": 36,
         "name": "Ice Res +10",
         "skill-point": "Ice Res",
-        "points": 15,
-        "description": "Ice Resistance +10"
+        "points": 15
     },
     {
         "id": 37,
         "name": "Ice Res +5",
         "skill-point": "Ice Res",
-        "points": 10,
-        "description": "Ice Resistance +5"
+        "points": 10
     },
     {
         "id": 38,
         "name": "Ice Res -5",
         "skill-point": "Ice Res",
-        "points": -10,
-        "description": "Ice Resistance -5"
+        "points": -10
     },
     {
         "id": 39,
         "name": "Ice Res -10",
         "skill-point": "Ice Res",
-        "points": -15,
-        "description": "Ice Resistance -10"
+        "points": -15
     },
     {
         "id": 40,
         "name": "Dragon Res +10",
         "skill-point": "Dragon Res",
-        "points": 15,
-        "description": "Dragon Resistance +10"
+        "points": 15
     },
     {
         "id": 41,
         "name": "Dragon Res +5",
         "skill-point": "Dragon Res",
-        "points": 10,
-        "description": "Dragon Resistance +5"
+        "points": 10
     },
     {
         "id": 42,
         "name": "Dragon Res -5",
         "skill-point": "Dragon Res",
-        "points": -10,
-        "description": "Dragon Resistance -5"
+        "points": -10
     },
     {
         "id": 43,
         "name": "Dragon Res -10",
         "skill-point": "Dragon Res",
-        "points": -15,
-        "description": "Dragon Resistance -10"
+        "points": -15
     },
     {
         "id": 44,
         "name": "Faint Negated",
         "skill-point": "Faint",
-        "points": 15,
-        "description": "Prevents the Hunter from being Stunned"
+        "points": 15
     },
     {
         "id": 45,
         "name": "Faint Prob Halved",
         "skill-point": "Faint",
-        "points": 10,
-        "description": "Reduces Stun buildup on the Hunter by half"
+        "points": 10
     },
     {
         "id": 46,
         "name": "Faint Duration(x2)",
         "skill-point": "Faint",
-        "points": -10,
-        "description": "Doubles duration of Stun on the Hunter"
+        "points": -10
     },
     {
         "id": 47,
         "name": "Poison Negated",
         "skill-point": "Poison",
-        "points": 15,
-        "description": "Prevents the Hunter from being Poisoned"
+        "points": 15
     },
     {
         "id": 48,
         "name": "Poison Dur Halved",
         "skill-point": "Poison",
-        "points": 10,
-        "description": "Halves Poison damage taken"
+        "points": 10
     },
     {
         "id": 49,
         "name": "Poison Dur(x2)",
         "skill-point": "Poison",
-        "points": -10,
-        "description": "Doubles Poison damage taken"
+        "points": -10
     },
     {
         "id": 50,
         "name": "Paralysis Negated",
         "skill-point": "Paralysis",
-        "points": 15,
-        "description": "Prevents the Hunter from being Paralyzed"
+        "points": 15
     },
     {
         "id": 51,
         "name": "Para Duration Halved",
         "skill-point": "Paralysis",
-        "points": 10,
-        "description": "Halves the duration of Paralysis on the Hunter"
+        "points": 10
     },
     {
         "id": 52,
         "name": "Para Duration(x2)",
         "skill-point": "Paralysis",
-        "points": -10,
-        "description": "Doubles duration of Paralysis on the Hunter"
+        "points": -10
     },
     {
         "id": 53,
         "name": "Sleep Negated",
         "skill-point": "Sleep",
-        "points": 15,
-        "description": "Prevents the Hunter from being put to Sleep"
+        "points": 15
     },
     {
         "id": 54,
         "name": "Sleep Dur Halved",
         "skill-point": "Sleep",
-        "points": 10,
-        "description": "Halves the duration of Sleep on the Hunter"
+        "points": 10
     },
     {
         "id": 55,
         "name": "Sleep Duration(x2)",
         "skill-point": "Sleep",
-        "points": -10,
-        "description": "Doubles duration of Sleep on the Hunter"
+        "points": -10
     },
     {
         "id": 56,
         "name": "Antiseptic",
         "skill-point": "Antiseptic",
-        "points": 10,
-        "description": "Prevents the Hunter from being afflicted with Soiled"
+        "points": 10
     },
     {
         "id": 57,
         "name": "Fatigue Cancellation",
         "skill-point": "Fatigue",
-        "points": 10,
-        "description": "Prevents the Hunter from being afflicted with Fatigue"
+        "points": 10
     },
     {
         "id": 58,
         "name": "Snow Res",
         "skill-point": "Snow Res",
-        "points": 10,
-        "description": "Prevents the Hunter from being afflicted with Snowman"
+        "points": 10
     },
     {
         "id": 59,
         "name": "Quake Resistance",
         "skill-point": "Quake Res",
-        "points": 10,
-        "description": "Protects against Quakes"
+        "points": 10
     },
     {
         "id": 60,
         "name": "High Grade Earplug",
         "skill-point": "HearProtct",
-        "points": 15,
-        "description": "Protects against all Roars"
+        "points": 15
     },
     {
         "id": 61,
         "name": "Earplug",
         "skill-point": "HearProtct",
-        "points": 10,
-        "description": "Protects against small Roars"
+        "points": 10
     },
     {
         "id": 62,
         "name": "Dragon Wind Breaker",
         "skill-point": "Wind Press",
-        "points": 20,
-        "description": "Protects against all Wind Pressure"
+        "points": 20
     },
     {
         "id": 63,
         "name": "High Wind Res",
         "skill-point": "Wind Press",
-        "points": 15,
-        "description": "Protects against High Wind Pressure"
+        "points": 15
     },
     {
         "id": 64,
         "name": "Low Wind Res",
         "skill-point": "Wind Press",
-        "points": 10,
-        "description": "Protects against Low Wind Pressure"
+        "points": 10
     },
     {
         "id": 65,
         "name": "Steal No Effect",
         "skill-point": "Anti-Theft",
-        "points": 10,
-        "description": "Prevents items from being stolen"
+        "points": 10
     },
     {
         "id": 66,
         "name": "Self-Defense",
         "skill-point": "ResistSts",
-        "points": 10,
-        "description": "Composite skill: Poison Negated, Paralysis Negated, Sleep Negated, Faint Negated"
+        "points": 10
     },
     {
         "id": 67,
         "name": "Metallic Protection",
         "skill-point": "AntiFirDrg",
-        "points": 10,
-        "description": "Composite Skill: TerrainDamageNegate, Fire Res +10"
+        "points": 10
     },
     {
         "id": 68,
         "name": "Frosty Protection",
         "skill-point": "AntiDaora",
-        "points": 10,
-        "description": "Composite Skill: Dragon Wind Breaker, Snow Res"
+        "points": 10
     },
     {
         "id": 69,
         "name": "Fiery Protection",
         "skill-point": "AntiChamel",
-        "points": 10,
-        "description": "Composite Skill: Poison Negated, Steal No Effect, Fatigue Cancellation"
+        "points": 10
     },
     {
         "id": 70,
         "name": "Sharpness +1",
         "skill-point": "Artisan",
-        "points": 10,
-        "description": "Increases the weapon's visible sharpness level"
+        "points": 10
     },
     {
         "id": 71,
         "name": "Sharp Sword",
         "skill-point": "Sharpness",
-        "points": 10,
-        "description": "Reduces sharpness consumption by half. If the original cost was already 1, there is a 50% chance no sharpness will be consumed"
+        "points": 10
     },
     {
         "id": 72,
         "name": "Blunt",
         "skill-point": "Sharpness",
-        "points": -10,
-        "description": "Doubles sharpness consumption"
+        "points": -10
     },
     {
         "id": 73,
         "name": "ESP",
         "skill-point": "Fencing",
-        "points": 10,
-        "description": "Attacks will not bounce"
+        "points": 10
     },
     {
         "id": 74,
         "name": "Sharpening Skl Inc",
         "skill-point": "SwdShrpner",
-        "points": 10,
-        "description": "Whetstone items sharpen weapons in a single stroke"
+        "points": 10
     },
     {
         "id": 75,
         "name": "Sharpening Skl Half",
         "skill-point": "SwdShrpner",
-        "points": -10,
-        "description": "Halves the sharpness recovery of Whetstone items"
+        "points": -10
     },
     {
         "id": 76,
         "name": "Guard +2",
         "skill-point": "Guard",
-        "points": 20,
-        "description": "Further reduces damage, knockback and stamina usage when blocking"
+        "points": 20
     },
     {
         "id": 77,
         "name": "Guard +1",
         "skill-point": "Guard",
-        "points": 10,
-        "description": "Reduces damage, knockback and stamina usage when blocking"
+        "points": 10
     },
     {
         "id": 78,
         "name": "Guard -1",
         "skill-point": "Guard",
-        "points": -10,
-        "description": "Increases damage, knockback and stamina usage when blocking"
+        "points": -10
     },
     {
         "id": 79,
         "name": "Auto-Guard",
         "skill-point": "Auto-Guard",
-        "points": 10,
-        "description": "Automatically blocks attacks if possible"
+        "points": 10
     },
     {
         "id": 80,
         "name": "Art of Unsheathing",
         "skill-point": "Sword Draw",
-        "points": 10,
-        "description": "Unsheathe attacks will always hit critically"
+        "points": 10
     },
     {
         "id": 81,
         "name": "Stellar Hunter",
         "skill-point": "Edgemaster",
-        "points": 10,
-        "description": "Composite Skill: Sharpness +1, Attack Up (Large)"
+        "points": 10
     },
     {
         "id": 82,
         "name": "NormalS/RapidBow Up",
         "skill-point": "NormalS Up",
-        "points": 10,
-        "description": "Multiplies damage dealt by Normal S and Rapid Arrows by 1.1"
+        "points": 10
     },
     {
         "id": 83,
         "name": "PierceS/PierceBow Up",
         "skill-point": "PierceS Up",
-        "points": 10,
-        "description": "Multiplies damage dealt by Pierce S and Pierce Arrows by 1.1"
+        "points": 10
     },
     {
         "id": 84,
         "name": "PelletS/ScattrBow Up",
         "skill-point": "PelletS Up",
-        "points": 10,
-        "description": "Multiplies damage dealt by Pellet S and Spread Arrows by 1.3"
+        "points": 10
     },
     {
         "id": 85,
         "name": "Normal S All LV Add",
         "skill-point": "NormalSAdd",
-        "points": 10,
-        "description": "Enables Bowguns to load Normal S Lv 1~3"
+        "points": 10
     },
     {
         "id": 86,
         "name": "Pierce S All LV Add",
         "skill-point": "PierceSAdd",
-        "points": 15,
-        "description": "Enables Bowguns to load Pierce S Lv 1~3"
+        "points": 15
     },
     {
         "id": 87,
         "name": "Pierce S LV1 Add",
         "skill-point": "PierceSAdd",
-        "points": 10,
-        "description": "Enables Bowguns to load Pierce S Lv 1"
+        "points": 10
     },
     {
         "id": 88,
         "name": "Pellet S All LV Add",
         "skill-point": "PelletSAdd",
-        "points": 15,
-        "description": "Enables Bowguns to load Pellet S Lv 1~3"
+        "points": 15
     },
     {
         "id": 89,
         "name": "Pellet S LV 1 Add",
         "skill-point": "PelletSAdd",
-        "points": 10,
-        "description": "Enables Bowguns to load Pellet S Lv 1"
+        "points": 10
     },
     {
         "id": 90,
         "name": "Crag S All LV Add",
         "skill-point": "CragSAdd",
-        "points": 15,
-        "description": "Enables Bowguns to load Crag S Lv 1~3"
+        "points": 15
     },
     {
         "id": 91,
         "name": "Crag S LV 1 Add",
         "skill-point": "CragSAdd",
-        "points": 10,
-        "description": "Enables Bowguns to load Crag S Lv 1"
+        "points": 10
     },
     {
         "id": 92,
         "name": "Clust S All LV Add",
         "skill-point": "ClustSAdd",
-        "points": 15,
-        "description": "Enables Bowguns to load Clust S Lv 1~3"
+        "points": 15
     },
     {
         "id": 93,
         "name": "Clust S LV 1 Add",
         "skill-point": "ClustSAdd",
-        "points": 10,
-        "description": "Enables Bowguns to load Clust S Lv 1"
+        "points": 10
     },
     {
         "id": 94,
         "name": "Reloading Speed +3",
         "skill-point": "Reload",
-        "points": 20,
-        "description": "Improves Reloading Speed by 3 levels"
+        "points": 20
     },
     {
         "id": 95,
         "name": "Reloading Speed +2",
         "skill-point": "Reload",
-        "points": 15,
-        "description": "Improves Reloading Speed by 2 levels"
+        "points": 15
     },
     {
         "id": 96,
         "name": "Reloading Speed +1",
         "skill-point": "Reload",
-        "points": 10,
-        "description": "Improves Reloading Speed by 1 level"
+        "points": 10
     },
     {
         "id": 97,
         "name": "Reloading Speed -1",
         "skill-point": "Reload",
-        "points": -10,
-        "description": "Worsens Reloading Speed by 1 level"
+        "points": -10
     },
     {
         "id": 98,
         "name": "Reloading Speed -2",
         "skill-point": "Reload",
-        "points": -15,
-        "description": "Worsens Reloading Speed by 2 levels"
+        "points": -15
     },
     {
         "id": 99,
         "name": "Reloading Speed -3",
         "skill-point": "Reload",
-        "points": -20,
-        "description": "Worsens Reloading Speed by 3 levels"
+        "points": -20
     },
     {
         "id": 100,
         "name": "Auto Reload",
         "skill-point": "AutoReload",
-        "points": 10,
-        "description": "Bowgun: Allows one to shoot without reloading until the ammunition is depleted or changed. Does not work on Rapid Fired ammo types. Maximizes recoil and makes recoil lowering skills ineffective. Bow: Coatings do not have to be loaded to be used."
+        "points": 10
     },
     {
         "id": 101,
         "name": "Recoil Reduction +2",
         "skill-point": "Recoil",
-        "points": 20,
-        "description": "Improves Recoil by 4 levels"
+        "points": 20
     },
     {
         "id": 102,
         "name": "Recoil Reduction +1",
         "skill-point": "Recoil",
-        "points": 10,
-        "description": "Improves Recoil by 2 levels"
+        "points": 10
     },
     {
         "id": 103,
         "name": "Shell Deviation Down",
         "skill-point": "Precision",
-        "points": 10,
-        "description": "Reduces bullet and arrow deviation"
+        "points": 10
     },
     {
         "id": 104,
         "name": "Shell Deviation Up",
         "skill-point": "Precision",
-        "points": -10,
-        "description": "Increases bullet and arrow deviation"
+        "points": -10
     },
     {
         "id": 105,
         "name": "Poison Coating Add",
         "skill-point": "PoisonCAdd",
-        "points": 10,
-        "description": "Enables Bows to load Poison Coatings"
+        "points": 10
     },
     {
         "id": 106,
         "name": "Paralysis Coat Add",
         "skill-point": "ParalyCAdd",
-        "points": 10,
-        "description": "Enables Bows to load Paralysis Coatings"
+        "points": 10
     },
     {
         "id": 107,
         "name": "Sleep Coating Add",
         "skill-point": "SleepCAdd",
-        "points": 10,
-        "description": "Enables Bows to load Sleep Coatings"
+        "points": 10
     },
     {
         "id": 108,
         "name": "Power Coating Add",
         "skill-point": "PowerCAdd",
-        "points": 10,
-        "description": "Enables Bows to load Power Coatings"
+        "points": 10
     },
     {
         "id": 109,
         "name": "ClsRngCAdd",
         "skill-point": "ClsRngCAdd",
-        "points": 10,
-        "description": "Enables Bows to load Close Range Coatings"
+        "points": 10
     },
     {
         "id": 110,
         "name": "Straight & True",
         "skill-point": "SteadyHand",
-        "points": 10,
-        "description": "Composite Skill: NormalS/RapidBow Up, PierceS/PierceBow Up, PelletS/ScattrBow Up"
+        "points": 10
     },
     {
         "id": 111,
         "name": "Reckless Abandon +3",
         "skill-point": "Expert",
-        "points": 20,
-        "description": "Affinity +30% If the weapon's natural affinity is not negative, adds a further 5% in case of Blue Sharpness and 10% in case of White or Purple Sharpness."
+        "points": 20
     },
     {
         "id": 112,
         "name": "Reckless Abandon +2",
         "skill-point": "Expert",
-        "points": 15,
-        "description": "Affinity +20%"
+        "points": 15
     },
     {
         "id": 113,
         "name": "Reckless Abandon +1",
         "skill-point": "Expert",
-        "points": 10,
-        "description": "Affinity +10%"
+        "points": 10
     },
     {
         "id": 114,
         "name": "Reckless Abandon -1",
         "skill-point": "Expert",
-        "points": -10,
-        "description": "Affinity -5%"
+        "points": -10
     },
     {
         "id": 115,
         "name": "Reckless Abandon -2",
         "skill-point": "Expert",
-        "points": -15,
-        "description": "Affinity -10%"
+        "points": -15
     },
     {
         "id": 116,
         "name": "Abnormal Sts Atk Up",
         "skill-point": "Spc Attack",
-        "points": 10,
-        "description": "Multiplies Status Ailment values by 1.125."
+        "points": 10
     },
     {
         "id": 117,
         "name": "Element Attack Up",
         "skill-point": "ElementAtk",
-        "points": 10,
-        "description": "Multiplies Elemental damage by 1.2. Does not apply to the Fire component of Shelling, Wyvern Fire, Crag S and Clust S damage"
+        "points": 10
     },
     {
         "id": 118,
         "name": "Damage Rec Speed +2",
         "skill-point": "Rec Speed",
-        "points": 20,
-        "description": "Quadruples natural recovery speed"
+        "points": 20
     },
     {
         "id": 119,
         "name": "Damage Rec Speed +1",
         "skill-point": "Rec Speed",
-        "points": 10,
-        "description": "Doubles natural recovery speed"
+        "points": 10
     },
     {
         "id": 120,
         "name": "Damage Rec Speed -1",
         "skill-point": "Rec Speed",
-        "points": -10,
-        "description": "Halves natural recovery speed"
+        "points": -10
     },
     {
         "id": 121,
         "name": "Damage Rec Speed -2",
         "skill-point": "Rec Speed",
-        "points": -20,
-        "description": "Quarters natural recovery speed"
+        "points": -20
     },
     {
         "id": 122,
         "name": "Divine Protection",
         "skill-point": "Protection",
-        "points": 10,
-        "description": "25% chance of reducing damage taken by 30%"
+        "points": 10
     },
     {
         "id": 123,
         "name": "Demonic Protection",
         "skill-point": "Protection",
-        "points": -10,
-        "description": "25% chance of increasing damage taken by 30%"
+        "points": -10
     },
     {
         "id": 124,
         "name": "Guard Inc",
         "skill-point": "Guard Up",
-        "points": 10,
-        "description": "Allows certain normally unblockable attacks to be blocked, such as Gas and Beam attacks."
+        "points": 10
     },
     {
         "id": 125,
         "name": "Evade +2",
         "skill-point": "Evade",
-        "points": 15,
-        "description": "Increases the invincibility period of an evade from 6/30 of a second to 12/30 of a second."
+        "points": 15
     },
     {
         "id": 126,
         "name": "Evade +1",
         "skill-point": "Evade",
-        "points": 10,
-        "description": "Increases the invincibility period of an evade from 6/30 of a second to 10/30 of a second."
+        "points": 10
     },
     {
         "id": 127,
         "name": "Evade Distance Up",
         "skill-point": "Evade Dist",
-        "points": 10,
-        "description": "Increases the distance traveled when dodging by 50%"
+        "points": 10
     },
     {
         "id": 128,
         "name": "Adrenaline +2",
         "skill-point": "Potential",
-        "points": 15,
-        "description": "Increases defense by 90 points and Atk by 30% if the Hunter's HP is below 40% of its maximum"
+        "points": 15
     },
     {
         "id": 129,
         "name": "Adrenaline +1",
         "skill-point": "Potential",
-        "points": 10,
-        "description": "Increases defense by 90 points if the Hunter's HP is below 40% of its maximum"
+        "points": 10
     },
     {
         "id": 130,
         "name": "Worry",
         "skill-point": "Potential",
-        "points": -10,
-        "description": "Increases defense by 42 points reduces Atk by 30% if the Hunter's HP is below 40% of its maximum"
+        "points": -10
     },
     {
         "id": 131,
         "name": "Gunnery King",
         "skill-point": "Gunnery",
-        "points": 15,
-        "description": "Increases damage on Ballista, Cannon, Gunlance Shelling and Wyvern Fire by 20%. Doubles the power of Crag S. Wyvern Fire cooldown reduced from 120s to 90s"
+        "points": 15
     },
     {
         "id": 132,
         "name": "+10",
         "skill-point": "Gunnery",
-        "points": 15,
-        "description": "Gunnery Master"
+        "points": 15
     },
     {
         "id": 133,
         "name": "Capacity Up",
         "skill-point": "Capacity",
-        "points": 10,
-        "description": "Increases the ammo capacity of Bowguns and Gunlance by 1. Adds a fourth charge level to Bows."
+        "points": 10
     },
     {
         "id": 134,
         "name": "Focus",
         "skill-point": "ShortCharg",
-        "points": 10,
-        "description": "Speeds up charge time for Greatsword, Hammer and Bow. Longsword accrues Spirit faster"
+        "points": 10
     },
     {
         "id": 135,
         "name": "Distracted",
         "skill-point": "ShortCharg",
-        "points": -10,
-        "description": "Slows down charge time for Greatsword, Hammer and Bow. Longsword accrues Spirit slower"
+        "points": -10
     },
     {
         "id": 136,
         "name": "Guts",
         "skill-point": "Guts",
-        "points": 10,
-        "description": "Survives with 1 HP if above 64 HP and receiving an attack which would otherwise kill. Does not work if Paralyzed."
+        "points": 10
     },
     {
         "id": 137,
         "name": "Emboldened",
         "skill-point": "Fury",
-        "points": 10,
-        "description": "Composite Skill: Adrenaline +2, Guts"
+        "points": 10
     },
     {
         "id": 138,
         "name": "Farsight",
         "skill-point": "Map",
-        "points": 10,
-        "description": "Map always available"
+        "points": 10
     },
     {
         "id": 139,
         "name": "Map Unavailable",
         "skill-point": "Map",
-        "points": -10,
-        "description": "Map unavailable even with the item"
+        "points": -10
     },
     {
         "id": 140,
         "name": "Autotracker",
         "skill-point": "PsychicVis",
-        "points": 15,
-        "description": "Boss Monsters do not need to be painted to be tracked. Tracking is more detailed."
+        "points": 15
     },
     {
         "id": 141,
         "name": "Detect",
         "skill-point": "PsychicVis",
-        "points": 10,
-        "description": "Adds more detail to the tracking of painted Monsters. 2/3 chance of Psychoserum effect at quest start and every 5 minutes."
+        "points": 10
     },
     {
         "id": 142,
         "name": "Gathering +2",
         "skill-point": "Gathering",
-        "points": 15,
-        "description": "Reduces the chance of premature node exhaustion from 5/32 to 1/32"
+        "points": 15
     },
     {
         "id": 143,
         "name": "Gathering +1",
         "skill-point": "Gathering",
-        "points": 10,
-        "description": "Reduces the chance of premature node exhaustion from 5/32 to 3/32"
+        "points": 10
     },
     {
         "id": 144,
         "name": "Gathering -1",
         "skill-point": "Gathering",
-        "points": -10,
-        "description": "Increases the chance of premature node exhaustion from 5/32 to 9/32"
+        "points": -10
     },
     {
         "id": 145,
         "name": "Carving Celebrity",
         "skill-point": "Carving",
-        "points": 20,
-        "description": "Increases the number of Carves by 1 as well as preventing flinching while gathering and fishing"
+        "points": 20
     },
     {
         "id": 146,
         "name": "Carving Iron Man",
         "skill-point": "Carving",
-        "points": 10,
-        "description": "Prevents flinching from small attacks while gathering and fishing"
+        "points": 10
     },
     {
         "id": 147,
         "name": "High Speed Gathering",
         "skill-point": "HiSpdGathr",
-        "points": 10,
-        "description": "Carving and Gathering animations speed up"
+        "points": 10
     },
     {
         "id": 148,
         "name": "Backpacking Expert",
         "skill-point": "Backpackng",
-        "points": 10,
-        "description": "Increases speed while transporting heavy objects and slightly increases the distance one can fall without breaking them"
+        "points": 10
     },
     {
         "id": 149,
         "name": "Divine Whim",
         "skill-point": "Whim",
-        "points": 15,
-        "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 50% less likely to break"
+        "points": 15
     },
     {
         "id": 150,
         "name": "Spirit's Whim",
         "skill-point": "Whim",
-        "points": 10,
-        "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 25% less likely to break"
+        "points": 10
     },
     {
         "id": 151,
         "name": "Spectre's Whim",
         "skill-point": "Whim",
-        "points": -10,
-        "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 25% more likely to break"
+        "points": -10
     },
     {
         "id": 152,
         "name": "Devil's Whim",
         "skill-point": "Whim",
-        "points": -15,
-        "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 50% more likely to break"
+        "points": -15
     },
     {
         "id": 153,
         "name": "Fishing Expert",
         "skill-point": "Fishing",
-        "points": 10,
-        "description": "Fish will always take the bait in the first bite"
+        "points": 10
     },
     {
         "id": 154,
         "name": "Heat Cancel (Hi)",
         "skill-point": "Heat Res",
-        "points": 15,
-        "description": "Prevents health loss from Heat in all locations"
+        "points": 15
     },
     {
         "id": 155,
         "name": "Heat Cancel (Lo)",
         "skill-point": "Heat Res",
-        "points": 10,
-        "description": "Prevents health loss from Heat in all locations but the hottest parts of volcanoes. Reduces health loss to a third in those areas."
+        "points": 10
     },
     {
         "id": 156,
         "name": "Heat Inc (Lo)",
         "skill-point": "Heat Res",
-        "points": -10,
-        "description": "Increases health loss from heat by half"
+        "points": -10
     },
     {
         "id": 157,
         "name": "Heat Inc (Hi)",
         "skill-point": "Heat Res",
-        "points": -15,
-        "description": "Doubles health loss from heat"
+        "points": -15
     },
     {
         "id": 158,
         "name": "Cold Elimination(Hi)",
         "skill-point": "Cold Res",
-        "points": 15,
-        "description": "Prevents stamina loss from cold in all areas"
+        "points": 15
     },
     {
         "id": 159,
         "name": "Cold Elimination(Lo)",
         "skill-point": "Cold Res",
-        "points": 10,
-        "description": "Prevents stamina loss from cold in all areas but the top of the Snowy Mountains. Reduces stamina loss from cold to a third in those areas"
+        "points": 10
     },
     {
         "id": 160,
         "name": "Cold Increase (Lo)",
         "skill-point": "Cold Res",
-        "points": -10,
-        "description": "Increases stamina loss from cold by half"
+        "points": -10
     },
     {
         "id": 161,
         "name": "Cold Increase (Hi)",
         "skill-point": "Cold Res",
-        "points": -15,
-        "description": "Doubles stamina loss from cold"
+        "points": -15
     },
     {
         "id": 162,
         "name": "TerrainDamageNegate",
         "skill-point": "Terrain",
-        "points": 15,
-        "description": "Prevents health loss from stepping on lava or being around Lunastra's and Teostra's Auras"
+        "points": 15
     },
     {
         "id": 163,
         "name": "TerrainDamageHalf",
         "skill-point": "Terrain",
-        "points": 10,
-        "description": "Halves health loss from stepping on lava or being around Lunastra's and Teostra's Auras"
+        "points": 10
     },
     {
         "id": 164,
         "name": "TerrainDamageInc(Lo)",
         "skill-point": "Terrain",
-        "points": -10,
-        "description": "Increases health loss from stepping on lava or being around Lunastra's and Teostra's Auras by half"
+        "points": -10
     },
     {
         "id": 165,
         "name": "TerrainDamageInc(Hi)",
         "skill-point": "Terrain",
-        "points": -15,
-        "description": "Doubles health loss from stepping on lava or being around Lunastra's and Teostra's Auras"
+        "points": -15
     },
     {
         "id": 166,
         "name": "Runner",
         "skill-point": "Stamina",
-        "points": 10,
-        "description": "Halves stamina consumption for all actions which gradually consume stamina"
+        "points": 10
     },
     {
         "id": 167,
         "name": "Flat Footed",
         "skill-point": "Stamina",
-        "points": -10,
-        "description": "Increases stamina consumption for all actions which gradually consume stamina by 20%"
+        "points": -10
     },
     {
         "id": 168,
         "name": "Constitution +2",
         "skill-point": "Constitutn",
-        "points": 15,
-        "description": "Halves stamina usage for dodging and guarding"
+        "points": 15
     },
     {
         "id": 169,
         "name": "Constitution +1",
         "skill-point": "Constitutn",
-        "points": 10,
-        "description": "Reduces stamina usage for dodging and guarding by a third"
+        "points": 10
     },
     {
         "id": 170,
         "name": "Constitution -1",
         "skill-point": "Constitutn",
-        "points": -10,
-        "description": "Increases stamina usage for dodging and guarding by 20%"
+        "points": -10
     },
     {
         "id": 171,
         "name": "Constitution -2",
         "skill-point": "Constitutn",
-        "points": -15,
-        "description": "Increases stamina usage for dodging and guarding by 35%"
+        "points": -15
     },
     {
         "id": 172,
         "name": "Hunger Negated",
         "skill-point": "Hunger",
-        "points": 15,
-        "description": "Stamina does not naturally decrease over time"
+        "points": 15
     },
     {
         "id": 173,
         "name": "Hunger Halved",
         "skill-point": "Hunger",
-        "points": 10,
-        "description": "Doubles the time it takes for stamina to naturally decrease"
+        "points": 10
     },
     {
         "id": 174,
         "name": "Hunger Increase (Lo)",
         "skill-point": "Hunger",
-        "points": -10,
-        "description": "Reduces by a quarter the time it takes for stamina to naturally decrease"
+        "points": -10
     },
     {
         "id": 175,
         "name": "Hunger Increase (Hi)",
         "skill-point": "Hunger",
-        "points": -15,
-        "description": "Reduces by half the time it takes for stamina to naturally decrease"
+        "points": -15
     },
     {
         "id": 176,
         "name": "Stealth",
         "skill-point": "Sneak",
-        "points": 10,
-        "description": "Monsters target you more often"
+        "points": 10
     },
     {
         "id": 177,
         "name": "Taunt",
         "skill-point": "Sneak",
-        "points": -10,
-        "description": "Monsters target you less often"
+        "points": -10
     },
     {
         "id": 178,
         "name": "Luck Booster",
         "skill-point": "Fate",
-        "points": 15,
-        "description": "Chance of adding an extra regular reward slot on quest rewards increased from 22/32 to 29/32"
+        "points": 15
     },
     {
         "id": 179,
         "name": "Good Luck",
         "skill-point": "Fate",
-        "points": 10,
-        "description": "Chance of adding an extra regular reward slot on quest rewards increased from 22/32 to 26/32"
+        "points": 10
     },
     {
         "id": 180,
         "name": "Bad Luck",
         "skill-point": "Fate",
-        "points": -10,
-        "description": "Chance of adding an extra regular reward slot on quest rewards reduced from 22/32 to 16/32"
+        "points": -10
     },
     {
         "id": 181,
         "name": "Calamity",
         "skill-point": "Fate",
-        "points": -20,
-        "description": "Chance of adding an extra regular reward slot on quest rewards reduced from 22/32 to 8/32"
+        "points": -20
     },
     {
         "id": 182,
         "name": "Trap Master",
         "skill-point": "SpeedSetup",
-        "points": 10,
-        "description": "Increases the setup speed of Traps, Bombs, Lightning Rods and Meat Baits. Guarantees Trap and Net combinations will succeed"
+        "points": 10
     },
     {
         "id": 183,
         "name": "Tranquilizing Celeb",
         "skill-point": "Tranquilzr",
-        "points": 15,
-        "description": "Guarantees the third slot and adds a 22/32 chance of a fourth capture slot."
+        "points": 15
     },
     {
         "id": 184,
         "name": "Tranquilizing Whiz",
         "skill-point": "Tranquilzr",
-        "points": 10,
-        "description": "Guarantees the addition of a third capture reward slot. Normally the chance is 22/32."
+        "points": 10
     },
     {
         "id": 185,
         "name": "Tranquilizing Guru",
         "skill-point": "Perceive",
-        "points": 10,
-        "description": "Changes a painted monster's marker to yellow when capturable"
+        "points": 10
     },
     {
         "id": 186,
         "name": "HealthRecItemsImprvd",
         "skill-point": "Recovery",
-        "points": 10,
-        "description": "Health recovery items heal 25% more HP"
+        "points": 10
     },
     {
         "id": 187,
         "name": "HealthRecItemsWeaknd",
         "skill-point": "Recovery",
-        "points": -10,
-        "description": "Health recovery items heal 25% less HP"
+        "points": -10
     },
     {
         "id": 188,
         "name": "Item Usage Improve",
         "skill-point": "Everlastng",
-        "points": 10,
-        "description": "Increases the duration of effects bestowed by items by half"
+        "points": 10
     },
     {
         "id": 189,
         "name": "Item Usage Decline",
         "skill-point": "Everlastng",
-        "points": -10,
-        "description": "Increases the duration of effects bestowed by items by a third"
+        "points": -10
     },
     {
         "id": 190,
         "name": "Wide Area +2",
         "skill-point": "Wide Area",
-        "points": 20,
-        "description": "Other players and Felyne Companions will receive the effect of Herbs, Potions, Power Seeds, Armor Seeds and Antidotes used by the player."
+        "points": 20
     },
     {
         "id": 191,
         "name": "Wide Area +1",
         "skill-point": "Wide Area",
-        "points": 10,
-        "description": "Other players and Felyne Companions will receive half of the effect of Herbs, Potions, Power Seeds and Armor Seeds used by the player, as well as the full effect of Antidotes."
+        "points": 10
     },
     {
         "id": 192,
         "name": "Throwing Skill Up",
         "skill-point": "Throw",
-        "points": 10,
-        "description": "Increases the throwing distance of thrown items with the exception of Boomerang. Boomerang is half as likely to break."
+        "points": 10
     },
     {
         "id": 193,
         "name": "Bomber",
         "skill-point": "BombStrUp",
-        "points": 10,
-        "description": "Increases damage for all Bomb items and Lightning Rods by 50%. Guarantees all Bomb, Lightning Rod, Gunpowder and Sonic Bomb combines will succeed"
+        "points": 10
     },
     {
         "id": 194,
         "name": "Scavenger",
         "skill-point": "Gluttony",
-        "points": 15,
-        "description": "All food and drink items have a chance of adding an extra 25 stamina when consumed."
+        "points": 15
     },
     {
         "id": 195,
         "name": "Filled Up",
         "skill-point": "Gluttony",
-        "points": 10,
-        "description": "All meat items, including fish steaks, have a chance of adding an extra 25 stamina upon being consumed."
+        "points": 10
     },
     {
         "id": 196,
         "name": "Quick Eating",
         "skill-point": "Cooking",
-        "points": 10,
-        "description": "Speeds up item consumption animations."
+        "points": 10
     },
     {
         "id": 197,
         "name": "Slow Life",
         "skill-point": "Cooking",
-        "points": -10,
-        "description": "Slows down item consumption animations."
+        "points": -10
     },
     {
         "id": 198,
         "name": "BBQ Celebrity",
         "skill-point": "BBQ",
-        "points": 10,
-        "description": "Increases the timing window to get a Well-Done Steak"
+        "points": 10
     },
     {
         "id": 199,
         "name": "So-Called BBQ King",
         "skill-point": "BBQ",
-        "points": -10,
-        "description": "Reduces the timing window to get a Well-Done Steak"
+        "points": -10
     },
     {
         "id": 200,
         "name": "Flute Expert",
         "skill-point": "Horn",
-        "points": 10,
-        "description": "Flute items are half as likely to break. Hunting Horn songs duration extended by one minute."
+        "points": 10
     },
     {
         "id": 201,
         "name": "Combine Success +45%",
         "skill-point": "MixSucRate",
-        "points": 20,
-        "description": "Combination Success rate increases by 45%"
+        "points": 20
     },
     {
         "id": 202,
         "name": "Combine Success +25%",
         "skill-point": "MixSucRate",
-        "points": 15,
-        "description": "Combination success rate increases by 25"
+        "points": 15
     },
     {
         "id": 203,
         "name": "Combine Success +15%",
         "skill-point": "MixSucRate",
-        "points": 10,
-        "description": "Combination success rate increases by 15%"
+        "points": 10
     },
     {
         "id": 204,
         "name": "Combine Success -5%",
         "skill-point": "MixSucRate",
-        "points": -10,
-        "description": "Combination success rate decreases by 5%"
+        "points": -10
     },
     {
         "id": 205,
         "name": "Combine Success -10%",
         "skill-point": "MixSucRate",
-        "points": -15,
-        "description": "Combination success rate decreases by 10%"
+        "points": -15
     },
     {
         "id": 206,
         "name": "Combine Success -15%",
         "skill-point": "MixSucRate",
-        "points": -20,
-        "description": "Combination success rate decreases by 15%"
+        "points": -20
     },
     {
         "id": 207,
         "name": "Bullet Limit",
         "skill-point": "Shot Mix",
-        "points": 10,
-        "description": "Guarantees the maximum yield for shot and coating combinations"
+        "points": 10
     },
     {
         "id": 208,
         "name": "Alchemy",
         "skill-point": "Alchemy",
-        "points": 10,
-        "description": "Allows access to special combination recipes"
+        "points": 10
     },
     {
         "id": 209,
         "name": "ComradGuidance&Trade",
         "skill-point": "ComrdGuide",
-        "points": 15,
-        "description": "Increases Felyne Comrade experience and skill point gain by half"
+        "points": 15
     },
     {
         "id": 210,
         "name": "Comrade Guidance",
         "skill-point": "ComrdGuide",
-        "points": 10,
-        "description": "Increases Felyne Comrade experience point gain by half"
+        "points": 10
     },
     {
         "id": 211,
         "name": "Comrade Attack Up",
         "skill-point": "ComradeAtk",
-        "points": 10,
-        "description": "Increases Felyne Comrade's attack by 40"
+        "points": 10
     },
     {
         "id": 212,
         "name": "Comrade Defense Up",
         "skill-point": "ComradeDef",
-        "points": 10,
-        "description": "Increases Felyne Comrade's defense by 60"
+        "points": 10
     }
 ]
