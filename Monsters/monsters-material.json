@@ -163,7 +163,7 @@
         "monster": "Melynx",
         "type": "dropping",
         "count": 1,
-        "condition": "Training",
+        "condition": "Treasure",
         "materials": [
             {
                 "name": "Sm Monster Bone",
@@ -179,6 +179,314 @@
             },
             {
                 "name": "Felvine",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 50
+            },
+            {
+                "name": "Red Seed",
+                "chance": 14
+            },
+            {
+                "name": "Green Seed",
+                "chance": 14
+            },
+            {
+                "name": "Armor Sphere",
+                "chance": 10
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 26
+            },
+            {
+                "name": "Silver Egg",
+                "chance": 2
+            },
+            {
+                "name": "Firestone",
+                "chance": 2
+            },
+            {
+                "name": "Armor Sphere",
+                "chance": 25
+            },
+            {
+                "name": "Armor Stone",
+                "chance": 10
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 7
+            },
+            {
+                "name": "Suiko Jewel",
+                "chance": 20
+            },
+            {
+                "name": "Gourmet BBQ Spit",
+                "chance": 2
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 2
+            },
+            {
+                "name": "Expand Pickaxe",
+                "chance": 2
+            },
+            {
+                "name": "Commendation",
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 50
+            },
+            {
+                "name": "Select Mushroom",
+                "chance": 18
+            },
+            {
+                "name": "Armor Sphere",
+                "chance": 12
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 8
+            },
+            {
+                "name": "Akito Jewel",
+                "chance": 8
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 25
+            },
+            {
+                "name": "Armor Sphere",
+                "chance": 25
+            },
+            {
+                "name": "Akito Jewel",
+                "chance": 20
+            },
+            {
+                "name": "Armor Stone",
+                "chance": 10
+            },
+            {
+                "name": "Firestone",
+                "chance": 4
+            },
+            {
+                "name": "Expand Pickaxe",
+                "chance": 4
+            },
+            {
+                "name": "Commendation",
+                "chance": 4
+            },
+            {
+                "name": "Golden Egg",
+                "chance": 2
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 2
+            },
+            {
+                "name": "Gourmet BBQ Spit",
+                "chance": 2
+            },
+            {
+                "name": "LapisLazuliJewel",
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 37
+            },
+            {
+                "name": "Select Mushroom",
+                "chance": 25
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 12
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 8
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 8
+            },
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 5
+            },
+            {
+                "name": "LapisLazuliJewel",
+                "chance": 4
+            },
+            {
+                "name": "Hrd Armor Sphere",
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 20
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 18
+            },
+            {
+                "name": "Armor Sphere",
+                "chance": 12
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 12
+            },
+            {
+                "name": "ShakalakaTreasr+",
+                "chance": 7
+            },
+            {
+                "name": "Master's Skull",
+                "chance": 7
+            },
+            {
+                "name": "Firecell Stone",
+                "chance": 4
+            },
+            {
+                "name": "Expand Pickaxe",
+                "chance": 4
+            },
+            {
+                "name": "Commendation G",
+                "chance": 4
+            },
+            {
+                "name": "Golden Egg",
+                "chance": 3
+            },
+            {
+                "name": "Gourmet BBQ Spit",
+                "chance": 2
+            },
+            {
+                "name": "Hrd Armor Sphere",
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Power Juice",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Shakalaka Squash",
+                "chance": null
+            },
+            {
+                "name": "Beauty Shroom",
+                "chance": null
+            },
+            {
+                "name": "Holed Shakalaka Mask",
+                "chance": null
+            },
+            {
+                "name": "Shakalaka Stone",
                 "chance": null
             }
         ]
