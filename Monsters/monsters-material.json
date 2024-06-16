@@ -3,27 +3,7 @@
         "monster": "Melynx",
         "type": "dropping",
         "count": 1,
-        "condition": "Hall ★1",
-        "materials": [
-            {
-                "name": "Secret Pouch",
-                "chance": 72
-            },
-            {
-                "name": "Glutton Tuna",
-                "chance": 18
-            },
-            {
-                "name": "Felvine",
-                "chance": 10
-            }
-        ]
-    },
-    {
-        "monster": "Melynx",
-        "type": "dropping",
-        "count": 1,
-        "condition": "Hall ★2",
+        "condition": "Hall ★1, 2",
         "materials": [
             {
                 "name": "Secret Pouch",
@@ -389,7 +369,7 @@
     },
     {
         "monster": "Shakalaka",
-        "type": "carving",
+        "type": "dropping",
         "count": 1,
         "condition": "G Rank",
         "materials": [
@@ -456,7 +436,7 @@
         ]
     },
     {
-        "monster": "King Shakalaka",
+        "monster": "Shakalaka",
         "type": "carving",
         "count": 1,
         "condition": "Training",
@@ -495,27 +475,7 @@
         "monster": "Vespoid",
         "type": "carving",
         "count": 1,
-        "condition": "Hall ★1",
-        "materials": [
-            {
-                "name": "Vespoid Shell",
-                "chance": 50
-            },
-            {
-                "name": "Vespoid Wing",
-                "chance": 40
-            },
-            {
-                "name": "Monster Fluid",
-                "chance": 10
-            }
-        ]
-    },
-    {
-        "monster": "Vespoid",
-        "type": "carving",
-        "count": 1,
-        "condition": "Hall ★2",
+        "condition": "Hall ★1, 2",
         "materials": [
             {
                 "name": "Vespoid Shell",
