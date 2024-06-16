@@ -614,5 +614,149 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Hornetaur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Hornetaur Shell",
+                "chance": 45
+            },
+            {
+                "name": "Hornetaur Wing",
+                "chance": 40
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Hornetaur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Hornetaur Shell",
+                "chance": 47
+            },
+            {
+                "name": "Hornetaur Wing",
+                "chance": 36
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 17
+            }
+        ]
+    },
+    {
+        "monster": "Hornetaur",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Hornetaur Crapce",
+                "chance": 40
+            },
+            {
+                "name": "Hornetaur Wing",
+                "chance": 20
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "chance": 15
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 15
+            },
+            {
+                "name": "Monster Broth",
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Hornetaur",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hornetaur Crapce",
+                "chance": 25
+            },
+            {
+                "name": "HornetaurInnrWng",
+                "chance": 20
+            },
+            {
+                "name": "Hornet Razorwing",
+                "chance": 20
+            },
+            {
+                "name": "Monster Essence",
+                "chance": 18
+            },
+            {
+                "name": "Monster Broth",
+                "chance": 17
+            }
+        ]
+    },
+    {
+        "monster": "Hornetaur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Psychoserum",
+                "chance": null
+            },
+            {
+                "name": "Ration",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Hornetaur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Psychoserum",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Hornetaur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Well-Done Steak",
+                "chance": null
+            }
+        ]
     }
 ]
