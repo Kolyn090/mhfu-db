@@ -490,5 +490,169 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "Hall ★1",
+        "materials": [
+            {
+                "name": "Vespoid Shell",
+                "chance": 50
+            },
+            {
+                "name": "Vespoid Wing",
+                "chance": 40
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "Hall ★2",
+        "materials": [
+            {
+                "name": "Vespoid Shell",
+                "chance": 50
+            },
+            {
+                "name": "Vespoid Wing",
+                "chance": 40
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Vespoid Shell",
+                "chance": 47
+            },
+            {
+                "name": "Vespoid Wing",
+                "chance": 36
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 17
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Vespoid Carapace",
+                "chance": 40
+            },
+            {
+                "name": "Vespoid Wing",
+                "chance": 20
+            },
+            {
+                "name": "Vespoid InnrWng",
+                "chance": 15
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 15
+            },
+            {
+                "name": "Monster Broth",
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Vespoid Carapace",
+                "chance": 25
+            },
+            {
+                "name": "Vespoid InnrWng",
+                "chance": 20
+            },
+            {
+                "name": "Vspoid Razorwing",
+                "chance": 20
+            },
+            {
+                "name": "Monster Essence",
+                "chance": 18
+            },
+            {
+                "name": "Monster Broth",
+                "chance": 17
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Psychoserum",
+                "chance": null
+            },
+            {
+                "name": "Ration",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Psychoserum",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Well-Done Steak",
+                "chance": null
+            }
+        ]
     }
 ]
