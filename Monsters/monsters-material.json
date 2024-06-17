@@ -849,5 +849,120 @@
         "count": 1,
         "condition": "Treasure",
         "materials": []
+    },
+    {
+        "monster": "Anteka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Anteka Antlers",
+                "chance": null
+            },
+            {
+                "name": "Anteka Pelt",
+                "chance": null
+            },
+            {
+                "name": "White Liver",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Anteka",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Anteka Antlers",
+                "chance": null
+            },
+            {
+                "name": "Anteka Pelt",
+                "chance": null
+            },
+            {
+                "name": "High Qualty Pelt",
+                "chance": null
+            },
+            {
+                "name": "White Liver",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Anteka",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Anteka Antlers",
+                "chance": null
+            },
+            {
+                "name": "Anteka Pelt",
+                "chance": null
+            },
+            {
+                "name": "High Qualty Pelt",
+                "chance": null
+            },
+            {
+                "name": "White Liver",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Anteka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Anteka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": []
+    },
+    {
+        "monster": "Anteka",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Catalyst",
+                "chance": null
+            }
+        ]
     }
 ]
