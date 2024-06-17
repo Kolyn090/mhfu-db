@@ -758,5 +758,96 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Great Thunderbug",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Thunderbug Juice",
+                "chance": 50
+            },
+            {
+                "name": "Thunderbug",
+                "chance": 30
+            },
+            {
+                "name": "Monster Fluid",
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Great Thunderbug",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Thunderbug Juice",
+                "chance": 70
+            },
+            {
+                "name": "Thunderbug",
+                "chance": 10
+            },
+            {
+                "name": "Monster Broth",
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Great Thunderbug",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Thunderbug Jelly",
+                "chance": 70
+            },
+            {
+                "name": "Thunderbug Juice",
+                "chance": 10
+            },
+            {
+                "name": "Monster Essence",
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Great Thunderbug",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Potion",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Great Thunderbug",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Potion",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Great Thunderbug",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": []
     }
 ]
