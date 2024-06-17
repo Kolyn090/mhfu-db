@@ -578,5 +578,289 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "name": "Khezu Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Khezu",
+        "goal-condition": "Hunt the Khezu",
+        "quest-details": "This time I've prepared a Sword that literally spits flames! It should lead to an easy victory, so show off your skills!",
+        "difficulty": 1,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Djinn",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Yellow Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Genprey Body",
+                "decorations": []
+            },
+            {
+                "name": "Genprey Feet",
+                "decorations": [
+                    {
+                        "name": "Lightning Jewel"
+                    },
+                    {
+                        "name": "Lightning Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Lg Barrel-Bomb",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Khezu Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Khezu",
+        "goal-condition": "Hunt the Khezu",
+        "quest-details": "The weapon you have is tremendously powerful, but has terrible Sharpness. So charge it up and aim for the head!",
+        "difficulty": 1,
+        "point-multiplier": 120,
+        "weapon": {
+            "name": "Halberd",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Hermitaur Mail",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Braces",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 7
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Sply Pitfall Trp",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Khezu Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Khezu",
+        "goal-condition": "Hunt the Khezu",
+        "quest-details": "Using a Hunting Horn means using Self-Improvement! If you can't, you're finished! Just link White to White.",
+        "difficulty": 1,
+        "point-multiplier": 110,
+        "weapon": {
+            "name": "Basarios Rock",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Kut-Ku Mail D",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Kut-Ku Tasset D",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Kut-Ku Greaves D",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    },
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 1
+            },
+            {
+                "name": "Demondrug",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Khezu Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Khezu",
+        "goal-condition": "Hunt the Khezu",
+        "quest-details": "When you see a Khezu's electricity wane, that's your chance! Use Wyvern's Fire and blow it away! Great, huh?",
+        "difficulty": 1,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Special Ops Gunlance",
+            "decorations": [
+                {
+                    "name": "AntiParalyzJewel"
+                }
+            ]
+        },
+        "armors": [
+            {
+                "name": "Blast Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Vespoid Mail",
+                "decorations": []
+            },
+            {
+                "name": "Genprey Vambraces",
+                "decorations": [
+                    {
+                        "name": "AntiParalyzJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Vespoid Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Genprey Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Khezu Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Khezu",
+        "goal-condition": "Hunt the Khezu",
+        "quest-details": "I've attached a Shield to your Heavy Bowgun. With this, you'll have a perfect Guard. You're allowed to be pleased.",
+        "difficulty": 1,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Bastionmage",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Battle Vest",
+                "decorations": []
+            },
+            {
+                "name": "Battle Guards",
+                "decorations": []
+            },
+            {
+                "name": "Battle Coat",
+                "decorations": []
+            },
+            {
+                "name": "Battle Leggings",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 80
+            },
+            {
+                "name": "Flaming S",
+                "count": 15
+            },
+            {
+                "name": "Clust S Lv1",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 3
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            }
+        ]
     }
 ]
