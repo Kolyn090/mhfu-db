@@ -1199,5 +1199,137 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Mosswine",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Blue Mushroom",
+                "chance": null
+            },
+            {
+                "name": "Mosswine Hide",
+                "chance": null
+            },
+            {
+                "name": "Special Mushroom",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Mosswine",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Blue Mushroom",
+                "chance": null
+            },
+            {
+                "name": "Mosswine Hide",
+                "chance": null
+            },
+            {
+                "name": "Special Mushroom",
+                "chance": null
+            },
+            {
+                "name": "Select Mushroom",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Mosswine",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Blue Mushroom",
+                "chance": null
+            },
+            {
+                "name": "Mosswine Hide",
+                "chance": null
+            },
+            {
+                "name": "Special Mushroom",
+                "chance": null
+            },
+            {
+                "name": "Select Mushroom",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Mosswine",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Mosswine",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Whetstone",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Mosswine",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Potion",
+                "chance": null
+            },
+            {
+                "name": "Mega Potion",
+                "chance": null
+            },
+            {
+                "name": "Catalyst",
+                "chance": null
+            }
+        ]
     }
 ]
