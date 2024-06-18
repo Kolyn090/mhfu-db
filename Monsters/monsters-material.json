@@ -1079,5 +1079,125 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Kelbi",
+        "type": "carving",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Kelbi Horn",
+                "chance": null
+            },
+            {
+                "name": "Kelbi Hide",
+                "chance": null
+            },
+            {
+                "name": "White Liver",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Kelbi",
+        "type": "carving",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Kelbi Horn",
+                "chance": null
+            },
+            {
+                "name": "Kelbi Hide",
+                "chance": null
+            },
+            {
+                "name": "High Qualty Pelt",
+                "chance": null
+            },
+            {
+                "name": "White Liver",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Kelbi",
+        "type": "carving",
+        "count": 2,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Kelbi Horn",
+                "chance": null
+            },
+            {
+                "name": "Kelbi Hide",
+                "chance": null
+            },
+            {
+                "name": "High Qualty Pelt",
+                "chance": null
+            },
+            {
+                "name": "White Liver",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Kelbi",
+        "type": "carving",
+        "count": 2,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Kelbi",
+        "type": "carving",
+        "count": 2,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "First-Aid Med",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Kelbi",
+        "type": "carving",
+        "count": 2,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Catalyst",
+                "chance": null
+            },
+            {
+                "name": "Raw Meat",
+                "chance": null
+            }
+        ]
     }
 ]
