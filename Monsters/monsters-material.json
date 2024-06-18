@@ -964,5 +964,120 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Popo",
+        "type": "carving",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            },
+            {
+                "name": "Popo Tongue",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Popo",
+        "type": "carving",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            },
+            {
+                "name": "Giant Bone",
+                "chance": null
+            },
+            {
+                "name": "Popo Tongue",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Popo",
+        "type": "carving",
+        "count": 2,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            },
+            {
+                "name": "Giant Bone",
+                "chance": null
+            },
+            {
+                "name": "Stout Bone",
+                "chance": null
+            },
+            {
+                "name": "Popo Tongue",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Popo",
+        "type": "carving",
+        "count": 2,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Popo",
+        "type": "carving",
+        "count": 2,
+        "condition": "Training",
+        "materials": []
+    },
+    {
+        "monster": "Popo",
+        "type": "carving",
+        "count": 2,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Well-Done Steak",
+                "chance": null
+            }
+        ]
     }
 ]
