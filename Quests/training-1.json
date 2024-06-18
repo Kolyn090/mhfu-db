@@ -862,5 +862,278 @@
                 "count": 3
             }
         ]
+    },
+    {
+        "name": "Hermitaur Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Hermitaur",
+        "goal-condition": "Hunt the Hermitaur",
+        "quest-details": "You can't break a Daimyo's shell with this weapon! Thus, aim for its claw. Attack it with a truly Devilish Dance!",
+        "difficulty": 1,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Insector+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Plesioth Mail",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Iron Belt",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Plesioth Greaves",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Hermitaur Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Hermitaur",
+        "goal-condition": "Hunt the Hermitaur",
+        "quest-details": "The fast-moving Daimyo can only be stopped by breaking its legs! Strike as hard as you can and knock it down!",
+        "difficulty": 1,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Eager Cleaver",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Blue Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Body",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Gloves",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Feet",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Hermitaur Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Hermitaur",
+        "goal-condition": "Hunt the Hermitaur",
+        "quest-details": "Break down the skull on the Daimyo's back with the shocking attacks of the Hunting Horn! Attack with gusto!",
+        "difficulty": 1,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "War Drum",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Rathalos Mail",
+                "decorations": []
+            },
+            {
+                "name": "Battle Vambraces",
+                "decorations": [
+                    {
+                        "name": "Attack Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Giaprey Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Genprey Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Hermitaur Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Hermitaur",
+        "goal-condition": "Hunt the Hermitaur",
+        "quest-details": "Showdown time! With the high Guard ability of this equipment, you can never be defeated! Show your true power!",
+        "difficulty": 1,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Paladin Lance",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Giaprey Mail",
+                "decorations": [
+                    {
+                        "name": "Stone Wall Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Battle Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Shock Trap",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Hermitaur Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Hermitaur",
+        "goal-condition": "Hunt the Hermitaur",
+        "quest-details": "Stopping a Daimyo's guard will require a Sonic Bomb. Then attack and you will see its pain! Just be careful.",
+        "difficulty": 1,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Hunter's Power BowI",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Yellow Piercing",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    },
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hunter's Vest",
+                "decorations": []
+            },
+            {
+                "name": "Iron Belt",
+                "decorations": []
+            },
+            {
+                "name": "Gypceros Leggings",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Power Coating",
+                "count": 40
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 1
+            }
+        ]
     }
 ]
