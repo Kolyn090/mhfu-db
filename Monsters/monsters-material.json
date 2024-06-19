@@ -1331,5 +1331,109 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Aptonoth",
+        "type": "carving",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Aptonoth",
+        "type": "carving",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Aptonoth",
+        "type": "carving",
+        "count": 2,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Aptonoth",
+        "type": "carving",
+        "count": 2,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Aptonoth",
+        "type": "carving",
+        "count": 2,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Aptonoth",
+        "type": "carving",
+        "count": 2,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Rare Steak",
+                "chance": null
+            },
+            {
+                "name": "Well-Done Steak",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            }
+        ]
     }
 ]
