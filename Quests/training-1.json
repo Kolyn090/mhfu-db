@@ -1135,5 +1135,319 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "name": "Blangonga Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Blangonga",
+        "goal-condition": "Hunt the Blangonga",
+        "quest-details": "Today, I have prepared a Sword with paralysis effect. Use it to stop the beast's movement and hit it with a Barrel Bomb.",
+        "difficulty": 3,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Deathprize",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "White Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Body",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Gloves",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Feet",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Lg Barrel-Bomb",
+                "count": 3
+            },
+            {
+                "name": "Sm Barrel-Bomb",
+                "count": 3
+            },
+            {
+                "name": "Thawing Agent",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Blangonga Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Blangonga",
+        "goal-condition": "Hunt the Blangonga",
+        "quest-details": "Fire is the natural enemy of a Blangonga. The weapon I've given you should break its fangs right off... Try it!",
+        "difficulty": 3,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Wyvern Blade \"Fall\"",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "White Piercing",
+                "decorations": [
+                    {
+                        "name": "Fast Food Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hunter's Mail",
+                "decorations": []
+            },
+            {
+                "name": "Tigrex Vambraces",
+                "decorations": [
+                    {
+                        "name": "Fast Food Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hunter's Tasset",
+                "decorations": [
+                    {
+                        "name": "QuickEaterJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Mosswine Feet",
+                "decorations": [
+                    {
+                        "name": "QuickEaterJewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 7
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Thawing Agent",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Blangonga Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Blangonga",
+        "goal-condition": "Hunt the Blangonga",
+        "quest-details": "Theory has it a head blow from a Hammer will stun, but the Blangonga's head is tough to strike! So hit it when it's down!",
+        "difficulty": 3,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Dragonhead Hammer",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Giaprey Mail",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Greaves",
+                "decorations": []
+            },
+            {
+                "name": "Mosswine Feet",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 7
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Thawing Agent",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Blangonga Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Blangonga",
+        "goal-condition": "Hunt the Blangonga",
+        "quest-details": "Enemies who move quickly have a huge advantage over users of heavy Lances. Shift strategies and use a trap or two!",
+        "difficulty": 3,
+        "point-multiplier": 115,
+        "weapon": {
+            "name": "Crimson Lance",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Velociprey Helm",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Mail",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Braces",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Tasset",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 7
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Shock Trap",
+                "count": 1
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 1
+            },
+            {
+                "name": "Thawing Agent",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Blangonga Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Blangonga",
+        "goal-condition": "Hunt the Blangonga",
+        "quest-details": "Those silly enough to attack head-on usually end up as dinner! Find an opening, then strike again and again!",
+        "difficulty": 3,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Uranos Grenade",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Conga Cap",
+                "decorations": []
+            },
+            {
+                "name": "Conga Vest",
+                "decorations": []
+            },
+            {
+                "name": "Conga Guards",
+                "decorations": []
+            },
+            {
+                "name": "Hunter's Coat",
+                "decorations": []
+            },
+            {
+                "name": "Hunter's Leggings",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 40
+            },
+            {
+                "name": "Flaming S",
+                "count": 15
+            },
+            {
+                "name": "Clust S Lv2",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Thawing Agent",
+                "count": 2
+            }
+        ]
     }
 ]
