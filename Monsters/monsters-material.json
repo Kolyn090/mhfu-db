@@ -1667,5 +1667,141 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Giadrome",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Giadrome Fang",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Scale",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Hide",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Giadrome",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Giadrome Fang",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Scale",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Hide",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Scale+",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Hide+",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Giadrome",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Giadrome Fang",
+                "chance": null
+            },
+            {
+                "name": "RobustWyvernBone",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Hide+",
+                "chance": null
+            },
+            {
+                "name": "Giadrome Scale+",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Giadrome",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Giadrome",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Throwing Knife",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Giadrome",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Rare Steak",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Lg Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Dragonrock",
+                "chance": null
+            },
+            {
+                "name": "Paralyze Thr Knf",
+                "chance": null
+            }
+        ]
     }
 ]
