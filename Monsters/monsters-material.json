@@ -1803,5 +1803,141 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Velociprey",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Velociprey Fang",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Scale",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Hide",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Velociprey",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Velociprey Fang",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Scale",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Hide",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Scale+",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Hide+",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Velociprey",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Velociprey Fang",
+                "chance": null
+            },
+            {
+                "name": "RobustWyvernBone",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Hide+",
+                "chance": null
+            },
+            {
+                "name": "Velociprey Scale+",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Velociprey",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Velociprey",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Throwing Knife",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Velociprey",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Rare Steak",
+                "chance": null
+            },
+            {
+                "name": "Sm Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Med Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Lg Monster Bone",
+                "chance": null
+            },
+            {
+                "name": "Dragonrock",
+                "chance": null
+            },
+            {
+                "name": "Paralyze Thr Knf",
+                "chance": null
+            }
+        ]
     }
 ]
