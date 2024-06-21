@@ -2191,5 +2191,125 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Cephalos",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Cephalos Fin",
+                "chance": null
+            },
+            {
+                "name": "Piscine Fang",
+                "chance": null
+            },
+            {
+                "name": "Piscine Liver",
+                "chance": null
+            },
+            {
+                "name": "Cephalos Scale",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Cephalos",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Piscine Fang",
+                "chance": null
+            },
+            {
+                "name": "Piscine Liver",
+                "chance": null
+            },
+            {
+                "name": "Cephalos Scale+",
+                "chance": null
+            },
+            {
+                "name": "Coral Cphlos Scl",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Cephalos",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyPiscineFang",
+                "chance": null
+            },
+            {
+                "name": "Piscine Liver",
+                "chance": null
+            },
+            {
+                "name": "Cephalos Scale+",
+                "chance": null
+            },
+            {
+                "name": "Coral Cphlos Scl",
+                "chance": null
+            },
+            {
+                "name": "Coral Cphlos Fin",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Cephalos",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "First-Aid Med",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Cephalos",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Sushifish",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Cephalos",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Cephalos Roe",
+                "chance": null
+            },
+            {
+                "name": "Dragonrock",
+                "chance": null
+            },
+            {
+                "name": "Old Bugnet",
+                "chance": null
+            }
+        ]
     }
 ]
