@@ -1743,5 +1743,312 @@
                 "count": 3
             }
         ]
+    },
+    {
+        "name": "Tigrex Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Tigrex",
+        "goal-condition": "Hunt the Tigrex",
+        "quest-details": "The short range of a Sword means it is only suited for melee combat. Focus on an enemy's movements and boldy strike out!",
+        "difficulty": 4,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Princess Rapier",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Chaoshroom",
+                "decorations": []
+            },
+            {
+                "name": "Kut-Ku Mail",
+                "decorations": [
+                    {
+                        "name": "Attack Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Kut-Ku Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Kut-Ku Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Kut-Ku Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 5
+            },
+            {
+                "name": "Potion",
+                "count": 7
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sply Pitfall Trp",
+                "count": 1
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Tigrex Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Tigrex",
+        "goal-condition": "Hunt the Tigrex",
+        "quest-details": "A blind rush forward will result in unimaginable pain. Avoid the front, and move to attack from the sides!",
+        "difficulty": 4,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Ravager Blade+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Diablo Mail",
+                "decorations": []
+            },
+            {
+                "name": "Diablo Vambraces",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Chrome Metal Coat",
+                "decorations": []
+            },
+            {
+                "name": "Chrome Metal Boots",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 5
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Well-Done Steak",
+                "count": 3
+            },
+            {
+                "name": "Supply Flash Bomb",
+                "count": 2
+            },
+            {
+                "name": "Lg Barrel-Bomb",
+                "count": 2
+            },
+            {
+                "name": "Throwing Knife",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Tigrex Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Tigrex",
+        "goal-condition": "Hunt the Tigrex",
+        "quest-details": "White-White-Red-Green-Red! The key to victory! If you can't do that, White-White-Red or even just White-White is OK!",
+        "difficulty": 4,
+        "point-multiplier": 110,
+        "weapon": {
+            "name": "Great Bagpipe",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Echo Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Mail",
+                "decorations": []
+            },
+            {
+                "name": "Gypceros Vambraces D",
+                "decorations": [
+                    {
+                        "name": "Steadfast Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Velociprey Tasset",
+                "decorations": [
+                    {
+                        "name": "Steadfast Jewel"
+                    }
+                ]
+            }
+            ,
+            {
+                "name": "Velociprey Greaves D",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 5
+            },
+            {
+                "name": "Potion",
+                "count": 6
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Supply Flash Bomb",
+                "count": 1
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 1
+            },
+            {
+                "name": "Sleeping Thr Knf",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Tigrex Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Tigrex",
+        "goal-condition": "Hunt the Tigrex",
+        "quest-details": "Being able to Guard against attacks is the strong suit of this melee weapon! Pain is failure! Calmly fight to victory!",
+        "difficulty": 4,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Barbaroi Tusk",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Hermitaur Helm",
+                "decorations": []
+            },
+            {
+                "name": "Steel Mail",
+                "decorations": []
+            },
+            {
+                "name": "Steel Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Shock Trap",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Tigrex Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Tigrex",
+        "goal-condition": "Hunt the Tigrex",
+        "quest-details": "An angered Tigrex is incredibly speedy! If you plan to escape with your weapon readied, it's already too late!",
+        "difficulty": 4,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Sonic Bow II",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Barrage Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Melahoa Stalk",
+                "decorations": []
+            },
+            {
+                "name": "Vespoid Guards",
+                "decorations": []
+            },
+            {
+                "name": "Melahoa Trunk",
+                "decorations": []
+            },
+            {
+                "name": "Melahoa Taproot",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "ParalysisCoating",
+                "count": 20
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 1
+            }
+        ]
     }
 ]
