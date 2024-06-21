@@ -2079,5 +2079,117 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Remobra",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Remobra Skull",
+                "chance": null
+            },
+            {
+                "name": "Striped Skin",
+                "chance": null
+            },
+            {
+                "name": "Remobra Skin",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Remobra",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Remobra Skull",
+                "chance": null
+            },
+            {
+                "name": "Striped Skin",
+                "chance": null
+            },
+            {
+                "name": "Remobra Skin",
+                "chance": null
+            },
+            {
+                "name": "Remobra Skin+",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Remobra",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Remobra Skull",
+                "chance": null
+            },
+            {
+                "name": "Striped Skin",
+                "chance": null
+            },
+            {
+                "name": "SpecRemobraSkin+",
+                "chance": null
+            },
+            {
+                "name": "Remobra Skin+",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Remobra",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Remobra",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Armorskin",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Remobra",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Medium Wyvernfsh",
+                "chance": null
+            },
+            {
+                "name": "Pickaxe Fish",
+                "chance": null
+            },
+            {
+                "name": "Bugnet Fish",
+                "chance": null
+            }
+        ]
     }
 ]
