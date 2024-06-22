@@ -2050,5 +2050,343 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "name": "Diablos Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Diablos",
+        "goal-condition": "Hunt the Diablos",
+        "quest-details": "Listen! I've prepared armor with Hearing Protection! A tremendous skill! Slice away... There's nothing to fear!",
+        "difficulty": 4,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Bladed Edge+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Silence Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Mail",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Braces",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 2
+            },
+            {
+                "name": "Power Juice",
+                "count": 1
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 3
+            },
+            {
+                "name": "Supply Flash Bomb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Diablos Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Diablos",
+        "goal-condition": "Hunt the Diablos",
+        "quest-details": "When facing a Diablos with a Great Sword, using Guard is key! Become a master of the Instant Guard!",
+        "difficulty": 4,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Spartacus Blade",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Demon Edge Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Khezu Mail",
+                "decorations": []
+            },
+            {
+                "name": "Khezu Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Khezu Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Khezu Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 5
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Diablos Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Diablos",
+        "goal-condition": "Hunt the Diablos",
+        "quest-details": "Life and death decisions happen instantly with a Hammer. You can't escape a roar, so use wisdom to stay alive!",
+        "difficulty": 4,
+        "point-multiplier": 110,
+        "weapon": {
+            "name": "Binder Mace",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Fate",
+                "decorations": []
+            },
+            {
+                "name": "Lobster Mail",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Lobster Vambraces",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Lobster Coil",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Lobster Greaves",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Power Juice",
+                "count": 1
+            },
+            {
+                "name": "Ration",
+                "count": 2
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 2
+            },
+            {
+                "name": "Supply Flash Bomb",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Diablos Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Diablos",
+        "goal-condition": "Hunt the Diablos",
+        "quest-details": "I've prepared equipment to increase your strength! Use your Shelling and slicing to force the tyrant to surrender!",
+        "difficulty": 4,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "White Gunlance",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Ioprey Mail",
+                "decorations": []
+            },
+            {
+                "name": "Genprey Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Ioprey Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Supply Flash Bomb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Diablos Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Diablos",
+        "goal-condition": "Hunt the Diablos",
+        "quest-details": "Against Diablos, the shells you have won't cut it. Look for chances in the fight to combine new ammo!",
+        "difficulty": 4,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Black Belt Bowgun",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Pursuit",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Vest",
+                "decorations": []
+            },
+            {
+                "name": "Khezu Guards",
+                "decorations": [
+                    {
+                        "name": "Armory Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Velociprey Coat",
+                "decorations": []
+            },
+            {
+                "name": "Khezu Leggings",
+                "decorations": [
+                    {
+                        "name": "Armory Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Huskberry",
+                "count": 13
+            },
+            {
+                "name": "Velociprey Fang",
+                "count": 10
+            },
+            {
+                "name": "Bomberry",
+                "count": 3
+            },
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 30
+            },
+            {
+                "name": "Pierce S Lv1",
+                "count": 15
+            },
+            {
+                "name": "Clust S Lv1",
+                "count": 3
+            },
+            {
+                "name": "Poison S Lv2",
+                "count": 8
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Supply Flash Bomb",
+                "count": 2
+            }
+        ]
     }
 ]
