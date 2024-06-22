@@ -2447,5 +2447,141 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Ceanataur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Sm Ceanataur Shl",
+                "chance": null
+            },
+            {
+                "name": "Sharp Claw",
+                "chance": null
+            },
+            {
+                "name": "Giant Bone",
+                "chance": null
+            },
+            {
+                "name": "CarapaceonBrains",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Ceanataur",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Sm Ceanataur Shl",
+                "chance": null
+            },
+            {
+                "name": "Ceanataur Shell",
+                "chance": null
+            },
+            {
+                "name": "Sharp Claw",
+                "chance": null
+            },
+            {
+                "name": "Giant Bone",
+                "chance": null
+            },
+            {
+                "name": "Black Pearl",
+                "chance": null
+            },
+            {
+                "name": "CarapaceonBrains",
+                "chance": null
+            },
+            {
+                "name": "CarapaceonBrain+",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Ceanataur",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "chance": null
+            },
+            {
+                "name": "Piercing Claw",
+                "chance": null
+            },
+            {
+                "name": "Stout Bone",
+                "chance": null
+            },
+            {
+                "name": "Black Pearl",
+                "chance": null
+            },
+            {
+                "name": "CarapaceonBrains",
+                "chance": null
+            },
+            {
+                "name": "CarapaceonBrain+",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Ceanataur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Ceanataur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Sm Barrel-Bomb",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Ceanataur",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Bugnet Fish",
+                "chance": null
+            },
+            {
+                "name": "Dragonite (M)",
+                "chance": null
+            },
+            {
+                "name": "Amateratuna",
+                "chance": null
+            }
+        ]
     }
 ]
