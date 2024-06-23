@@ -2583,5 +2583,141 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Bullfango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Bullfango Pelt",
+                "chance": null
+            },
+            {
+                "name": "Bullfango Head",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Bullfango",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "Bullfango Pelt",
+                "chance": null
+            },
+            {
+                "name": "Bullfango Head",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            },
+            {
+                "name": "Giant Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Bullfango",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "chance": null
+            },
+            {
+                "name": "ThkBullfangoPelt",
+                "chance": null
+            },
+            {
+                "name": "Bullfango Head",
+                "chance": null
+            },
+            {
+                "name": "Stout Bone",
+                "chance": null
+            },
+            {
+                "name": "Giant Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Bullfango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Bullfango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Supply Flash Bmb",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Bullfango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Dragonite (S)",
+                "chance": null
+            },
+            {
+                "name": "Dragonite (M)",
+                "chance": null
+            },
+            {
+                "name": "Dragonite (L)",
+                "chance": null
+            },
+            {
+                "name": "Dragonrock",
+                "chance": null
+            },
+            {
+                "name": "Mega Potion",
+                "chance": null
+            },
+            {
+                "name": "Flash Bomb",
+                "chance": null
+            }
+        ]
     }
 ]
