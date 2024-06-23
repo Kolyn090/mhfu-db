@@ -2706,5 +2706,343 @@
                 "count": 4
             }
         ]
+    },
+    {
+        "name": "Kirin Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Kirin",
+        "goal-condition": "Hunt the Kirin",
+        "quest-details": "If a Kirin's neck begins to shine, be careful! You can't touch an angry Kirin, so devote yourself to an escape!",
+        "difficulty": 5,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Master's Replica",
+            "decorations": [
+                {
+                    "name": "SpeedyRecvrJewel"
+                }
+            ]
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Khezu Mail",
+                "decorations": [
+                    {
+                        "name": "Feel Good Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Khezu Vambraces",
+                "decorations": [
+                    {
+                        "name": "Feel Good Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Khezu Tasset",
+                "decorations": [
+                    {
+                        "name": "SpeedyRecvrJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Khezu Greaves",
+                "decorations": [
+                    {
+                        "name": "Feel Good Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sleeping Thr Knf",
+                "count": 5
+            },
+            {
+                "name": "Lg Barrel-Bomb",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Kirin Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Kirin",
+        "goal-condition": "Hunt the Kirin",
+        "quest-details": "If you don't have Spirit charged, you attack won't penetrate. Aim for its weak horn, and attack with your full spirit!",
+        "difficulty": 5,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Black Katana Mk. II",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Red Piercing",
+                "decorations": [
+                    {
+                        "name": "Celebrity Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Diablo Mail",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Monoblos Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Chrome Metal Coat",
+                "decorations": []
+            },
+            {
+                "name": "Chrome Metal Boots",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "name": "Kirin Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Kirin",
+        "goal-condition": "Hunt the Kirin",
+        "quest-details": "I've prepared equipment that increases power in a pinch! It's up to you, steady battle or all-out assault!",
+        "difficulty": 5,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Crystal Hammer",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Rage",
+                "decorations": []
+            },
+            {
+                "name": "Lobster Mail",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Lobster Vambraces",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Lobster Coil",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Lobster Greaves",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Power Juice",
+                "count": 3
+            },
+            {
+                "name": "Sply Max Potion",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Kirin Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Kirin",
+        "goal-condition": "Hunt the Kirin",
+        "quest-details": "Staving off Thunder with Guard is an impossible task. Step nimbly to avoid the areas where Thunder falls.",
+        "difficulty": 5,
+        "point-multiplier": 110,
+        "weapon": {
+            "name": "Gatling Lance+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Sword Saint Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Mail",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Braces",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 7
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sply Max Potion",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Kirin Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Kirin",
+        "goal-condition": "Hunt the Kirin",
+        "quest-details": "How you go about hitting the small target of a Kirin is incredibly important. Firing wildly means you many run out of shells!",
+        "difficulty": 5,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Tankmage",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Ioprey Cap",
+                "decorations": []
+            },
+            {
+                "name": "Genprey Vest",
+                "decorations": []
+            },
+            {
+                "name": "Diablo Guards",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Genprey Coat",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Diablo Leggings",
+                "decorations": [
+                    {
+                        "name": "Expert Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 50
+            },
+            {
+                "name": "Pellet S Lv3",
+                "count": 20
+            },
+            {
+                "name": "Clust S Lv2",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            }
+        ]
     }
 ]
