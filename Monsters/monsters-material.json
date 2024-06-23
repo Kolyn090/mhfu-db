@@ -2831,5 +2831,120 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Blango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blango Pelt",
+                "chance": null
+            },
+            {
+                "name": "Sharp Claw",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Blango",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blango Pelt",
+                "chance": null
+            },
+            {
+                "name": "Blango Pelt+",
+                "chance": null
+            },
+            {
+                "name": "Sharp Claw",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Blango",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blango Pelt",
+                "chance": null
+            },
+            {
+                "name": "Blango Pelt+",
+                "chance": null
+            },
+            {
+                "name": "Piercing Claw",
+                "chance": null
+            },
+            {
+                "name": "Stout Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Blango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Blango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": []
+    },
+    {
+        "monster": "Blango",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Blango Bacon",
+                "chance": null
+            },
+            {
+                "name": "Dragonite (S)",
+                "chance": null
+            },
+            {
+                "name": "Dragonite (M)",
+                "chance": null
+            },
+            {
+                "name": "Hot Drink",
+                "chance": null
+            },
+            {
+                "name": "Old Bugnet",
+                "chance": null
+            }
+        ]
     }
 ]
