@@ -2388,5 +2388,323 @@
                 "count": 2
             }
         ]
+    },
+    {
+        "name": "Gravios Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Gravios",
+        "goal-condition": "Hunt the Gravios",
+        "quest-details": "Did you know the first attack on a sleeping foe is quite powerful? Barrel Bombs drive this point home. Use them effectively!",
+        "difficulty": 5,
+        "point-multiplier": 85,
+        "weapon": {
+            "name": "Sandman Spike",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Blast Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Cephalos Mail",
+                "decorations": []
+            },
+            {
+                "name": "Plesioth Vambraces D",
+                "decorations": [
+                    {
+                        "name": "PickyEater Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Cephalos Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Plesioth Greaves D",
+                "decorations": [
+                    {
+                        "name": "PickyEater Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sply Pitfall Trp",
+                "count": 1
+            },
+            {
+                "name": "Sm Barrel-Bomb",
+                "count": 3
+            },
+            {
+                "name": "Lg Barrel-Bomb",
+                "count": 3
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Gravios Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Gravios",
+        "goal-condition": "Hunt the Gravios",
+        "quest-details": "To get to a Gravios, first you have to do something about that terrible tail! Find a chance and aim to cut it off!",
+        "difficulty": 5,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "White Mantis",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Sword Saint Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Mail",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Braces",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Tasset",
+                "decorations": [
+                    {
+                        "name": "Defense Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 5
+            },
+            {
+                "name": "Mega Potion",
+                "count": 7
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "name": "Gravios Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Gravios",
+        "goal-condition": "Hunt the Gravios",
+        "quest-details": "With your equipment, white gas will have no effect! Huh? What about red gas? That's for you to handle!",
+        "difficulty": 5,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Graviton Hammer",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Basarios Helm",
+                "decorations": [
+                    {
+                        "name": "Pep Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Basarios Mail",
+                "decorations": [
+                    {
+                        "name": "Pep Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Basarios Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Basarios Tasset",
+                "decorations": [
+                    {
+                        "name": "Pep Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Basarios Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Power Juice",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Gravios Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Gravios",
+        "goal-condition": "Hunt the Gravios",
+        "quest-details": "A normal attack will just find you on the receiving end of its counter! Put up a fortress-like Guard and Shell!",
+        "difficulty": 5,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Hellsting+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Hermitaur Cup",
+                "decorations": [
+                    {
+                        "name": "StrongWall Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hermitaur Mail",
+                "decorations": []
+            },
+            {
+                "name": "Gravios Vambraces D",
+                "decorations": [
+                    {
+                        "name": "Hard Wall Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hermitaur Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Greaves D",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "name": "Gravios Training",
+        "time-limit": 50,
+        "location": "Great Arena",
+        "main-monsters": "Gravios",
+        "goal-condition": "Hunt the Gravios",
+        "quest-details": "Using a Shield to defend against heat is unwise, but your foe can't move during heat attacks! That's your cue to attack!",
+        "difficulty": 5,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Monodevilcaster",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Remobra Suit",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Guards",
+                "decorations": [
+                    {
+                        "name": "Pierce Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Coat",
+                "decorations": []
+            },
+            {
+                "name": "Remobra Feet",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 30
+            },
+            {
+                "name": "Pierce S Lv1",
+                "count": 35
+            },
+            {
+                "name": "Pierce S Lv2",
+                "count": 25
+            },
+            {
+                "name": "Mega Potion",
+                "count": 4
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            }
+        ]
     }
 ]
