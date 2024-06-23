@@ -2719,5 +2719,117 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "Conga",
+        "type": "carving",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Conga Pelt",
+                "chance": null
+            },
+            {
+                "name": "Sharp Claw",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Conga",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Conga Pelt",
+                "chance": null
+            },
+            {
+                "name": "Conga Pelt+",
+                "chance": null
+            },
+            {
+                "name": "Sharp Claw",
+                "chance": null
+            },
+            {
+                "name": "Brute Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Conga",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Conga Pelt",
+                "chance": null
+            },
+            {
+                "name": "Conga Pelt+",
+                "chance": null
+            },
+            {
+                "name": "Piercing Claw",
+                "chance": null
+            },
+            {
+                "name": "Stout Bone",
+                "chance": null
+            }
+        ]
+    },
+    {
+        "monster": "Conga",
+        "type": "carving",
+        "count": 1,
+        "condition": "Epic Hunting",
+        "materials": [
+            {
+                "name": "Ration",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Conga",
+        "type": "carving",
+        "count": 1,
+        "condition": "Training",
+        "materials": [
+            {
+                "name": "Potion",
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Conga",
+        "type": "carving",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Congalala Innards",
+                "chance": null
+            },
+            {
+                "name": "Tainted Meat",
+                "chance": null
+            },
+            {
+                "name": "Bone",
+                "chance": null
+            }
+        ]
     }
 ]
