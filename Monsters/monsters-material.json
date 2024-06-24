@@ -2946,5 +2946,181 @@
                 "chance": null
             }
         ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 38
+            },
+            {
+                "name": "Shakalnheritance",
+                "chance": 20
+            },
+            {
+                "name": "Armor Sphere",
+                "chance": 10
+            },
+            {
+                "name": "Armor Sphere+",
+                "chance": 14
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 10
+            },
+            {
+                "name": "LapisLazuliJewel",
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 15
+            },
+            {
+                "name": "Shakalnheritance",
+                "chance": 25
+            },
+            {
+                "name": "Armor Stone",
+                "chance": 15
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 15
+            },
+            {
+                "name": "Silver Egg",
+                "chance": 8
+            },
+            {
+                "name": "LapisLazuliJewel",
+                "chance": 6
+            },
+            {
+                "name": "Golden Egg",
+                "chance": 4
+            },
+            {
+                "name": "Hrd Armor Sphere",
+                "chance": 6
+            },
+            {
+                "name": "Commendation",
+                "chance": 4
+            },
+            {
+                "name": "Hvy Armor Sphere",
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "carving",
+        "count": 2,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasre",
+                "chance": 20
+            },
+            {
+                "name": "Shakalnheritance",
+                "chance": 25
+            },
+            {
+                "name": "ShakalakaTreasr+",
+                "chance": 18
+            },
+            {
+                "name": "Hrd Armor Sphere",
+                "chance": 10
+            },
+            {
+                "name": "Hvy Armor Sphere",
+                "chance": 3
+            },
+            {
+                "name": "Ryl Armor Sphere",
+                "chance": 2
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 12
+            },
+            {
+                "name": "LapisLazuliJewel",
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "King Shakalaka",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ShakalakaTreasr+",
+                "chance": 20
+            },
+            {
+                "name": "Shakalnheritance",
+                "chance": 16
+            },
+            {
+                "name": "Silver Egg",
+                "chance": 4
+            },
+            {
+                "name": "Golden Egg",
+                "chance": 8
+            },
+            {
+                "name": "Commendation G",
+                "chance": 4
+            },
+            {
+                "name": "BattlefieldJewel",
+                "chance": 10
+            },
+            {
+                "name": "LapisLazuliJewel",
+                "chance": 6
+            },     
+            {
+                "name": "Armor Stone",
+                "chance": 15
+            },
+            {
+                "name": "Hrd Armor Sphere",
+                "chance": 8
+            }, 
+            {
+                "name": "Hvy Armor Sphere",
+                "chance": 4
+            }, 
+            {
+                "name": "Ryl Armor Sphere",
+                "chance": 3
+            }, 
+            {
+                "name": "Tru Armor Sphere",
+                "chance": 3
+            }
+        ]
     }
 ]
