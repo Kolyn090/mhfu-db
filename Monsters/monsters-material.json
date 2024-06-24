@@ -3094,5 +3094,41 @@
                 "chance": 3
             }
         ]
+    },
+    {
+        "monster": "Vespoid Queen",
+        "type": "carving",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Vespoid Abdomen",
+                "chance": 80
+            },
+            {
+                "name": "Monster Broth",
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid Queen",
+        "type": "carving",
+        "count": 2,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "VespoidQn'sCrown",
+                "chance": 50
+            },
+            {
+                "name": "Vespoid Abdomen",
+                "chance": 20
+            },
+            {
+                "name": "Monster Essence",
+                "chance": 30
+            }
+        ]
     }
 ]
