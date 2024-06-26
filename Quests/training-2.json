@@ -582,5 +582,355 @@
                 "count": 3
             }
         ]
+    },
+    {
+        "name": "Shogun Ceanataur Training",
+        "time-limit": 50,
+        "location": "Swamp (Day)",
+        "main-monsters": "Shogun Ceanataur",
+        "goal-condition": "Hunt the Shogun Ceanataur",
+        "quest-details": "Did you know that you can't use explosives in the rain? But you can use them in caves, so no worries!",
+        "difficulty": 3,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Deadly Poison",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Conga Mail",
+                "decorations": []
+            },
+            {
+                "name": "Bone Vambraces",
+                "decorations": [
+                    {
+                        "name": "Fatso Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Conga Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Bone Greaves",
+                "decorations": [
+                    {
+                        "name": "Fatso Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Hot Drink",
+                "count": 1
+            },
+            {
+                "name": "Lg Barrel-Bomb",
+                "count": 2
+            },
+            {
+                "name": "Prtbl Shock Trap",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shogun Ceanataur Training",
+        "time-limit": 50,
+        "location": "Swamp (Day)",
+        "main-monsters": "Shogun Ceanataur",
+        "goal-condition": "Hunt the Shogun Ceanataur",
+        "quest-details": "The inside of a cave is incredibly cold, but today's equipment lets you avoid the cold and fight for the win!",
+        "difficulty": 3,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Blango Destroyer+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Blango Helm",
+                "decorations": []
+            },
+            {
+                "name": "Plesioth Mail",
+                "decorations": []
+            },
+            {
+                "name": "Blango Vambraces",
+                "decorations": []
+            },
+            {
+                "name": "Blango Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Plesioth Greaves",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Paintball",
+                "count": 2
+            },
+            {
+                "name": "Demondrug",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shogun Ceanataur Training",
+        "time-limit": 50,
+        "location": "Swamp (Day)",
+        "main-monsters": "Shogun Ceanataur",
+        "goal-condition": "Hunt the Shogun Ceanataur",
+        "quest-details": "I've readied equipment that triggers the Hunger Negated skill! But you'll have to use a Hot Drink to ward off the cold!",
+        "difficulty": 3,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Gunhammer Prototype",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Blue Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Cephalos Mail",
+                "decorations": []
+            },
+            {
+                "name": "Plesioth Vambraces D",
+                "decorations": [
+                    {
+                        "name": "Fasting Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Cephalos Tasset",
+                "decorations": [
+                    {
+                        "name": "PickyEater Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Plesioth Greaves D",
+                "decorations": [
+                    {
+                        "name": "Fasting Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Hot Drink",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shogun Ceanataur Training",
+        "time-limit": 50,
+        "location": "Swamp (Day)",
+        "main-monsters": "Shogun Ceanataur",
+        "goal-condition": "Hunt the Shogun Ceanataur",
+        "quest-details": "You'll never win a fight by Guarding straight ahead. Use pauses in battles to flank your opponent!",
+        "difficulty": 3,
+        "point-multiplier": 110,
+        "weapon": {
+            "name": "White Gunlance",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Blue Piercing",
+                "decorations": [
+                    {
+                        "name": "Fast Food Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hunter's Mail",
+                "decorations": []
+            },
+            {
+                "name": "Tigrex Vambraces",
+                "decorations": [
+                    {
+                        "name": "Fast Food Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Tigrex Tasset",
+                "decorations": []
+            },
+            {
+                "name": "Mosswine Feet",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Hot Drink",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shogun Ceanataur Training",
+        "time-limit": 50,
+        "location": "Swamp (Day)",
+        "main-monsters": "Shogun Ceanataur",
+        "goal-condition": "Hunt the Shogun Ceanataur",
+        "quest-details": "Thunder S is great against a Shogun Ceanataur, and it just so happens this Bowgun can Rapid Fire that shell! Use them wisely!",
+        "difficulty": 3,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Black Belt Bowgun",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Black Piercing",
+                "decorations": [
+                    {
+                        "name": "High Speed Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Diablo Vest D",
+                "decorations": [
+                    {
+                        "name": "Early Bird Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Diablo Guards D",
+                "decorations": []
+            },
+            {
+                "name": "Rathian Coat",
+                "decorations": [
+                    {
+                        "name": "Strength Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Rathian Leggings",
+                "decorations": [
+                    {
+                        "name": "Strength Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 50
+            },
+            {
+                "name": "Pierce S Lv1",
+                "count": 20
+            },
+            {
+                "name": "Pellet S Lv1",
+                "count": 20
+            },
+            {
+                "name": "Clust S Lv1",
+                "count": 3
+            },
+            {
+                "name": "Thunder S",
+                "count": 15
+            },
+            {
+                "name": "Para S Lv2",
+                "count": 8
+            },
+            {
+                "name": "Paint S",
+                "count": 2
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Hot Drink",
+                "count": 1
+            }
+        ]
     }
 ]
