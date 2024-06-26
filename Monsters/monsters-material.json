@@ -3273,6 +3273,7 @@
         "materials": [
             {
                 "name": "Giadrome Hide+",
+                "number": 2,
                 "chance": 40
             },
             {
@@ -3282,6 +3283,7 @@
             },
             {
                 "name": "Giaprey Scale+",
+                "number": 2,
                 "chance": 24
             }
         ]
@@ -3424,6 +3426,7 @@
         "materials": [
             {
                 "name": "Velociprey Hide+",
+                "number": 2,
                 "chance": 40
             },
             {
@@ -3433,6 +3436,7 @@
             },
             {
                 "name": "Velociprey Scale+",
+                "number": 2,
                 "chance": 24
             }
         ]
@@ -3563,6 +3567,7 @@
         "materials": [
             {
                 "name": "Genprey Hide+",
+                "number": 2,
                 "chance": 40
             },
             {
@@ -3572,6 +3577,123 @@
             },
             {
                 "name": "Genprey Scale+",
+                "number": 2,
+                "chance": 24
+            }
+        ]
+    },
+    {
+        "monster": "Iodrome",
+        "type": "carving",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Ioprey Scale",
+                "chance": 15
+            },
+            {
+                "name": "Iodrome Hide",
+                "chance": 48
+            },
+            {
+                "name": "Toxin Sac",
+                "chance": 35
+            },
+            {
+                "name": "Iodrome Skull",
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Iodrome",
+        "type": "carving",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ioprey Scale+",
+                "chance": 28
+            },
+            {
+                "name": "Iodrome Hide",
+                "chance": 10
+            },
+            {
+                "name": "Ioprey Hide+",
+                "chance": 25
+            },
+            {
+                "name": "Toxin Sac",
+                "chance": 30
+            },
+            {
+                "name": "Iodrome Skull",
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Iodrome",
+        "type": "carving",
+        "count": 2,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Power Juice",
+                "chance": 20
+            },
+            {
+                "name": "Purple Crest",
+                "chance": 70
+            },
+            {
+                "name": "Hard Dragonroc",
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Iodrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Iodrome Hide",
+                "chance": 56
+            },
+            {
+                "name": "Toxin Sac",
+                "number": 2,
+                "chance": 39
+            },
+            {
+                "name": "Iodrome Skull",
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Iodrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ioprey Hide+",
+                "number": 2,
+                "chance": 40
+            },
+            {
+                "name": "Paralysis Sac",
+                "number": 2,
+                "chance": 36
+            },
+            {
+                "name": "Ioprey Scale+",
+                "number": 2,
                 "chance": 24
             }
         ]
