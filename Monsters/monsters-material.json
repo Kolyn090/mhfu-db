@@ -3436,5 +3436,144 @@
                 "chance": 24
             }
         ]
+    },
+    {
+        "monster": "Gendrome",
+        "type": "carving",
+        "count": 2,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Genprey Scale",
+                "chance": 40
+            },
+            {
+                "name": "Gendrome Hide",
+                "chance": 30
+            },
+            {
+                "name": "Paralysis Sac",
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Gendrome",
+        "type": "carving",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Genprey Scale",
+                "chance": 15
+            },
+            {
+                "name": "Gendrome Hide",
+                "chance": 48
+            },
+            {
+                "name": "Paralysis Sac",
+                "chance": 35
+            },
+            {
+                "name": "Gendrome Skull",
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Gendrome",
+        "type": "carving",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Genprey Scale+",
+                "chance": 20
+            },
+            {
+                "name": "Gendrome Hide",
+                "chance": 5
+            },
+            {
+                "name": "Genprey Hide+",
+                "chance": 15
+            },
+            {
+                "name": "Paralysis Sac",
+                "chance": 23
+            },
+            {
+                "name": "Gendrome Tail",
+                "chance": 30
+            },
+            {
+                "name": "Gendrome Skull",
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Gendrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Gendrome Hide",
+                "chance": 45
+            },
+            {
+                "name": "Paralysis Sac",
+                "chance": 35
+            },
+            {
+                "name": "Genprey Fang",
+                "number": 2,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Gendrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Gendrome Hide",
+                "chance": 56
+            },
+            {
+                "name": "Paralysis Sac",
+                "number": 2,
+                "chance": 39
+            },
+            {
+                "name": "Genprey Skull",
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Gendrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Genprey Hide+",
+                "chance": 40
+            },
+            {
+                "name": "Paralysis Sac",
+                "number": 2,
+                "chance": 36
+            },
+            {
+                "name": "Genprey Scale+",
+                "chance": 24
+            }
+        ]
     }
 ]
