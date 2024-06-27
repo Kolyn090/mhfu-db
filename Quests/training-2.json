@@ -932,5 +932,354 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "name": "Rathalos Training",
+        "time-limit": 50,
+        "location": "Frst&Hills(Day)",
+        "main-monsters": "Rathalos",
+        "goal-condition": "Hunt the Rathalos",
+        "quest-details": "Allow me to lend you my prized Kirin Piercing. It heightens element attacks and is the perfect match for Dual Blades!",
+        "difficulty": 4,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Giaprey Claws+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Kirin Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Rathalos Soul Mail",
+                "decorations": []
+            },
+            {
+                "name": "Hornet Vambraces",
+                "decorations": [
+                    {
+                        "name": "Earplug Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Rathalos Soul Coil",
+                "decorations": []
+            },
+            {
+                "name": "Hornet Greaves",
+                "decorations": [
+                    {
+                        "name": "Earplug Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Power Juice",
+                "count": 2
+            },
+            {
+                "name": "Supply Flash Bmb",
+                "count": 1
+            },
+            {
+                "name": "Sply Pitfall Trp",
+                "count": 1
+            },
+            {
+                "name": "Paintball",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Rathalos Training",
+        "time-limit": 50,
+        "location": "Frst&Hills(Day)",
+        "main-monsters": "Rathalos",
+        "goal-condition": "Hunt the Rathalos",
+        "quest-details": "Some Shakalakas have been spotted near a nest! If you defeat them, you can carve Demondrug. Get it and use it!",
+        "difficulty": 4,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Valkyrie Blade",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Rathian Mail",
+                "decorations": [
+                    {
+                        "name": "Psychic Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Rathian Vambraces",
+                "decorations": [
+                    {
+                        "name": "Psychic Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Rathian Tasset",
+                "decorations": [
+                    {
+                        "name": "Psychic Jewel"
+                    },
+                    {
+                        "name": "Psychic Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Rathian Greaves",
+                "decorations": [
+                    {
+                        "name": "Psychic Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 5
+            },
+            {
+                "name": "Supply Flash Bmb",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Rathalos Training",
+        "time-limit": 50,
+        "location": "Frst&Hills(Day)",
+        "main-monsters": "Rathalos",
+        "goal-condition": "Hunt the Rathalos",
+        "quest-details": "Let me share a secret piece of music I know. Try White-White-Blue-Blue-Sky! You'll find your foe for sure!",
+        "difficulty": 4,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Sakura Recorder",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Khezu Cap D",
+                "decorations": [
+                    {
+                        "name": "Fife Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Khezu Mail D",
+                "decorations": [
+                    {
+                        "name": "Fife Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Rathian Heart Braces",
+                "decorations": [
+                    {
+                        "name": "Fife Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Khezu Tasset D",
+                "decorations": [
+                    {
+                        "name": "Fife Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Rathian HeartGreaves",
+                "decorations": [
+                    {
+                        "name": "Fife Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Prtbl Shock Trap",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Rathalos Training",
+        "time-limit": 50,
+        "location": "Frst&Hills(Day)",
+        "main-monsters": "Rathalos",
+        "goal-condition": "Hunt the Rathalos",
+        "quest-details": "The flying Rathalos can block your movements with Wind Pressure! Just don't let it stop your attacks!",
+        "difficulty": 4,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Dark Spear",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Chaoshroom",
+                "decorations": []
+            },
+            {
+                "name": "Diablo Mail D",
+                "decorations": [
+                    {
+                        "name": "PaperweightJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Diablo Vambraces D",
+                "decorations": []
+            },
+            {
+                "name": "Chrome Metal Coat",
+                "decorations": []
+            },
+            {
+                "name": "Chrome Metal Boots",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 2
+            },
+            {
+                "name": "Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Paintball",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Rathalos Training",
+        "time-limit": 50,
+        "location": "Frst&Hills(Day)",
+        "main-monsters": "Rathalos",
+        "goal-condition": "Hunt the Rathalos",
+        "quest-details": "If you're hit by a Rathalo's roar, it's gonna hurt! Try to make sure your Health is at its maximum. No regrets!",
+        "difficulty": 4,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Diamyo's Warbow II",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Yellow Piercing",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Remobra Suit",
+                "decorations": []
+            },
+            {
+                "name": "Plesioth Guards ",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Coat",
+                "decorations": [
+                    {
+                        "name": "Pierce Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Leggings",
+                "decorations": [
+                    {
+                        "name": "Pierce Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Power Coating",
+                "count": 20
+            },
+            {
+                "name": "Mega Potion",
+                "count": 3
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Supply Flash Bmb",
+                "count": 1
+            },
+            {
+                "name": "Paintball",
+                "count": 1
+            }
+        ]
     }
 ]
