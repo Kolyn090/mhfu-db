@@ -4189,5 +4189,341 @@
                 "chance": 15
             }
         ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Kut-Ku Webbing",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Blue Kut-Ku Shl",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Blue Kut-Ku Scl",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Giant Beak",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Kut-Ku Webbing",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Blue Kut-Ku Cpc",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Blue Kut-Ku Scl+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Giant Beak",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Splendid Beak",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Str Kut-Ku Wing",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "HvyBlueKut-KuShl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "ThkBlueKut-KuScl",
+                "number": 1,
+                "chance": 33
+            },
+            {
+                "name": "Splendid Beak",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 74
+            },
+            {
+                "name": "Blue Kut-Ku Scl",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Kut-ku Ear",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Blue Kut-Ku Scl+",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Long Kut-Ku Ear",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 49
+            },
+            {
+                "name": "ThkBlueKut-KuScl",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Lucky Kut-Ku Ear",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "ear",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Kut-ku Ear",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Blue Kut-Ku Scl",
+                "number": 3,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "ear",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Kut-ku Ear",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Long Kut-Ku Ear",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Blue Kut-Ku Scl+",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "ear",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Long Kut-Ku Ear",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Lucky Kut-Ku Ear",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "ThkBlueKut-KuScl",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blue Kut-Ku Shl",
+                "number": 1,
+                "chance": 36
+            },
+            {
+                "name": "Screamer",
+                "number": 2,
+                "chance": 24
+            },
+            {
+                "name": "Med Monster Bone",
+                "number": 2,
+                "chance": 27
+            },
+            {
+                "name": "Splendid Beak",
+                "number": 1,
+                "chance": 3
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blue Kut-Ku Cpc",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Screamer",
+                "number": 2,
+                "chance": 17
+            },
+            {
+                "name": "Monster Bone+",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "Splendid Beak",
+                "number": 1,
+                "chance": 3
+            },
+            {
+                "name": "Giant Beak",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyBlueKut-KuShl",
+                "number": 1,
+                "chance": 47
+            },
+            {
+                "name": "Screamer",
+                "number": 4,
+                "chance": 10
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "Splendid Beak",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 15
+            }
+        ]
     }
 ]
