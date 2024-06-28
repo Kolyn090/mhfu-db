@@ -4610,7 +4610,6 @@
             }
         ]
     },
-    ,
     {
         "monster": "Yian Garuga",
         "type": "tail",
@@ -5125,6 +5124,379 @@
                 "name": "Long Garuga Ear",
                 "number": 1,
                 "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Garuga Scale+",
+                "number": 1,
+                "chance": 64
+            },
+            {
+                "name": "Garuga Carapace",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Garuga Mane",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Garuga Wing",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThickGarugaScale",
+                "number": 1,
+                "chance": 64
+            },
+            {
+                "name": "Hvy Garuga Shell",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "SilverGarugaPelt",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Str Garuga Wing",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Garuga Tail",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Garuga Scale",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Garuga Scale+",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "LethrGarugaTail",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Garuga Scale+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "ThickGarugaScale",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Garuga Scale+",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Garuga Wing",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 49
+            },
+            {
+                "name": "Garuga Scale+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "ThickGarugaScale",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Str Garuga Wing",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "mouth",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rejuvenated Beak",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Sharpened Beak",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Garuga Scale+",
+                "number": 3,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "mouth",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Rejuvenated Beak",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "ThickGarugaScale",
+                "number": 3,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "ear",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Long Garuga Ear",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Garuga Ear",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "Garuga Scale+",
+                "number": 3,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "ear",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Long Garuga Ear",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "ThickGarugaScale",
+                "number": 3,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "back",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Garuga Mane",
+                "number": 3,
+                "chance": 70
+            },
+            {
+                "name": "Garuga Scale",
+                "number": 5,
+                "chance": 10
+            },
+            {
+                "name": "Garuga Carapace",
+                "number": 3,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "back",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "SilverGarugaPelt",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Hvy Garuga Shell",
+                "number": 4,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "wing",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Garuga Wing",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Garuga Wing",
+                "number": 2,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "wing",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Str Garuga Wing",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Hvy Garuga Shell",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Garuga Carapace",
+                "number": 2,
+                "chance": 90
+            },
+            {
+                "name": "Rejuvenated Beak",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Long Garuga Ear",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hvy Garuga Shell",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Garuga Carapace",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "Rejuvenated Beak",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Long Garuga Ear",
+                "number": 1,
+                "chance": 5
             }
         ]
     }
