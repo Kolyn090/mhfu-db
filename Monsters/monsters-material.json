@@ -5499,5 +5499,463 @@
                 "chance": 5
             }
         ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Rubbery Hide",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Poison Sac",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Med Monster Bone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Rubbery Hide",
+                "number": 1,
+                "chance": 61
+            },
+            {
+                "name": "Poison Sac",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 8
+            },            
+            {
+                "name": "Gypceros Head",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "Rubbery Hide+",
+                "number": 1,
+                "chance": 43
+            },
+            {
+                "name": "Toxin Sac",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Novacrystal",
+                "number": 1,
+                "chance": 8
+            },  
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 3
+            },            
+            {
+                "name": "Gypceros Head",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "number": 1,
+                "chance": 43
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "Novacrystal",
+                "number": 1,
+                "chance": 8
+            },  
+            {
+                "name": "Purecrystal",
+                "number": 1,
+                "chance": 3
+            },            
+            {
+                "name": "HardGypcerosHead",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "play-dead",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Rubbery Hide+",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Toxin Sac",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Poison Sac",
+                "number": 1,
+                "chance": 20
+            },  
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "play-dead",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 10
+            },  
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 25
+            },            
+            {
+                "name": "HardGypcerosHead",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 47
+            },
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "comb",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Stone",
+                "number": 5,
+                "chance": 71
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "comb",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Iron Ore",
+                "number": 2,
+                "chance": 66
+            },
+            {
+                "name": "Gypceros Head",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "comb",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "number": 1,
+                "chance": 68
+            },
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Novacrystal",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Gypceros Head",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "comb",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Dragonite Ore",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "Purecrystal",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Novacrystal",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Gypceros Head",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HardGypcerosHead",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Rubbery Hide",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Poison Sac",
+                "number": 1,
+                "chance": 46
+            },
+            {
+                "name": "Power Extract",
+                "number": 1,
+                "chance": 34
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Rubbery Hide",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Toxin Sac",
+                "number": 2,
+                "chance": 46
+            },
+            {
+                "name": "Power Extract",
+                "number": 2,
+                "chance": 34
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rubbery Hide",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rubbery Hide+",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Toxin Sac",
+                "number": 2,
+                "chance": 42
+            },
+            {
+                "name": "Power Extract",
+                "number": 2,
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Rubbery Hide+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "SpecRubberyHide+",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Toxin Sac",
+                "number": 2,
+                "chance": 15
+            },
+            {
+                "name": "DeadlyPoisonSac",
+                "number": 2,
+                "chance": 42
+            },
+            {
+                "name": "Power Extract",
+                "number": 2,
+                "chance": 15
+            }
+        ]
     }
 ]
