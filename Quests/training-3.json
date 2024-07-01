@@ -300,5 +300,367 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "name": "Emerald Congalala Training",
+        "time-limit": 50,
+        "location": "Old Jungle",
+        "main-monsters": "Emerald Congalala",
+        "goal-condition": "Hunt the Emerald Congalala",
+        "quest-details": "This armor is resistant to smells! You'll stay lemon-fresh no matter what! But it's not invincible, so good luck dodging!",
+        "difficulty": 2,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Icicle Daggers",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Conga Helm S",
+                "decorations": []
+            },
+            {
+                "name": "Conga Mail S",
+                "decorations": []
+            },
+            {
+                "name": "Conga Vambraces S",
+                "decorations": []
+            },
+            {
+                "name": "Conga Tasset S",
+                "decorations": []
+            },
+            {
+                "name": "Conga Greaves S",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 2
+            },
+            {
+                "name": "Power Juice",
+                "count": 1
+            },
+            {
+                "name": "Shock Trap",
+                "count": 1
+            },
+            {
+                "name": "Tainted Meat",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Emerald Congalala Training",
+        "time-limit": 50,
+        "location": "Old Jungle",
+        "main-monsters": "Emerald Congalala",
+        "goal-condition": "Hunt the Emerald Congalala",
+        "quest-details": "Get the ol' Trap Master skill on I see! That ensures a 100% combination success rate! Materials? Still got to get those yourself!",
+        "difficulty": 2,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Enforcer's Axe",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Battle Helm S",
+                "decorations": [
+                    {
+                        "name": "TrapMasterJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Battle Mail S",
+                "decorations": [
+                    {
+                        "name": "TrapMasterJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Battle Vambraces S",
+                "decorations": [
+                    {
+                        "name": "TrapMasterJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Battle Tasset S",
+                "decorations": [
+                    {
+                        "name": "TrapMasterJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Battle Greaves S",
+                "decorations": [
+                    {
+                        "name": "TrapMasterJewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Paintball",
+                "count": 2
+            },
+            {
+                "name": "Toadstool",
+                "count": 1
+            },
+            {
+                "name": "Sleep Herb",
+                "count": 1
+            },
+            {
+                "name": "Iron Pickaxe",
+                "count": 1
+            },
+            {
+                "name": "Deodorant",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "name": "Emerald Congalala Training",
+        "time-limit": 50,
+        "location": "Old Jungle",
+        "main-monsters": "Emerald Congalala",
+        "goal-condition": "Hunt the Emerald Congalala",
+        "quest-details": "It may be powerful, but so are you! This is going to be a match of strength! Go for its head and show it what you've got!",
+        "difficulty": 2,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Onslaught Hammer",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Hypno Mail S",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Gypceros Vambraces S",
+                "decorations": [
+                    {
+                        "name": "Marathon Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hypno Tasset S",
+                "decorations": []
+            },
+            {
+                "name": "Hypno Greaves S",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 6
+            },
+            {
+                "name": "Deodorant",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Emerald Congalala Training",
+        "time-limit": 50,
+        "location": "Old Jungle",
+        "main-monsters": "Emerald Congalala",
+        "goal-condition": "Hunt the Emerald Congalala",
+        "quest-details": "Usually, even if you guard, the smell lingers on. But no need to worry with this! Guard well and then counterattack away!",
+        "difficulty": 2,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Frost Icicle",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Hermitaur Helm U",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Mail U",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Braces U",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Tasset U",
+                "decorations": []
+            },
+            {
+                "name": "Hermitaur Greaves U",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Tainted Meat",
+                "count": 2
+            },
+            {
+                "name": "Paralyze Thr Knf",
+                "count": 4
+            },
+            {
+                "name": "Deodorant",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Emerald Congalala Training",
+        "time-limit": 50,
+        "location": "Old Jungle",
+        "main-monsters": "Emerald Congalala",
+        "goal-condition": "Hunt the Emerald Congalala",
+        "quest-details": "Attacking those things it lobs with its tail isn't going to get you very far. Dodge, then attack. One false step and ...",
+        "difficulty": 2,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Quickcaster+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Conga Cap U",
+                "decorations": [
+                    {
+                        "name": "No Food Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Conga Vest U",
+                "decorations": []
+            },
+            {
+                "name": "Conga Guards U",
+                "decorations": []
+            },
+            {
+                "name": "Conga Coat U",
+                "decorations": []
+            },
+            {
+                "name": "Conga Leggings U",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 50
+            },
+            {
+                "name": "Pierce S Lv2",
+                "count": 40
+            },
+            {
+                "name": "Pellet S Lv2",
+                "count": 30
+            },
+            {
+                "name": "Freeze S",
+                "count": 40
+            },
+            {
+                "name": "Sleep S Lv2",
+                "count": 8
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Drugged Meat",
+                "count": 1
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 2
+            },
+            {
+                "name": "Deodorant",
+                "count": 3
+            }
+        ]
     }
 ]
