@@ -6328,5 +6328,249 @@
                 "chance": 15
             }
         ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Hypno Claw",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Hypno Bezoar",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 1,
+                "chance": 24
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "OrangeHypnoPelt+",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Hypno Claw",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Top-GrdHypnoClaw",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Hypno Bezoar",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Hypno Bezoar+",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "OrangeHypnoPelt",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Hypno Bezoar",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "OrangeHypnoPelt+",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Hypno Bezoar+",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "beak",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Hypno Beak",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 2,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "beak",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hypno Fang",
+                "number": 1,
+                "chance": 85
+            },
+            {
+                "name": "Hypno Beak",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 2,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt",
+                "number": 2,
+                "chance": 28
+            },
+            {
+                "name": "RainbowTailFeath",
+                "number": 1,
+                "chance": 36
+            },
+            {
+                "name": "Hypno Bezoar",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 2,
+                "chance": 24
+            },
+            {
+                "name": "Sleepyfish",
+                "number": 2,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "OrangeHypnoPelt",
+                "number": 2,
+                "chance": 4
+            },
+            {
+                "name": "OrangeHypnoPelt+",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "RainbowTailFeath",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Top-GrdHypnoClaw",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Hypno Bezoar",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Hypno Bezoar+",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 2,
+                "chance": 10
+            }
+        ]
     }
 ]
