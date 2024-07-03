@@ -1004,5 +1004,375 @@
                 "count": 2
             }
         ]
+    },
+    {
+        "name": "Nargacuga Training",
+        "time-limit": 50,
+        "location": "GrtForest(Nght)",
+        "main-monsters": "Nargacuga",
+        "goal-condition": "Hunt the Nargacuga",
+        "quest-details": "You win Dual Blades fights by sticking close, so look for openings and stab away! Don't let those chances dance away from you!!",
+        "difficulty": 3,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Melting Wail+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Diablo Helm U",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hornet Mail S",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hornet Vambraces S",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Diablo Coil U",
+                "decorations": []
+            },
+            {
+                "name": "Hornet Greaves S",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 2
+            },
+            {
+                "name": "Power Juice",
+                "count": 2
+            },
+            {
+                "name": "Shock Trap",
+                "count": 1
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Nargacuga Training",
+        "time-limit": 50,
+        "location": "GrtForest(Nght)",
+        "main-monsters": "Nargacuga",
+        "goal-condition": "Hunt the Nargacuga",
+        "quest-details": "Your chance to deal serious damage lies in when it's charging up! Attack while it's still targeting! And use THAT thing!!",
+        "difficulty": 3,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Wyvern Blade \"Maple\"",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Kirin Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Giaprey Mail U",
+                "decorations": [
+                    {
+                        "name": "Dodge Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Giaprey Vambraces U",
+                "decorations": [
+                    {
+                        "name": "Dodge Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Giaprey Tasset U",
+                "decorations": [
+                    {
+                        "name": "Evade Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Giaprey Greaves U",
+                "decorations": [
+                    {
+                        "name": "Dodge Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 6
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sply Pitfall Trp",
+                "count": 1
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Nargacuga Training",
+        "time-limit": 50,
+        "location": "GrtForest(Nght)",
+        "main-monsters": "Nargacuga",
+        "goal-condition": "Hunt the Nargacuga",
+        "quest-details": "Your weapon this time is a nice one that can cause Paralysis! Use it to stop the monster and... You know the rest!",
+        "difficulty": 3,
+        "point-multiplier": 110,
+        "weapon": {
+            "name": "Devil Masher+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Yellow Piercing",
+                "decorations": [
+                    {
+                        "name": "SpecialAtkJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hypno Mail S",
+                "decorations": [
+                    {
+                        "name": "SpecialAtkJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Gypceros Vambraces S",
+                "decorations": [
+                    {
+                        "name": "SpecialAtkJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hypno Tasset S",
+                "decorations": []
+            },
+            {
+                "name": "Hypno Greaves S",
+                "decorations": [
+                    {
+                        "name": "SpecialAtkJewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Mega Potion",
+                "count": 6
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Sply Pitfall Trp",
+                "count": 1
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Nargacuga Training",
+        "time-limit": 50,
+        "location": "GrtForest(Nght)",
+        "main-monsters": "Nargacuga",
+        "goal-condition": "Hunt the Nargacuga",
+        "quest-details": "You're not going to be able to keep up with this bad body with a slow Gunlance. Best to lie in wait, if you know what I mean!",
+        "difficulty": 3,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Tigrex Gunlance",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Ceanataur Helm U",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Mail U",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Braces U",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Tasset U",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Greaves U",
+                "decorations": [
+                    {
+                        "name": "Strength Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 6
+            },
+            {
+                "name": "Sonic Bomb",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Nargacuga Training",
+        "time-limit": 50,
+        "location": "GrtForest(Nght)",
+        "main-monsters": "Nargacuga",
+        "goal-condition": "Hunt the Nargacuga",
+        "quest-details": "Striking and retreating a distance as a tactic isn't going to work against this one. Watch its movements well and react!",
+        "difficulty": 3,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Fire Wrath",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Black Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Ceanataur Vest S",
+                "decorations": [
+                    {
+                        "name": "Pierce Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Guards U",
+                "decorations": [
+                    {
+                        "name": "Pierce Jewel+"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Coat U",
+                "decorations": [
+                    {
+                        "name": "Pierce Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Leggings S",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 60
+            },
+            {
+                "name": "Pierce S Lv1",
+                "count": 15
+            },
+            {
+                "name": "Pierce S Lv2",
+                "count": 30
+            },
+            {
+                "name": "Pierce S Lv3",
+                "count": 20
+            },
+            {
+                "name": "Flaming S",
+                "count": 20
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Supply Flash Bmb",
+                "count": 1
+            }
+        ]
     }
 ]
