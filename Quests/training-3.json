@@ -1374,5 +1374,368 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "name": "Copper Blangonga Training",
+        "time-limit": 50,
+        "location": "Old Desert",
+        "main-monsters": "Copper Blangonga",
+        "goal-condition": "Hunt the Copper Blangonga",
+        "quest-details": "Don't get it mad or you're in for a world of pain! The trick here is to get the first strike! Aim true for its fangs!",
+        "difficulty": 3,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Glacial Medusa",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Kirin Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Velociprey Mail S",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Gypceros Vambraces U",
+                "decorations": [
+                    {
+                        "name": "Steadfast Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Velociprey Tasset S",
+                "decorations": []
+            },
+            {
+                "name": "Gypceros Greaves U",
+                "decorations": [
+                    {
+                        "name": "Grinder Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 6
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 3
+            },
+            {
+                "name": "Power Juice",
+                "count": 1
+            },
+            {
+                "name": "Cool Drink",
+                "count": 2
+            },
+            {
+                "name": "Shock Trap",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Copper Blangonga Training",
+        "time-limit": 50,
+        "location": "Old Desert",
+        "main-monsters": "Copper Blangonga",
+        "goal-condition": "Hunt the Copper Blangonga",
+        "quest-details": "I see you've got Art of Unsheathing activated on that armor! Dash in on your target and give it a mouthful of steel!",
+        "difficulty": 3,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Daora's Decimator",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Monoblos Helm S",
+                "decorations": []
+            },
+            {
+                "name": "Gravios Mail U",
+                "decorations": [
+                    {
+                        "name": "UnsheathingJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Monoblos Vambraces S",
+                "decorations": [
+                    {
+                        "name": "UnsheathingJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Chrome Metal Coat",
+                "decorations": []
+            },
+            {
+                "name": "Monoblos Greaves S",
+                "decorations": [
+                    {
+                        "name": "Sword Draw Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 6
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Cool Drink",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Copper Blangonga Training",
+        "time-limit": 50,
+        "location": "Old Desert",
+        "main-monsters": "Copper Blangonga",
+        "goal-condition": "Hunt the Copper Blangonga",
+        "quest-details": "All that dashing back and forth sure can be harsh! But if you can focus and dish out a lot of small damage all at once...!",
+        "difficulty": 3,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "War Basher",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Piercing of Might",
+                "decorations": []
+            },
+            {
+                "name": "Hornet Mail U",
+                "decorations": []
+            },
+            {
+                "name": "Hornet Vambraces U",
+                "decorations": []
+            },
+            {
+                "name": "Hornet Tasset U",
+                "decorations": []
+            },
+            {
+                "name": "Hornet Greaves U",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 5
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 6
+            },
+            {
+                "name": "Cool Drink",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Copper Blangonga Training",
+        "time-limit": 50,
+        "location": "Old Desert",
+        "main-monsters": "Copper Blangonga",
+        "goal-condition": "Hunt the Copper Blangonga",
+        "quest-details": "If you kill a Genprey and carve it up just right, you might get a Paralyze Throwing Knife! Use the knife well to stop your prey!",
+        "difficulty": 3,
+        "point-multiplier": 105,
+        "weapon": {
+            "name": "Hellstinger",
+            "decorations": [
+                {
+                    "name": "Cure All Jewel"
+                }
+            ]
+        },
+        "armors": [
+            {
+                "name": "Tigrex Helm S",
+                "decorations": [
+                    {
+                        "name": "Cure All Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Khezu Mail U",
+                "decorations": [
+                    {
+                        "name": "Fast Food Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Tigrex Vambraces S",
+                "decorations": [
+                    {
+                        "name": "Cure All Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Khezu Tasset U",
+                "decorations": [
+                    {
+                        "name": "Fast Food Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Tigrex Greaves S",
+                "decorations": [
+                    {
+                        "name": "Cure All Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 4
+            },
+            {
+                "name": "Mega Potion",
+                "count": 6
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Cool Drink",
+                "count": 2
+            },
+            {
+                "name": "Shock Trap",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "name": "Copper Blangonga Training",
+        "time-limit": 50,
+        "location": "Old Desert",
+        "main-monsters": "Copper Blangonga",
+        "goal-condition": "Hunt the Copper Blangonga",
+        "quest-details": "Low on defense, Gunners tend to get into big trouble at a single blow, but that's where you shine! Show me your will to survive!",
+        "difficulty": 3,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "Icicle Bow II",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Monodevil Cap U",
+                "decorations": [
+                    {
+                        "name": "Danger Jewel"
+                    },
+                    {
+                        "name": "Danger Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Monodevil Vest U",
+                "decorations": [
+                    {
+                        "name": "Danger Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Monodevil Guards U",
+                "decorations": []
+            },
+            {
+                "name": "Monodevil Coat U",
+                "decorations": [
+                    {
+                        "name": "Protection Jewel"
+                    },
+                    {
+                        "name": "Protection Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Monodevil Leggings U",
+                "decorations": [
+                    {
+                        "name": "Protection Jewel"
+                    },
+                    {
+                        "name": "Protection Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Power Coating",
+                "count": 30
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Cool Drink",
+                "count": 2
+            },
+            {
+                "name": "Mega Nutrients",
+                "count": 2
+            },
+            {
+                "name": "Supply Flash Bmb",
+                "count": 1
+            }
+        ]
     }
 ]
