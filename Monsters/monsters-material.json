@@ -6798,39 +6798,6 @@
         "monster": "Rathian",
         "type": "tail",
         "count": 1,
-        "condition": "Low Rank",
-        "materials": [
-            {
-                "name": "",
-                "number": 1,
-                "chance": 28
-            },
-            {
-                "name": "",
-                "number": 1,
-                "chance": 36
-            },
-            {
-                "name": "",
-                "number": 1,
-                "chance": 6
-            },
-            {
-                "name": "",
-                "number": 1,
-                "chance": 24
-            },
-            {
-                "name": "",
-                "number": 1,
-                "chance": 6
-            }
-        ]
-    },
-    {
-        "monster": "Rathian",
-        "type": "tail",
-        "count": 1,
         "condition": "High Rank",
         "materials": [
             {
@@ -7360,6 +7327,540 @@
                 "name": "HvnlyRathianScl",
                 "number": 1,
                 "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Pnk Rathian Scl",
+                "number": 1,
+                "chance": 49
+            },
+            {
+                "name": "Pnk Rathian Shl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathian Spike",
+                "number": 1,
+                "chance": 2
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Pnk Rathian Scl+",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Pnk Rathian Cpc",
+                "number": 1,
+                "chance": 26
+            },
+            {
+                "name": "Rathian Spike",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 2
+            },
+            {
+                "name": "Inferno Sac",
+                "number": 1,
+                "chance": 11
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "HvyPnkRathianShl",
+                "number": 1,
+                "chance": 26
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Rathian Thorn",
+                "number": 1,
+                "chance": 2
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "number": 1,
+                "chance": 11
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Monster Bone+",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Pnk Rathian Scl",
+                "number": 1,
+                "chance": 56
+            },
+            {
+                "name": "Pnk Rathian Shl",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Rathian Spike",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Pnk Rathian Scl+",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Pnk Rathian Cpc",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "HvyPnkRathianShl",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Rathian Thorn",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 74
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Pnk Rathian Scl+",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 49
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "head",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Pnk Rathian Shl",
+                "number": 1,
+                "chance": 73
+            },
+            {
+                "name": "Pnk Rathian Scl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Pnk Rathian Scl+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Pnk Rathian Cpc",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 1,
+                "chance": 56
+            },
+            {
+                "name": "HvyPnkRathianShl",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "claw",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 4,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 2,
+                "chance": 75
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdFireWyvernClw",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Pnk Rathian Shl",
+                "number": 1,
+                "chance": 36
+            },
+            {
+                "name": "Pnk Rathian Scl",
+                "number": 2,
+                "chance": 50
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Pnk Rathian Cpc",
+                "number": 1,
+                "chance": 52
+            },
+            {
+                "name": "Pnk Rathian Scl+",
+                "number": 2,
+                "chance": 24
+            },
+            {
+                "name": "FireWyvern Fluid",
+                "number": 2,
+                "chance": 15
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyPnkRathianShl",
+                "number": 1,
+                "chance": 52
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 2,
+                "chance": 24
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Rathian Thorn",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "number": 1,
+                "chance": 1
             }
         ]
     }
