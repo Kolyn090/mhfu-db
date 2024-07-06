@@ -1737,5 +1737,398 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "name": "Lavasioth Training",
+        "time-limit": 50,
+        "location": "Volcano(Night)",
+        "main-monsters": "Lavasioth",
+        "goal-condition": "Hunt the Lavasioth",
+        "quest-details": "Finally! It's time for your ever favorite Bomb Training! What? No Bombs? You do know how to use an Iron Pickaxe, right?",
+        "difficulty": 4,
+        "point-multiplier": 100,
+        "weapon": {
+            "name": "High Sandman Spike",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Shinobi Mask (Sky)",
+                "decorations": [
+                    {
+                        "name": "Bombardier Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Shinobi Suit (Sky)",
+                "decorations": [
+                    {
+                        "name": "Bombardier Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Shinobi Kote (Sky)",
+                "decorations": [
+                    {
+                        "name": "Bombardier Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Shinobi Belt (Sky)",
+                "decorations": [
+                    {
+                        "name": "Bombardier Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Shinobi Boots (Sky)",
+                "decorations": [
+                    {
+                        "name": "Dodge Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Cool Drink",
+                "count": 3
+            },
+            {
+                "name": "Sm Barrel-Bomb",
+                "count": 3
+            },
+            {
+                "name": "Lg Barrel-Bomb",
+                "count": 3
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 2
+            },
+            {
+                "name": "Iron Pickaxe",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Lavasioth Training",
+        "time-limit": 50,
+        "location": "Volcano(Night)",
+        "main-monsters": "Lavasioth",
+        "goal-condition": "Hunt the Lavasioth",
+        "quest-details": "Sure it breathes molten rocks at you, but it's also got a huge weakness. Give its hollow legs a good whack for me, will ya?",
+        "difficulty": 4,
+        "point-multiplier": 110,
+        "weapon": {
+            "name": "Decider",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Red Piercing",
+                "decorations": [
+                    {
+                        "name": "ShortChargeJewel"
+                    },
+                    {
+                        "name": "ShortChargeJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hypno Mail S",
+                "decorations": [
+                    {
+                        "name": "RapidChargeJewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ceanataur Braces U",
+                "decorations": [
+                    {
+                        "name": "Hermit Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Kut-Ku Tasset U",
+                "decorations": [
+                    {
+                        "name": "Celebrity Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Ioprey Greaves S",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 7
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Cool Drink",
+                "count": 3
+            },
+            {
+                "name": "Paralyze Thr Knf",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "Lavasioth Training",
+        "time-limit": 50,
+        "location": "Volcano(Night)",
+        "main-monsters": "Lavasioth",
+        "goal-condition": "Hunt the Lavasioth",
+        "quest-details": "That's a wineer's Horn you've got there! Purple-Red-Red for Attack Up, and Red-Blue-Red-Purple will boost your Health!",
+        "difficulty": 4,
+        "point-multiplier": 95,
+        "weapon": {
+            "name": "Shell Castanet+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Echo Piercing",
+                "decorations": []
+            },
+            {
+                "name": "Conga Mail U",
+                "decorations": [
+                    {
+                        "name": "Pinch Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Conga Vambraces U",
+                "decorations": [
+                    {
+                        "name": "Pinch Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Conga Tasset U",
+                "decorations": [
+                    {
+                        "name": "Bombardier Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Conga Greaves U",
+                "decorations": [
+                    {
+                        "name": "Fasting Jewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Cool Drink",
+                "count": 3
+            },
+            {
+                "name": "Sply Lg Brrl Bmb",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "Lavasioth Training",
+        "time-limit": 50,
+        "location": "Volcano(Night)",
+        "main-monsters": "Lavasioth",
+        "goal-condition": "Hunt the Lavasioth",
+        "quest-details": "Even if your target's stronger than an ox, you'll be alright in your \"Iron Curtain\" armor! But... the rest is up to you!",
+        "difficulty": 4,
+        "point-multiplier": 90,
+        "weapon": {
+            "name": "Sadalsuud",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Cephalos Helm S",
+                "decorations": [
+                    {
+                        "name": "CoolBreeze Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Steel Mail S",
+                "decorations": []
+            },
+            {
+                "name": "UltimateIndraGloves",
+                "decorations": [
+                    {
+                        "name": "CoolBreeze Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "Hermitaur Tasset S",
+                "decorations": [
+                    {
+                        "name": "IronCurtainJewel"
+                    }
+                ]
+            },
+            {
+                "name": "UltimateIndraLggings",
+                "decorations": [
+                    {
+                        "name": "ColdBreezeJewel"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "Whetstone",
+                "count": 3
+            },
+            {
+                "name": "Mega Potion",
+                "count": 5
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "name": "Lavasioth Training",
+        "time-limit": 50,
+        "location": "Volcano(Night)",
+        "main-monsters": "Lavasioth",
+        "goal-condition": "Hunt the Lavasioth",
+        "quest-details": "Don't get caught between a rock and a hard place! One strike from this heavy-hitter and you're out! Head for wide areas! Evade!",
+        "difficulty": 4,
+        "point-multiplier":115,
+        "weapon": {
+            "name": "Great Arbalest+",
+            "decorations": []
+        },
+        "armors": [
+            {
+                "name": "Black Belt Helm S",
+                "decorations": []
+            },
+            {
+                "name": "Narga Vest S",
+                "decorations": [
+                    {
+                        "name": "Attack Jewel"
+                    }
+                ]
+            },
+            {
+                "name": "BlackBeltVambraces S",
+                "decorations": []
+            },
+            {
+                "name": "Chrome Metal Coat",
+                "decorations": []
+            },
+            {
+                "name": "Narga Leggings S",
+                "decorations": []
+            }
+        ],
+        "items": [
+            {
+                "name": "Normal S Lv1",
+                "count": "Infinity"
+            },
+            {
+                "name": "Normal S Lv2",
+                "count": 70
+            },
+            {
+                "name": "Pierce S Lv1",
+                "count": 50
+            },
+            {
+                "name": "Pierce S Lv2",
+                "count": 40
+            },
+            {
+                "name": "Pellet S Lv2",
+                "count": 30
+            },
+            {
+                "name": "Crag S Lv2",
+                "count": 8
+            },
+            {
+                "name": "Water S",
+                "count": 40
+            },
+            {
+                "name": "Mega Potion",
+                "count": 7
+            },
+            {
+                "name": "Ration",
+                "count": 4
+            },
+            {
+                "name": "Cool Drink",
+                "count": 3
+            },
+            {
+                "name": "Sply Max Potion",
+                "count": 1
+            }
+        ]
     }
 ]
