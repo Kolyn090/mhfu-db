@@ -7863,5 +7863,371 @@
                 "chance": 1
             }
         ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Gld Rathian Scl+",
+                "number": 1,
+                "chance": 43
+            },
+            {
+                "name": "Gld Rathian Cpc",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Rathian Spike",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Inferno Sac",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckGldRathnScl",
+                "number": 1,
+                "chance": 44
+            },
+            {
+                "name": "HvyGldRathianShl",
+                "number": 1,
+                "chance": 26
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Rathian Thorn",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Gld Rathian Scl+",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Gld Rathian Cpc",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckGldRathnScl",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "HvyGldRathianShl",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Rathian Thorn",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 36
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "ThckGldRathnScl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Gld Rathian Scl+",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Gld Rathian Scl+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Gld Rathian Cpc",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HvyPnkRathianShl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 2,
+                "chance": 75
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdFireWyvernClw",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Gld Rathian Cpc",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Gld Rathian Scl+",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 3,
+                "chance": 8
+            },
+            {
+                "name": "FireWyvern Fluid",
+                "number": 2,
+                "chance": 7
+            },
+            {
+                "name": "Rathian Spike+",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyPnkRathianShl",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "ThckPnkRathnScl",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 2,
+                "chance": 3
+            },
+            {
+                "name": "Rathian Thorn",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathianScl",
+                "number": 1,
+                "chance": 3
+            }
+        ]
     }
 ]
