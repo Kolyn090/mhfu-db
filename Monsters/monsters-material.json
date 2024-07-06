@@ -8229,5 +8229,763 @@
                 "chance": 3
             }
         ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Rathalos Webbing",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rathalos Scale+",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Rathalos Carapace",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Rathalos Webbing",
+                "number": 1,
+                "chance": 14
+            },
+            {
+                "name": "Inferno Sac",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 4
+            }
+            ,
+            {
+                "name": "Rathalos Wing",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckRathianScl",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "HvyRathianShell",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "StrRathalosWing",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "carving",
+        "count": 3,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Rathalos Tongue",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Rathalos Liver",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Dragonrock+",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "tail",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Rathalos Tail",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 2
+            },
+            {
+                "name": "Rathian Plate",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rathalos Scale+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Rathalos Tail",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Rathalos Carapace",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "FireWyvrn Marrow",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Rathalos Plate",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckRathianScl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "LthrRathalosTail",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "HvyRathalosShl",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "tail",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Rathalos Jewel",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Dragonrock+",
+                "number": 1,
+                "chance": 85
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 74
+            },
+            {
+                "name": "FireWyvern Fluid",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 74
+            },
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Rathalos Plate",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rathalos Scale+",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "ThckRathalosScl",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Rathalos Tongue",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "head",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Rathian Shell",
+                "number": 1,
+                "chance": 65
+            },
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 35
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "head",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 65
+            },
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 31
+            },
+            {
+                "name": "Rathalos Plate",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rathalos Scale+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Rathalos Carapace",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathalos Plate",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckRathalosnScl",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HvyRathalosShell",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "head",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Rathalos Scale",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "FireWyvern Fluid",
+                "number": 3,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "claw",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 1,
+                "chance": 83
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 4,
+                "chance": 17
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "claw",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 4,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 2,
+                "chance": 75
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdFireWyvernClw",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "claw",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 4,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "FireWyvern Fluid",
+                "number": 2,
+                "chance": 25
+            },
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Rathalos Shell",
+                "number": 1,
+                "chance": 52
+            },
+            {
+                "name": "Rathalos Webbing",
+                "number": 1,
+                "chance": 33
+            },
+            {
+                "name": "Rathalos Tail",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Rathalos Plate",
+                "number": 1,
+                "chance": 2
+            },
+            {
+                "name": "Rathalos Wing",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rathalos Carapace",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Rathalos Scale+",
+                "number": 2,
+                "chance": 24
+            },
+            {
+                "name": "Rathalos Plate",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Rathalos Wing",
+                "number": 3,
+                "chance": 8
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyRathalosShell",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "ThckRathalosScl",
+                "number": 2,
+                "chance": 24
+            },
+            {
+                "name": "StrRathalosWing",
+                "number": 2,
+                "chance": 8
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
     }
 ]
