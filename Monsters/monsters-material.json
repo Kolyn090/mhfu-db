@@ -9517,5 +9517,362 @@
                 "chance": 2
             }
         ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Slvr Rthlos Scl+",
+                "number": 1,
+                "chance": 43
+            },
+            {
+                "name": "Slvr Rthlos Cpc",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Rathalos Webbing",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Inferno Sac",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 3
+            }
+            ,
+            {
+                "name": "Slvr Rthlos Wing",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckSlvrRthisScl",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "HvySlvrRthisShl",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "StrRathalosWing",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Slvr Rthlos Scl+",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Slvr Rthlos Tail",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Slvr Rthlos Cpc",
+                "number": 1,
+                "chance": 11
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Rathian Ruby",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckSlvrRthisScl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "LthrSlvrRthlsTail",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "HvySlvrRthisShl",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Slvr Rthlos Scl+",
+                "number": 1,
+                "chance": 26
+            },
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 36
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "ThckSlvrRthisScl",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Slvr Rthlos Scl+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Slvr Rthlos Cpc",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathalos Plate",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckSlvrRthisScl",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HvySlvrRthisShl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fire Wyvern Claw",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdFireWyvernClw",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Wyvern Claw",
+                "number": 5,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Slvr Rthlos Cpc",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Slvr Rthlos Scl+",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "Slvr Rthlos Tail",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Slvr Rthlos Wing",
+                "number": 3,
+                "chance": 10
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvySlvrRthisShl",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "ThckSlvrRthisScl",
+                "number": 2,
+                "chance": 24
+            },
+            {
+                "name": "StrRathalosWing",
+                "number": 2,
+                "chance": 8
+            },
+            {
+                "name": "Rathalos Ruby",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "HvnlyRathalosScl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
     }
 ]
