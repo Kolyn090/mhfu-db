@@ -10379,5 +10379,410 @@
                 "chance": 8
             }
         ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Alluring Hide",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Thunder Sac",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Alluring Hide",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Alluring Webbing",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "Thunder Sac",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Wyvern Stone",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "StrAlluringWing",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Alluring Webbing",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Thunder Sac",
+                "number": 1,
+                "chance": 14
+            },
+            {
+                "name": "Lightning Sac",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Wyvern Stone",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Pale Bone",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "head",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 92
+            },
+            {
+                "name": "Pale Bone",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 77
+            },
+            {
+                "name": "Pale Bone",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "StrAlluringWing",
+                "number": 1,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "body",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 92
+            },
+            {
+                "name": "Pale Bone",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "body",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 77
+            },
+            {
+                "name": "Pale Bone",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "body",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Pale Extract",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "StrAlluringWing",
+                "number": 1,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Alluring Hide",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Pale Extract",
+                "number": 2,
+                "chance": 40
+            },
+            {
+                "name": "Pale Bone",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Thunder Sac",
+                "number": 2,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Alluring Webbing",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Pale Extract",
+                "number": 2,
+                "chance": 40
+            },
+            {
+                "name": "Thunder Sac",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "StrAlluringWing",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Thunder Sac",
+                "number": 2,
+                "chance": 25
+            },
+            {
+                "name": "Lightning Sac",
+                "number": 2,
+                "chance": 17
+            },
+            {
+                "name": "Pale Khezu Steak",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "KhezuSpecialCut",
+                "number": 1,
+                "chance": 8
+            }
+        ]
     }
 ]
