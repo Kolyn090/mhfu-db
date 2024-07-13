@@ -11666,5 +11666,410 @@
                 "chance": 14
             }
         ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "carving",
+        "count": 4,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Shl",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Flame Sac",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Blk Gravios Skl",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "carving",
+        "count": 4,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Shl",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "Blk Gravios Cpc",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Inferno Sac",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Blk Gravios Skl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Wyvern Stone",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "carving",
+        "count": 4,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Cpc",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Coma Sac",
+                "number": 1,
+                "chance": 17
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvnlyGraviosShl",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "tail",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Shl",
+                "number": 1,
+                "chance": 72
+            },
+            {
+                "name": "Lg Monster Bone",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Firestone",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "tail",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Cpc",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 9
+            },
+            {
+                "name": "Gravios BrainStm",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "tail",
+        "count": 2,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyBlkGraviosShl",
+                "number": 1,
+                "chance": 66
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Gravios BrainStm",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 94
+            },
+            {
+                "name": "Firestone",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 47
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 47
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "stomach",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Shl",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 2,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "stomach",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Shl",
+                "number": 1,
+                "chance": 33
+            },
+            {
+                "name": "Blk Gravios Cpc",
+                "number": 1,
+                "chance": 57
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 2,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "stomach",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Cpc",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "HvyBlkGraviosShl",
+                "number": 1,
+                "chance": 57
+            },
+            {
+                "name": "Coma Sac",
+                "number": 2,
+                "chance": 15
+            },
+            {
+                "name": "HvnlyGraviosShl",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Shl",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Flame Sac",
+                "number": 2,
+                "chance": 41
+            },
+            {
+                "name": "Firestone",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Gravios Cpc",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "Sleep Sac",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Inferno Sac",
+                "number": 1,
+                "chance": 34
+            },
+            {
+                "name": "Firestone",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyBlkGraviosShl",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Coma Sac",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 14
+            }
+        ]
     }
 ]
