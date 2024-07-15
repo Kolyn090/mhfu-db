@@ -12291,5 +12291,225 @@
                 "chance": 6
             }
         ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "carving",
+        "count": 4,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wht Monoblos Spn",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "Wht Monoblos Shl",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "Blos Fang",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "carving",
+        "count": 4,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "WhtMonoblosThora",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Wht Monoblos Cpc",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "Blos Fang",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Wyvern Stone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "tail",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wht Monoblos Shl",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Lg Monster Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "tail",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wht Monoblos Cpc",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Wht Monoblos Shl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 98
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "horn",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wht Monoblos Hrn",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "horn",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wht Monoblos Hrn",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Top-GrdPlatHorn",
+                "number": 1,
+                "chance": 60
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wht Monoblos Shl",
+                "number": 1,
+                "chance": 67
+            },
+            {
+                "name": "Wht Monoblos Spn",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "WhtMonoblosThora",
+                "number": 1,
+                "chance": 65
+            },
+            {
+                "name": "Wht Monoblos Cpc",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 6
+            }
+        ]
     }
 ]
