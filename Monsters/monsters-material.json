@@ -12741,7 +12741,7 @@
                 "chance": 92
             },
             {
-                "name": "Majestic Hornn",
+                "name": "Majestic Horn",
                 "number": 1,
                 "chance": 8
             }
@@ -12759,7 +12759,7 @@
                 "chance": 80
             },
             {
-                "name": "Majestic Hornn",
+                "name": "Majestic Horn",
                 "number": 1,
                 "chance": 20
             }
@@ -12777,7 +12777,7 @@
                 "chance": 40
             },
             {
-                "name": "Majestic Hornn",
+                "name": "Majestic Horn",
                 "number": 1,
                 "chance": 60
             }
@@ -12858,6 +12858,377 @@
             },
             {
                 "name": "LthrDiablosTail",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Blos Fang",
+                "number": 4,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Black Blos Spine",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Black Blos Shell",
+                "number": 1,
+                "chance": 63
+            },
+            {
+                "name": "Blos Fang",
+                "number": 1,
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Blos Thracic",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Black Blos Cpc",
+                "number": 1,
+                "chance": 56
+            },
+            {
+                "name": "Blos Fang",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Wyvern Stone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Black Blos Shell",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "carving",
+        "count": 4,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyBlkBlosSpine",
+                "number": 1,
+                "chance": 17
+            },
+            {
+                "name": "Black Blos Cpc",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Blos Fang",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Wyvern Stone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HvyBlkBlosShell",
+                "number": 1,
+                "chance": 63
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Black Blos Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Black Blos Tail",
+                "number": 1,
+                "chance": 60
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Black Blos Shell",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Black Blos Cpc",
+                "number": 1,
+                "chance": 26
+            },
+            {
+                "name": "Black Blos Tail",
+                "number": 1,
+                "chance": 64
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Black Blos Cpc",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvyBlkBlosShell",
+                "number": 1,
+                "chance": 26
+            },
+            {
+                "name": "LthrBlkBlosTail",
+                "number": 1,
+                "chance": 64
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 95
+            },
+            {
+                "name": "Black Blos Spine",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 47
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Blk Blos Thracic",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HvyBlkBlosSpine",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "horn",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Twisted Horn",
+                "number": 2,
+                "chance": 16
+            },
+            {
+                "name": "TwstBlkBlosHrn",
+                "number": 1,
+                "chance": 69
+            },
+            {
+                "name": "Majestic Horn",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "horn",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Twisted Horn",
+                "number": 2,
+                "chance": 32
+            },
+            {
+                "name": "TwstBlkBlosHrn",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Majestic Horn",
+                "number": 1,
+                "chance": 18
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "horn",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "TwstBlkBlosHrn",
+                "number": 2,
+                "chance": 40
+            },
+            {
+                "name": "StoutWarpedHorn",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Majestic Horn",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Black Blos Spine",
+                "number": 1,
+                "chance": 11
+            },
+            {
+                "name": "Black Blos Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Black Blos Tail",
+                "number": 1,
+                "chance": 10
+            }
+            ,
+            {
+                "name": "Blos Fang",
+                "number": 3,
+                "chance": 39
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Blos Thracic",
+                "number": 1,
+                "chance": 11
+            },
+            {
+                "name": "Black Blos Cpc",
+                "number": 1,
+                "chance": 57
+            },
+            {
+                "name": "Black Blos Tail",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Blos Fang",
+                "number": 3,
+                "chance": 27
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyBlkBlosSpine",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "HvyBlkBlosShell",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "LthrBlkBlosTail",
                 "number": 1,
                 "chance": 10
             },
