@@ -178,5 +178,185 @@
         "min": 1,
         "max": 1,
         "type": "normal"
+    },
+    {
+        "name": "Hot Meat",
+        "materialA": "Well-Done Steak",
+        "materialB": "Hot Pepper",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Cool Drink",
+        "materialA": "Ice Crystal",
+        "materialB": "Bitterbug",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Cold Meat",
+        "materialA": "Well-Done Steak",
+        "materialB": "Ice Crystal",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Spicy Mushroom",
+        "materialA": "Hot Pepper",
+        "materialB": "Special Mushroom",
+        "chance": 85,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Frozen Berry",
+        "materialA": "Tropical Berry",
+        "materialB": "Ice Crystal",
+        "chance": 85,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Thawing Agent",
+        "materialA": "Fire Herb",
+        "materialB": "Rumblefish",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Poisoned Meat",
+        "materialA": "Raw Meat",
+        "materialB": "Toadstool",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Tainted Meat",
+        "materialA": "Raw Meat",
+        "materialB": "Parashroom",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Drugged Meat",
+        "materialA": "Raw Meat",
+        "materialB": "Sleep Herb",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Bomb Material",
+        "materialA": "Ivy",
+        "materialB": "Stone",
+        "chance": 95,
+        "min": 2,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Deodorant",
+        "materialA": "Bomb Material",
+        "materialB": "Sunset Herb",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Smoke Bomb",
+        "materialA": "Bomb Material",
+        "materialB": "Sap Plant",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Poison Smoke Bmb",
+        "materialA": "Bomb Material",
+        "materialB": "Toadstool",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Flash Bomb",
+        "materialA": "Bomb Material",
+        "materialB": "Flashbug",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Dung Bomb",
+        "materialA": "Bomb Material",
+        "materialB": "Dung",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Paintball",
+        "materialA": "Sap Plan",
+        "materialB": "Paintberry",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Farcaster",
+        "materialA": "Bomb Material",
+        "materialB": "Exciteshroom",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Gunpowder",
+        "materialA": "Fire Herb",
+        "materialB": "Nitroshroom",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Sm Barrel-Bomb",
+        "materialA": "Small Barrel",
+        "materialB": "Fire Herb",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Sm Barrel-Bomb+",
+        "materialA": "Sm Barrel-Bomb",
+        "materialB": "Burst Arrowana",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
     }
 ]
