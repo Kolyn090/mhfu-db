@@ -13238,5 +13238,582 @@
                 "chance": 15
             }
         ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Tigrex Shell",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Tigrex Shell",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Tigrex Claw",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Tigrex Scale+",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Tigrex Carapace",
+                "number": 1,
+                "chance": 17
+            },
+            {
+                "name": "Tigrex Claw+",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThickTigrexScale",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Tigrex Scalet+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Hvy Tigrex Shell",
+                "number": 1,
+                "chance": 19
+            },
+            {
+                "name": "Hard Tigrex Claw",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "tail",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Tigrex Tail",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Tigrex Tail",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Tigrex Scale+",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "LeathrTigrexTail",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "ThickTigrexScale",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Tigrex Claw",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Tigrex Claw",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Tigrex Scale+",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Tigrex Claw+",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "ThickTigrexScale",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Hard Tigrex Claw",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "head",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Tigrex Shell",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "head",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Tigrex Fang",
+                "number": 2,
+                "chance": 50
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Tigrex Shell",
+                "number": 1,
+                "chance": 42
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Tigrex Fang+",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Tigrex Fang",
+                "number": 3,
+                "chance": 15
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Tigrex Carapace",
+                "number": 1,
+                "chance": 28
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hvy Tigrex Fang",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Hvy Tigrex Fang",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Tigrex Fang+",
+                "number": 3,
+                "chance": 15
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Hvy Tigrex Shell",
+                "number": 1,
+                "chance": 17
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "claw",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Tigrex Claw",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "claw",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Tigrex Claw",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "Tigrex Claw",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Tigrex Claw",
+                "number": 3,
+                "chance": 20
+            },
+            {
+                "name": "Tigrex Claw+",
+                "number": 1,
+                "chance": 80
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Tigrex Claw+",
+                "number": 3,
+                "chance": 20
+            },
+            {
+                "name": "Hard Tigrex Claw",
+                "number": 1,
+                "chance": 80
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Tigrex Shell",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Tigrex Scale",
+                "number": 1,
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Tigrex Shell",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Tigrex Fang",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "Tigrex Scale",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Tigrex Tail",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Tigrex Carapace",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Tigrex Shell",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Tigrex Fang+",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Tigrex Scale+",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Tigrex Tail",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Tigrex Skull Shl",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hvy Tigrex Shell",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Tigrex Carapace",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Hvy Tigrex Fang",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "ThickTigrexScale",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "LeathrTigrexTail",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvnlyTigrexScale",
+                "number": 1,
+                "chance": 5
+            }
+        ]
     }
 ]
