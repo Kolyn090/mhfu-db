@@ -358,5 +358,185 @@
         "min": 1,
         "max": 1,
         "type": "normal"
+    },
+    {
+        "name": "Lifepowder",
+        "materialA": "Lifecrystals",
+        "materialB": "Wyvern Claw",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Health Flute",
+        "materialA": "Lifepowder",
+        "materialB": "Flute",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Antidote Flute",
+        "materialA": "Flute",
+        "materialB": "Antiseptic Stone",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Demon Flute",
+        "materialA": "Mega Demondrug",
+        "materialB": "Med Monster Bone",
+        "chance": 55,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Armor Flute",
+        "materialA": "Mega Armorskin",
+        "materialB": "Med Monster Bone",
+        "chance": 55,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Poison Thrw Knf",
+        "materialA": "Throwing Knife",
+        "materialB": "Toadstool",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Sleeping Thr Knf",
+        "materialA": "Throwing Knife",
+        "materialB": "Sleep Herb",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Paralyze Thr Knf",
+        "materialA": "Throwing Knife",
+        "materialB": "Parashroom",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Boomerang",
+        "materialA": "Whetstone",
+        "materialB": "Sm Monster Bone",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Powertalon",
+        "materialA": "Powercharm",
+        "materialB": "Lao-Shan's Claw",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Armortalon",
+        "materialA": "Armorcharm",
+        "materialB": "Lao-Shan's Claw",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Normal S Lv2",
+        "materialA": "Huskberry",
+        "materialB": "Needleberry",
+        "chance": 95,
+        "min": 2,
+        "max": 4,
+        "type": "normal"
+    },
+    {
+        "name": "Normal S Lv3",
+        "materialA": "Huskberry",
+        "materialB": "Rumblefish",
+        "chance": 95,
+        "min": 2,
+        "max": 4,
+        "type": "normal"
+    },
+    {
+        "name": "Pierce S Lv1",
+        "materialA": "Huskberry",
+        "materialB": "Velociprey Fang",
+        "chance": 90,
+        "min": 1,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Pierce S Lv2",
+        "materialA": "Huskberry",
+        "materialB": "Pin Tuna",
+        "chance": 75,
+        "min": 1,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Pierce S Lv3",
+        "materialA": "Sm Bone Husk",
+        "materialB": "Pin Tuna",
+        "chance": 75,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Pellet S Lv1",
+        "materialA": "Huskberry",
+        "materialB": "Scatternut",
+        "chance": 90,
+        "min": 1,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Pellet S Lv2",
+        "materialA": "Huskberry",
+        "materialB": "Wyvern Fang",
+        "chance": 75,
+        "min": 1,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Pellet S Lv3",
+        "materialA": "Sm Bone Husk",
+        "materialB": "Wyvern Fang",
+        "chance": 75,
+        "min": 1,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Crag S Lv1",
+        "materialA": "Huskberry",
+        "materialB": "Burst Arrowana",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
     }
 ]
