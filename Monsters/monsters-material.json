@@ -13815,5 +13815,402 @@
                 "chance": 5
             }
         ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Narga Scale+",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Black Narga Pelt",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Nargacuga Fang+",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "NargaCuttingWing",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Nargacuga Tail",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThickNargaScale",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "BlackNargaPelt+",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Narga Scale+",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "HvyNargacugaFang",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "StrNargaCttngWng",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "LeatherNargaTail",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HvnlyNargaScale",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Nargacuga Tail",
+                "number": 1,
+                "chance": 82
+            },
+            {
+                "name": "Narga Tail Spike",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Narga Brain Stem",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "LeatherNargaTail",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Narga Brain Stem",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvyNargaTailSpik",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Nargacuga Tail",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Narga Scale+",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "ThickNargaScale",
+                "number": 1,
+                "chance": 21
+            },
+            {
+                "name": "HvnlyNargaScale",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Narga Scale+",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "Nargacuga Fang+",
+                "number": 2,
+                "chance": 70
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThickNargaScale",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "HvyNargacugaFang",
+                "number": 2,
+                "chance": 65
+            },
+            {
+                "name": "Nargacuga Fang+",
+                "number": 4,
+                "chance": 7
+            },
+            {
+                "name": "HvnlyNargaScale",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "wing",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "NargaCuttingWing",
+                "number": 2,
+                "chance": 60
+            },
+            {
+                "name": "NargaCuttingWing",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Black Narga Pelt",
+                "number": 2,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "wing",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "StrNargaCttngWng",
+                "number": 2,
+                "chance": 60
+            },
+            {
+                "name": "StrNargaCttngWng",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "NargaCuttingWing",
+                "number": 3,
+                "chance": 8
+            },
+            {
+                "name": "BlackNargaPelt+",
+                "number": 2,
+                "chance": 12
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "spike",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Narga Tail Spike",
+                "number": 2,
+                "chance": 75
+            },
+            {
+                "name": "Black Narga Pelt",
+                "number": 1,
+                "chance": 17
+            },
+            {
+                "name": "Narga Brain Stem",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "spike",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyNargaTailSpik",
+                "number": 2,
+                "chance": 70
+            },
+            {
+                "name": "Narga Tail Spike",
+                "number": 4,
+                "chance": 12
+            },
+            {
+                "name": "BlackNargaPelt+",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Narga Brain Stem",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Black Narga Pelt",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Narga Scale+",
+                "number": 2,
+                "chance": 16
+            },
+            {
+                "name": "Nargacuga Fang+",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Nargacuga Tail",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Narga Brain Stem",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "BlackNargaPelt+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Black Narga Pelt",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "ThickNargaScale",
+                "number": 2,
+                "chance": 16
+            },
+            {
+                "name": "HvyNargacugaFang",
+                "number": 2,
+                "chance": 18
+            },
+            {
+                "name": "LeatherNargaTail",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Narga Brain Stem",
+                "number": 1,
+                "chance": 6
+            }
+        ]
     }
 ]
