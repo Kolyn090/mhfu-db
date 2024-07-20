@@ -14212,5 +14212,166 @@
                 "chance": 6
             }
         ]
+    },
+    {
+        "monster": "Akantor",
+        "type": "carving",
+        "count": 4,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Akantor Scale",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Akantor Shell",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Akantor Claw",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Akantor Fang",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Akantor",
+        "type": "tail",
+        "count": 2,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Akantor Tail",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Akantor Scale",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Akantor",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Akantor Spike",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Akantor Shell",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Akantor",
+        "type": "fang",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Akantor Fang",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Akantor Scale",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Akantor",
+        "type": "stomach",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Akantor Scale",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Akantor Shell",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 2,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Akantor",
+        "type": "back",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Akantor Spike",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Akantor Shell",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Akantor",
+        "type": "feet",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Akantor Claw",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Akantor Claw",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "Akantor Shell",
+                "number": 1,
+                "chance": 10
+            }
+        ]
     }
 ]
