@@ -718,5 +718,185 @@
         "min": 1,
         "max": 1,
         "type": "normal"
+    },
+    {
+        "name": "Armor S",
+        "materialA": "Huskberry",
+        "materialB": "Armor Seed",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Empty Bottle",
+        "materialA": "Sm Bone Husk",
+        "materialB": "Whetstone",
+        "chance": 85,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Poison Coating",
+        "materialA": "Empty Bottle",
+        "materialB": "Toadstool",
+        "chance": 90,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "ParalysisCoating",
+        "materialA": "Empty Bottle",
+        "materialB": "Parashroom",
+        "chance": 85,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Sleep Coating",
+        "materialA": "Empty Bottle",
+        "materialB": "Sleep Herb",
+        "chance": 90,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Power Coating",
+        "materialA": "Empty Bottle",
+        "materialB": "Nitroshroom",
+        "chance": 85,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "CloseRngCoating",
+        "materialA": "Empty Bottle",
+        "materialB": "Knife Mackerel",
+        "chance": 85,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Paint Coating",
+        "materialA": "Empty Bottle",
+        "materialB": "Paintberry",
+        "chance": 90,
+        "min": 1,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Tranquilizer",
+        "materialA": "Sleep Herb",
+        "materialB": "Parashroom",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Tranq Thrwng Knf",
+        "materialA": "Tranquilizer",
+        "materialB": "Throwing Knife",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Tranq Bomb",
+        "materialA": "Tranquilizer",
+        "materialB": "Bomb Material",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Tranq S",
+        "materialA": "Tranquilizer",
+        "materialB": "Sm Bone Husk",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Armor Sphere",
+        "materialA": "Machalite Ore",
+        "materialB": "Armor Stone",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Armor Sphere",
+        "materialA": "Armor Stone",
+        "materialB": "Killer Beetle",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Armor Sphere+",
+        "materialA": "Dragonite Ore",
+        "materialB": "Armor Stone",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Armor Sphere+",
+        "materialA": "Armor Stone",
+        "materialB": "Hercudrome",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Hrd Armor Sphere",
+        "materialA": "Carbalite Ore",
+        "materialB": "Armor Stone",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Hrd Armor Sphere",
+        "materialA": "Armor Stone",
+        "materialB": "King Scarab",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Hvy Armor Sphere",
+        "materialA": "Purecrystal",
+        "materialB": "Armor Stone",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
+    },
+    {
+        "name": "Ryl Armor Sphere",
+        "materialA": "Eltalite Ore",
+        "materialB": "Armor Stone",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "normal"
     }
 ]
