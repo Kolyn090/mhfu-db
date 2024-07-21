@@ -14373,5 +14373,153 @@
                 "chance": 10
             }
         ]
+    },
+    {
+        "monster": "Ukanlos",
+        "type": "carving",
+        "count": 4,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyUkanlosShell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "UkanlosUnderscl",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Hvy Ukanlos Tail",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "StrongUkanlosFin",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "UkanlosShovelJaw",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Ukanlos Stone",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Ukanlos",
+        "type": "tail",
+        "count": 2,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hvy Ukanlos Tail",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "HvyUkanlosShell",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Ukanlos",
+        "type": "jaw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "UkanlosShovelJaw",
+                "number": 1,
+                "chance": 85
+            },
+            {
+                "name": "UkanlosUnderscl",
+                "number": 1,
+                "chance": 11
+            },
+            {
+                "name": "Ukanlos Stone",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Ukanlos",
+        "type": "back",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "StrongUkanlosFin",
+                "number": 2,
+                "chance": 50
+            },
+            {
+                "name": "StrongUkanlosFin",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "HvyUkanlosShell",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Ukanlos",
+        "type": "stomach",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "UkanlosUnderscl",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "HvyUkanlosShell",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Ukanlos Stone",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Ukanlos",
+        "type": "feet",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "UkanlosDiggngClw",
+                "number": 2,
+                "chance": 80
+            },
+            {
+                "name": "UkanlosDiggngClw",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvyUkanlosShell",
+                "number": 1,
+                "chance": 10
+            }
+        ]
     }
 ]
