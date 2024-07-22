@@ -1078,5 +1078,185 @@
         "min": 2,
         "max": 2,
         "type": "normal"
+    },
+    {
+        "name": "Carpenterbug",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Carpenterbug",
+        "chance": 100,
+        "min": 5,
+        "max": 5,
+        "type": "normal"
+    },
+    {
+        "name": "Killer Beetle",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Killer Beetle",
+        "chance": 100,
+        "min": 3,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Hercudrome",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Hercudrome",
+        "chance": 100,
+        "min": 3,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Rare Scarab",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Rare Scarab",
+        "chance": 100,
+        "min": 2,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "King Scarab",
+        "materialA": "Expand Pickaxe",
+        "materialB": "King Scarab",
+        "chance": 100,
+        "min": 3,
+        "max": 3,
+        "type": "normal"
+    },
+    {
+        "name": "Emperor Cricket",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Emperor Cricket",
+        "chance": 100,
+        "min": 2,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "PhantomButterfly",
+        "materialA": "Expand Pickaxe",
+        "materialB": "PhantomButterfly",
+        "chance": 100,
+        "min": 2,
+        "max": 2,
+        "type": "normal"
+    },
+    {
+        "name": "Pokke Snowman",
+        "materialA": "Flurry Ball",
+        "materialB": "Blizzard Ball",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "treasure"
+    },
+    {
+        "name": "Felyne Crown",
+        "materialA": "Crown Fragment",
+        "materialB": "Inferior Crown",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "treasure"
+    },
+    {
+        "name": "GoldFelynJewelSword",
+        "materialA": "Gold Handle",
+        "materialB": "Gold Blade",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "treasure"
+    },
+    {
+        "name": "Dynasty Vase",
+        "materialA": "Vase Bottom",
+        "materialB": "Bottomless Vase",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "treasure"
+    },
+    {
+        "name": "Mysterious Mask",
+        "materialA": "Shakalaka Stone",
+        "materialB": "Holed Shakalaka Mask",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "treasure"
+    },
+    {
+        "name": "Eldr Drgn Rfrnc",
+        "materialA": "Old Book Scrap",
+        "materialB": "Torn Old Book",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "treasure"
+    },
+    {
+        "name": "AncntCatKingStat",
+        "materialA": "TaillessCatStatu",
+        "materialB": "BrokenStoneTail",
+        "chance": 100,
+        "min": 1,
+        "max": 1,
+        "type": "treasure"
+    },
+    {
+        "name": "Honey",
+        "materialA": "Firefly",
+        "materialB": "Special Mushroom",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Herb",
+        "materialA": "Sap Plant",
+        "materialB": "Insect Husk",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Fire Herb",
+        "materialA": "Garbage",
+        "materialB": "Hot Pepper",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Blue Mushroom",
+        "materialA": "Antidote Herb",
+        "materialB": "Toadstool",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Raw Meat",
+        "materialA": "Burnt Meat",
+        "materialB": "Insect Husk",
+        "chance": 95,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Large Barrel",
+        "materialA": "Ivy",
+        "materialB": "Med Monster Bone",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
     }
 ]
