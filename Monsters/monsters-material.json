@@ -14521,5 +14521,286 @@
                 "chance": 10
             }
         ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Piscine Liver",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Cephalos Scale",
+                "number": 1,
+                "chance": 65
+            },
+            {
+                "name": "Piscine Fang",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Piscine Liver",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Cephalos Scale",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "Piscine Fang",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Cephalos Fin",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Piscine Liver",
+                "number": 1,
+                "chance": 3
+            },
+            {
+                "name": "Cephalos Scale+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Coral Cphlos Scl",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Piscine Fang",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "Cephalos Fin+",
+                "number": 1,
+                "chance": 14
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Piscine Liver",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Piscine Liver",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Cephalos Scale",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Piscine Liver",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Cephalos Scale+",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Coral Cphlos Scl",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "fin",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Cephalos Scale",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "fin",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Cephalos Fin",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "fin",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Cephalos Fin+",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Coral Cphlos Fin",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Med Monster Bone",
+                "number": 2,
+                "chance": 50
+            },
+            {
+                "name": "Lg Monster Bone",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Piscine Fang",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Cephalos Fin",
+                "number": 1,
+                "chance": 65
+            },
+            {
+                "name": "Lg Monster Bone",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Piscine Fang",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Cephalos Fin+",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Coral Cphlos Fin",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Monster Bone+",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Piscine Fang",
+                "number": 2,
+                "chance": 10
+            }
+        ]
     }
 ]
