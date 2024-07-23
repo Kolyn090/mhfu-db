@@ -316,7 +316,7 @@
     },
     {
         "name": "Paintball",
-        "materialA": "Sap Plan",
+        "materialA": "Sap Plant",
         "materialB": "Paintberry",
         "chance": 95,
         "min": 1,
@@ -1255,6 +1255,114 @@
         "materialA": "Ivy",
         "materialB": "Med Monster Bone",
         "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Small Barrel",
+        "materialA": "Sap Plant",
+        "materialB": "Sm Monster Bone",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Huskberry",
+        "materialA": "Huskberry",
+        "materialB": "Iron Ore",
+        "chance": 75,
+        "min": 5,
+        "max": 5,
+        "type": "alchemy"
+    },
+    {
+        "name": "Needleberry",
+        "materialA": "Needleberry",
+        "materialB": "Earth Crystal",
+        "chance": 75,
+        "min": 5,
+        "max": 5,
+        "type": "alchemy"
+    },
+    {
+        "name": "Sushifish",
+        "materialA": "Antidote Herb",
+        "materialB": "Sleepyfish",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Rare Steak",
+        "materialA": "Thunderbug",
+        "materialB": "Velociprey Hide",
+        "chance": 90,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Screamer",
+        "materialA": "Frog",
+        "materialB": "Flute",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Monster Fluid",
+        "materialA": "Ice Crystal",
+        "materialB": "Sleep Sac",
+        "chance": 55,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Psychoserum",
+        "materialA": "Cactus Flower",
+        "materialB": "Thunderbug",
+        "chance": 75,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Power Juice",
+        "materialA": "Dragon Seed",
+        "materialB": "Piscine Liver",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Power Seed",
+        "materialA": "Bomberry",
+        "materialB": "Velociprey Hide",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Armor Seed",
+        "materialA": "Huskberry",
+        "materialB": "Giaprey Hide",
+        "chance": 65,
+        "min": 1,
+        "max": 1,
+        "type": "alchemy"
+    },
+    {
+        "name": "Rare Fish",
+        "materialA": "Burnt Fish",
+        "materialB": "Sunset Herb",
+        "chance": 90,
         "min": 1,
         "max": 1,
         "type": "alchemy"
