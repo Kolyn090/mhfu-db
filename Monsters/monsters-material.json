@@ -15556,5 +15556,140 @@
                 "chance": 8
             }
         ]
+    },
+    {
+        "monster": "Lavasioth",
+        "type": "carving",
+        "count": 4,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckLavasiothScl",
+                "number": 1,
+                "chance": 43
+            },
+            {
+                "name": "HvyLavasiothShl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "HvyLavasiothFang",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "SpecLavasioFin+",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Big Wyvern Stone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Lavasioth",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Wyvern Tears",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Sobs",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "ThckLavasiothScl",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Lavasioth",
+        "type": "face",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyLavasiothShl",
+                "number": 1,
+                "chance": 21
+            },
+            {
+                "name": "HvyLavasiothFang",
+                "number": 1,
+                "chance": 73
+            },
+            {
+                "name": "Firecell Stone",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Lavasioth",
+        "type": "fin",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "SpecLavasioFin+",
+                "number": 1,
+                "chance": 92
+            },
+            {
+                "name": "ThckLavasiothScl",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Lavasioth",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckLavasiothScl",
+                "number": 2,
+                "chance": 43
+            },
+            {
+                "name": "HvyLavasiothShl",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "SpecLavasioFin+",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "HvyLavasiothFang",
+                "number": 1,
+                "chance": 6
+            }
+        ]
     }
 ]
