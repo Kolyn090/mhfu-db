@@ -15691,5 +15691,617 @@
                 "chance": 6
             }
         ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Hermitaur Claw",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "CarapaceonBrains",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Hermitaur Claw",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Lg Monster Bone",
+                "number": 1,
+                "chance": 19
+            },
+            {
+                "name": "CarapaceonBrains",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Carpce",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Monster Bone+",
+                "number": 1,
+                "chance": 19
+            },
+            {
+                "name": "CarapaceonBrain+",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyHermitaurShl",
+                "number": 1,
+                "chance": 51
+            },
+            {
+                "name": "Hermitaur Carpce",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 19
+            },
+            {
+                "name": "CarapaceonBrain+",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "carving",
+        "count": 3,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Daimyo Legs",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Hermitaur Brains",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Daimyo Jewel",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Crab Pearl+",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Crab Pearl+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Hermitaur Brains",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "skull",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Sm Monster Bone",
+                "number": 2,
+                "chance": 12
+            },
+            {
+                "name": "Med Monster Bone",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Giant Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "skull",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 2,
+                "chance": 5
+            },
+            {
+                "name": "Blood Red Horn",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Giant Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "skull",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Carpce",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Blood Red Horn",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "skull",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyHermitaurShl",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Blood Red Horn",
+                "number": 1,
+                "chance": 33
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Monoblos Heart",
+                "number": 1,
+                "chance": 7
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "skull",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Sm Monster Bone",
+                "number": 2,
+                "chance": 12
+            },
+            {
+                "name": "Med Monster Bone",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Giant Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "claw",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "number": 3,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "claw",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Claw",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Claw+",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Hermitaur Claw",
+                "number": 2,
+                "chance": 12
+            },
+            {
+                "name": "Hermitaur Carpce",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdHermitaurClaw",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "number": 2,
+                "chance": 15
+            },
+            {
+                "name": "HvyHermitaurShl",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "claw",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "number": 3,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 57
+            },
+            {
+                "name": "Sm Hermitaur Shl",
+                "number": 3,
+                "chance": 31
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 3,
+                "chance": 12
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Shell",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Black Pearl",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Hermitaur Claw",
+                "number": 1,
+                "chance": 45
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Hermitaur Carpce",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Black Pearl",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Hermitaur Claw+",
+                "number": 1,
+                "chance": 45
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyHermitaurShl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Hermitaur Carpce",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "HrdHermitaurClaw",
+                "number": 1,
+                "chance": 45
+            }
+        ]
     }
 ]
