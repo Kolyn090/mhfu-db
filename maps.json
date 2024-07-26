@@ -3711,5 +3711,1125 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Old Jungle",
+        "areas": [
+            {
+                "number": 1,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Map"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Scatternut"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Scatternut",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Bomb Material"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Paintberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Paintberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Paintball"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Bughopper",
+                            "Flashbug",
+                            "King Scarab",
+                            "Hercudrome",
+                            "Royal Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Bughopper",
+                            "Flashbug",
+                            "King Scarab",
+                            "Emperor Cricket",
+                            "Hercudrome",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Training",
+                        "materials": [
+                            "Ration"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Ivy"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Ivy"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mini Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Honey"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Honey"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Toadstool",
+                            "Dragon Toadstool",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Toadstool",
+                            "Dragon Toadstool",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Hot Drink"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Firefly",
+                            "Insect Husk",
+                            "Godbug",
+                            "Flashbug",
+                            "Thunderbug",
+                            "King Scarab",
+                            "Killer Beetle",
+                            "Royal Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Firefly",
+                            "Godbug",
+                            "Flashbug",
+                            "King Scarab",
+                            "Emperor Cricket",
+                            "Killer Beetle",
+                            "Rare Scarab",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Training",
+                        "materials": [
+                            "Demondrug"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Disk Stone",
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Trap Tool"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Parashroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Parashroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Portable Spit"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Knife Mackerel",
+                            "Sleepyfish",
+                            "Pin Tuna",
+                            "Rumblefish",
+                            "Plesioth"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Plesioth"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Ryl Armor Sphere",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Supply Flash Bmb"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Whetstone",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Sply Pitfall Trp"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Disk Stone",
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Goldstone Piece"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Whetstone",
+                            "Machalite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Sm Barrel-Bomb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Worm",
+                            "Frog"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Worm",
+                            "Frog"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Worm",
+                            "Frog"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sunset Herb",
+                            "Sap Plant"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sunset Herb",
+                            "Herb",
+                            "Sap Plant"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Book of Combos 1"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sap Plant",
+                            "Hot Pepper"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sap Plant",
+                            "Hot Pepper"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Poison Thrw Knf"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Bughopper",
+                            "Insect Husk",
+                            "Flashbug",
+                            "King Scarab",
+                            "Rainbow Insect",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Bughopper",
+                            "Flashbug",
+                            "King Scarab",
+                            "Emperor Cricket",
+                            "Rainbow Insect",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Training",
+                        "materials": [
+                            "Supply Flash Bmb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Dung",
+                            "Wyvern Droppings",
+                            "Kut-Ku Scale"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Dung",
+                            "Wyvern Droppings",
+                            "Kut-Ku Scale"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mega Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sm Bone Husk",
+                            "Lg Bone Husk",
+                            "Bone",
+                            "Wyvern Egg"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sm Bone Husk",
+                            "Lg Bone Husk",
+                            "Bone",
+                            "Carnivore Egg",
+                            "Wyvern Egg"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Supply Flash Bmb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Kut-Ku Scale"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Kut-Ku Scale"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Bone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Insect Husk"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Insect Husk"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Net"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Antidote Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Hot Pepper"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Antidote Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sap Plant",
+                            "Insect Husk"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sap Plant",
+                            "Insect Husk"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mini Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Ivy"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Ivy"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Hot Drink"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb",
+                            "Insect Husk"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb",
+                            "Insect Husk"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Potion"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Knife Mackerel",
+                            "Sushifish",
+                            "Sleepyfish",
+                            "Rumblefish",
+                            "Goldenfish",
+                            "Plesioth"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sushifish",
+                            "Sleepyfish",
+                            "Rumblefish",
+                            "Goldenfish",
+                            "Silverfish",
+                            "Plesioth"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "Training",
+                        "materials": [
+                            "Knife Mackerel",
+                            "Goldenfish",
+                            "Silverfish"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Special Mushroom",
+                            "Select Mushroom",
+                            "Blue Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Special Mushroom",
+                            "Select Mushroom",
+                            "Blue Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Blue Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Psychoserum"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Worm",
+                            "Frog"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Worm",
+                            "Frog"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Bugnet"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Disk Stone",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Armor Sphere+",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Earth Crystal",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Sply Lg Brrl Bmb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Book of Combos 2"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Dragon Toadstool",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Dragon Toadstool",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Bugnet"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Dragon Toadstool"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Deodorant"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Burst Arrowana",
+                            "Pin Tuna",
+                            "Speartuna"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "Training",
+                        "materials": [
+                            "Sushifish"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone",
+                            "Earth Crystal",
+                            "Iron Ore",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Armor Sphere+",
+                            "Hrd Armor Sphere",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere",
+                            "Ryl Armor Sphere",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Prtbl Shock Trap"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Dragon Seed",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Dragon Seed",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Farcaster"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Scatternut",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Scatternut",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Sply Max Potion"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Burst Arrowana",
+                            "Bomb Arrowana",
+                            "Pin Tuna",
+                            "Speartuna"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
