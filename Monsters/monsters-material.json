@@ -16303,5 +16303,140 @@
                 "chance": 45
             }
         ]
+    },
+    {
+        "monster": "Plum Daimyo Hermitaur",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "number": 1,
+                "chance": 51
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "CarapaceonBrain+",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Crab Pearl+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Plum Daimyo Hermitaur",
+        "type": "skull",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Majestic Horn",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Plum Daimyo Hermitaur",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "PlumD.HermitrClw",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "PlumD.HermitrShl",
+                "number": 1,
+                "chance": 22
+            }
+        ]
+    },
+    {
+        "monster": "Plum Daimyo Hermitaur",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "PlumD.HermitrShl",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "PlumD.HermitrClw",
+                "number": 1,
+                "chance": 45
+            }
+        ]
     }
 ]
