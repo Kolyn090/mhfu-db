@@ -15954,7 +15954,7 @@
     },
     {
         "monster": "Daimyo Hermitaur",
-        "type": "skull",
+        "type": "shell",
         "count": 1,
         "condition": "Hall ★1, 2",
         "materials": [
@@ -15982,7 +15982,7 @@
     },
     {
         "monster": "Daimyo Hermitaur",
-        "type": "skull",
+        "type": "shell",
         "count": 1,
         "condition": "Low Rank",
         "materials": [
@@ -15993,7 +15993,7 @@
             },
             {
                 "name": "Wyvern Skull Shl",
-                "number": 2,
+                "number": 1,
                 "chance": 5
             },
             {
@@ -16010,7 +16010,7 @@
     },
     {
         "monster": "Daimyo Hermitaur",
-        "type": "skull",
+        "type": "shell",
         "count": 1,
         "condition": "High Rank",
         "materials": [
@@ -16043,7 +16043,7 @@
     },
     {
         "monster": "Daimyo Hermitaur",
-        "type": "skull",
+        "type": "shell",
         "count": 1,
         "condition": "G Rank",
         "materials": [
@@ -16076,7 +16076,7 @@
     },
     {
         "monster": "Daimyo Hermitaur",
-        "type": "skull",
+        "type": "shell",
         "count": 1,
         "condition": "Treasure",
         "materials": [
@@ -16150,7 +16150,7 @@
                 "chance": 20
             },
             {
-                "name": "Hermitaur Claw",
+                "name": " Claw",
                 "number": 2,
                 "chance": 12
             },
@@ -16367,7 +16367,7 @@
     },
     {
         "monster": "Plum Daimyo Hermitaur",
-        "type": "skull",
+        "type": "shell",
         "count": 1,
         "condition": "G Rank",
         "materials": [
@@ -16436,6 +16436,645 @@
                 "name": "PlumD.HermitrClw",
                 "number": 1,
                 "chance": 45
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Sm Ceanataur Shl",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Med Monster Bone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Ceanataur Leg",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Carpce",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Ceanataur Leg",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyCeanataurShl",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Ceanataur Carpce",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Crab Pearl+",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Crab Pearl+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-wyvern",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Giant Bone",
+                "number": 2,
+                "chance": 60
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-wyvern",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 3
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 97
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-wyvern",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Carpce",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 63
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-wyvern",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyCeanataurShl",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 63
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Med Monster Bone",
+                "number": 2,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 2,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Carpce",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyCeanataurShl",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-gravios",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Med Monster Bone",
+                "number": 2,
+                "chance": 40
+            },
+            {
+                "name": "Giant Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-gravios",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Gravios Skl Shl",
+                "number": 1,
+                "chance": 70
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-gravios",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Carpce",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Gravios Skl Shl",
+                "number": 1,
+                "chance": 70
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "shell-gravios",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyCeanataurShl",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Gravios Skl Shl",
+                "number": 1,
+                "chance": 70
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "claw",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Sm Ceanataur Shl",
+                "number": 3,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "claw",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Claw",
+                "number": 1,
+                "chance": 82
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 18
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Claw+",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "number": 2,
+                "chance": 15
+            },
+            {
+                "name": "Ceanataur Claw",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdCeanataurClaw",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "HrdCeanataurClaw",
+                "number": 2,
+                "chance": 15
+            },
+            {
+                "name": "Ceanataur Claw+",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 2,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 1,
+                "chance": 57
+            },
+            {
+                "name": "Sm Ceanataur Shl",
+                "number": 3,
+                "chance": 31
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 3,
+                "chance": 12
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Shell",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "Ceanataur Leg",
+                "number": 1,
+                "chance": 46
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 24
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Ceanataur Carpce",
+                "number": 2,
+                "chance": 60
+            },
+            {
+                "name": "Ceanataur Leg",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 18
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyCeanataurLeg",
+                "number": 2,
+                "chance": 60
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 10
             }
         ]
     }
