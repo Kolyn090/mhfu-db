@@ -16338,7 +16338,7 @@
         ]
     },
     {
-        "monster": "Daimyo Hermitaur",
+        "monster": "Plum Daimyo Hermitaur",
         "type": "dropping",
         "count": 1,
         "condition": "G Rank",
@@ -17063,6 +17063,136 @@
         "materials": [
             {
                 "name": "HvyCeanataurLeg",
+                "number": 2,
+                "chance": 60
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Terra Shogun Ceanataur",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "TerraCeanatrShl",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "TerraCeanatrClaw",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvyCeanataurLeg",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Terra Shogun Ceanataur",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Crab Pearl",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Crab Pearl+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Black Pearl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Blk Pearl",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Terra Shogun Ceanataur",
+        "type": "shell",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "TerraCeanatrShl",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Blk Gravios Skl",
+                "number": 1,
+                "chance": 70
+            }
+        ]
+    },
+    {
+        "monster": "Terra Shogun Ceanataur",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "TerraCeanatrClaw",
+                "number": 1,
+                "chance": 65
+            },
+            {
+                "name": "TerraCeanatrClaw",
+                "number": 2,
+                "chance": 15
+            },
+            {
+                "name": "Ceanataur Pincer",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Terra Shogun Ceanataur",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "TerraCeanatrShl",
                 "number": 2,
                 "chance": 60
             },
