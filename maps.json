@@ -8115,5 +8115,1809 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Swamp",
+        "areas": [
+            {
+                "number": 0,
+                "positions": [
+                    {
+                        "type": "fishing",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Sleepyfish",
+                            "Pin Tuna",
+                            "Scatterfish",
+                            "Bomb Arrowana",
+                            "Glutton Tuna",
+                            "Goldenfish"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sleepyfish",
+                            "Pin Tuna",
+                            "Scatterfish",
+                            "Bomb Arrowana",
+                            "Glutton Tuna",
+                            "Gastronome Tuna"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "Training",
+                        "materials": [
+                            "Sushifish",
+                            "Knife Mackerel"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Scatterfish",
+                            "Pickaxe Fish",
+                            "Bugnet Fish",
+                            "Small Wyvernfish",
+                            "Medium Wyvernfsh",
+                            "Hideyoshi Ambrjk"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 1,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Throwing Knife",
+                            "Old Pickaxe",
+                            "Gunpowder",
+                            "Unknown Skull",
+                            "Barrel Lid",
+                            "Lost Umbrella"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Throwing Knife",
+                            "Old Pickaxe",
+                            "Gunpowder",
+                            "Barrel Lid",
+                            "Lost Umbrella",
+                            "Master's Skull",
+                            "Felyne Fur Ruby"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Throwing Knife",
+                            "Old Pickaxe",
+                            "Gunpowder",
+                            "Barrel Lid",
+                            "Lost Umbrella",
+                            "Master's Skull",
+                            "Felyne Fur Ruby"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Portable Spit"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Stone",
+                            "Mystery Bone",
+                            "Dragonrock"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Small Barrel",
+                            "Large Barrel",
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Small Barrel",
+                            "Large Barrel",
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Small Barrel",
+                            "Large Barrel",
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Book of Combos 2"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Sm Barrel-Bomb",
+                            "Large Barrel",
+                            "Hot Drink",
+                            "Deodorant",
+                            "Trap Tool"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Thunderbug",
+                            "Carpenterbug",
+                            "Killer Beetle",
+                            "Royal Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Thunderbug",
+                            "Killer Beetle",
+                            "King Scarab",
+                            "Rainbow Insect",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Thunderbug",
+                            "King Scarab",
+                            "Rainbow Insect",
+                            "Emperor Cricket",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Training",
+                        "materials": [
+                            "Flashbug"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Rathalos Fly",
+                            "Rathian Fly",
+                            "Cutie Crawler"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Stone",
+                            "Spiderweb",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Stone",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "Spiderweb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Poison Thrw Knf"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Mega Potion",
+                            "Book of Combos 3",
+                            "Book of Combos 4",
+                            "Book of Combos 5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Worm",
+                            "Mega Fishing Fly"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Hot Drink"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Herb",
+                            "Paintball",
+                            "Wyverngrass",
+                            "Old Vase Bottom",
+                            "Dragonrock"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Parashroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Parashroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Parashroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Bugnet"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Toadstool",
+                            "Parashroom",
+                            "Wyvernshroom",
+                            "Glittr Capshroom",
+                            "Dragonrock"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Stone",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Stone",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Old Pickaxe",
+                            "Honey",
+                            "Dragonrock+"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Worm",
+                            "Mega Fishing Fly"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Hot Drink"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Herb",
+                            "Paintball",
+                            "Wyverngrass",
+                            "Old Vase Bottom",
+                            "Dragonrock"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Parashroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Parashroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Parashroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Bugnet"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Toadstool",
+                            "Parashroom",
+                            "Wyvernshroom",
+                            "Glittr Capshroom",
+                            "Dragonrock"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Stone",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Stone",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Spiderweb",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Old Pickaxe",
+                            "Honey",
+                            "Dragonrock+"
+                        ]
+                    }
+                ]                
+            },
+            {
+                "number": 4,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Deodorant"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Toadstool",
+                            "Parashroom",
+                            "Wyvernshroom",
+                            "Old Vase Bottom",
+                            "Glittr Capshroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Farcaster"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Herbal Medicine",
+                            "Lifepowder",
+                            "Dragonrock+"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Exciteshroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Exciteshroom",
+                            "Toadstool",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Psychoserum"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Net",
+                            "Old Bugnet",
+                            "Deodorant",
+                            "Dragonrock+"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Exciteshroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Antidote"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Velociprey Fang",
+                            "Pierce S Lv1",
+                            "Pierce S Lv2",
+                            "Pierce S Lv3",
+                            "Wyvernshroom"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Exciteshroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Exciteshroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mini Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Deodorant",
+                            "Potion",
+                            "Honey",
+                            "Gunpowder",
+                            "Wyvernshroom",
+                            "Bttmlss Old Vase"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Map"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Map",
+                            "Farcaster",
+                            "Paintball",
+                            "Psychoserum",
+                            "Wyvernshroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Whetstone",
+                            "Large Barrel",
+                            "BBQ Spit",
+                            "Dragonrock"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Exciteshroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Blue Mushroom",
+                            "Toadstool",
+                            "Exciteshroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Paintball"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Normal S Lv2",
+                            "Pellet S Lv1",
+                            "Pellet S Lv2"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb",
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Worm"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Herb",
+                            "Net",
+                            "Antidote",
+                            "Gunpowder",
+                            "Chameleos' Purse"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Nitroshroom",
+                            "Exciteshroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Exciteshroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Parashroom",
+                            "Toadstool",
+                            "Wyvernshroom",
+                            "Bttmlss Old Vase",
+                            "Glittr Capshroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Parashroom",
+                            "Exciteshroom",
+                            "Special Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Parashroom",
+                            "Exciteshroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Parashroom",
+                            "Exciteshroom",
+                            "Special Mushroom",
+                            "Select Mushroom"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Sm Barrel-Bomb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Power Coating",
+                            "Poison Coating",
+                            "ParalysisCoating"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Sunset Herb",
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sunset Herb",
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sunset Herb",
+                            "Felvine"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Antidote"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Boomerang",
+                            "Wyverngrass",
+                            "Chameleos' Purse"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Whetstone",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Suiko Jewel",
+                            "Goldstone Piece"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Whetstone",
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Eltalite Ore"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Lightning Rod"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Wyvern Ore",
+                            "Pure Wyvern Ore",
+                            "Bttmlss Old Vase",
+                            "Liber Ruby",
+                            "Schradite",
+                            "Dragonrock+"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Stone",
+                            "Insect Husk",
+                            "Pale Extract",
+                            "Khezu Whelp"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone",
+                            "Insect Husk",
+                            "Pale Extract",
+                            "Khezu Whelp"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "Insect Husk",
+                            "Pale Extract",
+                            "Khezu Whelp"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Mega Potion",
+                            "Wyverngrass",
+                            "Khezu Seed",
+                            "Golden Cocoon"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Bomberry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Bomberry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Bomberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Bugnet"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Mystery Bone",
+                            "Lg Barrel-Bomb",
+                            "Wyverngrass",
+                            "Chameleos' Purse"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Bomberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Bomberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Bomberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Demondrug"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Crag S Lv1",
+                            "Crag S Lv2",
+                            "Crag S Lv3"
+                        ]
+                    }
+                ]                
+            },
+            {
+                "number": 8,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Scatternut"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Scatternut"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Scatternut"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Book of Combos 1"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Honey",
+                            "Net",
+                            "Dragonrock+"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Godbug",
+                            "Flashbug",
+                            "Divine Rhino",
+                            "Killer Beetle",
+                            "Royal Rhino",
+                            "Firefly"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Flashbug",
+                            "Godbug",
+                            "Killer Beetle",
+                            "Hercudrome",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Flashbug",
+                            "Killer Beetle",
+                            "King Scarab",
+                            "Rare Scarab",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Training",
+                        "materials": [
+                            "Sply Max Potion"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Rathalos Fly",
+                            "Rathian Fly",
+                            "Bttmlss Old Vase",
+                            "Cutie Crawler"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Thunderbug",
+                            "Carpenterbug",
+                            "Killer Beetle",
+                            "Royal Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Thunderbug",
+                            "Hercudrome",
+                            "King Scarab",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Bitterbug",
+                            "Thunderbug",
+                            "Hercudrome",
+                            "Rare Scarab",
+                            "Emperor Cricket",
+                            "Royal Rhino",
+                            "Divine Rhino"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Training",
+                        "materials": [
+                            "Ration"
+                        ]
+                    },
+                    {
+                        "type": "bugnet",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Rathian Fly",
+                            "Cutie Crawler",
+                            "Ghostly Cicada"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Bomberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Bomberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Potion",
+                            "Wyverngrass",
+                            "Bttmlss Old Vase",
+                            "Chameleos' Purse"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Stone",
+                            "Worm"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone",
+                            "Worm"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "Worm"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mini Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Stone",
+                            "Whetstone",
+                            "Old Vase Bottom"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Ice Crystal",
+                            "Disk Stone",
+                            "Lightcrystal",
+                            "Goldstone Piece",
+                            "Sootstone Ore"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone",
+                            "Ice Crystal",
+                            "Dragonite Ore",
+                            "Lightcrystal",
+                            "Novacrystal",
+                            "Goldstone Piece",
+                            "Goldstone Hunk",
+                            "Quartz Ore"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "Union Ore",
+                            "Novacrystal",
+                            "Purecrystal",
+                            "Goldstone Piece",
+                            "Goldstone Hunk",
+                            "Quartz Ore"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Prtbl Shock Trap"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Dragonrock+",
+                            "Gypceros Crystal"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Antidote Herb",
+                            "Sleep Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sleep Herb",
+                            "Sunset Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Hot Drink"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Wyvernshroom",
+                            "Khezu Seed",
+                            "Glittr Capshroom",
+                            "Dragonrock+"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Whetstone",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Suiko Jewel",
+                            "Goldstone Piece"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Earth Crystal",
+                            "Iron Ore",
+                            "Machalite Ore",
+                            "Carbalite Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Machalite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Goldstone Piece"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Supply Flash Bmb"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Treasure",
+                        "materials": [
+                            "Sm Barrel-Bomb",
+                            "Large Barrel",
+                            "Lg Barrel-Bomb",
+                            "Wyvern Ore",
+                            "Old Vase Bottom"
+                        ]
+                    }
+                ]                
+            },
+            {
+                "number": -1,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sleep Herb",
+                            "Hot Pepper",
+                            "Lost Umbrella"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sleep Herb",
+                            "Hot Pepper",
+                            "Lost Umbrella"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Sleep Herb",
+                            "Sunset Herb",
+                            "Hot Pepper",
+                            "Firecell Stone",
+                            "Novacrystal",
+                            "Purecrystal"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sleep Herb",
+                            "Sunset Herb",
+                            "Hot Pepper",
+                            "Firecell Stone",
+                            "Novacrystal",
+                            "Purecrystal"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Parashroom",
+                            "Nitroshroom",
+                            "Toadstool",
+                            "Felyne Fur Ruby",
+                            "Select Mushroom",
+                            "Lost Umbrella"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Parashroom",
+                            "Nitroshroom",
+                            "Toadstool",
+                            "Felyne Fur Ruby",
+                            "Select Mushroom",
+                            "Lost Umbrella"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Whetstone",
+                            "Union Ore",
+                            "Firecell Stone",
+                            "BattlefieldJewel",
+                            "Eltalite Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk",
+                            "Ancient Stone",
+                            "Sm Ancient Stone",
+                            "Ancient StoneRod",
+                            "Lg Ancient Stone",
+                            "AncientFlatstone"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Whetstone",
+                            "Union Ore",
+                            "Firecell Stone",
+                            "BattlefieldJewel",
+                            "Eltalite Ore",
+                            "Goldstone Piece",
+                            "Goldstone Hunk",
+                            "Ancient Stone",
+                            "Sm Ancient Stone",
+                            "Ancient StoneRod",
+                            "Lg Ancient Stone",
+                            "AncientFlatstone"
+                        ]
+                    }
+                ]                
+            }
+        ]
     }
 ]
