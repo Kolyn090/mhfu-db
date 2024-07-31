@@ -17493,5 +17493,191 @@
                 "chance": 10
             }
         ]
+    },
+    {
+        "monster": "Bulldrome",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Raw Meat",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Bulldrome Hide",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Brute Bone",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Bulldrome",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Bulldrome Hide",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Bullfango Head",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Bulldrome Tusk",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Giant Bone",
+                "number": 1,
+                "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Bulldrome",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Bulldrome Hide",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Bullfango Head",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Bulldrome Tusk",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Stout Bone",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Bulldrome",
+        "type": "carving",
+        "count": 3,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Sm Monster Bone",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Twstd Bldrm Tsk",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Bulldrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Bulldrome Hide",
+                "number": 1,
+                "chance": 68
+            },
+            {
+                "name": "Brute Bone",
+                "number": 2,
+                "chance": 32
+            }
+        ]
+    },
+    {
+        "monster": "Bulldrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Bulldrome Hide",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Bullfango Head",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Bulldrome Tusk",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Giant Bone",
+                "number": 2,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Bulldrome",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Bulldrome Hide",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Bulldrome Tusk",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Giant Bone",
+                "number": 3,
+                "chance": 20
+            },
+            {
+                "name": "Stout Bone",
+                "number": 2,
+                "chance": 15
+            }
+        ]
     }
 ]
