@@ -17679,5 +17679,757 @@
                 "chance": 15
             }
         ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Brute Bone",
+                "number": 1,
+                "chance": 38
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 63
+            },
+            {
+                "name": "Congalala Fang",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Giant Bone",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Congalala Pelt+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Congalala Fang",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Stout Bone",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HrdCongalalaPlt+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Massive Bone",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "carving",
+        "count": 3,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Congalala Innards",
+                "number": 1,
+                "chance": 55
+            },
+            {
+                "name": "Congalala Stomach",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Congalala Jewel",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-mushroom",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Blue Mushroom",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Exciteshroom",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-mushroom",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Blue Mushroom",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Exciteshroom",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-mushroom",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Blue Mushroom",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Nitroshroom",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-mushroom",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Nitroshroom",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Dragon Toadstool",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-mushroom",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Glittr Capshroom",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "Congalala Jewel",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-ore",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Machalite Ore",
+                "number": 1,
+                "chance": 39
+            },
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-ore",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Machalite Ore",
+                "number": 1,
+                "chance": 39
+            },
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-ore",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Dragonite Ore",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Novacrystal",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-ore",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Union Ore",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Purecrystal",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-ore",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "Congalala Jewel",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-bone",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Sm Monster Bone",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Brute Bone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-bone",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Sm Monster Bone",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Brute Bone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-bone",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Monster Bone+",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-bone",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "dropping-bone",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "Congalala Jewel",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "head",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "head",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Vibrant Pelt",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "head",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Vibrant Pelt",
+                "number": 1,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdCongalalaPlt+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Vibrant Pelt",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "head",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "Vibrant Pelt",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "claw",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Sharp Claw",
+                "number": 2,
+                "chance": 50
+            },
+            {
+                "name": "Brute Bone",
+                "number": 2,
+                "chance": 50
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "claw",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Congalala Claw",
+                "number": 1,
+                "chance": 92
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 2,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "claw",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Congalala Claw",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Congalala Claw+",
+                "number": 1,
+                "chance": 80
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Congalala Claw+",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "HrdCongalalaClw+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HrdCongalalaClw+",
+                "number": 2,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "claw",
+        "count": 1,
+        "condition": "Treasure",
+        "materials": [
+            {
+                "name": "Congalala Claw",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Brute Bone",
+                "number": 4,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Congalala Pelt",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Congalala Fang",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Brute Bone",
+                "number": 4,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Congalala Pelt+",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Congalala Fang",
+                "number": 2,
+                "chance": 35
+            },
+            {
+                "name": "Stout Bone",
+                "number": 4,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdCongalalaPlt+",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "number": 2,
+                "chance": 35
+            },
+            {
+                "name": "Massive Bone",
+                "number": 4,
+                "chance": 25
+            }
+        ]
     }
 ]
