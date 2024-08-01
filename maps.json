@@ -13257,5 +13257,1080 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Old Volcano",
+        "areas": [
+            {
+                "number": 0,
+                "positions": [
+                    {
+                        "type": "fishing",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Pin Tuna",
+                            "Rumblefish",
+                            "Goldenfish",
+                            "Burst Arrowana",
+                            "Sleepyfish"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Pin Tuna",
+                            "Silverfish",
+                            "Rumblefish",
+                            "Goldenfish",
+                            "Burst Arrowana",
+                            "Sleepyfish"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "Training",
+                        "materials": [
+                            "Knife Mackerel"
+                        ]
+                    }
+                ]                
+            },
+            {
+                "number": 1,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Disk Stone",
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Dragonite Ore",
+                            "Carbalite Ore"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Disk Stone",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Supply Flash Bmb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Portable Spit"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Map"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Low Rank",
+                        "materials": [
+                            "Worm"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Worm"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Worm"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Ice Crystal",
+                            "Earth Crystal",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Hrd Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Ice Crystal",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Ryl Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Sply Max Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mini Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Farcaster"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Paintball"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Firestone",
+                            "Carbalite Ore",
+                            "Rainbow Ore",
+                            "Union Ore",
+                            "Armor Sphere+",
+                            "Hrd Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "Earth Crystal",
+                            "Eltalite Ore",
+                            "Rainbow Ore",
+                            "Union Ore",
+                            "Mellanje Ore",
+                            "Firecell Stone",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere",
+                            "Ryl Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Sply Lg Brrl Bmb"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Firestone",
+                            "Carbalite Ore",
+                            "Rainbow Ore",
+                            "Union Ore",
+                            "Armor Sphere+"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Earth Crystal",
+                            "Eltalite Ore",
+                            "Rainbow Ore",
+                            "Union Ore",
+                            "Mellanje Ore",
+                            "Firecell Stone",
+                            "Hrd Armor Sphere",
+                            "Ryl Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Fire Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Fire Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Armor Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Armor Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Firestone",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Rainbow Ore",
+                            "Union Ore"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Machalite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Rainbow Ore",
+                            "Mellanje Ore",
+                            "Firecell Stone",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Lg Barrel-Bomb"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Disk Stone",
+                            "Earth Crystal",
+                            "Iron Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Hrd Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Disk Stone",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Prtbl Shock Trap"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Armor Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry",
+                            "Armor Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Cool Drink"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Net"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Pin Tuna",
+                            "Burst Arrowana",
+                            "Bomb Arrowana",
+                            "Scatterfish",
+                            "Speartuna"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Sushifish",
+                            "Knife Mackerel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "positions": [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Disk Stone",
+                            "Earth Crystal",
+                            "Iron Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Armor Sphere+",
+                            "Hrd Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Disk Stone",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Supply Flash Bmb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Psychoserum"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mini Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Ration"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mega Potion"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Power Seed",
+                            "Hot Pepper"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Power Seed",
+                            "Hot Pepper"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Paintball"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Fire Herb",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Fire Herb",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Book of Combos 1"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Fire Herb",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Fire Herb",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Cool Drink"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Hot Pepper",
+                            "Power Seed",
+                            "Unknown Skull"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Hot Pepper",
+                            "Power Seed",
+                            "Unknown Skull"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Demondrug"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Tropical Berry",
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Huskberry"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Iron Pickaxe"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Fire Herb",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Fire Herb",
+                            "Dragon Seed"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Poison Thrw Knf"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "positions":  [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Iron Ore",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Carbalite Ore",
+                            "Union Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Iron Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Mellanje Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "Hvy Armor Sphere",
+                            "Ryl Armor Sphere",
+                            "Tru Armor Sphere",
+                            "Ancient StoneRod"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Power Juice"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Iron Ore",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Union Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "Sm Ancient Stone",
+                            "Lg Ancient Stone",
+                            "Ancient Stone",
+                            "Ancient StoneRod",
+                            "AncientFlatstone"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Union Ore",
+                            "Mellanje Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "AncientFlatstone",
+                            "Sm Ancient Stone",
+                            "Lg Ancient Stone",
+                            "Ancient StoneRod",
+                            "Ancient Stone"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Trap Tool"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Iron Ore",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Dragonite Ore",
+                            "Union Ore",
+                            "Hvy Armor Sphere",
+                            "Ancient Stone",
+                            "AncientFlatstone",
+                            "Ancient StoneRod",
+                            "Sm Ancient Stone",
+                            "Lg Ancient Stone"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Coal",
+                            "Stone",
+                            "Dragonite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Mellanje Ore",
+                            "Firestone",
+                            "Hvy Armor Sphere",
+                            "Ryl Armor Sphere",
+                            "Tru Armor Sphere",
+                            "AncientFlatstone",
+                            "Sm Ancient Stone",
+                            "Lg Ancient Stone",
+                            "Ancient StoneRod",
+                            "Ancient Stone"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "Training",
+                        "materials": [
+                            "Sply Pitfall Trp"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Dragon Seed",
+                            "Powderstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Dragon Seed",
+                            "Powderstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "Training",
+                        "materials": [
+                            "Mega Potion"
+                        ]
+                    }
+                ]                
+            },
+            {
+                "number": -1,
+                "positions":  [
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone",
+                            "Earth Crystal",
+                            "Machalite Ore",
+                            "Rainbow Ore",
+                            "Union Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere",
+                            "Ancient Stone",
+                            "Sm Ancient Stone",
+                            "Lg Ancient Stone",
+                            "AncientFlatstone"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Earth Crystal",
+                            "Eltalite Ore",
+                            "Rainbow Ore",
+                            "Union Ore",
+                            "Mellanje Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "Hrd Armor Sphere",
+                            "Tru Armor Sphere",
+                            "Sm Ancient Stone"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Iron Ore",
+                            "Machalite Ore",
+                            "Carbalite Ore",
+                            "Union Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "Hrd Armor Sphere",
+                            "Hvy Armor Sphere",
+                            "Ancient Stone",
+                            "AncientFlatstone",
+                            "Lg Ancient Stone",
+                            "Ancient StoneRod"
+                        ]
+                    },
+                    {
+                        "type": "mining",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Machalite Ore",
+                            "Carbalite Ore",
+                            "Eltalite Ore",
+                            "Union Ore",
+                            "Mellanje Ore",
+                            "Firestone",
+                            "Firecell Stone",
+                            "Hvy Armor Sphere",
+                            "Tru Armor Sphere"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Bone",
+                            "Unknown Skull",
+                            "Master's Skull"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Bone",
+                            "Unknown Skull",
+                            "Master's Skull"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Power Seed",
+                            "Dragon Toadstool"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Power Seed",
+                            "Dragon Toadstool"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
