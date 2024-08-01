@@ -12,6 +12,10 @@ Welcome to this dedicated repo for a 15 years-old game! If you have played the M
 I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHFU! 
 (or MHP2G in Japan) 
 
+<h3 align="center">
+Current valid number of lines in DB: 214558
+</h3>
+
 ### ❓What is this
 This is a database repo for game Monster Hunter Freedom Unite by CAPCOM. My current plan is to 
 store data in JSON format. I try to make sure that the data are organized in a way that it is 
