@@ -7,7 +7,9 @@ def get_valid_nol_in(file):
                 line.strip() != '{' and
                 line.strip() != '}' and
                 line.strip() != '[' and
-                line.strip() != ']')
+                line.strip() != ']' and
+                line.strip() != '},' and
+                line.strip() != '],')
 
     content = file.read().split("\n")
     content = list(filter(is_valid_line, content))
