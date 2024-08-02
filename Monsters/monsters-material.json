@@ -18995,5 +18995,181 @@
                 "chance": 25
             }
         ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "E.CongalalaPelt+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Stout Bone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Massive Bone",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "type": "dropping-mushroom",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Nitroshroom",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Dragon Toadstool",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "type": "dropping-ore",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Union Ore",
+                "number": 1,
+                "chance": 29
+            },
+            {
+                "name": "Purecrystal",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "type": "dropping-bone",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 48
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Hvy Monster Bone",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "E.CongalalaPelt+",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "HrdE.CongaClaw",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HrdE.CongaClaw",
+                "number": 2,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "type": "head",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "E.CongalalaPelt+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Vibrant Comb",
+                "number": 1,
+                "chance": 40
+            }
+        ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "E.CongalalaPelt+",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "number": 2,
+                "chance": 35
+            },
+            {
+                "name": "Massive Bone",
+                "number": 4,
+                "chance": 25
+            }
+        ]
     }
 ]
