@@ -1,0 +1,13 @@
+{
+    "monster": "VARCHAR",
+    "type": "VARCHAR",
+    "count": "INT",
+    "condition": "VARCHAR",
+    "materials": [
+        {
+            "name": "VARCHAR",
+            "number": "INT",
+            "chance": "INT/UNKNOWN"
+        }
+    ]
+}

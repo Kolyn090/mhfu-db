@@ -1,0 +1,14 @@
+{
+    "id": "INT",
+    "name": "VARCHAR",
+    "quest-type": "VARCHAR",
+    "reward": "INT",
+    "contract-fee": "INT",
+    "time-limit": "INT",
+    "location": "VARCHAR",
+    "main-monsters": "VARCHAR",
+    "goal-condition": "VARCHAR",
+    "client": "VARCHAR",
+    "quest-details": "VARCHAR",
+    "difficulty": "INT"
+}

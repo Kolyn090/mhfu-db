@@ -1,0 +1,15 @@
+{
+    "location": "VARCHAR",
+    "areas": [
+        {
+            "number": "INT",
+            "positions": [
+                {
+                    "type": "VARCHAR",
+                    "condition": "VARCHAR",
+                    "materials": "ARRAY(VARCHAR)"
+                }
+            ]
+        }
+    ]
+}

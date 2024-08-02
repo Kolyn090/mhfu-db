@@ -1,0 +1,35 @@
+{
+    "id": "INT",
+    "name": "VARCHAR",
+    "time-limit": "INT",
+    "location": "VARCHAR",
+    "main-monsters": "VARCHAR",
+    "goal-condition": "VARCHAR",
+    "quest-details": "VARCHAR",
+    "difficulty": "INT",
+    "point-multiplier": "INT",
+    "weapon": {
+        "name": "VARCHAR",
+        "decorations": [
+            {
+                "name": "VARCHAR"
+            }
+        ]
+    },
+    "armors": [
+        {
+            "name": "VARCHAR",
+            "decorations": [
+                {
+                    "name": "VARCHAR"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "name": "VARCHAR",
+            "count": "INT/VARCHAR"
+        }
+    ]
+}

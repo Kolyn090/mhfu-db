@@ -1,0 +1,20 @@
+{
+    "id": "INT",
+    "name": "VARCHAR",
+    "rare": "INT",
+    "slots": "INT",
+    "price": "INT",
+    "description": "VARCHAR",
+    "skill-points": [
+        {
+            "name": "VARCHAR",
+            "points": "INT"
+        }
+    ],
+    "materials": [
+        {
+            "name": "VARCHAR",
+            "amount": "INT"
+        }
+    ]
+}

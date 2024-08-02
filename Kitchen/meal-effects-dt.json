@@ -1,0 +1,13 @@
+{
+    "id": "INT",
+    "meal1": "VARCHAR",
+    "meal2": "VARCHAR",
+    "chief-number": "INT",
+    "highest-star": "INT",
+    "effects": [
+        {
+            "stat": "VARCHAR",
+            "points": "INT"
+        }
+    ]
+}

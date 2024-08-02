@@ -1,0 +1,20 @@
+{
+    "id": "INT",
+    "name": "VARCHAR",
+    "type": "VARCHAR",
+    "attack": "INT",
+    "rare": "INT",
+    "slots": "INT",
+    "affinity": "INT",
+    "upgrade-price": "INT",
+    "defense": "INT",
+    "description": "VARCHAR",
+    "sharpness": "ARRAY(INT)",
+    "sharpness-artisan": "ARRAY(INT)",
+    "elements": [
+        {
+            "name": "VARCHAR",
+            "attack": "INT"
+        }
+    ]
+}

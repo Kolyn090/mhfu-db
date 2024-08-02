@@ -1,0 +1,30 @@
+{
+    "id": "INT",
+    "name": "VARCHAR",
+    "type": "VARCHAR",
+    "attack": "INT",
+    "rare": "INT",
+    "slots": "INT",
+    "affinity": "INT",
+    "create-price": "INT",
+    "defense": "INT",
+    "materials": [
+        {
+            "name": "VARCHAR",
+            "amount": "INT"
+        }
+    ],
+    "description": "VARCHAR",
+    "sharpness": "ARRAY(INT)",
+    "sharpness-artisan": "ARRAY(INT)",
+    "shelling": {
+        "type": "VARCHAR",
+        "level": "INT"
+    },
+    "elements": [
+        {
+            "name": "VARCHAR",
+            "attack": "INT"
+        }
+    ]
+}
