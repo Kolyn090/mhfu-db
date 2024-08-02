@@ -34,6 +34,9 @@ def count_number_of_lines(root, number):
     else:
         if not root.endswith('.json'):
             return number
+        # Ignore tables
+        if root.endswith('-dt.json'):
+            return number
 
         filedir = root
         with open(filedir, 'r') as file:
