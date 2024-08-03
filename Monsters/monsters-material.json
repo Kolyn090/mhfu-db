@@ -19171,5 +19171,480 @@
                 "chance": 25
             }
         ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "carving",
+        "count": 3,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Brute Bone",
+                "number": 1,
+                "chance": 38
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 63
+            },
+            {
+                "name": "Blangonga Whiskr",
+                "number": 1,
+                "chance": 21
+            },
+            {
+                "name": "Giant Bone",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Blangonga Fang",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Blangonga Pelt+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Blangonga Whiskr",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Blangonga Fang",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Stout Bone",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blangonga Pelt+",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HrdBlangongaPlt+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Lthr Pelagus Plt",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HvyBlangongaFang",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Massive Bone",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Dung",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Raw Meat",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Dung",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Dung",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HrdBlangongaPlt+",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Dung",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "HrdBlangongaPlt+",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "fang",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Giant Bone",
+                "number": 2,
+                "chance": 75
+            },
+            {
+                "name": "Bone",
+                "number": 2,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "fang",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blangonga Fang",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "fang",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blangonga Fang+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Blangonga Fang+",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Blangonga Fang",
+                "number": 2,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "fang",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyBlangongaFang",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HvyBlangongaFang",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Blangonga Fang+",
+                "number": 2,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "tail",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Blangonga Tail",
+                "number": 1,
+                "chance": 65
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blangonga Pelt+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Blangonga Tail",
+                "number": 1,
+                "chance": 65
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdBlangongaPlt+",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Blangonga Tail",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "LeathrBlangoTail",
+                "number": 1,
+                "chance": 60
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "capture",
+        "count": 1,
+        "condition": "Hall ★1, 2",
+        "materials": [
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Sharp Claw",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Brute Bone",
+                "number": 4,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Blangonga Whiskr",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Blangonga Pelt",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Giant Bone",
+                "number": 2,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "HrdBlangongaPlt+",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Blangonga Whiskr",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "Blangonga Tail",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Stout Bone",
+                "number": 4,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HrdBlangongaPlt+",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Lthr Pelagus Plt",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "LeathrBlangoTail",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Massive Bone",
+                "number": 4,
+                "chance": 25
+            }
+        ]
     }
 ]
