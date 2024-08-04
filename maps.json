@@ -19053,5 +19053,36 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Tower 3",
+        "areas": [
+            {
+                "number": 1,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Stone",
+                            "Akito Jewel",
+                            "BattlefieldJewel",
+                            "LapisLazuliJewel",
+                            "Decayed Drgn Scl"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "G Rank",
+                        "materials": [
+                            "Stone",
+                            "BattlefieldJewel",
+                            "LapisLazuliJewel",
+                            "Decayed Drgn Scl"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
