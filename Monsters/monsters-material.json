@@ -19646,5 +19646,130 @@
                 "chance": 25
             }
         ]
+    },
+    {
+        "monster": "Copper Blangonga",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "C.BlangongaPelt+",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Lg Pelagus Fang",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "HvyC.BlangoFang",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Massive Bone",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Copper Blangonga",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Territorial Dung",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "TerritorialDung+",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Dung",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "C.BlangongaPelt+",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Copper Blangonga",
+        "type": "claw",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HvyC.BlangoFang",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "HvyC.BlangoFang",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "Lthr Pelagus Plt",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Copper Blangonga",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "C.BlangongaPelt+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "LthrC.BlangoTail",
+                "number": 1,
+                "chance": 65
+            }
+        ]
+    },
+    {
+        "monster": "Copper Blangonga",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "C.BlangongaPelt+",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Lthr Pelagus Plt",
+                "number": 2,
+                "chance": 30
+            },
+            {
+                "name": "LthrC.BlangoTail",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Massive Bone",
+                "number": 4,
+                "chance": 25
+            }
+        ]
     }
 ]
