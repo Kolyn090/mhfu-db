@@ -19222,5 +19222,47 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Battleground",
+        "areas": [
+            {
+            "number": 1,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Armor Seed",
+                            "Antidote Herb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Herb",
+                            "Sap Plant"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Power Seed",
+                            "Unknown Skull"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "High Rank",
+                        "materials": [
+                            "Unknown Skull",
+                            "Dragon Seed"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
