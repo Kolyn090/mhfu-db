@@ -19450,5 +19450,113 @@
                     ]                    
             }
         ]
+    },
+    {
+        "location": "Moat Arena",
+        "areas": [
+            {
+                "number": 1,
+                    "positions": [
+                        {
+                            "type": "collecting",
+                            "condition": "High Rank",
+                            "materials": [
+                                "Supply Flash Bmb",
+                                "Prtbl Shock Trap",
+                                "Nitroshroom"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "G Rank",
+                            "materials": [
+                                "Supply Flash Bmb",
+                                "Prtbl Shock Trap",
+                                "Nitroshroom"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "Training",
+                            "materials": [
+                                "Prtbl Shock Trap"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "High Rank",
+                            "materials": [
+                                "Sm Barrel-Bomb+",
+                                "Sply Lg Brrl Bmb"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "G Rank",
+                            "materials": [
+                                "Sm Barrel-Bomb+",
+                                "Sply Lg Brrl Bmb"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "Training",
+                            "materials": [
+                                "Sm Barrel-Bomb"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "High Rank",
+                            "materials": [
+                                "Ration",
+                                "Mini Whetstone",
+                                "Power Seed"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "G Rank",
+                            "materials": [
+                                "Ration",
+                                "Mini Whetstone",
+                                "Power Seed"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "Training",
+                            "materials": [
+                                "Mega Potion"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "High Rank",
+                            "materials": [
+                                "First-Aid Med",
+                                "Potion",
+                                "Mega Potion"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "G Rank",
+                            "materials": [
+                                "First-Aid Med",
+                                "Potion",
+                                "Mega Potion"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "Training",
+                            "materials": [
+                                "Sply Lg Brrl Bmb"
+                            ]
+                        }
+                    ]                    
+            }
+        ]
     }
 ]
