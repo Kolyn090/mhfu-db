@@ -19084,5 +19084,29 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Fortess",
+        "areas": [
+            {
+                "number": 0,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Cannon S"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Ballista S"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
