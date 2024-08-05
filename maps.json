@@ -19108,5 +19108,95 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Town",
+        "areas": [
+            {
+                "number": 0,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Cannon S"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Ballista S"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Sm Barrel-Bomb",
+                            "Lg Barrel-Bomb",
+                            "Bounce Bomb",
+                            "Sply Lg Brrl Bmb"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "First-Aid Med",
+                            "Mega Potion",
+                            "Sply Max Potion",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "fishing",
+                        "condition": "All",
+                        "materials": [
+                            "Knife Mackerel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 1,
+                "positions": [
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Cannon S"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Ballista S"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "First-Aid Med",
+                            "Mega Potion",
+                            "Sply Max Potion",
+                            "Whetstone"
+                        ]
+                    },
+                    {
+                        "type": "collecting",
+                        "condition": "All",
+                        "materials": [
+                            "Sm Barrel-Bomb",
+                            "Lg Barrel-Bomb",
+                            "Bounce Bomb",
+                            "Sply Lg Brrl Bmb"
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
