@@ -19264,5 +19264,54 @@
                 ]
             }
         ]
+    },
+    {
+        "location": "Snowy Mountain Peak",
+        "areas": [
+            {
+                "number": 1,
+                    "positions": [
+                        {
+                            "type": "collecting",
+                            "condition": "G Rank",
+                            "materials": [
+                                "Herb",
+                                "Sleep Herb",
+                                "Mountain Herbs"
+                            ]
+                        },
+                        {
+                            "type": "mining",
+                            "condition": "G Rank",
+                            "materials": [
+                                "Ice Crystal",
+                                "Whetstone",
+                                "Decayed Drgn Scl",
+                                "Novacrystal",
+                                "Purecrystal"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "G Rank",
+                            "materials": [
+                                "Stone",
+                                "Whetstone",
+                                "Ice Crystal"
+                            ]
+                        },
+                        {
+                            "type": "collecting",
+                            "condition": "G Rank",
+                            "materials": [
+                                "Mini Whetstone",
+                                "Hot Drink",
+                                "Throwing Knife",
+                                "Thawing Agent"
+                            ]
+                        }
+                    ]
+            }
+        ]
     }
 ]
