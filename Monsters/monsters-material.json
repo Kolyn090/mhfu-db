@@ -19771,5 +19771,301 @@
                 "chance": 25
             }
         ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "carving",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "Rajang Fang",
+                "number": 1,
+                "chance": 46
+            },
+            {
+                "name": "Rajang Claw",
+                "number": 1,
+                "chance": 21
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "carving",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "Rajang Fang",
+                "number": 1,
+                "chance": 46
+            },
+            {
+                "name": "Rajang Claw",
+                "number": 1,
+                "chance": 21
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "carving",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt+",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Blk Rajang Pelt",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Hvy Rajang Fang",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Rajang Fang",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Hard Rajang Claw",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "horn",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Rajang Horn",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "horn",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rajang Horn",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "horn",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Rajang Horn",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Hard Rajang Horn",
+                "number": 1,
+                "chance": 60
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Rajang Tail",
+                "number": 1,
+                "chance": 91
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 9
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Rajang Tail",
+                "number": 1,
+                "chance": 91
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 9
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Rajang Tail",
+                "number": 1,
+                "chance": 82
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "capture",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt",
+                "number": 1,
+                "chance": 44
+            },
+            {
+                "name": "Rajang Fang",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Rajang Claw",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 12
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "capture",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt",
+                "number": 1,
+                "chance": 44
+            },
+            {
+                "name": "Rajang Fang",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Rajang Claw",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 12
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt+",
+                "number": 1,
+                "chance": 36
+            },
+            {
+                "name": "Blk Rajang Pelt",
+                "number": 2,
+                "chance": 18
+            },
+            {
+                "name": "Hvy Rajang Fang",
+                "number": 1,
+                "chance": 17
+            },
+            {
+                "name": "Hard Rajang Claw",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Rajang Claw",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "number": 1,
+                "chance": 2
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 5
+            }
+        ]
     }
 ]
