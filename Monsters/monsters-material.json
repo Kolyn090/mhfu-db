@@ -20071,7 +20071,7 @@
     {
         "monster": "Furious Rajang",
         "type": "carving",
-        "count": 1,
+        "count": 3,
         "condition": "G Rank",
         "materials": [
             {
@@ -20154,6 +20154,120 @@
                 "name": "Gold Rajang Pelt",
                 "number": 2,
                 "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Kirin",
+        "type": "carving",
+        "count": 2,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Kirin Mane",
+                "number": 1,
+                "chance": 39
+            },
+            {
+                "name": "Kirin Thndr Tail",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Kirin Hide",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Kirin Horn",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Lightcrystal",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Kirin",
+        "type": "carving",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Kirin Mane",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Kirin Thndr Tail",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Kirin Hide",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Kirin Hide+",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Kirin Horn",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Kirin Azure Horn",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Novacrystal",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Kirin",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Platinum Mane",
+                "number": 1,
+                "chance": 34
+            },
+            {
+                "name": "LthrKirinThndrTl",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Kirin Hide+",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "SpecialKirinHide",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Kirin Horn",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Novacrystal",
+                "number": 1,
+                "chance": 10
             }
         ]
     }
