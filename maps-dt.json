@@ -1,10 +1,12 @@
 {
+    "id": "INT",
     "location": "VARCHAR",
     "areas": [
         {
-            "number": "INT",
+            "areanumber": "INT",
             "positions": [
                 {
+                    "id": "INT",
                     "type": "VARCHAR",
                     "condition": "VARCHAR",
                     "materials": "ARRAY(VARCHAR)"
