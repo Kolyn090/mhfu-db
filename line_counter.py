@@ -3,13 +3,15 @@ import os
 
 def get_valid_nol_in(file):
     def is_valid_line(line):
-        return (line.strip() != '' and
-                line.strip() != '{' and
-                line.strip() != '}' and
-                line.strip() != '[' and
-                line.strip() != ']' and
-                line.strip() != '},' and
-                line.strip() != '],')
+        stripped_line = line.strip()
+        return (stripped_line != '' and
+                stripped_line != '{' and
+                stripped_line != '}' and
+                stripped_line != '[' and
+                stripped_line != ']' and
+                stripped_line != '},' and
+                stripped_line != '],' and
+                '"id":' not in stripped_line)
 
     content = file.read().split("\n")
     content = list(filter(is_valid_line, content))
