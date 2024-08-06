@@ -20067,5 +20067,94 @@
                 "chance": 5
             }
         ]
+    },
+    {
+        "monster": "Furious Rajang",
+        "type": "carving",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt+",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Hvy Rajang Fang",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Hard Rajang Claw",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Furious Rajang",
+        "type": "horn",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Rajang Horn",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "Hard Rajang Horn",
+                "number": 1,
+                "chance": 90
+            }
+        ]
+    },
+    {
+        "monster": "Furious Rajang",
+        "type": "capture",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Blk Rajang Pelt+",
+                "number": 1,
+                "chance": 34
+            },
+            {
+                "name": "Hvy Rajang Fang",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Hard Rajang Claw",
+                "number": 1,
+                "chance": 16
+            },
+            {
+                "name": "GoldRajangPelt+",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Gold Rajang Pelt",
+                "number": 2,
+                "chance": 4
+            }
+        ]
     }
 ]
