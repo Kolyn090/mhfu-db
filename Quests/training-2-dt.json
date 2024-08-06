@@ -13,16 +13,14 @@
     },
     "armors": [
         {
+            "id": "INT",
             "name": "VARCHAR",
-            "decorations": [
-                {
-                    "name": "VARCHAR"
-                }
-            ]
+            "decorations": "ARRAY(VARCHAR)"
         }
     ],
     "items": [
         {
+            "id": "INT",
             "name": "VARCHAR",
             "count": "INT/VARCHAR"
         }
