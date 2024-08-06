@@ -1,9 +1,9 @@
 {
-    "name": "VARCHAR",
+    "id": "INT",
+    "type": "VARCHAR",
     "materialA": "VARCHAR",
     "materialB": "VARCHAR",
     "chance": "INT",
     "min": "INT",
-    "max": "INT",
-    "type": "VARCHAR"
+    "max": "INT"
 }

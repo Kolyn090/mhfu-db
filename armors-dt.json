@@ -8,6 +8,7 @@
     "defense": "INT",
     "skill-points": [
         {
+            "id": "INT",
             "name": "VARCHAR",
             "points": "INT"
         }
@@ -21,6 +22,7 @@
     "ice-res": "INT",
     "materials": [
         {
+            "id": "INT",
             "name": "VARCHAR",
             "amount": "INT"
         }
