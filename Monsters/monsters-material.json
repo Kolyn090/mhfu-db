@@ -20270,5 +20270,460 @@
                 "chance": 10
             }
         ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "carving",
+        "count": 4,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Daora Shell",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "DaoraDragonScale",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Daora Claw",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "carving",
+        "count": 4,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Daora Shell",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Daora Carapace",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Daora Sharp Claw",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "carving",
+        "count": 4,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Daora Carapace",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "Hvy Daora Shell",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "ThcekDaoraDrgnScl",
+                "number": 1,
+                "chance": 40
+            },
+            {
+                "name": "Daora Sharp Claw",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 3
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Daora Tail",
+                "number": 1,
+                "chance": 52
+            },
+            {
+                "name": "Daora Shell",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Decayed Drgn Scl",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Daora Tail",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "Daora Shell",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Daora Carapace",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Lthr Daora Tail",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Daora Carapace",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Hvy Daora Shell",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Daimyo Jewel",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Decayed Drgn Scl",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "DaoraDragonScale",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Anc Drgn Treasre",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Anc Drgn Treasre",
+                "number": 1,
+                "chance": 44
+            },
+            {
+                "name": "ThcekDaoraDrgnScl",
+                "number": 1,
+                "chance": 23
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "horn",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Daora Horn",
+                "number": 1,
+                "chance": 95
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "wing",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Daora Horn",
+                "number": 1,
+                "chance": 88
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 4
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "horn",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hard Daora Horn",
+                "number": 1,
+                "chance": 88
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 4
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "wing",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Daora Webbing",
+                "number": 1,
+                "chance": 67
+            },
+            {
+                "name": "DaoraDragonScale",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Daora Claw",
+                "number": 2,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "horn",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Daora Webbing",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Daora Webbing",
+                "number": 2,
+                "chance": 20
+            },
+            {
+                "name": "DaoraDragonScal+",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Daora Claw",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "type": "wing",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Str Daora Wing",
+                "number": 1,
+                "chance": 67
+            },
+            {
+                "name": "ThcekDaoraDrgnScl",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Daora Claw",
+                "number": 2,
+                "chance": 5
+            },
+            {
+                "name": "Daora Jewel",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 1
+            }
+        ]
     }
 ]
