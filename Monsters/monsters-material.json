@@ -22034,16 +22034,228 @@
                 "name": "HrdFireDrgnClaw",
                 "number": 1,
                 "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "head",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 37
             },
             {
-                "name": "",
+                "name": "Lao-Shan's Scale",
                 "number": 1,
-                "chance": 20
+                "chance": 58
             },
             {
-                "name": "",
+                "name": "Lao-Shan's Claw",
                 "number": 1,
-                "chance": 20
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "foreleg",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Lao-Shan's Scale",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "Lao-Shan's Claw",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "hindleg",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Lao-Shan's Scale",
+                "number": 1,
+                "chance": 58
+            },
+            {
+                "name": "Lao-Shan's Claw",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "back",
+        "count": 3,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Eldr Dragon Bone",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Lao-Shan's Scale",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Dragon Herb",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "horn",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lao-Shan's Horn",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "head-break",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Flat Ruststone",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Large Ruststone",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Small Ruststone",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Ruststone Rod",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Ruststone",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 65
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "right-shoulder",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Lao-Shan's Scale",
+                "number": 1,
+                "chance": 58
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "left-shoulder",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Lao-Shan's Scale",
+                "number": 1,
+                "chance": 58
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "type": "back-break",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Flat Ruststone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Large Ruststone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Small Ruststone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Ruststone Rod",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Ruststone",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Lao-Shan's Shell",
+                "number": 1,
+                "chance": 75
             }
         ]
     }
