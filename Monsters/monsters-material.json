@@ -21005,5 +21005,336 @@
                 "chance": 3
             }
         ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "carving",
+        "count": 4,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Chameleos Hide",
+                "number": 1,
+                "chance": 39
+            },
+            {
+                "name": "Chameleos Claw",
+                "number": 1,
+                "chance": 19
+            },
+            {
+                "name": "ChameleosWebbing",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Dragonite Ore",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "carving",
+        "count": 4,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Chameleos Hide+",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Chameleos Hide",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "ChameleosWebbing",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Union Ore",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Chameleos Jewel",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "carving",
+        "count": 4,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "SpecChameleHide+",
+                "number": 1,
+                "chance": 35
+            },
+            {
+                "name": "Chameleos Hide+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "StrChameleosWing",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Mellanje Ore",
+                "number": 1,
+                "chance": 13
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "Chameleos Jewel",
+                "number": 1,
+                "chance": 6
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Chameleos Tail",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Dragonite Ore",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "number": 1,
+                "chance": 18
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Chameleos Tail",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Union Ore",
+                "number": 1,
+                "chance": 17
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Chameleos Jewel",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "tail",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "LthrChameleoTail",
+                "number": 1,
+                "chance": 60
+            },
+            {
+                "name": "Mellanje Ore",
+                "number": 1,
+                "chance": 17
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Chameleos Jewel",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Dragonite Ore",
+                "number": 1,
+                "chance": 25
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 43
+            },
+            {
+                "name": "Anc Drgn Treasre",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Union Ore",
+                "number": 1,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Anc Drgn Treasre",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Mellanje Ore",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Chameleos Jewel",
+                "number": 1,
+                "chance": 7
+            },
+            {
+                "name": "BigEDragonJewel",
+                "number": 1,
+                "chance": 1
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "horn",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Chameleos Horn",
+                "number": 1,
+                "chance": 90
+            },
+            {
+                "name": "Dragonite Ore",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "horn",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Chameleos Jewel",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Chameleos Spike",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Union Ore",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Chameleos",
+        "type": "horn",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Chameleos Spike",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "HrdChameleosHorn",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "Mellanje Ore",
+                "number": 1,
+                "chance": 10
+            }
+        ]
     }
 ]
