@@ -21336,5 +21336,270 @@
                 "chance": 10
             }
         ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "carving",
+        "count": 4,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lunastra Shell",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Lunastra Mane",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Fire Dragon Scl",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Fire Dragon Claw",
+                "number": 1,
+                "chance": 21
+            },
+            {
+                "name": "Fire Drgn Webbng",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "carving",
+        "count": 4,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "LunastraCarapace",
+                "number": 1,
+                "chance": 28
+            },
+            {
+                "name": "Lunastra Mane",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Fire Dragon Scl",
+                "number": 1,
+                "chance": 24
+            },
+            {
+                "name": "Fire Dragon Claw",
+                "number": 1,
+                "chance": 21
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "tail",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lunastra Tail",
+                "number": 1,
+                "chance": 59
+            },
+            {
+                "name": "Lunastra Shell",
+                "number": 1,
+                "chance": 18
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "number": 1,
+                "chance": 23
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "tail",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Lunastra Tail",
+                "number": 1,
+                "chance": 34
+            },
+            {
+                "name": "Lunastra Shell",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "number": 1,
+                "chance": 32
+            },
+            {
+                "name": "LunastraCarapace",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "number": 1,
+                "chance": 2
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "dropping",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 75
+            },
+            {
+                "name": "Fire Dragon Scl",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "dropping",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Anc Drgn Treasre",
+                "number": 1,
+                "chance": 37
+            },
+            {
+                "name": "Fire Drgn Scl+",
+                "number": 1,
+                "chance": 12
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Fire Drgn Jwl",
+                "number": 1,
+                "chance": 3
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "horn",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Lunastra Horn",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "horn",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Lunastra Spike",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Lunastra Horn",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "wing",
+        "count": 1,
+        "condition": "Low Rank",
+        "materials": [
+            {
+                "name": "Fire Drgn Webbng",
+                "number": 1,
+                "chance": 72
+            },
+            {
+                "name": "Fire Dragon Claw",
+                "number": 1,
+                "chance": 28
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "type": "wing",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fire Drgn Webbng",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Fire Drgn Webbng",
+                "number": 2,
+                "chance": 10
+            },
+            {
+                "name": "Fire Dragon Pwdr",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Fire Dragon Claw",
+                "number": 1,
+                "chance": 20
+            }
+        ]
     }
 ]
