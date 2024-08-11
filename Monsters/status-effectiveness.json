@@ -1,5 +1,16 @@
 [
     {
+        "monster": "Melynx",
+        "type": "knockout",
+        "initial-tolerance": 100,
+        "tolerance-inc": 0,
+        "tolerance-max": 100,
+        "tolerance-dec-step": 10,
+        "tolerance-dec-interval": 5,
+        "duration": 10,
+        "damage": 0
+    },
+    {
         "monster": "King Shakalaka",
         "type": "poison",
         "initial-tolerance": 100,
