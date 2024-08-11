@@ -22882,5 +22882,132 @@
                 "chance": 2
             }
         ]
+    },
+    {
+        "monster": "Yama Tsukami",
+        "type": "carving",
+        "count": 5,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "YamaTsukamiFluid",
+                "number": 1,
+                "chance": 34
+            },
+            {
+                "name": "YamaTsukamiHide",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "AncientDrgnmoss",
+                "number": 1,
+                "chance": 8
+            },
+            {
+                "name": "AncientDrgnwood",
+                "number": 1,
+                "chance": 27
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 11
+            }
+        ]
+    },
+    {
+        "monster": "Yama Tsukami",
+        "type": "carving-dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "AncientDrgnmoss",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "AncientDrgnwood",
+                "number": 1,
+                "chance": 20
+            },
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 30
+            },
+            {
+                "name": "Dragonwood",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Dragonmoss",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Dragonwood+",
+                "number": 1,
+                "chance": 5
+            },
+            {
+                "name": "Dragonmoss+",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "Dragon Toadstool",
+                "number": 1,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "monster": "Yama Tsukami",
+        "type": "dropping",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Dragon Treasure",
+                "number": 1,
+                "chance": 25
+            },
+            {
+                "name": "Anc Drgn Treasre",
+                "number": 1,
+                "chance": 45
+            },
+            {
+                "name": "YamaTsukamiFluid",
+                "number": 1,
+                "chance": 22
+            },
+            {
+                "name": "ElderDragonBlood",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Yama Tsukami",
+        "type": "feet",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "YamaTsukaFillet",
+                "number": 1,
+                "chance": 70
+            },
+            {
+                "name": "YamaTsukamiHide",
+                "number": 1,
+                "chance": 30
+            }
+        ]
     }
 ]
