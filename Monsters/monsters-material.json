@@ -22918,7 +22918,7 @@
     },
     {
         "monster": "Yama Tsukami",
-        "type": "carving-dropping",
+        "type": "carving-dropped",
         "count": 1,
         "condition": "G Rank",
         "materials": [
@@ -23007,6 +23007,314 @@
                 "name": "YamaTsukamiHide",
                 "number": 1,
                 "chance": 30
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "head",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Scale",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Fatalis Shell",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Fatalis Horn",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "head",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckFatalisScale",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Hvy Fatalis Shl",
+                "number": 1,
+                "chance": 44
+            },
+            {
+                "name": "Fatalis Shell",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HardFatalisHorn",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "upper-body",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Scale",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Fatalis Shell",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Fatalis Horn",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "upper-body",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckFatalisScale",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Hvy Fatalis Shl",
+                "number": 1,
+                "chance": 44
+            },
+            {
+                "name": "Fatalis Shell",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HardFatalisHorn",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "lower-body",
+        "count": 3,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Scale",
+                "number": 1,
+                "chance": 42
+            },
+            {
+                "name": "Fatalis Shell",
+                "number": 1,
+                "chance": 50
+            },
+            {
+                "name": "Fatalis Horn",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "lower-body",
+        "count": 3,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "ThckFatalisScale",
+                "number": 1,
+                "chance": 38
+            },
+            {
+                "name": "Hvy Fatalis Shl",
+                "number": 1,
+                "chance": 44
+            },
+            {
+                "name": "Fatalis Shell",
+                "number": 1,
+                "chance": 10
+            },
+            {
+                "name": "HardFatalisHorn",
+                "number": 1,
+                "chance": 8
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "horn-left",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "horn-left",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HardFatalisHorn",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Fatalis Horn",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "horn-right",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Horn",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "horn-right",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "HardFatalisHorn",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Fatalis Horn",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "eye",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Eye",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "eye",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Fatalis Evil Eye",
+                "number": 1,
+                "chance": 80
+            },
+            {
+                "name": "Fatalis Eye",
+                "number": 1,
+                "chance": 20
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "wing",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Webbing",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "wing",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Fatalis Webbing",
+                "number": 1,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "chest",
+        "count": 1,
+        "condition": "High Rank",
+        "materials": [
+            {
+                "name": "Fatalis Shell",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "Fatalis Scale",
+                "number": 1,
+                "chance": 85
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "type": "chest",
+        "count": 1,
+        "condition": "G Rank",
+        "materials": [
+            {
+                "name": "Hvy Fatalis Shl",
+                "number": 1,
+                "chance": 15
+            },
+            {
+                "name": "ThckFatalisScale",
+                "number": 1,
+                "chance": 85
             }
         ]
     }
