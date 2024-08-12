@@ -1,5 +1,14 @@
 [
     {
+        "monster": "Felyne",
+        "part": "body",
+        "fire": 100,
+        "water": 100,
+        "thundr": 100,
+        "ice": 100,
+        "dragon": 10
+    },
+    {
         "monster": "Melynx",
         "part": "body",
         "fire": 100,
@@ -16,5 +25,284 @@
         "thundr": 20,
         "ice": 40,
         "dragon": 20
+    },
+    {
+        "monster": "Vespoid",
+        "part": "body",
+        "fire": 100,
+        "water": 50,
+        "thundr": 10,
+        "ice": 50,
+        "dragon": 0
+    },
+    {
+        "monster": "Hornetaur",
+        "part": "body",
+        "fire": 100,
+        "water": 20,
+        "thundr": 60,
+        "ice": 100,
+        "dragon": 0
+    },
+    {
+        "monster": "Great Thunderbug",
+        "part": "body",
+        "fire": 20,
+        "water": 35,
+        "thundr": 0,
+        "ice": 20,
+        "dragon": 20
+    },
+    {
+        "monster": "Anteka",
+        "part": "body",
+        "fire": 100,
+        "water": 50,
+        "thundr": 80,
+        "ice": 5,
+        "dragon": 10
+    },
+    {
+        "monster": "Popo",
+        "part": "body",
+        "fire": 50,
+        "water": 10,
+        "thundr": 10,
+        "ice": 10,
+        "dragon": 10
+    },
+    {
+        "monster": "Kelbi",
+        "part": "body",
+        "fire": 100,
+        "water": 100,
+        "thundr": 100,
+        "ice": 100,
+        "dragon": 10
+    },
+    {
+        "monster": "Mosswine",
+        "part": "body",
+        "fire": 100,
+        "water": 100,
+        "thundr": 100,
+        "ice": 100,
+        "dragon": 10
+    },
+    {
+        "monster": "Aptonoth",
+        "part": "body",
+        "fire": 50,
+        "water": 50,
+        "thundr": 50,
+        "ice": 50,
+        "dragon": 10
+    },
+    {
+        "monster": "Apceros",
+        "part": "head",
+        "fire": 40,
+        "water": 20,
+        "thundr": 40,
+        "ice": 30,
+        "dragon": 10
+    },
+    {
+        "monster": "Apceros",
+        "part": "other",
+        "fire": 40,
+        "water": 20,
+        "thundr": 40,
+        "ice": 30,
+        "dragon": 10
+    },
+    {
+        "monster": "Giaprey",
+        "part": "body",
+        "fire": 50,
+        "water": 15,
+        "thundr": 30,
+        "ice": 5,
+        "dragon": 10
+    },
+    {
+        "monster": "Velociprey",
+        "part": "body",
+        "fire": 50,
+        "water": 50,
+        "thundr": 50,
+        "ice": 50,
+        "dragon": 10
+    },
+    {
+        "monster": "Genprey",
+        "part": "body",
+        "fire": 30,
+        "water": 20,
+        "thundr": 20,
+        "ice": 60,
+        "dragon": 0
+    },
+    {
+        "monster": "Ioprey",
+        "part": "body",
+        "fire": 20,
+        "water": 30,
+        "thundr": 50,
+        "ice": 20,
+        "dragon": 0
+    },
+    {
+        "monster": "Remobra",
+        "part": "head",
+        "fire": 10,
+        "water": 30,
+        "thundr": 0,
+        "ice": 10,
+        "dragon": 35
+    },
+    {
+        "monster": "Remobra",
+        "part": "wing",
+        "fire": 10,
+        "water": 25,
+        "thundr": 5,
+        "ice": 15,
+        "dragon": 20
+    },
+    {
+        "monster": "Remobra",
+        "part": "other",
+        "fire": 15,
+        "water": 30,
+        "thundr": 5,
+        "ice": 10,
+        "dragon": 35
+    },
+    {
+        "monster": "Cephalos",
+        "part": "head",
+        "fire": 30,
+        "water": 10,
+        "thundr": 40,
+        "ice": 10,
+        "dragon": 0
+    },
+    {
+        "monster": "Cephalos",
+        "part": "neck",
+        "fire": 30,
+        "water": 10,
+        "thundr": 40,
+        "ice": 10,
+        "dragon": 0
+    },
+    {
+        "monster": "Cephalos",
+        "part": "back",
+        "fire": 30,
+        "water": 15,
+        "thundr": 40,
+        "ice": 15,
+        "dragon": 0
+    },
+    {
+        "monster": "Cephalos",
+        "part": "stomach",
+        "fire": 30,
+        "water": 20,
+        "thundr": 40,
+        "ice": 20,
+        "dragon": 0
+    },
+    {
+        "monster": "Cephalos",
+        "part": "tail",
+        "fire": 25,
+        "water": 10,
+        "thundr": 20,
+        "ice": 10,
+        "dragon": 0
+    },
+    {
+        "monster": "Cephalos",
+        "part": "wing",
+        "fire": 25,
+        "water": 10,
+        "thundr": 20,
+        "ice": 10,
+        "dragon": 0
+    },
+    {
+        "monster": "Cephalos",
+        "part": "feet",
+        "fire": 30,
+        "water": 25,
+        "thundr": 10,
+        "ice": 25,
+        "dragon": 0
+    },
+    {
+        "monster": "Hermitaur",
+        "part": "body",
+        "fire": 30,
+        "water": 5,
+        "thundr": 60,
+        "ice": 20,
+        "dragon": 0
+    },
+    {
+        "monster": "Ceanataur",
+        "part": "body",
+        "fire": 5,
+        "water": 5,
+        "thundr": 30,
+        "ice": 40,
+        "dragon": 0
+    },
+    {
+        "monster": "Bullfango",
+        "part": "body",
+        "fire": 50,
+        "water": 50,
+        "thundr": 120,
+        "ice": 40,
+        "dragon": 10
+    },
+    {
+        "monster": "Conga",
+        "part": "head",
+        "fire": 30,
+        "water": 10,
+        "thundr": 10,
+        "ice": 15,
+        "dragon": 0
+    },
+    {
+        "monster": "Conga",
+        "part": "other",
+        "fire": 25,
+        "water": 10,
+        "thundr": 10,
+        "ice": 15,
+        "dragon": 0
+    },
+    {
+        "monster": "Blango",
+        "part": "head",
+        "fire": 55,
+        "water": 5,
+        "thundr": 15,
+        "ice": 5,
+        "dragon": 0
+    },
+    {
+        "monster": "Blango",
+        "part": "other",
+        "fire": 45,
+        "water": 5,
+        "thundr": 15,
+        "ice": 5,
+        "dragon": 0
     }
 ]
