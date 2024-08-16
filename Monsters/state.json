@@ -1,8 +1,8 @@
 [
     {
         "monster": "King Shakalaka",
-        "attack-ranged": 1.4,
-        "defense-ranged": 1,
+        "attack-enraged": 1.4,
+        "defense-enraged": 1,
         "appear": [
             {
                 "from": "nekoht",
@@ -83,6 +83,63 @@
                 "attack": 300,
                 "defense": 75,
                 "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Vespoid Queen",
+        "attack-enraged": 1.5,
+        "defense-enraged": 0.8,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 4,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1800,
+                "attack": 220,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 12,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2160,
+                "attack": 240,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 2,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3510,
+                "attack": 365,
+                "defense": 70,
+                "note": "Appears at the start of quest."
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 7,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3510,
+                "attack": 365,
+                "defense": 70,
+                "note": "Appears at the start of quest."
+            },
+            {
+                "from": null,
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3150,
+                "attack": 350,
+                "defense": 70,
+                "note": "Appears at the start of quest."
             }
         ]
     }
