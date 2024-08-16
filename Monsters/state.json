@@ -1,0 +1,89 @@
+[
+    {
+        "monster": "King Shakalaka",
+        "attack-ranged": 1.4,
+        "defense-ranged": 1,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 2,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 800,
+                "attack": 400,
+                "defense": 60,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 36,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1080,
+                "attack": 260,
+                "defense": 75,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 1,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1560,
+                "attack": 365,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 6,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1560,
+                "attack": 365,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 26,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1560,
+                "attack": 365,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 27,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1560,
+                "attack": 365,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 40,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1440,
+                "attack": 355,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": null,
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 680,
+                "attack": 300,
+                "defense": 75,
+                "note": ""
+            }
+        ]
+    }
+]

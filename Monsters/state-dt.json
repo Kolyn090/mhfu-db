@@ -1,0 +1,17 @@
+{
+    "monster": "VARCHAR",
+    "attack-ranged": "UNKNOWN",
+    "defense-ranged": "INT",
+    "appear": [
+        {
+            "from": "VARCHAR/UNKNOWN",
+            "quest-id": "INT/UNKNOWN",
+            "size-smallest": "INT",
+            "size-largest": "INT",
+            "health": "INT",
+            "attack": "INT",
+            "defense": "INT",
+            "note": "VARCHAR"
+        }
+    ]
+}
