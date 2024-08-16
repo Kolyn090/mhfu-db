@@ -175,8 +175,8 @@
         "contract-fee": 880,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "Plum D. Hermitaur, Genprey",
-        "goal-condition": "Hunt the PLum D. Hermitaur",
+        "main-monsters": "Plum D.Hermitaur, Genprey",
+        "goal-condition": "Hunt the Plum D.Hermitaur",
         "client": "Merchant of the East",
         "quest-details": "I spotted an unusual variety of Daimyo Hermitaur out in the Old Desert. I don't know what it was, but I swear it was evil! Anyway, here's my proposition: HUnt the crab and make a fortune. Deal?",
         "difficulty": 9
@@ -189,8 +189,8 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Daimyo Hermitaur, Plum D. Hermitaur",
-        "goal-condition": "Hunt the Daimyo Hermitaur and the Plum D. Hermitaur",
+        "main-monsters": "Daimyo Hermitaur, Plum D.Hermitaur",
+        "goal-condition": "Hunt the Daimyo Hermitaur and the Plum D.Hermitaur",
         "client": "Trinket Lover's Grand Daughter",
         "quest-details": "My grandfather stumbled on a fight between two famous warriors. They say that it's the dream of a warrior to die on the battlefield, but not by their own hands! Please go and help them!",
         "difficulty": 9
@@ -343,10 +343,10 @@
         "contract-fee": 1750,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Blue Yian Kut-Ku, Green Plesioth, Plum D. Hermitaur",
+        "main-monsters": "Blue Yian Kut-Ku, Green Plesioth, Plum D.Hermitaur",
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Materials Old-Timer",
-        "quest-details": "Add a Blue Yian Kut-kut to a Green Plesioth and you get a Plum D. Hermitaur. Seriously, unquely-colored equipment is selling like hotcakes, especially with youg folks. Wish I could get in on that.",
+        "quest-details": "Add a Blue Yian Kut-kut to a Green Plesioth and you get a Plum D.Hermitaur. Seriously, unquely-colored equipment is selling like hotcakes, especially with youg folks. Wish I could get in on that.",
         "difficulty": 9
     },
     {
@@ -693,7 +693,7 @@
         "contract-fee": 2450,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Plum D. Hermitaur, Gypceros, Rathian",
+        "main-monsters": "Plum D.Hermitaur, Gypceros, Rathian",
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Guild Messenger",
         "quest-details": "We've received word that an airship made an emergency landing in the Jungle, but the area is home to a Daimyo Hermitaur, a Gypceros, and a Rathian. Hurry to the region and help them down!",
@@ -1079,7 +1079,7 @@
     },
     {
         "id": 77,
-        "name": "The Dragon of Wind",
+        "name": "The Elder Dragon of Wind",
         "quest-type": "optional",
         "reward": 17100,
         "contract-fee": 1420,
