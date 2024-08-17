@@ -1087,9 +1087,50 @@
     },
     {
         "monster": "Scarred Yian Garuga",
-        "attack-enraged": null,
-        "defense-enraged": null,
-        "appear": []
+        "attack-enraged": 1.3,
+        "defense-enraged": 1,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 20,
+                "size-smallest": 87,
+                "size-largest": 128,
+                "health": 3800,
+                "attack": 220,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 43,
+                "size-smallest": 88,
+                "size-largest": 130,
+                "health": 7030,
+                "attack": 360,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 52,
+                "size-smallest": 104,
+                "size-largest": 119,
+                "health": 4370,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "training",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2200,
+                "attack": 140,
+                "defense": 95,
+                "note": ""
+            }
+        ]
     },
     {
         "monster": "Yian Garuga",
@@ -1108,27 +1149,7 @@
             },
             {
                 "from": "nekoht",
-                "quest-id": 20,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "nekoht",
                 "quest-id": 53,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "gal-3",
-                "quest-id": 43,
                 "size-smallest": null,
                 "size-largest": null,
                 "health": null,
