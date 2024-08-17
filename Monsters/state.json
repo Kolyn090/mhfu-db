@@ -66,6 +66,16 @@
             },
             {
                 "from": "gal-3",
+                "quest-id": 29,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 1560,
+                "attack": 365,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
                 "quest-id": 40,
                 "size-smallest": 100,
                 "size-largest": 100,
@@ -140,6 +150,6138 @@
                 "attack": 350,
                 "defense": 70,
                 "note": "Appears at the start of quest."
+            }
+        ]
+    },
+    {
+        "monster": "Giadrome",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 29,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 0,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 0,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 3,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Velocidrome",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 48,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 4,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 6,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 26,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 44,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 72,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Gendrome",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 20,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 36,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 6,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 32,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 35,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 36,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 7,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 45,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Iodrome",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 40,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 54,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 58,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 44,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 63,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 26,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 73,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Yian Kut-Ku",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 41,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 42,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 38,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 58,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 1,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 72,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 2,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 0,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 1,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 2,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 3,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 4,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Blue Yian Kut-Ku",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 38,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 59,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Scarred Yian Garuga",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": []
+    },
+    {
+        "monster": "Yian Garuga",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 47,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 20,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 43,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 44,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 26,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 29,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Gypceros",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 66,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 79,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 7,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 29,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 57,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Purple Gypceros",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 33,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 66,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 55,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 4,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Hypnocatrice",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 0,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 29,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 0,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 50,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 0,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 1,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 2,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 3,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 4,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Rathian",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 81,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 82,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 40,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 54,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 77,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 80,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 68,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 41,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Pink Rathian",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 84,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 41,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 78,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 44,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 68,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 42,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Gold Rathian",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 47,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 48,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 55,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 64,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 65,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Rathalos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 81,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 82,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 75,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 80,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 29,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 72,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 39,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 72,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Azure Rathalos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 89,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 41,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 76,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 40,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Silver Rathalos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 46,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 48,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 54,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 63,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 65,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Khezu",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 79,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 30,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 46,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 85,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 12,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 13,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Red Khezu",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 46,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 47,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 20,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 39,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Basarios",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 55,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 57,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 62,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 32,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 73,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 48,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Gravios",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 73,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 44,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 73,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 73,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 40,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 41,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 42,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 43,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 44,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Black Gravios",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 45,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 50,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 61,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 62,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 75,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Monoblos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 50,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 54,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "White Monoblos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Diablos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 68,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 85,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 42,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 45,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 47,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 69,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 57,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 70,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 35,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 36,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 38,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 39,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Black Diablos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 69,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 85,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 43,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 72,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 46,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 47,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 58,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 59,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 75,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Tigrex",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 63,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 67,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 86,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 38,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 68,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 69,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 70,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 40,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 41,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 43,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 71,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 55,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 56,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 70,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 30,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 32,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 33,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 34,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Nargacuga",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 35,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 36,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 66,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 67,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 26,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 29,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 30,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 50,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 75,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Akantor",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 61,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 76,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Ukanlos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 87,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Cephadrome",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 6,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 7,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 33,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 0,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 1,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 2,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 3,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 4,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Plesioth",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 35,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 83,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 13,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 50,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 67,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 6,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 7,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Green Plesioth",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 83,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 30,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 38,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 3,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Lavasioth",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 32,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 33,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 72,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 26,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 29,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Daimyo Hermitaur",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 34,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 70,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 13,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 54,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 34,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 54,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 66,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 2,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 6,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 38,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 13,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 34,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Plum D.Hermitaur",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 12,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 13,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 12,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 13,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Shogun Ceanataur",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 56,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 59,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 88,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 15,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 56,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 61,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 64,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 30,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 39,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 34,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 35,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 74,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 12,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 13,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 14,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Terra S.Ceanataur",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 36,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 30,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 32,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 33,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 34,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Shen Gaoren",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 90,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 59,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 87,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 75,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 83,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Bulldrome",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 10,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 12,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 1,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 2,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 3,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 39,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 4,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 26,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 27,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Congalala",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 16,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 32,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 39,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 80,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 12,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 28,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 4,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 12,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 30,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 40,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 86,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 19,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 6,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 7,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Emerald Congalala",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 20,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 25,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 50,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 5,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 6,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 7,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 8,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 9,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Blangonga",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 43,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 45,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 65,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 26,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 51,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 11,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 41,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 45,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 48,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 17,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 18,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 34,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 45,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 52,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 20,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Copper Blangonga",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 46,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 47,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 70,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 20,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Rajang",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 91,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 42,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 48,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 66,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 67,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 73,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 20,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 21,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 22,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 23,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-2",
+                "quest-id": 24,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 35,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 36,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 37,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 38,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 39,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Furious Rajang",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": []
+    },
+    {
+        "monster": "Kirin",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 64,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 50,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 79,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 35,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 56,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 70,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 68,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 69,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 45,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 46,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 47,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 48,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "training-1",
+                "quest-id": 49,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Kushala Daora",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 61,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 31,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 81,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 57,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 58,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 76,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 77,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Rusted Kushala Daora",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": []
+    },
+    {
+        "monster": "Chameleos",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 77,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 78,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 55,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 56,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 84,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 59,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 60,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 80,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 81,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Lunastra",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 75,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "elder",
+                "quest-id": 76,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 32,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 33,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Teostra",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 87,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 57,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 58,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 82,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 83,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 61,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 62,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 78,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 79,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Lao-Shan Lung",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "elder",
+                "quest-id": 92,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 65,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 53,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Azure Lao-Shan Lung",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": []
+    },
+    {
+        "monster": "Yama Tsukami",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 54,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 82,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Fatalis",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-2",
+                "quest-id": 63,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 84,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 85,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "Crimson Fatalis",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-2",
+                "quest-id": 64,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            }
+        ]
+    },
+    {
+        "monster": "White Fatalis",
+        "attack-enraged": null,
+        "defense-enraged": null,
+        "appear": [
+            {
+                "from": "gal-2",
+                "quest-id": 65,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 86,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
             }
         ]
     }
