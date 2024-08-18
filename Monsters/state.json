@@ -3708,17 +3708,17 @@
     },
     {
         "monster": "Ukanlos",
-        "attack-enraged": null,
-        "defense-enraged": null,
+        "attack-enraged": 1.4,
+        "defense-enraged": 0.9,
         "appear": [
             {
                 "from": "gal-3",
                 "quest-id": 87,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 18000,
+                "attack": 350,
+                "defense": 75,
                 "note": ""
             }
         ]
