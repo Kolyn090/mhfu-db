@@ -3681,27 +3681,27 @@
     },
     {
         "monster": "Akantor",
-        "attack-enraged": null,
-        "defense-enraged": null,
+        "attack-enraged": 1.4,
+        "defense-enraged": 0.8,
         "appear": [
             {
                 "from": "nekoht",
                 "quest-id": 61,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 8400,
+                "attack": 220,
+                "defense": 75,
                 "note": ""
             },
             {
                 "from": "gal-2",
                 "quest-id": 76,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 9600,
+                "attack": 260,
+                "defense": 75,
                 "note": ""
             }
         ]
