@@ -5828,8 +5828,8 @@
                 "note": "first smallest"
             },
             {
-                "from": "nekoht",
-                "quest-id": 49,
+                "from": "elder",
+                "quest-id": 91,
                 "size-smallest": 139,
                 "size-largest": 139,
                 "health": 2520,
@@ -5839,7 +5839,7 @@
             },
             {
                 "from": "nekoht",
-                "quest-id": 60,
+                "quest-id": 49,
                 "size-smallest": 102,
                 "size-largest": 150,
                 "health": 3600,
@@ -5848,8 +5848,8 @@
                 "note": ""
             },
             {
-                "from": "gal-2",
-                "quest-id": 42,
+                "from": "nekoht",
+                "quest-id": 60,
                 "size-smallest": 110,
                 "size-largest": 126,
                 "health": 4320,
@@ -5859,7 +5859,7 @@
             },
             {
                 "from": "gal-2",
-                "quest-id": 48,
+                "quest-id": 42,
                 "size-smallest": 104,
                 "size-largest": 125,
                 "health": 5040,
@@ -5868,8 +5868,8 @@
                 "note": ""
             },
             {
-                "from": "gal-3",
-                "quest-id": 66,
+                "from": "gal-2",
+                "quest-id": 48,
                 "size-smallest": 110,
                 "size-largest": 162,
                 "health": 5040,
@@ -5889,13 +5889,23 @@
             },
             {
                 "from": "gal-3",
-                "quest-id": 73,
+                "quest-id": 67,
                 "size-smallest": 139,
                 "size-largest": 139,
                 "health": 4860,
                 "attack": 380,
                 "defense": 70,
                 "note": "second silver"
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 73,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 3600,
+                "attack": 400,
+                "defense": 60,
+                "note": ""
             },
             {
                 "from": "training-2",
@@ -5946,64 +5956,75 @@
                 "attack": 102,
                 "defense": 100,
                 "note": ""
-            },
-            {
-                "from": "training-3",
-                "quest-id": 35,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "training-3",
-                "quest-id": 36,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "training-3",
-                "quest-id": 37,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "training-3",
-                "quest-id": 38,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "training-3",
-                "quest-id": 39,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
             }
         ]
     },
     {
         "monster": "Furious Rajang",
-        "attack-enraged": null,
-        "defense-enraged": null,
-        "appear": []
+        "attack-enraged": 1.28,
+        "defense-enraged": 1.125,
+        "appear": [
+            {
+                "from": "gal-3",
+                "quest-id": 66,
+                "size-smallest": 102,
+                "size-largest": 150,
+                "health": 7020,
+                "attack": 462,
+                "defense": 56,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 35,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3960,
+                "attack": 275,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 36,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3960,
+                "attack": 275,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 37,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3960,
+                "attack": 275,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 38,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3960,
+                "attack": 275,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "training-3",
+                "quest-id": 39,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3960,
+                "attack": 275,
+                "defense": 80,
+                "note": ""
+            }
+        ]
     },
     {
         "monster": "Kirin",
