@@ -6366,48 +6366,48 @@
     },
     {
         "monster": "Lunastra",
-        "attack-enraged": null,
-        "defense-enraged": null,
+        "attack-enraged": 1.3,
+        "defense-enraged": 0.9,
         "appear": [
             {
                 "from": "elder",
                 "quest-id": 75,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 86,
+                "size-largest": 127,
+                "health": 7000,
+                "attack": 115,
+                "defense": 100,
+                "note": "inheritance"
             },
             {
                 "from": "elder",
                 "quest-id": 76,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 86,
+                "size-largest": 127,
+                "health": 7000,
+                "attack": 115,
+                "defense": 100,
+                "note": "inheritance"
             },
             {
                 "from": "nekoht",
                 "quest-id": 32,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 88,
+                "size-largest": 130,
+                "health": 10500,
+                "attack": 220,
+                "defense": 80,
+                "note": "inheritance"
             },
             {
                 "from": "nekoht",
                 "quest-id": 33,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 88,
+                "size-largest": 130,
+                "health": 10500,
+                "attack": 220,
+                "defense": 80,
+                "note": "inheritance"
             }
         ]
     },
