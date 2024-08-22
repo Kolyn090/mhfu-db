@@ -6259,98 +6259,108 @@
     },
     {
         "monster": "Chameleos",
-        "attack-enraged": null,
-        "defense-enraged": null,
+        "attack-enraged": 1.3,
+        "defense-enraged": 1,
         "appear": [
             {
                 "from": "elder",
                 "quest-id": 77,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 95,
+                "size-largest": 114,
+                "health": 8000,
+                "attack": 115,
+                "defense": 100,
+                "note": "inheritance"
             },
             {
                 "from": "elder",
                 "quest-id": 78,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 95,
+                "size-largest": 114,
+                "health": 8000,
+                "attack": 115,
+                "defense": 100,
+                "note": "inheritance"
             },
             {
                 "from": "nekoht",
                 "quest-id": 55,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 97,
+                "size-largest": 143,
+                "health": 12000,
+                "attack": 220,
+                "defense": 80,
+                "note": "inheritance"
             },
             {
                 "from": "nekoht",
                 "quest-id": 56,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 97,
+                "size-largest": 143,
+                "health": 12000,
+                "attack": 220,
+                "defense": 80,
+                "note": "inheritance"
             },
             {
                 "from": "gal-1",
                 "quest-id": 84,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 102,
+                "size-largest": 123,
+                "health": 9600,
+                "attack": 160,
+                "defense": 95,
+                "note": "inheritance"
+            },
+            {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 102,
+                "size-largest": 123,
+                "health": 9600,
+                "attack": 160,
+                "defense": 95,
+                "note": "inheritance"
             },
             {
                 "from": "gal-2",
                 "quest-id": 59,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 102,
+                "size-largest": 150,
+                "health": 12000,
+                "attack": 270,
+                "defense": 75,
+                "note": "inheritance"
             },
             {
                 "from": "gal-2",
                 "quest-id": 60,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 102,
+                "size-largest": 150,
+                "health": 12000,
+                "attack": 270,
+                "defense": 75,
+                "note": "inheritance"
             },
             {
                 "from": "gal-3",
                 "quest-id": 80,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 126,
+                "size-largest": 151,
+                "health": 15600,
+                "attack": 370,
+                "defense": 70,
+                "note": "inheritance"
             },
             {
                 "from": "gal-3",
                 "quest-id": 81,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 126,
+                "size-largest": 151,
+                "health": 15600,
+                "attack": 370,
+                "defense": 70,
+                "note": "inheritance"
             }
         ]
     },
