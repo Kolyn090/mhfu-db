@@ -1,16 +1,16 @@
 {
     "monster": "VARCHAR",
-    "attack-ranged": "UNKNOWN",
-    "defense-ranged": "INT",
+    "attack-enraged": "UNKNOWN/INT",
+    "defense-enraged": "INT/UNKNOWN",
     "appear": [
         {
-            "from": "VARCHAR/UNKNOWN",
+            "from": "VARCHAR",
             "quest-id": "INT/UNKNOWN",
-            "size-smallest": "INT",
-            "size-largest": "INT",
-            "health": "INT",
-            "attack": "INT",
-            "defense": "INT",
+            "size-smallest": "INT/UNKNOWN",
+            "size-largest": "INT/UNKNOWN",
+            "health": "INT/UNKNOWN",
+            "attack": "INT/UNKNOWN",
+            "defense": "INT/UNKNOWN",
             "note": "VARCHAR"
         }
     ]
