@@ -6165,96 +6165,97 @@
     },
     {
         "monster": "Kushala Daora",
-        "attack-enraged": null,
-        "defense-enraged": null,
+        "attack-enraged": 1.1,
+        "defense-enraged": 0.9,
         "appear": [
             {
                 "from": "elder",
                 "quest-id": 60,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 96,
+                "size-largest": 116,
+                "health": 7000,
+                "attack": 110,
+                "defense": 100,
+                "note": "inheritance"
             },
             {
                 "from": "elder",
                 "quest-id": 61,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "nekoht",
-                "quest-id": 31,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "gal-1",
-                "quest-id": 81,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 96,
+                "size-largest": 116,
+                "health": 7000,
+                "attack": 110,
+                "defense": 100,
+                "note": "inheritance"
             },
             {
                 "from": "gal-2",
                 "quest-id": 57,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 90,
+                "size-largest": 132,
+                "health": 10500,
+                "attack": 270,
+                "defense": 75,
+                "note": "inheritance"
             },
             {
                 "from": "gal-2",
                 "quest-id": 58,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 90,
+                "size-largest": 132,
+                "health": 10500,
+                "attack": 270,
+                "defense": 75,
+                "note": "inheritance"
             },
             {
                 "from": "gal-3",
                 "quest-id": 76,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 111,
+                "size-largest": 133,
+                "health": 13650,
+                "attack": 365,
+                "defense": 70,
+                "note": "inheritance"
             },
             {
                 "from": "gal-3",
                 "quest-id": 77,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
+                "size-smallest": 111,
+                "size-largest": 133,
+                "health": 13650,
+                "attack": 365,
+                "defense": 70,
+                "note": "inheritance"
             }
         ]
     },
     {
         "monster": "Rusted Kushala Daora",
-        "attack-enraged": null,
-        "defense-enraged": null,
-        "appear": []
+        "attack-enraged": 1.2,
+        "defense-enraged": 0.9,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 31,
+                "size-smallest": 88,
+                "size-largest": 130,
+                "health": 10500,
+                "attack": 220,
+                "defense": 80,
+                "note": "no inheritance"
+            },
+            {
+                "from": "gal-1",
+                "quest-id": 81,
+                "size-smallest": 89,
+                "size-largest": 131,
+                "health": 8400,
+                "attack": 160,
+                "defense": 95,
+                "note": "no inheritance"
+            }
+        ]
     },
     {
         "monster": "Chameleos",
