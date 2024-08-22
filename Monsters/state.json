@@ -85,7 +85,7 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "training-challenge",
                 "quest-id": null,
                 "size-smallest": 100,
                 "size-largest": 100,
@@ -129,7 +129,7 @@
                 "health": 3510,
                 "attack": 365,
                 "defense": 70,
-                "note": "appears at the start of quest."
+                "note": "initial appearance"
             },
             {
                 "from": "gal-3",
@@ -139,17 +139,17 @@
                 "health": 3510,
                 "attack": 365,
                 "defense": 70,
-                "note": "appears at the start of quest."
+                "note": "initial appearance"
             },
             {
-                "from": null,
+                "from": "training-challenge",
                 "quest-id": null,
                 "size-smallest": 100,
                 "size-largest": 100,
                 "health": 3150,
                 "attack": 350,
                 "defense": 70,
-                "note": "appears at the start of quest."
+                "note": "initial appearance"
             }
         ]
     },
@@ -299,8 +299,8 @@
                 "note": ""
             },
             {
-                "from": "training",
-                "quest-id": null,
+                "from": "training-beginner",
+                "quest-id": 0,
                 "size-smallest": 100,
                 "size-largest": 105,
                 "health": 240,
@@ -887,6 +887,26 @@
                 "note": ""
             },
             {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 50,
+                "size-largest": 50,
+                "health": 1200,
+                "attack": 200,
+                "defense": 95,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 105,
+                "size-largest": 120,
+                "health": 2160,
+                "attack": 380,
+                "defense": 70,
+                "note": ""
+            },
+            {
                 "from": "treasure",
                 "quest-id": null,
                 "size-smallest": 100,
@@ -1074,7 +1094,17 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 102,
+                "size-largest": 117,
+                "health": 3360,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "training-group",
                 "quest-id": null,
                 "size-smallest": 100,
                 "size-largest": 100,
@@ -1112,7 +1142,7 @@
             },
             {
                 "from": "gal-3",
-                "quest-id": 52,
+                "quest-id": null,
                 "size-smallest": 104,
                 "size-largest": 119,
                 "health": 4370,
@@ -1178,6 +1208,16 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 102,
+                "size-largest": 117,
+                "health": 4800,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
                 "from": "treasure",
                 "quest-id": null,
                 "size-smallest": 100,
@@ -1185,6 +1225,16 @@
                 "health": 1800,
                 "attack": 200,
                 "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2200,
+                "attack": 140,
+                "defense": 95,
                 "note": ""
             },
             {
@@ -1350,6 +1400,16 @@
                 "size-smallest": 105,
                 "size-largest": 120,
                 "health": 2640,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 102,
+                "size-largest": 117,
+                "health": 2880,
                 "attack": 370,
                 "defense": 70,
                 "note": ""
@@ -1549,6 +1609,36 @@
                 "note": ""
             },
             {
+                "from": "gal-2",
+                "quest-id": null,
+                "size-smallest": 105,
+                "size-largest": 120,
+                "health": 2210,
+                "attack": 300,
+                "defense": 75,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 90,
+                "size-largest": 132,
+                "health": 3250,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 102,
+                "size-largest": 117,
+                "health": 3120,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
                 "from": "training-3",
                 "quest-id": 0,
                 "size-smallest": 100,
@@ -1736,6 +1826,26 @@
                 "note": ""
             },
             {
+                "from": "gal-2",
+                "quest-id": null,
+                "size-smallest": 105,
+                "size-largest": 120,
+                "health": 3400,
+                "attack": 300,
+                "defense": 75,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 97,
+                "size-largest": 117,
+                "health": 2600,
+                "attack": 160,
+                "defense": 95,
+                "note": ""
+            },
+            {
                 "from": "treasure",
                 "quest-id": null,
                 "size-smallest": 100,
@@ -1843,8 +1953,18 @@
                 "note": ""
             },
             {
-                "from": "training",
-                "quest-id": 71,
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 105,
+                "size-largest": 120,
+                "health": 5940,
+                "attack": 380,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
                 "size-smallest": 100,
                 "size-largest": 100,
                 "health": 3080,
@@ -2378,6 +2498,26 @@
                 "note": ""
             },
             {
+                "from": "gal-2",
+                "quest-id": null,
+                "size-smallest": 110,
+                "size-largest": 126,
+                "health": 2560,
+                "attack": 290,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 118,
+                "size-largest": 135,
+                "health": 4000,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
                 "from": "training-1",
                 "quest-id": 10,
                 "size-smallest": 100,
@@ -2515,6 +2655,26 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 4140,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
                 "from": "training",
                 "quest-id": null,
                 "size-smallest": 100,
@@ -2640,6 +2800,16 @@
                 "attack": 380,
                 "defense": 70,
                 "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": 2760,
+                "attack": null,
+                "defense": null,
+                "note": ""
             }
         ]
     },
@@ -2726,6 +2896,26 @@
                 "health": 3400,
                 "attack": 360,
                 "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 110,
+                "size-largest": 126,
+                "health": 3200,
+                "attack": 290,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": 4600,
+                "attack": null,
+                "defense": null,
                 "note": ""
             },
             {
@@ -2863,6 +3053,26 @@
                 "health": 3960,
                 "attack": 360,
                 "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 4400,
+                "attack": 400,
+                "defense": 60,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": 5060,
+                "attack": null,
+                "defense": null,
                 "note": ""
             }
         ]
@@ -3087,6 +3297,26 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 134,
+                "size-largest": 154,
+                "health": 10000,
+                "attack": 500,
+                "defense": 60,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
                 "from": "training-1",
                 "quest-id": 35,
                 "size-smallest": 100,
@@ -3134,6 +3364,16 @@
                 "health": 1400,
                 "attack": 102,
                 "defense": 100,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
                 "note": ""
             }
         ]
@@ -3230,6 +3470,16 @@
                 "size-largest": 121,
                 "health": 3960,
                 "attack": 360,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 4400,
+                "attack": 400,
                 "defense": 70,
                 "note": ""
             },
@@ -3431,6 +3681,56 @@
                 "note": ""
             },
             {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 97,
+                "size-largest": 117,
+                "health": 2600,
+                "attack": 160,
+                "defense": 95,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 120,
+                "size-largest": 138,
+                "health": 10000,
+                "attack": 500,
+                "defense": 60,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 114,
+                "size-largest": 131,
+                "health": 7800,
+                "attack": 365,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 104,
+                "size-largest": 119,
+                "health": 4600,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 4000,
+                "attack": 400,
+                "defense": 60,
+                "note": ""
+            },
+            {
                 "from": "training-1",
                 "quest-id": 30,
                 "size-smallest": 100,
@@ -3481,7 +3781,7 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "training-group",
                 "quest-id": null,
                 "size-smallest": 108,
                 "size-largest": 108,
@@ -3491,7 +3791,7 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "training-challenge",
                 "quest-id": null,
                 "size-smallest": 100,
                 "size-largest": 100,
@@ -3628,6 +3928,26 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 104,
+                "size-largest": 119,
+                "health": 4140,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 3600,
+                "attack": 400,
+                "defense": 60,
+                "note": ""
+            },
+            {
                 "from": "training-3",
                 "quest-id": 15,
                 "size-smallest": 100,
@@ -3676,6 +3996,56 @@
                 "attack": 370,
                 "defense": 70,
                 "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3600,
+                "attack": 220,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3960,
+                "attack": 370,
+                "defense": 70,
+                "note": "first"
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 105,
+                "size-largest": 105,
+                "health": 4140,
+                "attack": 370,
+                "defense": 70,
+                "note": "second"
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2520,
+                "attack": 270,
+                "defense": 85,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2880,
+                "attack": 290,
+                "defense": 80,
+                "note": ""
             }
         ]
     },
@@ -3701,6 +4071,16 @@
                 "size-largest": 100,
                 "health": 9600,
                 "attack": 260,
+                "defense": 75,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 18000,
+                "attack": 350,
                 "defense": 75,
                 "note": ""
             }
@@ -3849,7 +4229,7 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "training-group",
                 "quest-id": null,
                 "size-smallest": 100,
                 "size-largest": 100,
@@ -3976,6 +4356,26 @@
                 "note": ""
             },
             {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 97,
+                "size-largest": 117,
+                "health": 2600,
+                "attack": 160,
+                "defense": 95,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": null,
+                "size-smallest": 110,
+                "size-largest": 126,
+                "health": 3200,
+                "attack": 290,
+                "defense": 80,
+                "note": ""
+            },
+            {
                 "from": "training-2",
                 "quest-id": 5,
                 "size-smallest": 100,
@@ -4026,7 +4426,7 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "training-challenge",
                 "quest-id": null,
                 "size-smallest": 120,
                 "size-largest": 120,
@@ -4151,6 +4551,16 @@
                 "attack": 370,
                 "defense": 70,
                 "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 5060,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
             }
         ]
     },
@@ -4187,6 +4597,26 @@
                 "health": 3600,
                 "attack": 360,
                 "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 122,
+                "size-largest": 128,
+                "health": 7600,
+                "attack": 360,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": 4600,
+                "attack": null,
+                "defense": null,
                 "note": ""
             },
             {
@@ -4457,6 +4887,26 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 97,
+                "size-largest": 117,
+                "health": 1560,
+                "attack": 160,
+                "defense": 95,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
                 "from": "training-1",
                 "quest-id": 15,
                 "size-smallest": 100,
@@ -4560,6 +5010,16 @@
                 "size-largest": 120,
                 "health": 3307,
                 "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 86,
+                "size-largest": 127,
+                "health": 4252,
+                "attack": 380,
                 "defense": 70,
                 "note": ""
             },
@@ -4811,6 +5271,26 @@
                 "note": ""
             },
             {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 97,
+                "size-largest": 117,
+                "health": 2080,
+                "attack": 160,
+                "defense": 95,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": 3680,
+                "attack": null,
+                "defense": null,
+                "note": ""
+            },
+            {
                 "from": "training-2",
                 "quest-id": 10,
                 "size-smallest": 100,
@@ -4860,6 +5340,17 @@
                 "defense": 100,
                 "note": ""
             }
+            ,
+            {
+                "from": "training-group",
+                "quest-id": null,
+                "size-smallest": 110,
+                "size-largest": 110,
+                "health": 2080,
+                "attack": 160,
+                "defense": 95,
+                "note": ""
+            }
         ]
     },
     {
@@ -4895,6 +5386,26 @@
                 "health": 3330,
                 "attack": 360,
                 "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 3700,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2960,
+                "attack": 290,
+                "defense": 80,
                 "note": ""
             },
             {
@@ -5193,7 +5704,7 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "training-challenge",
                 "quest-id": null,
                 "size-smallest": 210,
                 "size-largest": 210,
@@ -5360,6 +5871,46 @@
                 "note": ""
             },
             {
+                "from": "gal-1",
+                "quest-id": null,
+                "size-smallest": 97,
+                "size-largest": 117,
+                "health": 1819,
+                "attack": 160,
+                "defense": 95,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": null,
+                "size-smallest": 105,
+                "size-largest": 120,
+                "health": 2380,
+                "attack": 300,
+                "defense": 75,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 95,
+                "size-largest": 140,
+                "health": 3220,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 105,
+                "size-largest": 120,
+                "health": 3780,
+                "attack": 380,
+                "defense": 70,
+                "note": ""
+            },
+            {
                 "from": "training-1",
                 "quest-id": 5,
                 "size-smallest": 100,
@@ -5420,7 +5971,7 @@
                 "note": ""
             },
             {
-                "from": "training",
+                "from": "training-group",
                 "quest-id": null,
                 "size-smallest": 100,
                 "size-largest": 100,
@@ -5477,6 +6028,26 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 95,
+                "size-largest": 140,
+                "health": 3450,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 3450,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
                 "from": "training-3",
                 "quest-id": 5,
                 "size-smallest": 100,
@@ -5525,6 +6096,26 @@
                 "attack": 220,
                 "defense": 100,
                 "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2100,
+                "attack": 270,
+                "defense": 85,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 2400,
+                "attack": 290,
+                "defense": 80,
+                "note": ""
             }
         ]
     },
@@ -5571,7 +6162,17 @@
                 "health": 1540,
                 "attack": 310,
                 "defense": 75,
-                "note": ""
+                "note": "first"
+            },
+            {
+                "from": "nekoht",
+                "quest-id": 26,
+                "size-smallest": 105,
+                "size-largest": 125,
+                "health": 2520,
+                "attack": 310,
+                "defense": 75,
+                "note": "second"
             },
             {
                 "from": "nekoht",
@@ -5674,6 +6275,16 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 110,
+                "size-largest": 126,
+                "health": 2240,
+                "attack": 290,
+                "defense": 80,
+                "note": ""
+            },
+            {
                 "from": "training-1",
                 "quest-id": 20,
                 "size-smallest": 100,
@@ -5757,6 +6368,16 @@
                 "size-largest": 120,
                 "health": 3230,
                 "attack": 360,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 97,
+                "size-largest": 143,
+                "health": 3910,
+                "attack": 370,
                 "defense": 70,
                 "note": ""
             },
@@ -5908,6 +6529,16 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 95,
+                "size-largest": null,
+                "health": 4500,
+                "attack": 370,
+                "defense": 70,
+                "note": ""
+            },
+            {
                 "from": "training-2",
                 "quest-id": 20,
                 "size-smallest": 100,
@@ -5975,6 +6606,26 @@
                 "note": ""
             },
             {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 106,
+                "size-largest": 121,
+                "health": 3600,
+                "attack": 500,
+                "defense": 48,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 125,
+                "size-largest": 125,
+                "health": 4140,
+                "attack": 462,
+                "defense": 56,
+                "note": ""
+            },
+            {
                 "from": "training-3",
                 "quest-id": 35,
                 "size-smallest": 100,
@@ -6022,6 +6673,26 @@
                 "health": 3960,
                 "attack": 275,
                 "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": 125,
+                "size-largest": 125,
+                "health": 5400,
+                "attack": 362,
+                "defense": 60,
+                "note": ""
+            },
+            {
+                "from": "training-challenge",
+                "quest-id": null,
+                "size-smallest": null,
+                "size-largest": null,
+                "health": null,
+                "attack": null,
+                "defense": null,
                 "note": ""
             }
         ]
@@ -6108,6 +6779,16 @@
                 "size-largest": 149,
                 "health": 6080,
                 "attack": 360,
+                "defense": 70,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 120,
+                "size-largest": 135,
+                "health": 4000,
+                "attack": 370,
                 "defense": 70,
                 "note": ""
             },
@@ -6227,6 +6908,16 @@
                 "attack": 365,
                 "defense": 70,
                 "note": "inheritance"
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 120,
+                "size-largest": 138,
+                "health": 12000,
+                "attack": 500,
+                "defense": 60,
+                "note": "no inheritance"
             }
         ]
     },
@@ -6499,22 +7190,42 @@
             {
                 "from": "gal-3",
                 "quest-id": 78,
-                "size-smallest": 90,
-                "size-largest": 133,
-                "health": 11250,
-                "attack": 280,
-                "defense": 75,
+                "size-smallest": 112,
+                "size-largest": 134,
+                "health": 14625,
+                "attack": 360,
+                "defense": 70,
                 "note": "inheritance"
             },
             {
                 "from": "gal-3",
                 "quest-id": 79,
+                "size-smallest": 112,
+                "size-largest": 134,
+                "health": 14625,
+                "attack": 360,
+                "defense": 70,
+                "note": "inheritance"
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
                 "size-smallest": 90,
                 "size-largest": 133,
-                "health": 11250,
-                "attack": 280,
-                "defense": 75,
-                "note": "inheritance"
+                "health": 9600,
+                "attack": 400,
+                "defense": 60,
+                "note": "no inheritance"
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 122,
+                "size-largest": 140,
+                "health": 9600,
+                "attack": 500,
+                "defense": 60,
+                "note": "no inheritance"
             }
         ]
     },
@@ -6612,6 +7323,16 @@
                 "quest-id": 82,
                 "size-smallest": 100,
                 "size-largest": 100,
+                "health": 18666,
+                "attack": 310,
+                "defense": 80,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
                 "health": 26666,
                 "attack": 400,
                 "defense": 80,
@@ -6632,7 +7353,7 @@
                 "health": 20000,
                 "attack": 180,
                 "defense": 75,
-                "note": ""
+                "note": "inheritance"
             },
             {
                 "from": "gal-3",
@@ -6642,7 +7363,17 @@
                 "health": 26000,
                 "attack": 300,
                 "defense": 75,
-                "note": ""
+                "note": "inheritance"
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 15999,
+                "attack": 300,
+                "defense": 75,
+                "note": "no inheritance"
             }
         ]
     },
@@ -6659,7 +7390,7 @@
                 "health": 20000,
                 "attack": 200,
                 "defense": 75,
-                "note": ""
+                "note": "inheritance"
             },
             {
                 "from": "gal-3",
@@ -6669,7 +7400,17 @@
                 "health": 26000,
                 "attack": 300,
                 "defense": 75,
-                "note": ""
+                "note": "inheritance"
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 12000,
+                "attack": 300,
+                "defense": 75,
+                "note": "no inheritance"
             }
         ]
     },
@@ -6686,7 +7427,7 @@
                 "health": 20000,
                 "attack": 200,
                 "defense": 75,
-                "note": ""
+                "note": "inheritance"
             },
             {
                 "from": "gal-3",
@@ -6696,7 +7437,27 @@
                 "health": 26000,
                 "attack": 300,
                 "defense": 75,
-                "note": ""
+                "note": "inheritance"
+            },
+            {
+                "from": "gal-2",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 9000,
+                "attack": 250,
+                "defense": 85,
+                "note": "no inheritance"
+            },
+            {
+                "from": "gal-3",
+                "quest-id": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 12000,
+                "attack": 300,
+                "defense": 75,
+                "note": "no inheritance"
             }
         ]
     }
