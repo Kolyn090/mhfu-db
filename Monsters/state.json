@@ -6594,27 +6594,27 @@
     },
     {
         "monster": "Yama Tsukami",
-        "attack-enraged": null,
-        "defense-enraged": null,
+        "attack-enraged": 1.5,
+        "defense-enraged": 0.8,
         "appear": [
             {
                 "from": "gal-3",
                 "quest-id": 54,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 18666,
+                "attack": 310,
+                "defense": 80,
                 "note": ""
             },
             {
                 "from": "gal-3",
                 "quest-id": 82,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 26666,
+                "attack": 400,
+                "defense": 80,
                 "note": ""
             }
         ]
