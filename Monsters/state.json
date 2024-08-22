@@ -6520,46 +6520,77 @@
     },
     {
         "monster": "Lao-Shan Lung",
-        "attack-enraged": null,
-        "defense-enraged": null,
+        "attack-enraged": 1.5,
+        "defense-enraged": 0.8,
         "appear": [
             {
                 "from": "elder",
                 "quest-id": 92,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 18666,
+                "attack": 130,
+                "defense": 100,
                 "note": ""
             },
             {
                 "from": "gal-1",
                 "quest-id": 65,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
-                "note": ""
-            },
-            {
-                "from": "gal-3",
-                "quest-id": 53,
-                "size-smallest": null,
-                "size-largest": null,
-                "health": null,
-                "attack": null,
-                "defense": null,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 23999,
+                "attack": 150,
+                "defense": 100,
                 "note": ""
             }
         ]
     },
     {
         "monster": "Azure Lao-Shan Lung",
-        "attack-enraged": null,
-        "defense-enraged": null,
-        "appear": []
+        "attack-enraged": 1.5,
+        "defense-enraged": 0.8,
+        "appear": [
+            {
+                "from": "nekoht",
+                "quest-id": 34,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 26666,
+                "attack": 280,
+                "defense": 100,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 13,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 26666,
+                "attack": 280,
+                "defense": 100,
+                "note": ""
+            },
+            {
+                "from": "gal-2",
+                "quest-id": 33,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 26666,
+                "attack": 280,
+                "defense": 100,
+                "note": ""
+            },
+            {
+                "from": "gal-3",
+                "quest-id": 53,
+                "size-smallest": 100,
+                "size-largest": 100,
+                "health": 26666,
+                "attack": 350,
+                "defense": 75,
+                "note": ""
+            }
+        ]
     },
     {
         "monster": "Yama Tsukami",
