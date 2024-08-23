@@ -1,13 +1,19 @@
 {
+    "id": "INT",
     "monster": "VARCHAR",
-    "type": "VARCHAR",
-    "count": "INT",
-    "condition": "VARCHAR",
-    "materials": [
+    "types": [
         {
-            "name": "VARCHAR",
-            "number": "INT",
-            "chance": "INT/UNKNOWN"
+            "id": "INT",
+            "type": "VARCHAR",
+            "count": "INT",
+            "condition": "VARCHAR",
+            "materials": [
+                {
+                    "name": "VARCHAR",
+                    "number": "INT",
+                    "chance": "INT/UNKNOWN"
+                }
+            ]
         }
     ]
 }
