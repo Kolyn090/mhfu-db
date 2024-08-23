@@ -9,6 +9,7 @@
             "condition": "VARCHAR",
             "materials": [
                 {
+                    "id": "INT",
                     "name": "VARCHAR",
                     "number": "INT",
                     "chance": "INT/UNKNOWN"
