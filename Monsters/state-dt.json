@@ -1,10 +1,11 @@
 {
+    "id": "INT",
     "monster": "VARCHAR",
     "attack-enraged": "UNKNOWN/INT",
     "defense-enraged": "INT/UNKNOWN",
     "appear": [
         {
-            "from": "VARCHAR",
+            "id": "INT",
             "quest-id": "INT/UNKNOWN",
             "size-smallest": "INT/UNKNOWN",
             "size-largest": "INT/UNKNOWN",
