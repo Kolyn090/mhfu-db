@@ -1,8 +1,8 @@
 {
     "id": "INT",
     "monster": "VARCHAR",
-    "attack-enraged": "UNKNOWN/INT",
-    "defense-enraged": "INT/UNKNOWN",
+    "attack-enraged": "FLOAT/INT",
+    "defense-enraged": "INT/FLOAT",
     "appear": [
         {
             "id": "INT",

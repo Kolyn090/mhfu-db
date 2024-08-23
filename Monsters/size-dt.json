@@ -1,10 +1,11 @@
 {
+    "id": "INT",
     "monster": "VARCHAR",
-    "golden-largest-min": "INT",
-    "golden-largest-max": "INT",
-    "silver-min": "INT",
-    "silver-max": "INT",
-    "golden-smallest-min": "INT",
-    "golden-smallest-max": "INT",
-    "default": "INT"
+    "golden-largest-min": "FLOAT/INT",
+    "golden-largest-max": "FLOAT/INT",
+    "silver-min": "FLOAT/UNKNOWN/INT",
+    "silver-max": "FLOAT/INT/UNKNOWN",
+    "golden-smallest-min": "FLOAT/UNKNOWN/INT",
+    "golden-smallest-max": "FLOAT/INT/UNKNOWN",
+    "default": "FLOAT/INT"
 }

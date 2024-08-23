@@ -80,6 +80,7 @@ def make_table_for_json(filedir, file):
         type_mapping = {
             str: 'VARCHAR',
             int: 'INT',
+            float: 'FLOAT',
             list: 'ARRAY',
             dict: 'JSON',
         }
