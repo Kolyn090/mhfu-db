@@ -1,0 +1,11 @@
+{
+    "location": "VARCHAR",
+    "travel": [
+        {
+            "point-cost": "INT",
+            "items": "ARRAY(VARCHAR)",
+            "condition": "VARCHAR",
+            "unlock-at": "VARCHAR"
+        }
+    ]
+}
