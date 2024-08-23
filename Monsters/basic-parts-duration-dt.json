@@ -1,5 +1,11 @@
 {
+    "id": "INT",
     "monster": "VARCHAR",
-    "part": "VARCHAR",
-    "duration": "INT"
+    "parts": [
+        {
+            "id": "INT",
+            "part": "VARCHAR",
+            "duration": "INT"
+        }
+    ]
 }

@@ -1,9 +1,15 @@
 {
+    "id": "INT",
     "monster": "VARCHAR",
-    "part": "VARCHAR",
-    "fire": "INT",
-    "water": "INT",
-    "thundr": "INT",
-    "ice": "INT",
-    "dragon": "INT"
+    "parts": [
+        {
+            "id": "INT",
+            "part": "VARCHAR",
+            "fire": "INT",
+            "water": "INT",
+            "thundr": "INT",
+            "ice": "INT",
+            "dragon": "INT"
+        }
+    ]
 }

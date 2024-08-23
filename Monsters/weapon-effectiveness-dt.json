@@ -1,7 +1,13 @@
 {
+    "id": "INT",
     "monster": "VARCHAR",
-    "part": "VARCHAR",
-    "slash": "INT",
-    "strike": "INT",
-    "shooting": "INT"
+    "parts": [
+        {
+            "id": "INT",
+            "part": "VARCHAR",
+            "slash": "INT",
+            "strike": "INT",
+            "shooting": "INT"
+        }
+    ]
 }

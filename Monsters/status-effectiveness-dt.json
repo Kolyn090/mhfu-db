@@ -1,11 +1,17 @@
 {
+    "id": "INT",
     "monster": "VARCHAR",
-    "type": "VARCHAR",
-    "initial-tolerance": "INT",
-    "tolerance-inc": "INT",
-    "tolerance-max": "INT",
-    "tolerance-dec-step": "INT",
-    "tolerance-dec-interval": "INT",
-    "duration": "INT",
-    "damage": "INT"
+    "types": [
+        {
+            "id": "INT",
+            "type": "VARCHAR",
+            "initial-tolerance": "INT",
+            "tolerance-inc": "INT",
+            "tolerance-max": "INT",
+            "tolerance-dec-step": "INT",
+            "tolerance-dec-interval": "INT",
+            "duration": "INT",
+            "damage": "INT"
+        }
+    ]
 }
