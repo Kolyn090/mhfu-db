@@ -974,5 +974,63 @@
                 "rewards": []
             }
         ]
+    },
+    {
+        "name": "Cat Granny",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "I'm the granny who takes care of getting these Felynes work. You are a hunter, aren't you?",
+                    "How about trying some of these Felynes as workers?",
+                    "I've got two types of working Felynes with me: Felyne Chefs who specialize in cooking, and Felyne Comrades who are a hunter's best friend.",
+                    "Felyne Chefs are excellent cooks. If you hire them, you can eat the kind of gourmet meals that even boost your battle skills!",
+                    "A hunter in your position should consider having a Felyne Chef in your employment. How about taking one out on a trial run?",
+                    "Well, I guess the first Felyne will be on me. After that, you have to pay a finder's fee for any of these cats you hire.",
+                    "By the way, I didn't bring any of them with me today, but I also have some Felyne Comrades for hire. They can accompany you on Quests.",
+                    "But you can't bring them if it's a especially dangerous Quest, nor can you bring them if you're on a Quest with another hunter.",
+                    "I'll tell you in more detail next time, I suppose. Remember that I'll always have either Chefs or Comrades in a row."
+                ],
+                "note": "introduction",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh! How are you? I brought some Felynes that love to cook who are looking for work with me. If you see one you'd like to hire, just say so!"
+                ],
+                "note": "greeting, cook",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I'm sorry, but I must leave. I'll be back, so if you want to hire one then, just say so! I don't know when I'll be back though!",
+                    "If you want to hire some Felyne Chefs, become a reliable hunter. Then I'll be happy to do business with you."
+                ],
+                "note": "adieu",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Cook Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "Welcome Gastronome! Thanks for hiring us, meow!",
+                    "We're just going to use one of the rooms you aren't using anymore, nya. We promise to make you great food, so bon appetit, meow!",
+                    "Food made by one Felyne is on the house, but if you add more staff to the kitchen we will charge you depending on the number of staff.",
+                    "We look forward to having you order our tasty treats, nya!"
+                ],
+                "note": "introduction",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hey Gastronome... Have you heard of Tranqulizer? It is important if you want to make Tranq Bombs or Tranq S, meow!",
+                    "If you want to make some Tranquilizer, you should combine Sleep Herb with something like... say... a paralyzing mushroom, nya!"
+                ],
+                "note": "",
+                "rewards": []
+            }
+        ]
     }
 ]
