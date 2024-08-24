@@ -792,5 +792,187 @@
                 "rewards": []
             }
         ]
+    },
+    {
+        "name": "Guild Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "Huh!? M-Master!?",
+                    "I'm sorry, nya. I made a mistake... I thought you were someone else. Let me make it up to you by showing you around the Gathering Hall.",
+                    "The girl at the back over there works for the Hunter's Shoppe. They sell lots of helpful items, meow.",
+                    "To the left of the Hunter's Shoppe maiden is the Quest Board. There you can sign up for other hunter's Quests.",
+                    "To the right of the maiden is a small Item Box, nya. You can't store equipment in there, but you can place other small items in there.",
+                    "To the right of that box is an old man wearing a helmet. That is the one and only Treshi, meow!",
+                    "Treshi's speical Treasure Hunters Quests have fantastic rewards in either cash or Pokke Points! YOu can do them alone, so try them out, nya!"
+                ],
+                "note": "introduction",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The exit in the back is where you can depart on a Quest once you've signed up for one or initiated for your own, meow.",
+                    "One day, my master left through that very door, nya... He still hasn't come back.",
+                    "Master... How long must I wait here for you, meow...?"
+                ],
+                "note": "",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Farm Manager Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "This is Pokke Farm, meow. Feel free to take away any of the items you find here.",
+                    "This box here is a Small Item Box, nya. You can't put big things like equipment in it, but it is large enough to hold gathering items.",
+                    "The Field, Fishing Spot, Mining Points, and Bug Catching area all have their own managers, so you should get details from them, nya.",
+                    "I should also tell you that if you add a Mushroom Tree, you'll be able to gather Mushrooms under that roof you see on the left, meow.",
+                    "You can also add a Bee Hive to the farm. It will be added to the area on the right, meow.",
+                    "To gather up the items at each place, just press the [X] button. To add the new areas to the farm just ask the kid outside! Easy, nya!?"
+                ],
+                "note": "introduction",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "This is Pokke Farm, meow. Feel free to take away any of the items you find here.",
+                    "If you replace a Mushroom Tree with a high quality version, you will be able to get many different kinds of Mushrooms, nya.",
+                    "I bet you could even get some Mushrooms that you have never seen before, meow..."
+                ],
+                "note": "random",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "This is Pokke Farm, meow. Feel free to take away any of the items you find here.",
+                    "To make sure the establishments on the farm stay stocked, the number of times you can use them are limited, nya...",
+                    "If you head off on a Quest, the items will replenish while you are away, so make sure to come back after a Quest, meow..."
+                ],
+                "note": "random",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "This is Pokke Farm, meow. Feel free to take away any of the items you find here.",
+                    "To gather up the items here, just walk up to one of the locations on the Fram and press the [X] button, nya.",
+                    "If you need a Bugnet or a Pickaxe, we will get them ready for you, so just press the [X] button, nya. Pretty easy, meow?"
+                ],
+                "note": "random",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Mining Spot Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "This is a mining spot. I will lend you a Pickaxe for free, nya. So go mine as much as you can, meow!",
+                    "Stand in front of the crack in that rock, and press the [X] button, meow. Do that and you will get some ore, nya.",
+                    "If you gain Mining Points, you can climb to the rocks above this cliff using a ladder, meow.",
+                    "It looks like there is a crack above the cliff here. If you extend the ladder, you'll be able to reach up there, meow!",
+                    "Even if you come visit during a Quest, I will lend you a new Pickaxe, nya. Keep cracking those rocks, purr..."
+                ],
+                "note": "",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Bug Catchign Spot Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "You can catch lots of bugs in this area, nya. If you don't have a Bugnet, I will lend you one for free! Catch lots of bugs, meow!",
+                    "If you add a Insect Thicket, it will increase the number of times you can catch bugs, nya!",
+                    "You can catch bugs by walking up to the bushes around here and pressing the [X] button, meow.",
+                    "Even if you visit while on a Quest, I will be happy to lend you another Bugnet, meow. Now go catch lots of bugs, meow..."
+                ],
+                "note": "",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Farming Field Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "This is a purrfect field. If you give me a seed, I will raise it until you come back nya. And not jsut seeds, I'll raise gress too, meow.",
+                    "If you've got some Dung or Worms I can use as fertilizer, I'll spread them for you, nya! If the soil is fertile, the crops will increase, meow!",
+                    "Once the crops grow, you can examine the rows and gather them up, meow. The more rows you have, the more rows you should examine!",
+                    "Pick seeds or fertilizer, then decide which row you'd like me to work on and I'll do my magic! Do you want to work the land, meow?"
+                ],
+                "note": "introduction, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Pick seeds or fertilizer, then decide which row you'd like me to work on and I'll do my magic! Do you want to work the land, meow?"
+                ],
+                "note": "select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Alright, nya. If you have something for me to do in the field, just tell me, purrrrr."
+                ],
+                "note": "select [No] / successfully plant a seed",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I don't have any items to use, meow! I need to get some seeds or fertilizer!"
+                ],
+                "note": "select [Yes] & posses no seed",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You want me to use that item, nya!? If it's alright with you, I'll get to work!"
+                ],
+                "note": "select [Yes] & select a seed, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Giving up, meow? If you give up now, everything will go back to how it was!"
+                ],
+                "note": "select [Yes] & select a seed & select [No], select [Yes] / [No]",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Fishing Spot Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "This is Fishing Spot, nya. You can catch some tasty fish here! I'll let you borrow some bait, so fish as much as you'd like meow!",
+                    "Each time I lend you bait, it will be enough for three tries. But if you renovate the pier, I will give you even more bait, nya.",
+                    "Go out onto the pier and press the [X] button to cast.",
+                    "Even if you visit while on a Quest, I will be happy to lend you some more bait, meow. Now go catch some tasty fishes, meow..."
+                ],
+                "note": "",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Cave Cat",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "This is a storehouse made completely of natrual ice, meow. It is the purrfect place to store your perishables!",
+                    "Actually... At the back of the storehouse there is something gaint, but only the Village Chief and Treshi know what it is, meow.",
+                    "The two of them must be looking for a way to get at whatever is back there, nya...",
+                    "I'm not sure what is really truth and what is rumor... All I know is that there is nothing you can do to get back there now, meow..."
+                ],
+                "note": "",
+                "rewards": []
+            }
+        ]
     }
 ]
