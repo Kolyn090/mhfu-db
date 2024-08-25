@@ -1,0 +1,15 @@
+{
+    "level": "INT",
+    "harvest": [
+        {
+            "count": "INT",
+            "chance": "INT"
+        }
+    ],
+    "additional-harvest": [
+        {
+            "count": "INT",
+            "chance": "INT"
+        }
+    ]
+}
