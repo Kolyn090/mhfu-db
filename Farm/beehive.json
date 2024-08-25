@@ -1,46 +1,57 @@
 [
     {
+        "id": 0,
         "name": "Insect Husk",
         "chances": [
             {
+                "id": 0,
                 "level": 0,
                 "chance": 10
             },
             {
+                "id": 1,
                 "level": 1,
                 "chance": 5
             }
         ]
     },
     {
+        "id": 1,
         "name": "Honey",
         "chances": [
             {
+                "id": 0,
                 "level": 0,
                 "chance": 88
             },
             {
+                "id": 1,
                 "level": 1,
                 "chance": 90
             },
             {
+                "id": 2,
                 "level": 2,
                 "chance": 95
             }
         ]
     },
     {
+        "id": 2,
         "name": "Snakebee Larva",
         "chances": [
             {
+                "id": 0,
                 "level": 0,
                 "chance": 2
             },
             {
+                "id": 1,
                 "level": 1,
                 "chance": 5
             },
             {
+                "id": 2,
                 "level": 2,
                 "chance": 5
             }

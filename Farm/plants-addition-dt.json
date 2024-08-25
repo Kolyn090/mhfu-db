@@ -1,7 +1,9 @@
 {
+    "id": "INT",
     "item": "VARCHAR",
-    "number": [
+    "chances": [
         {
+            "id": "INT",
             "count": "INT",
             "chance": "INT"
         }
