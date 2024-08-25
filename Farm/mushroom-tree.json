@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Blue Mushroom",
+        "chances": [
+            {
+                "level": 0,
+                "chance": 40
+            },
+            {
+                "level": 1,
+                "chance": 30
+            },
+            {
+                "level": 2,
+                "chance": 28
+            }
+        ]
+    },
+    {
+        "name": "Nitroshroom",
+        "chances": [
+            {
+                "level": 1,
+                "chance": 28
+            },
+            {
+                "level": 2,
+                "chance": 27
+            }
+        ]
+    },
+    {
+        "name": "Parashroom",
+        "chances": [
+            {
+                "level": 0,
+                "chance": 26
+            },
+            {
+                "level": 1,
+                "chance": 12
+            },
+            {
+                "level": 2,
+                "chance": 11
+            }
+        ]
+    },
+    {
+        "name": "Toadstool",
+        "chances": [
+            {
+                "level": 0,
+                "chance": 32
+            },
+            {
+                "level": 1,
+                "chance": 18
+            },
+            {
+                "level": 2,
+                "chance": 15
+            }
+        ]
+    },
+    {
+        "name": "Exciteshroom",
+        "chances": [
+            {
+                "level": 1,
+                "chance": 10
+            },
+            {
+                "level": 2,
+                "chance": 10
+            }
+        ]
+    },
+    {
+        "name": "Dragon Toadstool",
+        "chances": [
+            {
+                "level": 2,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "name": "Chaos Mushroom",
+        "chances": [
+            {
+                "level": 0,
+                "chance": 2
+            },
+            {
+                "level": 1,
+                "chance": 2
+            },
+            {
+                "level": 2,
+                "chance": 3
+            }
+        ]
+    }
+]
