@@ -1,10 +1,8 @@
 [
     {
-        "id": 0,
         "monster": "Felyne",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 100,
                 "water": 100,
@@ -15,11 +13,9 @@
         ]
     },
     {
-        "id": 1,
         "monster": "Melynx",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 100,
                 "water": 100,
@@ -30,11 +26,9 @@
         ]
     },
     {
-        "id": 2,
         "monster": "Shakalaka",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 20,
                 "water": 20,
@@ -45,11 +39,9 @@
         ]
     },
     {
-        "id": 3,
         "monster": "Vespoid",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 100,
                 "water": 50,
@@ -60,11 +52,9 @@
         ]
     },
     {
-        "id": 4,
         "monster": "Hornetaur",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 100,
                 "water": 20,
@@ -75,11 +65,9 @@
         ]
     },
     {
-        "id": 5,
         "monster": "Great Thunderbug",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 20,
                 "water": 35,
@@ -90,11 +78,9 @@
         ]
     },
     {
-        "id": 6,
         "monster": "Anteka",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 100,
                 "water": 50,
@@ -105,11 +91,9 @@
         ]
     },
     {
-        "id": 7,
         "monster": "Popo",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 50,
                 "water": 10,
@@ -120,11 +104,9 @@
         ]
     },
     {
-        "id": 8,
         "monster": "Kelbi",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 100,
                 "water": 100,
@@ -135,11 +117,9 @@
         ]
     },
     {
-        "id": 9,
         "monster": "Mosswine",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 100,
                 "water": 100,
@@ -150,11 +130,9 @@
         ]
     },
     {
-        "id": 10,
         "monster": "Aptonoth",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 50,
                 "water": 50,
@@ -165,11 +143,9 @@
         ]
     },
     {
-        "id": 11,
         "monster": "Apceros",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 40,
                 "water": 20,
@@ -178,7 +154,6 @@
                 "dragon": 10
             },
             {
-                "id": 1,
                 "part": "other",
                 "fire": 40,
                 "water": 20,
@@ -189,11 +164,9 @@
         ]
     },
     {
-        "id": 12,
         "monster": "Giaprey",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 50,
                 "water": 15,
@@ -204,11 +177,9 @@
         ]
     },
     {
-        "id": 13,
         "monster": "Velociprey",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 50,
                 "water": 50,
@@ -219,11 +190,9 @@
         ]
     },
     {
-        "id": 14,
         "monster": "Genprey",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 30,
                 "water": 20,
@@ -234,11 +203,9 @@
         ]
     },
     {
-        "id": 15,
         "monster": "Ioprey",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 20,
                 "water": 30,
@@ -249,11 +216,9 @@
         ]
     },
     {
-        "id": 16,
         "monster": "Remobra",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 10,
                 "water": 30,
@@ -262,7 +227,6 @@
                 "dragon": 35
             },
             {
-                "id": 1,
                 "part": "wings",
                 "fire": 10,
                 "water": 25,
@@ -271,7 +235,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "other",
                 "fire": 15,
                 "water": 30,
@@ -282,11 +245,9 @@
         ]
     },
     {
-        "id": 17,
         "monster": "Cephalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 30,
                 "water": 10,
@@ -295,7 +256,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 30,
                 "water": 10,
@@ -304,7 +264,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 30,
                 "water": 15,
@@ -313,7 +272,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 30,
                 "water": 20,
@@ -322,7 +280,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 25,
                 "water": 10,
@@ -331,7 +288,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 25,
                 "water": 10,
@@ -340,7 +296,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 30,
                 "water": 25,
@@ -351,11 +306,9 @@
         ]
     },
     {
-        "id": 18,
         "monster": "Hermitaur",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 30,
                 "water": 5,
@@ -366,11 +319,9 @@
         ]
     },
     {
-        "id": 19,
         "monster": "Ceanataur",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 5,
                 "water": 5,
@@ -381,11 +332,9 @@
         ]
     },
     {
-        "id": 20,
         "monster": "Bullfango",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 50,
                 "water": 50,
@@ -396,11 +345,9 @@
         ]
     },
     {
-        "id": 21,
         "monster": "Conga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 30,
                 "water": 10,
@@ -409,7 +356,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "other",
                 "fire": 25,
                 "water": 10,
@@ -420,11 +366,9 @@
         ]
     },
     {
-        "id": 22,
         "monster": "Blango",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 55,
                 "water": 5,
@@ -433,7 +377,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "other",
                 "fire": 45,
                 "water": 5,
@@ -444,11 +387,9 @@
         ]
     },
     {
-        "id": 23,
         "monster": "King Shakalaka",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 5,
                 "water": 10,
@@ -459,11 +400,9 @@
         ]
     },
     {
-        "id": 24,
         "monster": "Vespoid Queen",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 60,
                 "water": 40,
@@ -474,11 +413,9 @@
         ]
     },
     {
-        "id": 25,
         "monster": "Giadrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 60,
                 "water": 30,
@@ -489,11 +426,9 @@
         ]
     },
     {
-        "id": 26,
         "monster": "Velocidrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 50,
                 "water": 50,
@@ -504,11 +439,9 @@
         ]
     },
     {
-        "id": 27,
         "monster": "Gendrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 35,
                 "water": 10,
@@ -519,11 +452,9 @@
         ]
     },
     {
-        "id": 28,
         "monster": "Iodrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 20,
                 "water": 30,
@@ -534,11 +465,9 @@
         ]
     },
     {
-        "id": 29,
         "monster": "Yian Kut-Ku",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 10,
                 "water": 30,
@@ -547,7 +476,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 10,
                 "water": 80,
@@ -556,7 +484,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 10,
                 "water": 20,
@@ -565,7 +492,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 10,
                 "water": 20,
@@ -574,7 +500,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 10,
                 "water": 20,
@@ -583,7 +508,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 10,
                 "water": 10,
@@ -592,7 +516,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 5,
                 "water": 5,
@@ -603,11 +526,9 @@
         ]
     },
     {
-        "id": 30,
         "monster": "Blue Yian Kut-Ku",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 10,
                 "water": 30,
@@ -616,7 +537,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 10,
                 "water": 80,
@@ -625,7 +545,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 10,
                 "water": 20,
@@ -634,7 +553,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 10,
                 "water": 20,
@@ -643,7 +561,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 10,
                 "water": 20,
@@ -652,7 +569,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 10,
                 "water": 10,
@@ -661,7 +577,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 5,
                 "water": 5,
@@ -672,11 +587,9 @@
         ]
     },
     {
-        "id": 31,
         "monster": "Scarred Yian Garuga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 20,
@@ -685,7 +598,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 30,
@@ -694,7 +606,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 5,
                 "water": 70,
@@ -703,7 +614,6 @@
                 "dragon": 15
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 15,
                 "water": 40,
@@ -712,7 +622,6 @@
                 "dragon": 30
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 5,
                 "water": 30,
@@ -721,7 +630,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 0,
                 "water": 20,
@@ -730,7 +638,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 0,
                 "water": 15,
@@ -741,11 +648,9 @@
         ]
     },
     {
-        "id": 32,
         "monster": "Yian Garuga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 20,
@@ -754,7 +659,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 30,
@@ -763,7 +667,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 5,
                 "water": 70,
@@ -772,7 +675,6 @@
                 "dragon": 15
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 15,
                 "water": 40,
@@ -781,7 +683,6 @@
                 "dragon": 30
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 5,
                 "water": 30,
@@ -790,7 +691,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 0,
                 "water": 20,
@@ -799,7 +699,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 0,
                 "water": 15,
@@ -810,11 +709,9 @@
         ]
     },
     {
-        "id": 33,
         "monster": "Gypceros",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 50,
                 "water": 20,
@@ -823,7 +720,6 @@
                 "dragon": 10
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 30,
                 "water": 10,
@@ -832,7 +728,6 @@
                 "dragon": 10
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 20,
                 "water": 10,
@@ -841,7 +736,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 30,
                 "water": 10,
@@ -850,7 +744,6 @@
                 "dragon": 10
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 30,
                 "water": 10,
@@ -859,7 +752,6 @@
                 "dragon": 10
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 30,
                 "water": 20,
@@ -868,7 +760,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 10,
                 "water": 10,
@@ -879,11 +770,9 @@
         ]
     },
     {
-        "id": 34,
         "monster": "Purple Gypceros",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 50,
                 "water": 20,
@@ -892,7 +781,6 @@
                 "dragon": 10
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 30,
                 "water": 10,
@@ -901,7 +789,6 @@
                 "dragon": 10
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 20,
                 "water": 10,
@@ -910,7 +797,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 30,
                 "water": 10,
@@ -919,7 +805,6 @@
                 "dragon": 10
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 30,
                 "water": 10,
@@ -928,7 +813,6 @@
                 "dragon": 10
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 30,
                 "water": 20,
@@ -937,7 +821,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 10,
                 "water": 10,
@@ -948,11 +831,9 @@
         ]
     },
     {
-        "id": 35,
         "monster": "Hypnocatrice",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 20,
                 "water": 5,
@@ -961,7 +842,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 10,
                 "water": 10,
@@ -970,7 +850,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 15,
                 "water": 5,
@@ -979,7 +858,6 @@
                 "dragon": 5
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 25,
                 "water": 5,
@@ -988,7 +866,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 10,
                 "water": 5,
@@ -997,7 +874,6 @@
                 "dragon": 5
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 15,
                 "water": 10,
@@ -1006,7 +882,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 5,
                 "water": 5,
@@ -1017,11 +892,9 @@
         ]
     },
     {
-        "id": 36,
         "monster": "Rathian",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -1030,7 +903,6 @@
                 "dragon": 35
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 10,
@@ -1039,7 +911,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 5,
@@ -1048,7 +919,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 10,
                 "water": 10,
@@ -1057,7 +927,6 @@
                 "dragon": 25
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 0,
                 "water": 10,
@@ -1066,7 +935,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 0,
                 "water": 5,
@@ -1075,7 +943,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -1086,11 +953,9 @@
         ]
     },
     {
-        "id": 37,
         "monster": "Pink Rathian",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -1099,7 +964,6 @@
                 "dragon": 35
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 10,
@@ -1108,7 +972,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 5,
@@ -1117,7 +980,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 10,
                 "water": 10,
@@ -1126,7 +988,6 @@
                 "dragon": 25
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 0,
                 "water": 10,
@@ -1135,7 +996,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 0,
                 "water": 5,
@@ -1144,7 +1004,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -1155,11 +1014,9 @@
         ]
     },
     {
-        "id": 38,
         "monster": "Gold Rathian",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -1168,7 +1025,6 @@
                 "dragon": 35
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 10,
@@ -1177,7 +1033,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 5,
@@ -1186,7 +1041,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 10,
                 "water": 10,
@@ -1195,7 +1049,6 @@
                 "dragon": 25
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 0,
                 "water": 10,
@@ -1204,7 +1057,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 0,
                 "water": 5,
@@ -1213,7 +1065,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -1224,11 +1075,9 @@
         ]
     },
     {
-        "id": 39,
         "monster": "Rathalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 30,
@@ -1237,7 +1086,6 @@
                 "dragon": 30
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 20,
@@ -1246,7 +1094,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 15,
@@ -1255,7 +1102,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 15,
                 "water": 20,
@@ -1264,7 +1110,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 0,
                 "water": 30,
@@ -1273,7 +1118,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 0,
                 "water": 10,
@@ -1282,7 +1126,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 10,
@@ -1293,11 +1136,9 @@
         ]
     },
     {
-        "id": 40,
         "monster": "Azure Rathalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -1306,7 +1147,6 @@
                 "dragon": 30
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 10,
@@ -1315,7 +1155,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 15,
@@ -1324,7 +1163,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 10,
                 "water": 15,
@@ -1333,7 +1171,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 0,
                 "water": 15,
@@ -1342,7 +1179,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 0,
                 "water": 5,
@@ -1351,7 +1187,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -1362,11 +1197,9 @@
         ]
     },
     {
-        "id": 41,
         "monster": "Silver Rathalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 30,
@@ -1375,7 +1208,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 20,
@@ -1384,7 +1216,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 15,
@@ -1393,7 +1224,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 5,
                 "water": 20,
@@ -1402,7 +1232,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 0,
                 "water": 20,
@@ -1411,7 +1240,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 0,
                 "water": 20,
@@ -1420,7 +1248,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 10,
@@ -1431,11 +1258,9 @@
         ]
     },
     {
-        "id": 42,
         "monster": "Khezu",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 40,
                 "water": 5,
@@ -1444,7 +1269,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 30,
                 "water": 5,
@@ -1453,7 +1277,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 30,
                 "water": 5,
@@ -1462,7 +1285,6 @@
                 "dragon": 5
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 30,
                 "water": 5,
@@ -1471,7 +1293,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 20,
                 "water": 5,
@@ -1480,7 +1301,6 @@
                 "dragon": 5
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 15,
                 "water": 5,
@@ -1489,7 +1309,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 20,
                 "water": 5,
@@ -1500,11 +1319,9 @@
         ]
     },
     {
-        "id": 43,
         "monster": "Red Khezu",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 5,
                 "water": 40,
@@ -1513,7 +1330,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 5,
                 "water": 30,
@@ -1522,7 +1338,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 5,
                 "water": 30,
@@ -1531,7 +1346,6 @@
                 "dragon": 5
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 5,
                 "water": 30,
@@ -1540,7 +1354,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 5,
                 "water": 20,
@@ -1549,7 +1362,6 @@
                 "dragon": 5
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 5,
                 "water": 15,
@@ -1558,7 +1370,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 5,
                 "water": 20,
@@ -1569,11 +1380,9 @@
         ]
     },
     {
-        "id": 44,
         "monster": "Basarios",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 10,
                 "water": 15,
@@ -1582,7 +1391,6 @@
                 "dragon": 18
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 10,
                 "water": 15,
@@ -1591,7 +1399,6 @@
                 "dragon": 18
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 10,
                 "water": 15,
@@ -1600,7 +1407,6 @@
                 "dragon": 18
             },
             {
-                "id": 3,
                 "part": "stomach-pre-break",
                 "fire": 10,
                 "water": 20,
@@ -1609,7 +1415,6 @@
                 "dragon": 18
             },
             {
-                "id": 4,
                 "part": "stomach-post-break",
                 "fire": 25,
                 "water": 35,
@@ -1618,7 +1423,6 @@
                 "dragon": 33
             },
             {
-                "id": 5,
                 "part": "tail",
                 "fire": 10,
                 "water": 15,
@@ -1627,7 +1431,6 @@
                 "dragon": 18
             },
             {
-                "id": 6,
                 "part": "wings",
                 "fire": 10,
                 "water": 15,
@@ -1636,7 +1439,6 @@
                 "dragon": 18
             },
             {
-                "id": 7,
                 "part": "feet",
                 "fire": 10,
                 "water": 10,
@@ -1647,11 +1449,9 @@
         ]
     },
     {
-        "id": 45,
         "monster": "Gravios",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -1660,7 +1460,6 @@
                 "dragon": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 30,
@@ -1669,7 +1468,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 0,
                 "water": 25,
@@ -1678,7 +1476,6 @@
                 "dragon": 15
             },
             {
-                "id": 3,
                 "part": "stomach-pre-break",
                 "fire": 0,
                 "water": 35,
@@ -1687,7 +1484,6 @@
                 "dragon": 35
             },
             {
-                "id": 4,
                 "part": "stomach-post-break",
                 "fire": 15,
                 "water": 50,
@@ -1696,7 +1492,6 @@
                 "dragon": 50
             },
             {
-                "id": 5,
                 "part": "tail",
                 "fire": 0,
                 "water": 30,
@@ -1705,7 +1500,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "wings",
                 "fire": 0,
                 "water": 20,
@@ -1714,7 +1508,6 @@
                 "dragon": 15
             },
             {
-                "id": 7,
                 "part": "feet",
                 "fire": 0,
                 "water": 30,
@@ -1725,11 +1518,9 @@
         ]
     },
     {
-        "id": 46,
         "monster": "Black Gravios",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -1738,7 +1529,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 30,
@@ -1747,7 +1537,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 0,
                 "water": 25,
@@ -1756,7 +1545,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "stomach-pre-break",
                 "fire": 0,
                 "water": 40,
@@ -1765,7 +1553,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "stomach-post-break",
                 "fire": 10,
                 "water": 90,
@@ -1774,7 +1561,6 @@
                 "dragon": 30
             },
             {
-                "id": 5,
                 "part": "tail",
                 "fire": 0,
                 "water": 30,
@@ -1783,7 +1569,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "wings",
                 "fire": 0,
                 "water": 20,
@@ -1792,7 +1577,6 @@
                 "dragon": 0
             },
             {
-                "id": 7,
                 "part": "feet",
                 "fire": 0,
                 "water": 30,
@@ -1803,11 +1587,9 @@
         ]
     },
     {
-        "id": 47,
         "monster": "Monoblos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 5,
                 "water": 0,
@@ -1816,7 +1598,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 10,
                 "water": 0,
@@ -1825,7 +1606,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 5,
                 "water": 0,
@@ -1834,7 +1614,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 5,
                 "water": 0,
@@ -1843,7 +1622,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 10,
                 "water": 0,
@@ -1852,7 +1630,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 10,
                 "water": 0,
@@ -1861,7 +1638,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 20,
                 "water": 0,
@@ -1872,11 +1648,9 @@
         ]
     },
     {
-        "id": 48,
         "monster": "White Monoblos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 5,
                 "water": 0,
@@ -1885,7 +1659,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 10,
                 "water": 0,
@@ -1894,7 +1667,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 5,
                 "water": 0,
@@ -1903,7 +1675,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 5,
                 "water": 0,
@@ -1912,7 +1683,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 10,
                 "water": 0,
@@ -1921,7 +1691,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 10,
                 "water": 0,
@@ -1930,7 +1699,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 20,
                 "water": 0,
@@ -1941,11 +1709,9 @@
         ]
     },
     {
-        "id": 49,
         "monster": "Diablos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -1954,7 +1720,6 @@
                 "dragon": 15
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 10,
@@ -1963,7 +1728,6 @@
                 "dragon": 15
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 10,
                 "water": 15,
@@ -1972,7 +1736,6 @@
                 "dragon": 15
             },
             {
-                "id": 3,
                 "part": "wings",
                 "fire": 10,
                 "water": 15,
@@ -1981,7 +1744,6 @@
                 "dragon": 15
             },
             {
-                "id": 4,
                 "part": "stomach",
                 "fire": 0,
                 "water": 10,
@@ -1990,7 +1752,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "tail",
                 "fire": 0,
                 "water": 10,
@@ -1999,7 +1760,6 @@
                 "dragon": 15
             },
             {
-                "id": 6,
                 "part": "wings membrane",
                 "fire": 0,
                 "water": 10,
@@ -2008,7 +1768,6 @@
                 "dragon": 15
             },
             {
-                "id": 7,
                 "part": "feet",
                 "fire": 0,
                 "water": 5,
@@ -2019,11 +1778,9 @@
         ]
     },
     {
-        "id": 50,
         "monster": "Black Diablos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -2032,7 +1789,6 @@
                 "dragon": 15
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 10,
@@ -2041,7 +1797,6 @@
                 "dragon": 15
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 10,
                 "water": 15,
@@ -2050,7 +1805,6 @@
                 "dragon": 15
             },
             {
-                "id": 3,
                 "part": "wings",
                 "fire": 10,
                 "water": 15,
@@ -2059,7 +1813,6 @@
                 "dragon": 15
             },
             {
-                "id": 4,
                 "part": "stomach",
                 "fire": 0,
                 "water": 10,
@@ -2068,7 +1821,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "tail",
                 "fire": 0,
                 "water": 10,
@@ -2077,7 +1829,6 @@
                 "dragon": 15
             },
             {
-                "id": 6,
                 "part": "wings membrane",
                 "fire": 0,
                 "water": 10,
@@ -2086,7 +1837,6 @@
                 "dragon": 15
             },
             {
-                "id": 7,
                 "part": "feet",
                 "fire": 0,
                 "water": 5,
@@ -2097,11 +1847,9 @@
         ]
     },
     {
-        "id": 51,
         "monster": "Tigrex",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -2110,7 +1858,6 @@
                 "dragon": 20
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 10,
@@ -2119,7 +1866,6 @@
                 "dragon": 15
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 15,
                 "water": 15,
@@ -2128,7 +1874,6 @@
                 "dragon": 15
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 0,
                 "water": 15,
@@ -2137,7 +1882,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -2146,7 +1890,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 15,
@@ -2155,7 +1898,6 @@
                 "dragon": 15
             },
             {
-                "id": 6,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 5,
@@ -2164,7 +1906,6 @@
                 "dragon": 5
             },
             {
-                "id": 7,
                 "part": "head-enraged",
                 "fire": 0,
                 "water": 15,
@@ -2173,7 +1914,6 @@
                 "dragon": 20
             },
             {
-                "id": 8,
                 "part": "neck-enraged",
                 "fire": 0,
                 "water": 10,
@@ -2182,7 +1922,6 @@
                 "dragon": 15
             },
             {
-                "id": 9,
                 "part": "stomach-enraged",
                 "fire": 15,
                 "water": 15,
@@ -2191,7 +1930,6 @@
                 "dragon": 15
             },
             {
-                "id": 10,
                 "part": "back-enraged",
                 "fire": 0,
                 "water": 15,
@@ -2200,7 +1938,6 @@
                 "dragon": 5
             },
             {
-                "id": 11,
                 "part": "tail-enraged",
                 "fire": 0,
                 "water": 5,
@@ -2209,7 +1946,6 @@
                 "dragon": 15
             },
             {
-                "id": 12,
                 "part": "frontlegs-enraged",
                 "fire": 0,
                 "water": 15,
@@ -2218,7 +1954,6 @@
                 "dragon": 15
             },
             {
-                "id": 13,
                 "part": "hindlegs-enraged",
                 "fire": 0,
                 "water": 5,
@@ -2229,11 +1964,9 @@
         ]
     },
     {
-        "id": 52,
         "monster": "Nargacuga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 35,
                 "water": 10,
@@ -2242,7 +1975,6 @@
                 "dragon": 15
             },
             {
-                "id": 1,
                 "part": "head-enraged",
                 "fire": 35,
                 "water": 10,
@@ -2251,7 +1983,6 @@
                 "dragon": 15
             },
             {
-                "id": 2,
                 "part": "neck",
                 "fire": 25,
                 "water": 5,
@@ -2260,7 +1991,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 20,
                 "water": 0,
@@ -2269,7 +1999,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "back",
                 "fire": 30,
                 "water": 5,
@@ -2278,7 +2007,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "tail",
                 "fire": 25,
                 "water": 0,
@@ -2287,7 +2015,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "forelegs",
                 "fire": 20,
                 "water": 5,
@@ -2296,7 +2023,6 @@
                 "dragon": 10
             },
             {
-                "id": 7,
                 "part": "hindlegs",
                 "fire": 15,
                 "water": 0,
@@ -2307,11 +2033,9 @@
         ]
     },
     {
-        "id": 53,
         "monster": "Akantor",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 5,
@@ -2320,7 +2044,6 @@
                 "dragon": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 5,
@@ -2329,7 +2052,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 5,
@@ -2338,7 +2060,6 @@
                 "dragon": 20
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 10,
                 "water": 5,
@@ -2347,7 +2068,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -2356,7 +2076,6 @@
                 "dragon": 40
             },
             {
-                "id": 5,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 5,
@@ -2365,7 +2084,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 5,
@@ -2374,7 +2092,6 @@
                 "dragon": 30
             },
             {
-                "id": 7,
                 "part": "head-brokenstomach",
                 "fire": 0,
                 "water": 20,
@@ -2383,7 +2100,6 @@
                 "dragon": 20
             },
             {
-                "id": 8,
                 "part": "neck-brokenstomach",
                 "fire": 0,
                 "water": 15,
@@ -2392,7 +2108,6 @@
                 "dragon": 10
             },
             {
-                "id": 9,
                 "part": "stomach-brokenstomach",
                 "fire": 15,
                 "water": 25,
@@ -2401,7 +2116,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "back-brokenstomach",
                 "fire": 0,
                 "water": 15,
@@ -2410,7 +2124,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "tail-brokenstomach",
                 "fire": 0,
                 "water": 10,
@@ -2419,7 +2132,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "forelegs-brokenstomach",
                 "fire": 0,
                 "water": 10,
@@ -2428,7 +2140,6 @@
                 "dragon": 15
             },
             {
-                "id": 13,
                 "part": "hindlegs-brokenstomach",
                 "fire": 0,
                 "water": 10,
@@ -2439,11 +2150,9 @@
         ]
     },
     {
-        "id": 54,
         "monster": "Ukanlos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 30,
                 "water": 5,
@@ -2452,7 +2161,6 @@
                 "dragon": 20
             },
             {
-                "id": 1,
                 "part": "back",
                 "fire": 20,
                 "water": 5,
@@ -2461,7 +2169,6 @@
                 "dragon": 10
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 20,
                 "water": 5,
@@ -2470,7 +2177,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "forelegs",
                 "fire": 20,
                 "water": 5,
@@ -2479,7 +2185,6 @@
                 "dragon": 10
             },
             {
-                "id": 4,
                 "part": "hindlegs",
                 "fire": 35,
                 "water": 5,
@@ -2488,7 +2193,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "waist",
                 "fire": 20,
                 "water": 5,
@@ -2497,7 +2201,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 30,
                 "water": 5,
@@ -2506,7 +2209,6 @@
                 "dragon": 15
             },
             {
-                "id": 7,
                 "part": "head-brokenstomach",
                 "fire": 30,
                 "water": 5,
@@ -2515,7 +2217,6 @@
                 "dragon": 15
             },
             {
-                "id": 8,
                 "part": "back-brokenstomach",
                 "fire": 20,
                 "water": 5,
@@ -2524,7 +2225,6 @@
                 "dragon": 10
             },
             {
-                "id": 9,
                 "part": "stomach-brokenstomach",
                 "fire": 20,
                 "water": 5,
@@ -2533,7 +2233,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "forelegs-brokenstomach",
                 "fire": 20,
                 "water": 5,
@@ -2542,7 +2241,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "hindlegs-brokenstomach",
                 "fire": 40,
                 "water": 5,
@@ -2551,7 +2249,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "waist-brokenstomach",
                 "fire": 25,
                 "water": 5,
@@ -2560,7 +2257,6 @@
                 "dragon": 10
             },
             {
-                "id": 13,
                 "part": "tail-brokenstomach",
                 "fire": 30,
                 "water": 5,
@@ -2571,11 +2267,9 @@
         ]
     },
     {
-        "id": 55,
         "monster": "Cephadrome",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 10,
@@ -2584,7 +2278,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 5,
                 "water": 10,
@@ -2593,7 +2286,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 0,
                 "water": 15,
@@ -2602,7 +2294,6 @@
                 "dragon": 5
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 0,
                 "water": 12,
@@ -2611,7 +2302,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 0,
                 "water": 10,
@@ -2620,7 +2310,6 @@
                 "dragon": 5
             },
             {
-                "id": 5,
                 "part": "feet",
                 "fire": 0,
                 "water": 15,
@@ -2629,7 +2318,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 10,
@@ -2640,11 +2328,9 @@
         ]
     },
     {
-        "id": 56,
         "monster": "Plesioth",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 25,
                 "water": 0,
@@ -2653,7 +2339,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 30,
                 "water": 0,
@@ -2662,7 +2347,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 20,
                 "water": 0,
@@ -2671,7 +2355,6 @@
                 "dragon": 5
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 35,
                 "water": 0,
@@ -2680,7 +2363,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 30,
                 "water": 0,
@@ -2689,7 +2371,6 @@
                 "dragon": 5
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 20,
                 "water": 0,
@@ -2698,7 +2379,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 10,
                 "water": 0,
@@ -2709,11 +2389,9 @@
         ]
     },
     {
-        "id": 57,
         "monster": "Green Plesioth",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 25,
                 "water": 0,
@@ -2722,7 +2400,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 30,
                 "water": 0,
@@ -2731,7 +2408,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 20,
                 "water": 0,
@@ -2740,7 +2416,6 @@
                 "dragon": 5
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 35,
                 "water": 0,
@@ -2749,7 +2424,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 30,
                 "water": 0,
@@ -2758,7 +2432,6 @@
                 "dragon": 5
             },
             {
-                "id": 5,
                 "part": "wings",
                 "fire": 20,
                 "water": 0,
@@ -2767,7 +2440,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 10,
                 "water": 0,
@@ -2778,11 +2450,9 @@
         ]
     },
     {
-        "id": 58,
         "monster": "Lavasioth",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 25,
@@ -2791,7 +2461,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 0,
                 "water": 25,
@@ -2800,7 +2469,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 0,
                 "water": 20,
@@ -2809,7 +2477,6 @@
                 "dragon": 5
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "fire": 0,
                 "water": 30,
@@ -2818,7 +2485,6 @@
                 "dragon": 5
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 0,
                 "water": 20,
@@ -2827,7 +2493,6 @@
                 "dragon": 5
             },
             {
-                "id": 5,
                 "part": "fin",
                 "fire": 0,
                 "water": 20,
@@ -2836,7 +2501,6 @@
                 "dragon": 5
             },
             {
-                "id": 6,
                 "part": "feet",
                 "fire": 0,
                 "water": 20,
@@ -2847,11 +2511,9 @@
         ]
     },
     {
-        "id": 59,
         "monster": "Daimyo Hermitaur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 30,
                 "water": 10,
@@ -2860,7 +2522,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 15,
                 "water": 5,
@@ -2869,7 +2530,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "shell",
                 "fire": 20,
                 "water": 5,
@@ -2878,7 +2538,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "legs",
                 "fire": 15,
                 "water": 5,
@@ -2887,7 +2546,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "claws",
                 "fire": 35,
                 "water": 5,
@@ -2896,7 +2554,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "arms",
                 "fire": 15,
                 "water": 5,
@@ -2905,7 +2562,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "head-guard",
                 "fire": 30,
                 "water": 10,
@@ -2914,7 +2570,6 @@
                 "dragon": 0
             },
             {
-                "id": 7,
                 "part": "body-guard",
                 "fire": 15,
                 "water": 5,
@@ -2923,7 +2578,6 @@
                 "dragon": 0
             },
             {
-                "id": 8,
                 "part": "shell-guard",
                 "fire": 20,
                 "water": 5,
@@ -2932,7 +2586,6 @@
                 "dragon": 0
             },
             {
-                "id": 9,
                 "part": "legs-guard",
                 "fire": 15,
                 "water": 5,
@@ -2941,7 +2594,6 @@
                 "dragon": 0
             },
             {
-                "id": 10,
                 "part": "claws-pre-break-guard",
                 "fire": 35,
                 "water": 5,
@@ -2950,7 +2602,6 @@
                 "dragon": 0
             },
             {
-                "id": 11,
                 "part": "claws-post-break-guard",
                 "fire": 35,
                 "water": 5,
@@ -2959,7 +2610,6 @@
                 "dragon": 0
             },
             {
-                "id": 12,
                 "part": "arms-guard",
                 "fire": 15,
                 "water": 5,
@@ -2970,11 +2620,9 @@
         ]
     },
     {
-        "id": 60,
         "monster": "Plum Daimyo Hermitaur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 20,
                 "water": 10,
@@ -2983,7 +2631,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 10,
                 "water": 5,
@@ -2992,7 +2639,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "shell",
                 "fire": 10,
                 "water": 5,
@@ -3001,7 +2647,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "legs",
                 "fire": 10,
                 "water": 5,
@@ -3010,7 +2655,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "claws",
                 "fire": 10,
                 "water": 5,
@@ -3019,7 +2663,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "arms",
                 "fire": 10,
                 "water": 5,
@@ -3028,7 +2671,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "head-guard",
                 "fire": 20,
                 "water": 10,
@@ -3037,7 +2679,6 @@
                 "dragon": 0
             },
             {
-                "id": 7,
                 "part": "body-guard",
                 "fire": 10,
                 "water": 5,
@@ -3046,7 +2687,6 @@
                 "dragon": 0
             },
             {
-                "id": 8,
                 "part": "shell-guard",
                 "fire": 10,
                 "water": 5,
@@ -3055,7 +2695,6 @@
                 "dragon": 0
             },
             {
-                "id": 9,
                 "part": "legs-guard",
                 "fire": 10,
                 "water": 5,
@@ -3064,7 +2703,6 @@
                 "dragon": 0
             },
             {
-                "id": 10,
                 "part": "claws-pre-break-guard",
                 "fire": 10,
                 "water": 5,
@@ -3073,7 +2711,6 @@
                 "dragon": 0
             },
             {
-                "id": 11,
                 "part": "claws-post-break-guard",
                 "fire": 10,
                 "water": 5,
@@ -3082,7 +2719,6 @@
                 "dragon": 0
             },
             {
-                "id": 12,
                 "part": "arms-guard",
                 "fire": 10,
                 "water": 5,
@@ -3093,11 +2729,9 @@
         ]
     },
     {
-        "id": 61,
         "monster": "Shogun Ceanataur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 10,
                 "water": 10,
@@ -3106,7 +2740,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 5,
                 "water": 5,
@@ -3115,7 +2748,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "shell",
                 "fire": 0,
                 "water": 40,
@@ -3124,7 +2756,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "legs",
                 "fire": 5,
                 "water": 5,
@@ -3133,7 +2764,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "clawss",
                 "fire": 5,
                 "water": 5,
@@ -3142,7 +2772,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "arms",
                 "fire": 5,
                 "water": 5,
@@ -3151,7 +2780,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "head-brokenshell",
                 "fire": 10,
                 "water": 10,
@@ -3160,7 +2788,6 @@
                 "dragon": 0
             },
             {
-                "id": 7,
                 "part": "body-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3169,7 +2796,6 @@
                 "dragon": 0
             },
             {
-                "id": 8,
                 "part": "shell-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3178,7 +2804,6 @@
                 "dragon": 0
             },
             {
-                "id": 9,
                 "part": "legs-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3187,7 +2812,6 @@
                 "dragon": 0
             },
             {
-                "id": 10,
                 "part": "claws-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3196,7 +2820,6 @@
                 "dragon": 0
             },
             {
-                "id": 11,
                 "part": "arms-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3207,11 +2830,9 @@
         ]
     },
     {
-        "id": 62,
         "monster": "Terra Shogun Ceanataur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 10,
                 "water": 10,
@@ -3220,7 +2841,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 5,
                 "water": 5,
@@ -3229,7 +2849,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "shell",
                 "fire": 0,
                 "water": 40,
@@ -3238,7 +2857,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "legs",
                 "fire": 5,
                 "water": 5,
@@ -3247,7 +2865,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "claws",
                 "fire": 5,
                 "water": 5,
@@ -3256,7 +2873,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "arms",
                 "fire": 5,
                 "water": 5,
@@ -3265,7 +2881,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "head-brokenshell",
                 "fire": 10,
                 "water": 10,
@@ -3274,7 +2889,6 @@
                 "dragon": 0
             },
             {
-                "id": 7,
                 "part": "body-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3283,7 +2897,6 @@
                 "dragon": 0
             },
             {
-                "id": 8,
                 "part": "shell-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3292,7 +2905,6 @@
                 "dragon": 0
             },
             {
-                "id": 9,
                 "part": "legs-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3301,7 +2913,6 @@
                 "dragon": 0
             },
             {
-                "id": 10,
                 "part": "claws-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3310,7 +2921,6 @@
                 "dragon": 0
             },
             {
-                "id": 11,
                 "part": "arms-brokenshell",
                 "fire": 5,
                 "water": 5,
@@ -3321,11 +2931,9 @@
         ]
     },
     {
-        "id": 63,
         "monster": "Shen Gaoren",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 20,
                 "water": 5,
@@ -3334,7 +2942,6 @@
                 "dragon": 20
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 15,
                 "water": 5,
@@ -3343,7 +2950,6 @@
                 "dragon": 30
             },
             {
-                "id": 2,
                 "part": "shell",
                 "fire": 20,
                 "water": 5,
@@ -3352,7 +2958,6 @@
                 "dragon": 20
             },
             {
-                "id": 3,
                 "part": "legs",
                 "fire": 20,
                 "water": 5,
@@ -3361,7 +2966,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "claws",
                 "fire": 20,
                 "water": 5,
@@ -3370,7 +2974,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "arms",
                 "fire": 20,
                 "water": 5,
@@ -3379,7 +2982,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "inside-shell",
                 "fire": 20,
                 "water": 5,
@@ -3390,11 +2992,9 @@
         ]
     },
     {
-        "id": 64,
         "monster": "Bulldrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "fire": 50,
                 "water": 50,
@@ -3405,11 +3005,9 @@
         ]
     },
     {
-        "id": 65,
         "monster": "Congalala",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 30,
                 "water": 10,
@@ -3418,7 +3016,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 18,
                 "water": 10,
@@ -3427,7 +3024,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "fire": 15,
                 "water": 10,
@@ -3436,7 +3032,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "fire": 15,
                 "water": 10,
@@ -3445,7 +3040,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 15,
                 "water": 10,
@@ -3454,7 +3048,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "head-guard",
                 "fire": 30,
                 "water": 10,
@@ -3463,7 +3056,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "body-guard",
                 "fire": 18,
                 "water": 0,
@@ -3472,7 +3064,6 @@
                 "dragon": 0
             },
             {
-                "id": 7,
                 "part": "forelegs-guard",
                 "fire": 15,
                 "water": 10,
@@ -3481,7 +3072,6 @@
                 "dragon": 0
             },
             {
-                "id": 8,
                 "part": "hindlegs-guard",
                 "fire": 15,
                 "water": 10,
@@ -3490,7 +3080,6 @@
                 "dragon": 0
             },
             {
-                "id": 9,
                 "part": "tail-guard",
                 "fire": 15,
                 "water": 10,
@@ -3501,11 +3090,9 @@
         ]
     },
     {
-        "id": 66,
         "monster": "Emerald Congalala",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 5,
                 "water": 10,
@@ -3514,7 +3101,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 5,
                 "water": 10,
@@ -3523,7 +3109,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "fire": 5,
                 "water": 10,
@@ -3532,7 +3117,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "fire": 5,
                 "water": 10,
@@ -3541,7 +3125,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 5,
                 "water": 10,
@@ -3550,7 +3133,6 @@
                 "dragon": 0
             },
             {
-                "id": 5,
                 "part": "head-guard",
                 "fire": 5,
                 "water": 10,
@@ -3559,7 +3141,6 @@
                 "dragon": 0
             },
             {
-                "id": 6,
                 "part": "body-guard",
                 "fire": 0,
                 "water": 10,
@@ -3568,7 +3149,6 @@
                 "dragon": 0
             },
             {
-                "id": 7,
                 "part": "forelegs-guard",
                 "fire": 5,
                 "water": 10,
@@ -3577,7 +3157,6 @@
                 "dragon": 0
             },
             {
-                "id": 8,
                 "part": "hindlegs-guard",
                 "fire": 5,
                 "water": 10,
@@ -3586,7 +3165,6 @@
                 "dragon": 0
             },
             {
-                "id": 9,
                 "part": "tail-guard",
                 "fire": 5,
                 "water": 10,
@@ -3597,11 +3175,9 @@
         ]
     },
     {
-        "id": 67,
         "monster": "Blangonga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 30,
                 "water": 5,
@@ -3610,7 +3186,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 20,
                 "water": 5,
@@ -3619,7 +3194,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "fire": 15,
                 "water": 5,
@@ -3628,7 +3202,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "fire": 15,
                 "water": 5,
@@ -3637,7 +3210,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 15,
                 "water": 5,
@@ -3648,11 +3220,9 @@
         ]
     },
     {
-        "id": 68,
         "monster": "Copper Blangonga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 15,
@@ -3661,7 +3231,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 0,
                 "water": 15,
@@ -3670,7 +3239,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 15,
@@ -3679,7 +3247,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 15,
@@ -3688,7 +3255,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 0,
                 "water": 15,
@@ -3699,11 +3265,9 @@
         ]
     },
     {
-        "id": 69,
         "monster": "Rajang",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 5,
                 "water": 5,
@@ -3712,7 +3276,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 0,
                 "water": 5,
@@ -3721,7 +3284,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 5,
@@ -3730,7 +3292,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 5,
@@ -3739,7 +3300,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -3750,11 +3310,9 @@
         ]
     },
     {
-        "id": 70,
         "monster": "Furious Rajang",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 5,
                 "water": 5,
@@ -3763,7 +3321,6 @@
                 "dragon": 0
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 0,
                 "water": 5,
@@ -3772,7 +3329,6 @@
                 "dragon": 0
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 5,
@@ -3781,7 +3337,6 @@
                 "dragon": 0
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 5,
@@ -3790,7 +3345,6 @@
                 "dragon": 0
             },
             {
-                "id": 4,
                 "part": "tail",
                 "fire": 0,
                 "water": 5,
@@ -3801,11 +3355,9 @@
         ]
     },
     {
-        "id": 71,
         "monster": "Kirin",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 15,
                 "water": 15,
@@ -3814,7 +3366,6 @@
                 "dragon": 5
             },
             {
-                "id": 1,
                 "part": "body",
                 "fire": 10,
                 "water": 10,
@@ -3823,7 +3374,6 @@
                 "dragon": 5
             },
             {
-                "id": 2,
                 "part": "horn",
                 "fire": 5,
                 "water": 5,
@@ -3834,11 +3384,9 @@
         ]
     },
     {
-        "id": 72,
         "monster": "Kushala Daora",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 10,
                 "water": 5,
@@ -3847,7 +3395,6 @@
                 "dragon": 35
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "fire": 10,
                 "water": 5,
@@ -3856,7 +3403,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 10,
                 "water": 5,
@@ -3865,7 +3411,6 @@
                 "dragon": 20
             },
             {
-                "id": 3,
                 "part": "wings",
                 "fire": 10,
                 "water": 5,
@@ -3874,7 +3419,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "fire": 10,
                 "water": 5,
@@ -3883,7 +3427,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "fire": 10,
                 "water": 5,
@@ -3892,7 +3435,6 @@
                 "dragon": 30
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 10,
                 "water": 5,
@@ -3901,7 +3443,6 @@
                 "dragon": 30
             },
             {
-                "id": 7,
                 "part": "head-windwrap",
                 "fire": 15,
                 "water": 5,
@@ -3910,7 +3451,6 @@
                 "dragon": 40
             },
             {
-                "id": 8,
                 "part": "stomach-windwrap",
                 "fire": 5,
                 "water": 0,
@@ -3919,7 +3459,6 @@
                 "dragon": 10
             },
             {
-                "id": 9,
                 "part": "back-windwrap",
                 "fire": 5,
                 "water": 0,
@@ -3928,7 +3467,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "wings-windwrap",
                 "fire": 5,
                 "water": 0,
@@ -3937,7 +3475,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "forelegs-windwrap",
                 "fire": 5,
                 "water": 0,
@@ -3946,7 +3483,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "hindlegs-windwrap",
                 "fire": 5,
                 "water": 0,
@@ -3955,7 +3491,6 @@
                 "dragon": 10
             },
             {
-                "id": 13,
                 "part": "tail-windwrap",
                 "fire": 5,
                 "water": 0,
@@ -3966,11 +3501,9 @@
         ]
     },
     {
-        "id": 73,
         "monster": "Rusted Kushala Daora",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 5,
                 "water": 35,
@@ -3979,7 +3512,6 @@
                 "dragon": 30
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "fire": 0,
                 "water": 20,
@@ -3988,7 +3520,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 0,
                 "water": 15,
@@ -3997,7 +3528,6 @@
                 "dragon": 15
             },
             {
-                "id": 3,
                 "part": "wings",
                 "fire": 0,
                 "water": 15,
@@ -4006,7 +3536,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 20,
@@ -4015,7 +3544,6 @@
                 "dragon": 20
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 25,
@@ -4024,7 +3552,6 @@
                 "dragon": 30
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 30,
@@ -4033,7 +3560,6 @@
                 "dragon": 25
             },
             {
-                "id": 7,
                 "part": "head-windwrap",
                 "fire": 10,
                 "water": 40,
@@ -4042,7 +3568,6 @@
                 "dragon": 35
             },
             {
-                "id": 8,
                 "part": "stomach-windwrap",
                 "fire": 0,
                 "water": 25,
@@ -4051,7 +3576,6 @@
                 "dragon": 10
             },
             {
-                "id": 9,
                 "part": "back-windwrap",
                 "fire": 0,
                 "water": 20,
@@ -4060,7 +3584,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "wings-windwrap",
                 "fire": 0,
                 "water": 20,
@@ -4069,7 +3592,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "forelegs-windwrap",
                 "fire": 0,
                 "water": 20,
@@ -4078,7 +3600,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "hindlegs-windwrap",
                 "fire": 0,
                 "water": 25,
@@ -4087,7 +3608,6 @@
                 "dragon": 10
             },
             {
-                "id": 13,
                 "part": "tail-windwrap",
                 "fire": 0,
                 "water": 40,
@@ -4098,11 +3618,9 @@
         ]
     },
     {
-        "id": 74,
         "monster": "Chameleos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 35,
                 "water": 0,
@@ -4111,7 +3629,6 @@
                 "dragon": 35
             },
             {
-                "id": 1,
                 "part": "chest",
                 "fire": 35,
                 "water": 0,
@@ -4120,7 +3637,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 35,
                 "water": 0,
@@ -4129,7 +3645,6 @@
                 "dragon": 20
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 25,
                 "water": 0,
@@ -4138,7 +3653,6 @@
                 "dragon": 25
             },
             {
-                "id": 4,
                 "part": "wings",
                 "fire": 10,
                 "water": 0,
@@ -4147,7 +3661,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "forelegs",
                 "fire": 15,
                 "water": 0,
@@ -4156,7 +3669,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "hindlegs",
                 "fire": 25,
                 "water": 0,
@@ -4165,7 +3677,6 @@
                 "dragon": 25
             },
             {
-                "id": 7,
                 "part": "tail",
                 "fire": 10,
                 "water": 0,
@@ -4174,7 +3685,6 @@
                 "dragon": 5
             },
             {
-                "id": 8,
                 "part": "head-hidden",
                 "fire": 35,
                 "water": 0,
@@ -4183,7 +3693,6 @@
                 "dragon": 35
             },
             {
-                "id": 9,
                 "part": "chest-hidden",
                 "fire": 25,
                 "water": 0,
@@ -4192,7 +3701,6 @@
                 "dragon": 20
             },
             {
-                "id": 10,
                 "part": "stomach-hidden",
                 "fire": 25,
                 "water": 0,
@@ -4201,7 +3709,6 @@
                 "dragon": 20
             },
             {
-                "id": 11,
                 "part": "back-hidden",
                 "fire": 15,
                 "water": 0,
@@ -4210,7 +3717,6 @@
                 "dragon": 25
             },
             {
-                "id": 12,
                 "part": "wings-hidden",
                 "fire": 10,
                 "water": 0,
@@ -4219,7 +3725,6 @@
                 "dragon": 15
             },
             {
-                "id": 13,
                 "part": "forelegs-hidden",
                 "fire": 10,
                 "water": 0,
@@ -4228,7 +3733,6 @@
                 "dragon": 10
             },
             {
-                "id": 14,
                 "part": "hindlegs-hidden",
                 "fire": 15,
                 "water": 0,
@@ -4237,7 +3741,6 @@
                 "dragon": 25
             },
             {
-                "id": 15,
                 "part": "tail-hidden",
                 "fire": 10,
                 "water": 0,
@@ -4248,11 +3751,9 @@
         ]
     },
     {
-        "id": 75,
         "monster": "Lunastra",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 10,
@@ -4261,7 +3762,6 @@
                 "dragon": 30
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "fire": 0,
                 "water": 10,
@@ -4270,7 +3770,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 0,
                 "water": 10,
@@ -4279,7 +3778,6 @@
                 "dragon": 20
             },
             {
-                "id": 3,
                 "part": "wings",
                 "fire": 0,
                 "water": 10,
@@ -4288,7 +3786,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 10,
@@ -4297,7 +3794,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 10,
@@ -4306,7 +3802,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 10,
@@ -4315,7 +3810,6 @@
                 "dragon": 35
             },
             {
-                "id": 7,
                 "part": "head-flamewrap",
                 "fire": 0,
                 "water": 10,
@@ -4324,7 +3818,6 @@
                 "dragon": 35
             },
             {
-                "id": 8,
                 "part": "stomach-flamewrap",
                 "fire": 0,
                 "water": 10,
@@ -4333,7 +3826,6 @@
                 "dragon": 10
             },
             {
-                "id": 9,
                 "part": "back-flamewrap",
                 "fire": 0,
                 "water": 10,
@@ -4342,7 +3834,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "wings-flamewrap",
                 "fire": 0,
                 "water": 10,
@@ -4351,7 +3842,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "forelegs-flamewrap",
                 "fire": 0,
                 "water": 10,
@@ -4360,7 +3850,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "hindlegs-flamewrap",
                 "fire": 0,
                 "water": 10,
@@ -4369,7 +3858,6 @@
                 "dragon": 10
             },
             {
-                "id": 13,
                 "part": "tail-flamewrap",
                 "fire": 0,
                 "water": 10,
@@ -4380,11 +3868,9 @@
         ]
     },
     {
-        "id": 76,
         "monster": "Teostra",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 25,
@@ -4393,7 +3879,6 @@
                 "dragon": 30
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "fire": 0,
                 "water": 10,
@@ -4402,7 +3887,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 0,
                 "water": 10,
@@ -4411,7 +3895,6 @@
                 "dragon": 20
             },
             {
-                "id": 3,
                 "part": "wings",
                 "fire": 0,
                 "water": 10,
@@ -4420,7 +3903,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "fire": 0,
                 "water": 10,
@@ -4429,7 +3911,6 @@
                 "dragon": 15
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "fire": 0,
                 "water": 15,
@@ -4438,7 +3919,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "tail",
                 "fire": 0,
                 "water": 25,
@@ -4447,7 +3927,6 @@
                 "dragon": 35
             },
             {
-                "id": 7,
                 "part": "head-flamewrap",
                 "fire": 0,
                 "water": 30,
@@ -4456,7 +3935,6 @@
                 "dragon": 35
             },
             {
-                "id": 8,
                 "part": "stomach-flamewrap",
                 "fire": 0,
                 "water": 15,
@@ -4465,7 +3943,6 @@
                 "dragon": 10
             },
             {
-                "id": 9,
                 "part": "back-flamewrap",
                 "fire": 0,
                 "water": 15,
@@ -4474,7 +3951,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "wings-flamewrap",
                 "fire": 0,
                 "water": 15,
@@ -4483,7 +3959,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "forelegs-flamewrap",
                 "fire": 0,
                 "water": 15,
@@ -4492,7 +3967,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "hindlegs-flamewrap",
                 "fire": 0,
                 "water": 20,
@@ -4501,7 +3975,6 @@
                 "dragon": 10
             },
             {
-                "id": 13,
                 "part": "tail-flamewrap",
                 "fire": 0,
                 "water": 25,
@@ -4512,11 +3985,9 @@
         ]
     },
     {
-        "id": 77,
         "monster": "Lao-Shan Lung",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 20,
                 "water": 5,
@@ -4525,7 +3996,6 @@
                 "dragon": 20
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 20,
                 "water": 5,
@@ -4534,7 +4004,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 20,
                 "water": 5,
@@ -4543,7 +4012,6 @@
                 "dragon": 30
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 20,
                 "water": 5,
@@ -4552,7 +4020,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "internal",
                 "fire": 50,
                 "water": 5,
@@ -4561,7 +4028,6 @@
                 "dragon": 100
             },
             {
-                "id": 5,
                 "part": "shoulder",
                 "fire": 20,
                 "water": 5,
@@ -4570,7 +4036,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "legs",
                 "fire": 20,
                 "water": 5,
@@ -4579,7 +4044,6 @@
                 "dragon": 20
             },
             {
-                "id": 7,
                 "part": "tail",
                 "fire": 20,
                 "water": 5,
@@ -4590,11 +4054,9 @@
         ]
     },
     {
-        "id": 78,
         "monster": "Ashen Lao-Shan Lung",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 20,
                 "water": 5,
@@ -4603,7 +4065,6 @@
                 "dragon": 20
             },
             {
-                "id": 1,
                 "part": "neck",
                 "fire": 20,
                 "water": 5,
@@ -4612,7 +4073,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "fire": 20,
                 "water": 5,
@@ -4621,7 +4081,6 @@
                 "dragon": 30
             },
             {
-                "id": 3,
                 "part": "back",
                 "fire": 20,
                 "water": 5,
@@ -4630,7 +4089,6 @@
                 "dragon": 20
             },
             {
-                "id": 4,
                 "part": "internal",
                 "fire": 50,
                 "water": 5,
@@ -4639,7 +4097,6 @@
                 "dragon": 100
             },
             {
-                "id": 5,
                 "part": "shoulder",
                 "fire": 20,
                 "water": 5,
@@ -4648,7 +4105,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "legs",
                 "fire": 20,
                 "water": 5,
@@ -4657,7 +4113,6 @@
                 "dragon": 20
             },
             {
-                "id": 7,
                 "part": "tail",
                 "fire": 20,
                 "water": 5,
@@ -4668,11 +4123,9 @@
         ]
     },
     {
-        "id": 79,
         "monster": "Yama Tsukami",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "fire": 0,
                 "water": 0,
@@ -4681,7 +4134,6 @@
                 "dragon": 30
             },
             {
-                "id": 1,
                 "part": "eyes",
                 "fire": 5,
                 "water": 0,
@@ -4690,7 +4142,6 @@
                 "dragon": 20
             },
             {
-                "id": 2,
                 "part": "mouth",
                 "fire": 0,
                 "water": 10,
@@ -4699,7 +4150,6 @@
                 "dragon": 50
             },
             {
-                "id": 3,
                 "part": "upper-body",
                 "fire": 0,
                 "water": 0,
@@ -4708,7 +4158,6 @@
                 "dragon": 25
             },
             {
-                "id": 4,
                 "part": "stomach",
                 "fire": 0,
                 "water": 0,
@@ -4717,7 +4166,6 @@
                 "dragon": 30
             },
             {
-                "id": 5,
                 "part": "antennae",
                 "fire": 0,
                 "water": 0,
@@ -4726,7 +4174,6 @@
                 "dragon": 20
             },
             {
-                "id": 6,
                 "part": "tentacles",
                 "fire": 0,
                 "water": 0,
@@ -4737,11 +4184,9 @@
         ]
     },
     {
-        "id": 80,
         "monster": "Fatalis",
         "parts": [
             {
-                "id": 0,
                 "part": "face",
                 "fire": 15,
                 "water": 5,
@@ -4750,7 +4195,6 @@
                 "dragon": 80
             },
             {
-                "id": 1,
                 "part": "head",
                 "fire": 15,
                 "water": 5,
@@ -4759,7 +4203,6 @@
                 "dragon": 50
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 15,
                 "water": 5,
@@ -4768,7 +4211,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "tail",
                 "fire": 15,
                 "water": 5,
@@ -4777,7 +4219,6 @@
                 "dragon": 10
             },
             {
-                "id": 4,
                 "part": "neck",
                 "fire": 15,
                 "water": 5,
@@ -4786,7 +4227,6 @@
                 "dragon": 30
             },
             {
-                "id": 5,
                 "part": "chest",
                 "fire": 15,
                 "water": 5,
@@ -4795,7 +4235,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "wings",
                 "fire": 15,
                 "water": 5,
@@ -4804,7 +4243,6 @@
                 "dragon": 10
             },
             {
-                "id": 7,
                 "part": "stomach",
                 "fire": 15,
                 "water": 5,
@@ -4813,7 +4251,6 @@
                 "dragon": 20
             },
             {
-                "id": 8,
                 "part": "legs",
                 "fire": 15,
                 "water": 5,
@@ -4824,11 +4261,9 @@
         ]
     },
     {
-        "id": 81,
         "monster": "Crimson Fatalis",
         "parts": [
             {
-                "id": 0,
                 "part": "face",
                 "fire": 15,
                 "water": 5,
@@ -4837,7 +4272,6 @@
                 "dragon": 80
             },
             {
-                "id": 1,
                 "part": "head",
                 "fire": 15,
                 "water": 5,
@@ -4846,7 +4280,6 @@
                 "dragon": 50
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 15,
                 "water": 5,
@@ -4855,7 +4288,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "tail",
                 "fire": 15,
                 "water": 5,
@@ -4864,7 +4296,6 @@
                 "dragon": 10
             },
             {
-                "id": 4,
                 "part": "neck",
                 "fire": 15,
                 "water": 5,
@@ -4873,7 +4304,6 @@
                 "dragon": 30
             },
             {
-                "id": 5,
                 "part": "chest",
                 "fire": 15,
                 "water": 5,
@@ -4882,7 +4312,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "wings",
                 "fire": 15,
                 "water": 5,
@@ -4891,7 +4320,6 @@
                 "dragon": 10
             },
             {
-                "id": 7,
                 "part": "stomach",
                 "fire": 15,
                 "water": 5,
@@ -4900,7 +4328,6 @@
                 "dragon": 20
             },
             {
-                "id": 8,
                 "part": "legs",
                 "fire": 15,
                 "water": 5,
@@ -4909,7 +4336,6 @@
                 "dragon": 20
             },
             {
-                "id": 9,
                 "part": "face-harden",
                 "fire": 10,
                 "water": 5,
@@ -4918,7 +4344,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "head-harden",
                 "fire": 10,
                 "water": 5,
@@ -4927,7 +4352,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "back-harden",
                 "fire": 10,
                 "water": 5,
@@ -4936,7 +4360,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "tail-harden",
                 "fire": 10,
                 "water": 5,
@@ -4945,7 +4368,6 @@
                 "dragon": 10
             },
             {
-                "id": 13,
                 "part": "neck-harden",
                 "fire": 10,
                 "water": 5,
@@ -4954,7 +4376,6 @@
                 "dragon": 10
             },
             {
-                "id": 14,
                 "part": "chest-harden",
                 "fire": 10,
                 "water": 5,
@@ -4963,7 +4384,6 @@
                 "dragon": 10
             },
             {
-                "id": 15,
                 "part": "wings-harden",
                 "fire": 10,
                 "water": 5,
@@ -4972,7 +4392,6 @@
                 "dragon": 10
             },
             {
-                "id": 16,
                 "part": "stomach-harden",
                 "fire": 10,
                 "water": 5,
@@ -4981,7 +4400,6 @@
                 "dragon": 10
             },
             {
-                "id": 17,
                 "part": "legs-harden",
                 "fire": 10,
                 "water": 5,
@@ -4992,11 +4410,9 @@
         ]
     },
     {
-        "id": 82,
         "monster": "White Fatalis",
         "parts": [
             {
-                "id": 0,
                 "part": "face",
                 "fire": 15,
                 "water": 5,
@@ -5005,7 +4421,6 @@
                 "dragon": 80
             },
             {
-                "id": 1,
                 "part": "head",
                 "fire": 15,
                 "water": 5,
@@ -5014,7 +4429,6 @@
                 "dragon": 50
             },
             {
-                "id": 2,
                 "part": "back",
                 "fire": 15,
                 "water": 5,
@@ -5023,7 +4437,6 @@
                 "dragon": 10
             },
             {
-                "id": 3,
                 "part": "tail",
                 "fire": 15,
                 "water": 5,
@@ -5032,7 +4445,6 @@
                 "dragon": 10
             },
             {
-                "id": 4,
                 "part": "neck",
                 "fire": 15,
                 "water": 5,
@@ -5041,7 +4453,6 @@
                 "dragon": 30
             },
             {
-                "id": 5,
                 "part": "chest",
                 "fire": 15,
                 "water": 5,
@@ -5050,7 +4461,6 @@
                 "dragon": 10
             },
             {
-                "id": 6,
                 "part": "wings",
                 "fire": 15,
                 "water": 5,
@@ -5059,7 +4469,6 @@
                 "dragon": 10
             },
             {
-                "id": 7,
                 "part": "stomach",
                 "fire": 15,
                 "water": 5,
@@ -5068,7 +4477,6 @@
                 "dragon": 20
             },
             {
-                "id": 8,
                 "part": "legs",
                 "fire": 15,
                 "water": 5,
@@ -5077,7 +4485,6 @@
                 "dragon": 20
             },
             {
-                "id": 9,
                 "part": "face-harden",
                 "fire": 10,
                 "water": 5,
@@ -5086,7 +4493,6 @@
                 "dragon": 10
             },
             {
-                "id": 10,
                 "part": "head-harden",
                 "fire": 10,
                 "water": 5,
@@ -5095,7 +4501,6 @@
                 "dragon": 10
             },
             {
-                "id": 11,
                 "part": "back-harden",
                 "fire": 10,
                 "water": 5,
@@ -5104,7 +4509,6 @@
                 "dragon": 10
             },
             {
-                "id": 12,
                 "part": "tail-harden",
                 "fire": 10,
                 "water": 5,
@@ -5113,7 +4517,6 @@
                 "dragon": 10
             },
             {
-                "id": 13,
                 "part": "neck-harden",
                 "fire": 10,
                 "water": 5,
@@ -5122,7 +4525,6 @@
                 "dragon": 10
             },
             {
-                "id": 14,
                 "part": "chest-harden",
                 "fire": 10,
                 "water": 5,
@@ -5131,7 +4533,6 @@
                 "dragon": 10
             },
             {
-                "id": 15,
                 "part": "wings-harden",
                 "fire": 10,
                 "water": 5,
@@ -5140,7 +4541,6 @@
                 "dragon": 10
             },
             {
-                "id": 16,
                 "part": "stomach-harden",
                 "fire": 10,
                 "water": 5,
@@ -5149,7 +4549,6 @@
                 "dragon": 10
             },
             {
-                "id": 17,
                 "part": "legs-harden",
                 "fire": 10,
                 "water": 5,

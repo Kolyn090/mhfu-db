@@ -1,6 +1,5 @@
 [
     {
-        "upgrade-id": 0,
         "name": "Iron Gunlance",
         "type": "gunlance",
         "upgrade-price": 1100,
@@ -20,7 +19,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Iron Lance",
                 "type": "lance"
@@ -28,7 +26,6 @@
         ]
     },
     {
-        "upgrade-id": 1,
         "name": "Wyvern Bone Gunlance",
         "type": "gunlance",
         "upgrade-price": 2150,
@@ -48,7 +45,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "upgrade",
                 "name": "Great Bone Gunlance",
                 "type": "gunlance"
@@ -56,7 +52,6 @@
         ]
     },
     {
-        "upgrade-id": 2,
         "name": "Snow Gunlance",
         "type": "gunlance",
         "upgrade-price": 1400,
@@ -76,7 +71,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Iron Lance",
                 "type": "lance"
@@ -84,7 +78,6 @@
         ]
     },
     {
-        "upgrade-id": 3,
         "name": "Iron Gunlance+",
         "type": "gunlance",
         "upgrade-price": 1750,
@@ -104,7 +97,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Iron Gunlance",
                 "type": "gunlance"
@@ -112,7 +104,6 @@
         ]
     },
     {
-        "upgrade-id": 4,
         "name": "Steel Gunlance",
         "type": "gunlance",
         "upgrade-price": 2150,
@@ -132,7 +123,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "upgrade",
                 "name": "Iron Gunlance+",
                 "type": "gunlance"
@@ -140,7 +130,6 @@
         ]
     },
     {
-        "upgrade-id": 5,
         "name": "Great Bone Gunlance",
         "type": "gunlance",
         "upgrade-price": 1400,
@@ -156,7 +145,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "Bone Gunlance",
                 "type": "gunlance"
@@ -164,7 +152,6 @@
         ]
     },
     {
-        "upgrade-id": 6,
         "name": "Snow Gunlance Mk. II",
         "type": "gunlance",
         "upgrade-price": 2150,
@@ -184,7 +171,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Snow Gunlance",
                 "type": "gunlance"
@@ -192,7 +178,6 @@
         ]
     },
     {
-        "upgrade-id": 7,
         "name": "Marine Fisher",
         "type": "gunlance",
         "upgrade-price": 3100,
@@ -212,7 +197,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "upgrade",
                 "name": "Snow Gunlance Mk. II",
                 "type": "gunlance"
@@ -220,7 +204,6 @@
         ]
     },
     {
-        "upgrade-id": 8,
         "name": "Special Ops Gunlance",
         "type": "gunlance",
         "upgrade-price": 3100,
@@ -240,7 +223,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Steel Gunlance",
                 "type": "gunlance"
@@ -248,7 +230,6 @@
         ]
     },
     {
-        "upgrade-id": 9,
         "name": "Average Hitter",
         "type": "gunlance",
         "upgrade-price": 3100,
@@ -268,7 +249,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "upgrade",
                 "name": "Great Bone Gunlance",
                 "type": "gunlance"
@@ -276,7 +256,6 @@
         ]
     },
     {
-        "upgrade-id": 10,
         "name": "Deep Fisher",
         "type": "gunlance",
         "upgrade-price": 5600,
@@ -296,7 +275,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Marine Fisher",
                 "type": "gunlance"
@@ -304,7 +282,6 @@
         ]
     },
     {
-        "upgrade-id": 11,
         "name": "Imperial Gunlance",
         "type": "gunlance",
         "upgrade-price": 6500,
@@ -324,7 +301,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "create",
                 "name": "Special Ops Gunlance",
                 "type": "gunlance"
@@ -332,7 +308,6 @@
         ]
     },
     {
-        "upgrade-id": 12,
         "name": "White Gunlance",
         "type": "gunlance",
         "upgrade-price": 4900,
@@ -352,7 +327,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Steel Gunlance",
                 "type": "gunlance"
@@ -360,7 +334,6 @@
         ]
     },
     {
-        "upgrade-id": 13,
         "name": "Hellsting",
         "type": "gunlance",
         "upgrade-price": 4250,
@@ -380,7 +353,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "Wyvern Bone Gunlance",
                 "type": "gunlance"
@@ -388,7 +360,6 @@
         ]
     },
     {
-        "upgrade-id": 14,
         "name": "Grand Slam",
         "type": "gunlance",
         "upgrade-price": 5600,
@@ -408,7 +379,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "create",
                 "name": "Average Hitter",
                 "type": "gunlance"
@@ -416,7 +386,6 @@
         ]
     },
     {
-        "upgrade-id": 15,
         "name": "Luna's Howl",
         "type": "gunlance",
         "upgrade-price": 5600,
@@ -436,7 +405,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Steel Gunlance",
                 "type": "gunlance"
@@ -444,7 +412,6 @@
         ]
     },
     {
-        "upgrade-id": 16,
         "name": "Luna's Roar",
         "type": "gunlance",
         "upgrade-price": 35000,
@@ -464,7 +431,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "create",
                 "name": "Luna's Howl",
                 "type": "gunlance"
@@ -472,7 +438,6 @@
         ]
     },
     {
-        "upgrade-id": 17,
         "name": "White Cannon",
         "type": "gunlance",
         "upgrade-price": 30000,
@@ -492,7 +457,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "upgrade",
                 "name": "White Gunlance",
                 "type": "gunlance"
@@ -500,7 +464,6 @@
         ]
     },
     {
-        "upgrade-id": 18,
         "name": "Hellsting+",
         "type": "gunlance",
         "upgrade-price": 6350,
@@ -520,7 +483,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "create",
                 "name": "Hellsting",
                 "type": "gunlance"
@@ -528,7 +490,6 @@
         ]
     },
     {
-        "upgrade-id": 19,
         "name": "Feather Gunlance",
         "type": "gunlance",
         "upgrade-price": 50000,
@@ -548,7 +509,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "create",
                 "name": "Knight Lance",
                 "type": "lance"
@@ -556,7 +516,6 @@
         ]
     },
     {
-        "upgrade-id": 20,
         "name": "Blizzard Gunlance",
         "type": "gunlance",
         "upgrade-price": 40000,
@@ -576,7 +535,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "upgrade",
                 "name": "Snow Gunlance Mk. II",
                 "type": "gunlance"
@@ -584,7 +542,6 @@
         ]
     },
     {
-        "upgrade-id": 21,
         "name": "Deep Ocean",
         "type": "gunlance",
         "upgrade-price": 40000,
@@ -604,7 +561,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "upgrade",
                 "name": "Deep Fisher",
                 "type": "gunlance"
@@ -612,7 +568,6 @@
         ]
     },
     {
-        "upgrade-id": 22,
         "name": "Scissor Gunlance",
         "type": "gunlance",
         "upgrade-price": 40000,
@@ -632,13 +587,11 @@
         ],
         "upgrade-from": [
             {
-                "id": 32,
                 "craft-type": "upgrade",
                 "name": "Bone Claw Lance+",
                 "type": "lance"
             },
             {
-                "id": 6,
                 "craft-type": "upgrade",
                 "name": "Snow Gunlance Mk. II",
                 "type": "gunlance"
@@ -646,7 +599,6 @@
         ]
     },
     {
-        "upgrade-id": 23,
         "name": "Black Gunlance",
         "type": "gunlance",
         "upgrade-price": 60000,
@@ -666,7 +618,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "upgrade",
                 "name": "White Cannon",
                 "type": "gunlance"
@@ -674,7 +625,6 @@
         ]
     },
     {
-        "upgrade-id": 24,
         "name": "Hard Hitter",
         "type": "gunlance",
         "upgrade-price": 35000,
@@ -694,7 +644,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "upgrade",
                 "name": "Grand Slam",
                 "type": "gunlance"
@@ -702,7 +651,6 @@
         ]
     },
     {
-        "upgrade-id": 25,
         "name": "Sea King Gunlance",
         "type": "gunlance",
         "upgrade-price": 55000,
@@ -722,7 +670,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "upgrade",
                 "name": "Deep Ocean",
                 "type": "gunlance"
@@ -730,7 +677,6 @@
         ]
     },
     {
-        "upgrade-id": 26,
         "name": "Scissor Cannon",
         "type": "gunlance",
         "upgrade-price": 50000,
@@ -750,7 +696,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Scissor Gunlance",
                 "type": "gunlance"
@@ -758,7 +703,6 @@
         ]
     },
     {
-        "upgrade-id": 27,
         "name": "Silver Rook",
         "type": "gunlance",
         "upgrade-price": 65000,
@@ -778,7 +722,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "upgrade",
                 "name": "Imperial Gunlance",
                 "type": "gunlance"
@@ -786,7 +729,6 @@
         ]
     },
     {
-        "upgrade-id": 28,
         "name": "Black Gore Cannon",
         "type": "gunlance",
         "upgrade-price": 75000,
@@ -806,7 +748,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "upgrade",
                 "name": "Black Gunlance",
                 "type": "gunlance"
@@ -814,7 +755,6 @@
         ]
     },
     {
-        "upgrade-id": 29,
         "name": "Full Voltage",
         "type": "gunlance",
         "upgrade-price": 50000,
@@ -834,7 +774,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 59,
                 "craft-type": "upgrade",
                 "name": "Hard Bone Lance+",
                 "type": "lance"
@@ -842,7 +781,6 @@
         ]
     },
     {
-        "upgrade-id": 30,
         "name": "Hellstinger",
         "type": "gunlance",
         "upgrade-price": 50000,
@@ -862,7 +800,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "upgrade",
                 "name": "Hellsting+",
                 "type": "gunlance"
@@ -870,7 +807,6 @@
         ]
     },
     {
-        "upgrade-id": 31,
         "name": "Big Slugger",
         "type": "gunlance",
         "upgrade-price": 50000,
@@ -890,7 +826,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "upgrade",
                 "name": "Hard Hitter",
                 "type": "gunlance"
@@ -898,7 +833,6 @@
         ]
     },
     {
-        "upgrade-id": 32,
         "name": "Tigrex Gunlance",
         "type": "gunlance",
         "upgrade-price": 80000,
@@ -918,7 +852,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "Rex Blast",
                 "type": "gunlance"
@@ -926,7 +859,6 @@
         ]
     },
     {
-        "upgrade-id": 33,
         "name": "Hidden Gunlance",
         "type": "gunlance",
         "upgrade-price": 80000,
@@ -946,7 +878,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "Rex Blast",
                 "type": "gunlance"
@@ -954,7 +885,6 @@
         ]
     },
     {
-        "upgrade-id": 34,
         "name": "Gun Chariot",
         "type": "gunlance",
         "upgrade-price": 75000,
@@ -978,7 +908,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "upgrade",
                 "name": "Silver Rook",
                 "type": "gunlance"
@@ -986,7 +915,6 @@
         ]
     },
     {
-        "upgrade-id": 35,
         "name": "Luna's Flare",
         "type": "gunlance",
         "upgrade-price": 90000,
@@ -1006,7 +934,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "upgrade",
                 "name": "Luna's Roar",
                 "type": "gunlance"
@@ -1014,7 +941,6 @@
         ]
     },
     {
-        "upgrade-id": 36,
         "name": "Venomous Cologne",
         "type": "gunlance",
         "upgrade-price": 90000,
@@ -1034,7 +960,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 31,
                 "craft-type": "upgrade",
                 "name": "Big Slugger",
                 "type": "gunlance"
@@ -1042,7 +967,6 @@
         ]
     },
     {
-        "upgrade-id": 37,
         "name": "BlackDragonGunlance",
         "type": "gunlance",
         "upgrade-price": 100000,
@@ -1066,7 +990,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "create",
                 "name": "Black Smoke Gunlance",
                 "type": "gunlance"
@@ -1074,7 +997,6 @@
         ]
     },
     {
-        "upgrade-id": 38,
         "name": "Gld Dragonwd GLance",
         "type": "gunlance",
         "upgrade-price": 75000,
@@ -1094,7 +1016,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "create",
                 "name": "Dragonwood Gunlance",
                 "type": "gunlance"
@@ -1102,7 +1023,6 @@
         ]
     },
     {
-        "upgrade-id": 39,
         "name": "Ancient Destroyer",
         "type": "gunlance",
         "upgrade-price": 80000,
@@ -1122,7 +1042,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 68,
                 "craft-type": "upgrade",
                 "name": "Babel Spear",
                 "type": "lance"
@@ -1130,7 +1049,6 @@
         ]
     },
     {
-        "upgrade-id": 40,
         "name": "Feather Gunlance+",
         "type": "gunlance",
         "upgrade-price": 80000,
@@ -1154,7 +1072,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "create",
                 "name": "Feather Gunlance",
                 "type": "gunlance"
@@ -1162,7 +1079,6 @@
         ]
     },
     {
-        "upgrade-id": 41,
         "name": "Hypno Cannon",
         "type": "gunlance",
         "upgrade-price": 105000,
@@ -1182,7 +1098,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "create",
                 "name": "Feather Gunlance+",
                 "type": "gunlance"
@@ -1190,7 +1105,6 @@
         ]
     },
     {
-        "upgrade-id": 42,
         "name": "Sea God Leviathan",
         "type": "gunlance",
         "upgrade-price": 90000,
@@ -1210,7 +1124,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "upgrade",
                 "name": "Sea King Gunlance",
                 "type": "gunlance"
@@ -1218,7 +1131,6 @@
         ]
     },
     {
-        "upgrade-id": 43,
         "name": "Volcano Gunlance",
         "type": "gunlance",
         "upgrade-price": 100000,
@@ -1238,7 +1150,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "upgrade",
                 "name": "Sea King Gunlance",
                 "type": "gunlance"
@@ -1246,7 +1157,6 @@
         ]
     },
     {
-        "upgrade-id": 44,
         "name": "Violet Cannon",
         "type": "gunlance",
         "upgrade-price": 85000,
@@ -1266,7 +1176,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "upgrade",
                 "name": "Scissor Cannon",
                 "type": "gunlance"
@@ -1274,7 +1183,6 @@
         ]
     },
     {
-        "upgrade-id": 45,
         "name": "Violet Buster",
         "type": "gunlance",
         "upgrade-price": 115000,
@@ -1294,7 +1202,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "create",
                 "name": "Violet Cannon",
                 "type": "gunlance"
@@ -1302,7 +1209,6 @@
         ]
     },
     {
-        "upgrade-id": 46,
         "name": "Gun Chariot+",
         "type": "gunlance",
         "upgrade-price": 100000,
@@ -1322,7 +1228,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 34,
                 "craft-type": "upgrade",
                 "name": "Gun Chariot",
                 "type": "gunlance"
@@ -1330,7 +1235,6 @@
         ]
     },
     {
-        "upgrade-id": 47,
         "name": "Heavy Bone Gunlance",
         "type": "gunlance",
         "upgrade-price": 75000,
@@ -1354,7 +1258,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 73,
                 "craft-type": "upgrade",
                 "name": "Barbarian Tusk",
                 "type": "lance"
@@ -1362,7 +1265,6 @@
         ]
     },
     {
-        "upgrade-id": 48,
         "name": "Hard Bone Cannon",
         "type": "gunlance",
         "upgrade-price": 100000,
@@ -1382,7 +1284,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "create",
                 "name": "Heavy Bone Gunlance",
                 "type": "gunlance"
@@ -1390,7 +1291,6 @@
         ]
     },
     {
-        "upgrade-id": 49,
         "name": "Full Generator",
         "type": "gunlance",
         "upgrade-price": 85000,
@@ -1410,7 +1310,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "create",
                 "name": "Full Voltage",
                 "type": "gunlance"
@@ -1418,7 +1317,6 @@
         ]
     },
     {
-        "upgrade-id": 50,
         "name": "High Volt Gunlance",
         "type": "gunlance",
         "upgrade-price": 120000,
@@ -1442,7 +1340,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 49,
                 "craft-type": "upgrade",
                 "name": "Full Generator",
                 "type": "gunlance"
@@ -1450,7 +1347,6 @@
         ]
     },
     {
-        "upgrade-id": 51,
         "name": "Desert Slingshot",
         "type": "gunlance",
         "upgrade-price": 95000,
@@ -1470,7 +1366,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 30,
                 "craft-type": "upgrade",
                 "name": "Hellstinger",
                 "type": "gunlance"
@@ -1478,7 +1373,6 @@
         ]
     },
     {
-        "upgrade-id": 52,
         "name": "Triple Crown",
         "type": "gunlance",
         "upgrade-price": 105000,
@@ -1502,7 +1396,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 31,
                 "craft-type": "upgrade",
                 "name": "Big Slugger",
                 "type": "gunlance"
@@ -1510,7 +1403,6 @@
         ]
     },
     {
-        "upgrade-id": 53,
         "name": "Venomous Attar",
         "type": "gunlance",
         "upgrade-price": 110000,
@@ -1534,7 +1426,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "create",
                 "name": "Venomous Cologne",
                 "type": "gunlance"
@@ -1542,7 +1433,6 @@
         ]
     },
     {
-        "upgrade-id": 54,
         "name": "AncientDrgnwoodLance",
         "type": "gunlance",
         "upgrade-price": 120000,
@@ -1562,7 +1452,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Gld Dragonwd GLance",
                 "type": "gunlance"
@@ -1570,7 +1459,6 @@
         ]
     },
     {
-        "upgrade-id": 55,
         "name": "Large Pop Corn",
         "type": "gunlance",
         "upgrade-price": 75000,
@@ -1594,7 +1482,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Pop Corn",
                 "type": "gunlance"
@@ -1602,7 +1489,6 @@
         ]
     },
     {
-        "upgrade-id": 56,
         "name": "Genesis",
         "type": "gunlance",
         "upgrade-price": 115000,
@@ -1626,7 +1512,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "create",
                 "name": "Ancient Destroyer",
                 "type": "gunlance"
@@ -1634,7 +1519,6 @@
         ]
     },
     {
-        "upgrade-id": 57,
         "name": "Sea Abyss",
         "type": "gunlance",
         "upgrade-price": 110000,
@@ -1658,7 +1542,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 42,
                 "craft-type": "upgrade",
                 "name": "Sea God Leviathan",
                 "type": "gunlance"
@@ -1666,7 +1549,6 @@
         ]
     },
     {
-        "upgrade-id": 58,
         "name": "Lavasioth Gunlance",
         "type": "gunlance",
         "upgrade-price": 120000,
@@ -1690,7 +1572,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 20,
                 "craft-type": "create",
                 "name": "Volcano Gunlance",
                 "type": "gunlance"
@@ -1698,7 +1579,6 @@
         ]
     },
     {
-        "upgrade-id": 59,
         "name": "World's End",
         "type": "gunlance",
         "upgrade-price": 125000,
@@ -1722,7 +1602,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 46,
                 "craft-type": "upgrade",
                 "name": "Gun Chariot+",
                 "type": "gunlance"
@@ -1730,7 +1609,6 @@
         ]
     },
     {
-        "upgrade-id": 60,
         "name": "Luna's Sun",
         "type": "gunlance",
         "upgrade-price": 130000,
@@ -1754,7 +1632,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 35,
                 "craft-type": "upgrade",
                 "name": "Luna's Flare",
                 "type": "gunlance"
@@ -1762,7 +1639,6 @@
         ]
     },
     {
-        "upgrade-id": 61,
         "name": "Black Gore Buster",
         "type": "gunlance",
         "upgrade-price": 115000,
@@ -1782,7 +1658,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "upgrade",
                 "name": "Black Gore Cannon",
                 "type": "gunlance"
@@ -1790,7 +1665,6 @@
         ]
     },
     {
-        "upgrade-id": 62,
         "name": "Demonic Blizzard",
         "type": "gunlance",
         "upgrade-price": 90000,
@@ -1810,7 +1684,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 30,
                 "craft-type": "upgrade",
                 "name": "Hellstinger",
                 "type": "gunlance"
@@ -1818,7 +1691,6 @@
         ]
     },
     {
-        "upgrade-id": 63,
         "name": "Desert Slingshoter",
         "type": "gunlance",
         "upgrade-price": 115000,
@@ -1842,7 +1714,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 51,
                 "craft-type": "upgrade",
                 "name": "Desert Slingshot",
                 "type": "gunlance"
@@ -1850,7 +1721,6 @@
         ]
     },
     {
-        "upgrade-id": 64,
         "name": "Venomous Perfume",
         "type": "gunlance",
         "upgrade-price": 130000,
@@ -1874,7 +1744,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 53,
                 "craft-type": "upgrade",
                 "name": "Venomous Attar",
                 "type": "gunlance"
@@ -1882,7 +1751,6 @@
         ]
     },
     {
-        "upgrade-id": 65,
         "name": "TrueBlkDrgnGunlance",
         "type": "gunlance",
         "upgrade-price": 150000,
@@ -1906,7 +1774,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 37,
                 "craft-type": "upgrade",
                 "name": "BlackDragonGunlance",
                 "type": "gunlance"
@@ -1914,7 +1781,6 @@
         ]
     },
     {
-        "upgrade-id": 66,
         "name": "AncientDrgnwoodLanc+",
         "type": "gunlance",
         "upgrade-price": 145000,
@@ -1938,7 +1804,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "create",
                 "name": "AncientDrgnwoodLance",
                 "type": "gunlance"
@@ -1946,7 +1811,6 @@
         ]
     },
     {
-        "upgrade-id": 67,
         "name": "GreatTigrexGunlance",
         "type": "gunlance",
         "upgrade-price": 125000,
@@ -1966,7 +1830,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 32,
                 "craft-type": "upgrade",
                 "name": "Tigrex Gunlance",
                 "type": "gunlance"
@@ -1974,7 +1837,6 @@
         ]
     },
     {
-        "upgrade-id": 68,
         "name": "WanningMoonDarklance",
         "type": "gunlance",
         "upgrade-price": 120000,
@@ -1998,7 +1860,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 15,
                 "craft-type": "create",
                 "name": "Hidden Gunlance",
                 "type": "gunlance"
@@ -2006,7 +1867,6 @@
         ]
     },
     {
-        "upgrade-id": 69,
         "name": "AkantorNoirGunlance",
         "type": "gunlance",
         "upgrade-price": 145000,
@@ -2030,7 +1890,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Akantor Gunlance",
                 "type": "gunlance"

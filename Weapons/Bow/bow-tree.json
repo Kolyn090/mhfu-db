@@ -1,6 +1,5 @@
 [
     {
-        "upgrade-id": 0,
         "name": "Hunter's Bow II",
         "type": "bow",
         "upgrade-price": 1100,
@@ -20,7 +19,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Hunter's Bow I",
                 "type": "bow"
@@ -28,7 +26,6 @@
         ]
     },
     {
-        "upgrade-id": 1,
         "name": "Hunter's Bow III",
         "type": "bow",
         "upgrade-price": 1650,
@@ -48,7 +45,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "upgrade",
                 "name": "Hunter's Bow II",
                 "type": "bow"
@@ -56,7 +52,6 @@
         ]
     },
     {
-        "upgrade-id": 2,
         "name": "Hunter's Bow IV",
         "type": "bow",
         "upgrade-price": 2750,
@@ -76,7 +71,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "create",
                 "name": "Hunter's Bow III",
                 "type": "bow"
@@ -84,7 +78,6 @@
         ]
     },
     {
-        "upgrade-id": 3,
         "name": "Wild Bow II",
         "type": "bow",
         "upgrade-price": 3500,
@@ -104,7 +97,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "Wild Bow I",
                 "type": "bow"
@@ -112,7 +104,6 @@
         ]
     },
     {
-        "upgrade-id": 4,
         "name": "Blango Fur Bow II",
         "type": "bow",
         "upgrade-price": 1500,
@@ -132,7 +123,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Blango Fur Bow I",
                 "type": "bow"
@@ -140,7 +130,6 @@
         ]
     },
     {
-        "upgrade-id": 5,
         "name": "Kut-Ku Stave II",
         "type": "bow",
         "upgrade-price": 2300,
@@ -160,7 +149,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Kut-Ku Stave I",
                 "type": "bow"
@@ -168,7 +156,6 @@
         ]
     },
     {
-        "upgrade-id": 6,
         "name": "Hunter's Power Bow I",
         "type": "bow",
         "upgrade-price": 4400,
@@ -188,7 +175,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "upgrade",
                 "name": "Hunter's Bow IV",
                 "type": "bow"
@@ -196,7 +182,6 @@
         ]
     },
     {
-        "upgrade-id": 7,
         "name": "Hunter's Power Bow II",
         "type": "bow",
         "upgrade-price": 5500,
@@ -216,7 +201,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "create",
                 "name": "Hunter's Power Bow I",
                 "type": "bow"
@@ -224,7 +208,6 @@
         ]
     },
     {
-        "upgrade-id": 8,
         "name": "Wild Bow III",
         "type": "bow",
         "upgrade-price": 5250,
@@ -244,7 +227,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "upgrade",
                 "name": "Wild Bow II",
                 "type": "bow"
@@ -252,7 +234,6 @@
         ]
     },
     {
-        "upgrade-id": 9,
         "name": "Wild Bow IV",
         "type": "bow",
         "upgrade-price": 6150,
@@ -272,7 +253,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "create",
                 "name": "Wild Bow III",
                 "type": "bow"
@@ -280,7 +260,6 @@
         ]
     },
     {
-        "upgrade-id": 10,
         "name": "Blango Fur Bow III",
         "type": "bow",
         "upgrade-price": 3850,
@@ -300,7 +279,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Blango Fur Bow II",
                 "type": "bow"
@@ -308,7 +286,6 @@
         ]
     },
     {
-        "upgrade-id": 11,
         "name": "Blango Fur Bow IV",
         "type": "bow",
         "upgrade-price": 4600,
@@ -328,7 +305,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "create",
                 "name": "Blango Fur Bow III",
                 "type": "bow"
@@ -336,7 +312,6 @@
         ]
     },
     {
-        "upgrade-id": 12,
         "name": "Kut-Ku Stave III",
         "type": "bow",
         "upgrade-price": 4600,
@@ -356,7 +331,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "upgrade",
                 "name": "Kut-Ku Stave II",
                 "type": "bow"
@@ -364,7 +338,6 @@
         ]
     },
     {
-        "upgrade-id": 13,
         "name": "Daimyo's Warbow II",
         "type": "bow",
         "upgrade-price": 3850,
@@ -384,7 +357,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "create",
                 "name": "Daimyo's Warbow I",
                 "type": "bow"
@@ -392,7 +364,6 @@
         ]
     },
     {
-        "upgrade-id": 14,
         "name": "Daimyo's Warbow III",
         "type": "bow",
         "upgrade-price": 4600,
@@ -412,7 +383,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "upgrade",
                 "name": "Daimyo's Warbow II",
                 "type": "bow"
@@ -420,7 +390,6 @@
         ]
     },
     {
-        "upgrade-id": 15,
         "name": "Sonic Bow II",
         "type": "bow",
         "upgrade-price": 4600,
@@ -440,7 +409,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "create",
                 "name": "Sonic Bow I",
                 "type": "bow"
@@ -448,7 +416,6 @@
         ]
     },
     {
-        "upgrade-id": 16,
         "name": "Queen Blaster II",
         "type": "bow",
         "upgrade-price": 6600,
@@ -468,7 +435,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "create",
                 "name": "Queen Blaster I",
                 "type": "bow"
@@ -476,7 +442,6 @@
         ]
     },
     {
-        "upgrade-id": 17,
         "name": "Prominence Bow II",
         "type": "bow",
         "upgrade-price": 8250,
@@ -496,7 +461,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Prominence Bow I",
                 "type": "bow"
@@ -504,7 +468,6 @@
         ]
     },
     {
-        "upgrade-id": 18,
         "name": "Tiger Arrow II",
         "type": "bow",
         "upgrade-price": 10000,
@@ -524,7 +487,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Tiger Arrow I",
                 "type": "bow"
@@ -532,7 +494,6 @@
         ]
     },
     {
-        "upgrade-id": 19,
         "name": "Hunter's Power Bow III",
         "type": "bow",
         "upgrade-price": 7900,
@@ -552,7 +513,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "upgrade",
                 "name": "Hunter's Power Bow II",
                 "type": "bow"
@@ -560,7 +520,6 @@
         ]
     },
     {
-        "upgrade-id": 20,
         "name": "Wild Power Bow I",
         "type": "bow",
         "upgrade-price": 8950,
@@ -580,7 +539,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "upgrade",
                 "name": "Wild Bow IV",
                 "type": "bow"
@@ -588,7 +546,6 @@
         ]
     },
     {
-        "upgrade-id": 21,
         "name": "Wild Power Bow II",
         "type": "bow",
         "upgrade-price": 10550,
@@ -608,7 +565,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "create",
                 "name": "Wild Power Bow I",
                 "type": "bow"
@@ -616,7 +572,6 @@
         ]
     },
     {
-        "upgrade-id": 22,
         "name": "Abominable Bow I",
         "type": "bow",
         "upgrade-price": 7350,
@@ -636,7 +591,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "upgrade",
                 "name": "Blango Fur Bow IV",
                 "type": "bow"
@@ -644,7 +598,6 @@
         ]
     },
     {
-        "upgrade-id": 23,
         "name": "Wing Bow II",
         "type": "bow",
         "upgrade-price": 13450,
@@ -664,7 +617,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "create",
                 "name": "Wing Bow I",
                 "type": "bow"
@@ -672,7 +624,6 @@
         ]
     },
     {
-        "upgrade-id": 24,
         "name": "Daimyo's Warbow IV",
         "type": "bow",
         "upgrade-price": 7350,
@@ -692,7 +643,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "upgrade",
                 "name": "Daimyo's Warbow III",
                 "type": "bow"
@@ -700,7 +650,6 @@
         ]
     },
     {
-        "upgrade-id": 25,
         "name": "Blue Blade Bow II",
         "type": "bow",
         "upgrade-price": 23100,
@@ -720,7 +669,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "Blue Blade Bow I",
                 "type": "bow"
@@ -728,7 +676,6 @@
         ]
     },
     {
-        "upgrade-id": 26,
         "name": "Sonic Bow III",
         "type": "bow",
         "upgrade-price": 7350,
@@ -748,7 +695,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 15,
                 "craft-type": "upgrade",
                 "name": "Sonic Bow II",
                 "type": "bow"
@@ -756,7 +702,6 @@
         ]
     },
     {
-        "upgrade-id": 27,
         "name": "Queen Blaster III",
         "type": "bow",
         "upgrade-price": 16500,
@@ -776,7 +721,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "upgrade",
                 "name": "Queen Blaster II",
                 "type": "bow"
@@ -784,7 +728,6 @@
         ]
     },
     {
-        "upgrade-id": 28,
         "name": "Diablos Horn Bow II",
         "type": "bow",
         "upgrade-price": 25700,
@@ -804,7 +747,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "create",
                 "name": "Diablos Horn Bow I",
                 "type": "bow"
@@ -812,7 +754,6 @@
         ]
     },
     {
-        "upgrade-id": 29,
         "name": "Tigrex Whisker",
         "type": "bow",
         "upgrade-price": 25700,
@@ -832,7 +773,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "upgrade",
                 "name": "Tiger Arrow II",
                 "type": "bow"
@@ -840,7 +780,6 @@
         ]
     },
     {
-        "upgrade-id": 30,
         "name": "Blue Kut-Ku Stave I",
         "type": "bow",
         "upgrade-price": 7350,
@@ -860,7 +799,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "upgrade",
                 "name": "Kut-Ku Stave III",
                 "type": "bow"
@@ -868,7 +806,6 @@
         ]
     },
     {
-        "upgrade-id": 31,
         "name": "Heartshot Bow I",
         "type": "bow",
         "upgrade-price": 13450,
@@ -888,7 +825,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "upgrade",
                 "name": "Queen Blaster II",
                 "type": "bow"
@@ -896,7 +832,6 @@
         ]
     },
     {
-        "upgrade-id": 32,
         "name": "Hidden Bow",
         "type": "bow",
         "upgrade-price": 27750,
@@ -916,7 +851,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "upgrade",
                 "name": "Tiger Arrow II",
                 "type": "bow"
@@ -924,7 +858,6 @@
         ]
     },
     {
-        "upgrade-id": 33,
         "name": "Blue Kut-Ku Stave II",
         "type": "bow",
         "upgrade-price": 41600,
@@ -948,7 +881,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "create",
                 "name": "Blue Kut-Ku Stave I",
                 "type": "bow"
@@ -956,7 +888,6 @@
         ]
     },
     {
-        "upgrade-id": 34,
         "name": "Whole Swordfish Bow",
         "type": "bow",
         "upgrade-price": 5950,
@@ -980,7 +911,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "create",
                 "name": "Defect Swordfish Bow",
                 "type": "bow"
@@ -988,7 +918,6 @@
         ]
     },
     {
-        "upgrade-id": 35,
         "name": "Heartshot Bow II",
         "type": "bow",
         "upgrade-price": 19800,
@@ -1008,7 +937,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "create",
                 "name": "Heartshot Bow I",
                 "type": "bow"
@@ -1016,7 +944,6 @@
         ]
     },
     {
-        "upgrade-id": 36,
         "name": "Prominence Bow III",
         "type": "bow",
         "upgrade-price": 16500,
@@ -1036,7 +963,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "upgrade",
                 "name": "Prominence Bow II",
                 "type": "bow"
@@ -1044,7 +970,6 @@
         ]
     },
     {
-        "upgrade-id": 37,
         "name": "Courageous Wish",
         "type": "bow",
         "upgrade-price": 39600,
@@ -1064,7 +989,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "create",
                 "name": "Courageous Hope",
                 "type": "bow"
@@ -1072,7 +996,6 @@
         ]
     },
     {
-        "upgrade-id": 38,
         "name": "Dragon Bow Solar",
         "type": "bow",
         "upgrade-price": 23750,
@@ -1092,7 +1015,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 15,
                 "craft-type": "create",
                 "name": "Dragon Bow Halo",
                 "type": "bow"
@@ -1100,7 +1022,6 @@
         ]
     },
     {
-        "upgrade-id": 39,
         "name": "Dragon Bow Mountain",
         "type": "bow",
         "upgrade-price": 47500,
@@ -1120,7 +1041,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "create",
                 "name": "Dragon Bow Earth",
                 "type": "bow"
@@ -1128,7 +1048,6 @@
         ]
     },
     {
-        "upgrade-id": 40,
         "name": "Black Bow II",
         "type": "bow",
         "upgrade-price": 15000,
@@ -1148,7 +1067,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Black Bow I",
                 "type": "bow"
@@ -1156,7 +1074,6 @@
         ]
     },
     {
-        "upgrade-id": 41,
         "name": "Exterminator Bow I",
         "type": "bow",
         "upgrade-price": 80000,
@@ -1176,7 +1093,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 40,
                 "craft-type": "upgrade",
                 "name": "Black Bow II",
                 "type": "bow"
@@ -1184,7 +1100,6 @@
         ]
     },
     {
-        "upgrade-id": 42,
         "name": "Glorious Victory I",
         "type": "bow",
         "upgrade-price": 80000,
@@ -1204,7 +1119,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 40,
                 "craft-type": "upgrade",
                 "name": "Black Bow II",
                 "type": "bow"
@@ -1212,7 +1126,6 @@
         ]
     },
     {
-        "upgrade-id": 43,
         "name": "Hunter's Power Bow IV",
         "type": "bow",
         "upgrade-price": 49500,
@@ -1236,7 +1149,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "upgrade",
                 "name": "Hunter's Power Bow III",
                 "type": "bow"
@@ -1244,7 +1156,6 @@
         ]
     },
     {
-        "upgrade-id": 44,
         "name": "Icicle Bow I",
         "type": "bow",
         "upgrade-price": 34650,
@@ -1268,7 +1179,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "upgrade",
                 "name": "Hunter's Power Bow III",
                 "type": "bow"
@@ -1276,7 +1186,6 @@
         ]
     },
     {
-        "upgrade-id": 45,
         "name": "Icicle Bow II",
         "type": "bow",
         "upgrade-price": 55450,
@@ -1300,7 +1209,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 33,
                 "craft-type": "create",
                 "name": "Icicle Bow I",
                 "type": "bow"
@@ -1308,7 +1216,6 @@
         ]
     },
     {
-        "upgrade-id": 46,
         "name": "Jungle Bow I",
         "type": "bow",
         "upgrade-price": 49500,
@@ -1332,7 +1239,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "upgrade",
                 "name": "Wild Power Bow II",
                 "type": "bow"
@@ -1340,7 +1246,6 @@
         ]
     },
     {
-        "upgrade-id": 47,
         "name": "Jungle Bow II",
         "type": "bow",
         "upgrade-price": 74250,
@@ -1364,7 +1269,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 34,
                 "craft-type": "create",
                 "name": "Jungle Bow I",
                 "type": "bow"
@@ -1372,7 +1276,6 @@
         ]
     },
     {
-        "upgrade-id": 48,
         "name": "Abominable Bow II",
         "type": "bow",
         "upgrade-price": 69300,
@@ -1396,7 +1299,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "upgrade",
                 "name": "Abominable Bow I",
                 "type": "bow"
@@ -1404,7 +1306,6 @@
         ]
     },
     {
-        "upgrade-id": 49,
         "name": "Blue Kut-Ku Stave III",
         "type": "bow",
         "upgrade-price": 62400,
@@ -1428,7 +1329,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 33,
                 "craft-type": "upgrade",
                 "name": "Blue Kut-Ku Stave II",
                 "type": "bow"
@@ -1436,7 +1336,6 @@
         ]
     },
     {
-        "upgrade-id": 50,
         "name": "Wolf Bow",
         "type": "bow",
         "upgrade-price": 83150,
@@ -1460,7 +1359,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "create",
                 "name": "Blue Kut-Ku Stave I",
                 "type": "bow"
@@ -1468,7 +1366,6 @@
         ]
     },
     {
-        "upgrade-id": 51,
         "name": "Wing Bow III",
         "type": "bow",
         "upgrade-price": 53450,
@@ -1492,7 +1389,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "upgrade",
                 "name": "Wing Bow II",
                 "type": "bow"
@@ -1500,7 +1396,6 @@
         ]
     },
     {
-        "upgrade-id": 52,
         "name": "Wing Bow IV",
         "type": "bow",
         "upgrade-price": 77200,
@@ -1524,7 +1419,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 36,
                 "craft-type": "create",
                 "name": "Wing Bow III",
                 "type": "bow"
@@ -1532,7 +1426,6 @@
         ]
     },
     {
-        "upgrade-id": 53,
         "name": "Great Purple Emperor I",
         "type": "bow",
         "upgrade-price": 52000,
@@ -1552,7 +1445,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 20,
                 "craft-type": "create",
                 "name": "Daimyo's Warbow IV",
                 "type": "bow"
@@ -1560,7 +1452,6 @@
         ]
     },
     {
-        "upgrade-id": 54,
         "name": "Great Purple Emperor II",
         "type": "bow",
         "upgrade-price": 81700,
@@ -1584,7 +1475,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 37,
                 "craft-type": "create",
                 "name": "Great Purple Emperor I",
                 "type": "bow"
@@ -1592,7 +1482,6 @@
         ]
     },
     {
-        "upgrade-id": 55,
         "name": "Blue Blade Bow III",
         "type": "bow",
         "upgrade-price": 90100,
@@ -1612,7 +1501,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "upgrade",
                 "name": "Blue Blade Bow II",
                 "type": "bow"
@@ -1620,7 +1508,6 @@
         ]
     },
     {
-        "upgrade-id": 56,
         "name": "Showroom Model",
         "type": "bow",
         "upgrade-price": 103950,
@@ -1640,7 +1527,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "create",
                 "name": "Blue Blade Bow III",
                 "type": "bow"
@@ -1648,7 +1534,6 @@
         ]
     },
     {
-        "upgrade-id": 57,
         "name": "Carmine Bow",
         "type": "bow",
         "upgrade-price": 89100,
@@ -1668,7 +1553,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "create",
                 "name": "Blue Blade Bow III",
                 "type": "bow"
@@ -1676,7 +1560,6 @@
         ]
     },
     {
-        "upgrade-id": 58,
         "name": "Khezu Bow II",
         "type": "bow",
         "upgrade-price": 74,
@@ -1700,7 +1583,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 39,
                 "craft-type": "create",
                 "name": "Khezu Bow I",
                 "type": "bow"
@@ -1708,7 +1590,6 @@
         ]
     },
     {
-        "upgrade-id": 59,
         "name": "Queen Blaster IV",
         "type": "bow",
         "upgrade-price": 54450,
@@ -1732,7 +1613,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "create",
                 "name": "Queen Blaster III",
                 "type": "bow"
@@ -1740,7 +1620,6 @@
         ]
     },
     {
-        "upgrade-id": 60,
         "name": "Prominence Bow IV",
         "type": "bow",
         "upgrade-price": 61900,
@@ -1760,7 +1639,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 36,
                 "craft-type": "upgrade",
                 "name": "Prominence Bow III",
                 "type": "bow"
@@ -1768,7 +1646,6 @@
         ]
     },
     {
-        "upgrade-id": 61,
         "name": "Gale Horn Bow",
         "type": "bow",
         "upgrade-price": 90100,
@@ -1788,7 +1665,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "upgrade",
                 "name": "Diablos Horn Bow II",
                 "type": "bow"
@@ -1796,7 +1672,6 @@
         ]
     },
     {
-        "upgrade-id": 62,
         "name": "Dragonhead Harp II",
         "type": "bow",
         "upgrade-price": 50000,
@@ -1816,7 +1691,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 29,
                 "craft-type": "create",
                 "name": "Dragonhead Harp I",
                 "type": "bow"
@@ -1824,7 +1698,6 @@
         ]
     },
     {
-        "upgrade-id": 63,
         "name": "Sonic Bow IV",
         "type": "bow",
         "upgrade-price": 0,
@@ -1848,7 +1721,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "create",
                 "name": "Sonic Bow III",
                 "type": "bow"
@@ -1856,7 +1728,6 @@
         ]
     },
     {
-        "upgrade-id": 64,
         "name": "Crow Bow",
         "type": "bow",
         "upgrade-price": 103950,
@@ -1880,7 +1751,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 35,
                 "craft-type": "create",
                 "name": "Wolf Bow",
                 "type": "bow"
@@ -1888,7 +1758,6 @@
         ]
     },
     {
-        "upgrade-id": 65,
         "name": "Perfect Swordfish Bow",
         "type": "bow",
         "upgrade-price": 35650,
@@ -1912,7 +1781,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 34,
                 "craft-type": "upgrade",
                 "name": "Whole Swordfish Bow",
                 "type": "bow"
@@ -1920,7 +1788,6 @@
         ]
     },
     {
-        "upgrade-id": 66,
         "name": "Eraser",
         "type": "bow",
         "upgrade-price": 103950,
@@ -1940,7 +1807,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 57,
                 "craft-type": "upgrade",
                 "name": "Carmine Bow",
                 "type": "bow"
@@ -1948,7 +1814,6 @@
         ]
     },
     {
-        "upgrade-id": 67,
         "name": "Queen Blaster V",
         "type": "bow",
         "upgrade-price": 69300,
@@ -1968,7 +1833,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 59,
                 "craft-type": "upgrade",
                 "name": "Queen Blaster IV",
                 "type": "bow"
@@ -1976,7 +1840,6 @@
         ]
     },
     {
-        "upgrade-id": 68,
         "name": "Heartshot Bow III",
         "type": "bow",
         "upgrade-price": 83150,
@@ -1996,7 +1859,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 35,
                 "craft-type": "upgrade",
                 "name": "Heartshot Bow II",
                 "type": "bow"
@@ -2004,7 +1866,6 @@
         ]
     },
     {
-        "upgrade-id": 69,
         "name": "Prominence Bow V",
         "type": "bow",
         "upgrade-price": 74250,
@@ -2024,7 +1885,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 40,
                 "craft-type": "create",
                 "name": "Prominence Bow IV",
                 "type": "bow"
@@ -2032,7 +1892,6 @@
         ]
     },
     {
-        "upgrade-id": 70,
         "name": "Courageous Dream",
         "type": "bow",
         "upgrade-price": 111350,
@@ -2056,7 +1915,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 37,
                 "craft-type": "upgrade",
                 "name": "Courageous Wish",
                 "type": "bow"
@@ -2064,7 +1922,6 @@
         ]
     },
     {
-        "upgrade-id": 71,
         "name": "DiablosKingHornBow",
         "type": "bow",
         "upgrade-price": 117800,
@@ -2088,7 +1945,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 41,
                 "craft-type": "create",
                 "name": "Gale Horn Bow",
                 "type": "bow"
@@ -2096,7 +1952,6 @@
         ]
     },
     {
-        "upgrade-id": 72,
         "name": "Tigrex Whisker+",
         "type": "bow",
         "upgrade-price": 90100,
@@ -2120,7 +1975,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Tigrex Whisker",
                 "type": "bow"
@@ -2128,7 +1982,6 @@
         ]
     },
     {
-        "upgrade-id": 73,
         "name": "Midnight Bow",
         "type": "bow",
         "upgrade-price": 103950,
@@ -2152,7 +2005,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "create",
                 "name": "Hidden Bow",
                 "type": "bow"
@@ -2160,7 +2012,6 @@
         ]
     },
     {
-        "upgrade-id": 74,
         "name": "Dragonhead Harp III",
         "type": "bow",
         "upgrade-price": 125000,
@@ -2184,7 +2035,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 62,
                 "craft-type": "upgrade",
                 "name": "Dragonhead Harp II",
                 "type": "bow"
@@ -2192,7 +2042,6 @@
         ]
     },
     {
-        "upgrade-id": 75,
         "name": "Ancient Dragonwood Bow",
         "type": "bow",
         "upgrade-price": 115800,
@@ -2216,7 +2065,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Dragon Bow Solar",
                 "type": "bow"
@@ -2224,7 +2072,6 @@
         ]
     },
     {
-        "upgrade-id": 76,
         "name": "Dragon Bow Chaos",
         "type": "bow",
         "upgrade-price": 124750,
@@ -2248,7 +2095,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 39,
                 "craft-type": "upgrade",
                 "name": "Dragon Bow Mountain",
                 "type": "bow"
@@ -2256,7 +2102,6 @@
         ]
     },
     {
-        "upgrade-id": 77,
         "name": "BeastKingThunderbow",
         "type": "bow",
         "upgrade-price": 118800,
@@ -2280,7 +2125,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 53,
                 "craft-type": "create",
                 "name": "Beast Thunderbow",
                 "type": "bow"
@@ -2288,7 +2132,6 @@
         ]
     },
     {
-        "upgrade-id": 78,
         "name": "Daora's Sagittarii",
         "type": "bow",
         "upgrade-price": 117800,
@@ -2312,7 +2155,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 54,
                 "craft-type": "create",
                 "name": "Icy Steel Bow",
                 "type": "bow"
@@ -2320,7 +2162,6 @@
         ]
     },
     {
-        "upgrade-id": 79,
         "name": "Akantor Chaos Bow",
         "type": "bow",
         "upgrade-price": 145000,
@@ -2344,7 +2185,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 30,
                 "craft-type": "create",
                 "name": "Akantor Bow",
                 "type": "bow"
@@ -2352,7 +2192,6 @@
         ]
     },
     {
-        "upgrade-id": 80,
         "name": "Exterminator Bow II",
         "type": "bow",
         "upgrade-price": 150000,
@@ -2376,7 +2215,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 31,
                 "craft-type": "create",
                 "name": "Exterminator Bow I",
                 "type": "bow"
@@ -2384,7 +2222,6 @@
         ]
     },
     {
-        "upgrade-id": 81,
         "name": "Glorious Victory II",
         "type": "bow",
         "upgrade-price": 150000,
@@ -2408,7 +2245,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 32,
                 "craft-type": "create",
                 "name": "Glorious Victory I",
                 "type": "bow"

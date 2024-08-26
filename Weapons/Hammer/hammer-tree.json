@@ -1,6 +1,5 @@
 [
     {
-        "upgrade-id": 0,
         "name": "War Hammer+",
         "type": "hammer",
         "upgrade-price": 650,
@@ -16,7 +15,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "War Hammer",
                 "type": "hammer"
@@ -24,7 +22,6 @@
         ]
     },
     {
-        "upgrade-id": 1,
         "name": "War Mace",
         "type": "hammer",
         "upgrade-price": 1100,
@@ -40,7 +37,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "War Hammer+",
                 "type": "hammer"
@@ -48,7 +44,6 @@
         ]
     },
     {
-        "upgrade-id": 2,
         "name": "Large Bone Club",
         "type": "hammer",
         "upgrade-price": 2600,
@@ -64,7 +59,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Bone Club",
                 "type": "hammer"
@@ -72,7 +66,6 @@
         ]
     },
     {
-        "upgrade-id": 3,
         "name": "Cyclo-Hammer",
         "type": "hammer",
         "upgrade-price": 1750,
@@ -88,7 +81,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Bone Club",
                 "type": "hammer"
@@ -96,7 +88,6 @@
         ]
     },
     {
-        "upgrade-id": 4,
         "name": "Tarnished Hammer",
         "type": "hammer",
         "upgrade-price": 2500,
@@ -108,7 +99,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "create",
                 "name": "Rusted Hammer",
                 "type": "hammer"
@@ -116,7 +106,6 @@
         ]
     },
     {
-        "upgrade-id": 5,
         "name": "Iron Striker",
         "type": "hammer",
         "upgrade-price": 2150,
@@ -136,7 +125,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "War Mace",
                 "type": "hammer"
@@ -144,7 +132,6 @@
         ]
     },
     {
-        "upgrade-id": 6,
         "name": "Iron Striker+",
         "type": "hammer",
         "upgrade-price": 4250,
@@ -164,7 +151,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "create",
                 "name": "Iron Striker",
                 "type": "hammer"
@@ -172,7 +158,6 @@
         ]
     },
     {
-        "upgrade-id": 7,
         "name": "Bone Axe",
         "type": "hammer",
         "upgrade-price": 2150,
@@ -192,7 +177,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "War Mace",
                 "type": "hammer"
@@ -200,7 +184,6 @@
         ]
     },
     {
-        "upgrade-id": 8,
         "name": "Spiked Hammer",
         "type": "hammer",
         "upgrade-price": 1400,
@@ -220,7 +203,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "War Hammer+",
                 "type": "hammer"
@@ -228,7 +210,6 @@
         ]
     },
     {
-        "upgrade-id": 9,
         "name": "Spiked Hammer+",
         "type": "hammer",
         "upgrade-price": 1750,
@@ -248,7 +229,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "upgrade",
                 "name": "Spiked Hammer",
                 "type": "hammer"
@@ -256,7 +236,6 @@
         ]
     },
     {
-        "upgrade-id": 10,
         "name": "Enormous Ham",
         "type": "hammer",
         "upgrade-price": 7500,
@@ -276,7 +255,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "upgrade",
                 "name": "Large Bone Club",
                 "type": "hammer"
@@ -284,7 +262,6 @@
         ]
     },
     {
-        "upgrade-id": 11,
         "name": "Atlas Hammer",
         "type": "hammer",
         "upgrade-price": 1750,
@@ -300,7 +277,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Cyclo-Hammer",
                 "type": "hammer"
@@ -308,7 +284,6 @@
         ]
     },
     {
-        "upgrade-id": 12,
         "name": "Skullcrusher",
         "type": "hammer",
         "upgrade-price": 1400,
@@ -328,7 +303,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Cyclo-Hammer",
                 "type": "hammer"
@@ -336,7 +310,6 @@
         ]
     },
     {
-        "upgrade-id": 13,
         "name": "Skullcrusher+",
         "type": "hammer",
         "upgrade-price": 2150,
@@ -356,7 +329,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "upgrade",
                 "name": "Skullcrusher",
                 "type": "hammer"
@@ -364,7 +336,6 @@
         ]
     },
     {
-        "upgrade-id": 14,
         "name": "Conehead Hammer",
         "type": "hammer",
         "upgrade-price": 1400,
@@ -384,7 +355,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Cyclo-Hammer",
                 "type": "hammer"
@@ -392,7 +362,6 @@
         ]
     },
     {
-        "upgrade-id": 15,
         "name": "Bull Hammer",
         "type": "hammer",
         "upgrade-price": 1750,
@@ -412,7 +381,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Bone Club",
                 "type": "hammer"
@@ -420,7 +388,6 @@
         ]
     },
     {
-        "upgrade-id": 16,
         "name": "Gunhammer Prototype",
         "type": "hammer",
         "upgrade-price": 3100,
@@ -440,7 +407,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "create",
                 "name": "Iron Striker",
                 "type": "hammer"
@@ -448,7 +414,6 @@
         ]
     },
     {
-        "upgrade-id": 17,
         "name": "Anchor Hammer",
         "type": "hammer",
         "upgrade-price": 2150,
@@ -468,7 +433,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "War Mace",
                 "type": "hammer"
@@ -476,7 +440,6 @@
         ]
     },
     {
-        "upgrade-id": 18,
         "name": "Black Cauldron",
         "type": "hammer",
         "upgrade-price": 1400,
@@ -496,7 +459,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "War Mace",
                 "type": "hammer"
@@ -504,7 +466,6 @@
         ]
     },
     {
-        "upgrade-id": 19,
         "name": "Crystal Hammer",
         "type": "hammer",
         "upgrade-price": 2600,
@@ -524,7 +485,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "upgrade",
                 "name": "Spiked Hammer+",
                 "type": "hammer"
@@ -532,7 +492,6 @@
         ]
     },
     {
-        "upgrade-id": 20,
         "name": "Kut-Ku Jaw",
         "type": "hammer",
         "upgrade-price": 2600,
@@ -552,7 +511,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "upgrade",
                 "name": "Atlas Hammer",
                 "type": "hammer"
@@ -560,7 +518,6 @@
         ]
     },
     {
-        "upgrade-id": 21,
         "name": "Dynamic Hammer",
         "type": "hammer",
         "upgrade-price": 3100,
@@ -580,7 +537,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Kut-Ku Jaw",
                 "type": "hammer"
@@ -588,7 +544,6 @@
         ]
     },
     {
-        "upgrade-id": 22,
         "name": "Venom Monster",
         "type": "hammer",
         "upgrade-price": 3100,
@@ -608,7 +563,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Kut-Ku Jaw",
                 "type": "hammer"
@@ -616,7 +570,6 @@
         ]
     },
     {
-        "upgrade-id": 23,
         "name": "Jail Hammer",
         "type": "hammer",
         "upgrade-price": 3100,
@@ -636,7 +589,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "upgrade",
                 "name": "Atlas Hammer",
                 "type": "hammer"
@@ -644,7 +596,6 @@
         ]
     },
     {
-        "upgrade-id": 24,
         "name": "Dragonhead Hammer",
         "type": "hammer",
         "upgrade-price": 2600,
@@ -664,7 +615,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "upgrade",
                 "name": "Skullcrusher+",
                 "type": "hammer"
@@ -672,7 +622,6 @@
         ]
     },
     {
-        "upgrade-id": 25,
         "name": "Bull Head Hammer",
         "type": "hammer",
         "upgrade-price": 2150,
@@ -692,7 +641,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "create",
                 "name": "Bull Hammer",
                 "type": "hammer"
@@ -700,7 +648,6 @@
         ]
     },
     {
-        "upgrade-id": 26,
         "name": "Anchor Hammer+",
         "type": "hammer",
         "upgrade-price": 4900,
@@ -720,7 +667,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "upgrade",
                 "name": "Anchor Hammer",
                 "type": "hammer"
@@ -728,7 +674,6 @@
         ]
     },
     {
-        "upgrade-id": 27,
         "name": "One Star Silver Pot",
         "type": "hammer",
         "upgrade-price": 2150,
@@ -748,7 +693,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "Black Cauldron",
                 "type": "hammer"
@@ -756,7 +700,6 @@
         ]
     },
     {
-        "upgrade-id": 28,
         "name": "Bone Broadaxe",
         "type": "hammer",
         "upgrade-price": 5600,
@@ -776,7 +719,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "upgrade",
                 "name": "Bone Axe",
                 "type": "hammer"
@@ -784,7 +726,6 @@
         ]
     },
     {
-        "upgrade-id": 29,
         "name": "Crystal Nova",
         "type": "hammer",
         "upgrade-price": 3650,
@@ -804,7 +745,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "create",
                 "name": "Crystal Hammer",
                 "type": "hammer"
@@ -812,7 +752,6 @@
         ]
     },
     {
-        "upgrade-id": 30,
         "name": "Gigaton Hammer",
         "type": "hammer",
         "upgrade-price": 4250,
@@ -832,7 +771,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 29,
                 "craft-type": "upgrade",
                 "name": "Crystal Nova",
                 "type": "hammer"
@@ -840,7 +778,6 @@
         ]
     },
     {
-        "upgrade-id": 31,
         "name": "Shell Hammer",
         "type": "hammer",
         "upgrade-price": 4250,
@@ -860,7 +797,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "upgrade",
                 "name": "Spiked Hammer+",
                 "type": "hammer"
@@ -868,7 +804,6 @@
         ]
     },
     {
-        "upgrade-id": 32,
         "name": "Kut-Ku Pick",
         "type": "hammer",
         "upgrade-price": 5600,
@@ -888,7 +823,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Kut-Ku Jaw",
                 "type": "hammer"
@@ -896,7 +830,6 @@
         ]
     },
     {
-        "upgrade-id": 33,
         "name": "Binder Mace",
         "type": "hammer",
         "upgrade-price": 5600,
@@ -916,7 +849,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "upgrade",
                 "name": "Jail Hammer",
                 "type": "hammer"
@@ -924,7 +856,6 @@
         ]
     },
     {
-        "upgrade-id": 34,
         "name": "Diablos Maul",
         "type": "hammer",
         "upgrade-price": 4250,
@@ -944,7 +875,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "upgrade",
                 "name": "Skullcrusher+",
                 "type": "hammer"
@@ -952,7 +882,6 @@
         ]
     },
     {
-        "upgrade-id": 35,
         "name": "Basarios Blow",
         "type": "hammer",
         "upgrade-price": 4900,
@@ -972,7 +901,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Dragonhead Hammer",
                 "type": "hammer"
@@ -980,7 +908,6 @@
         ]
     },
     {
-        "upgrade-id": 36,
         "name": "Conehead Hammer+",
         "type": "hammer",
         "upgrade-price": 4250,
@@ -1000,7 +927,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "upgrade",
                 "name": "Conehead Hammer",
                 "type": "hammer"
@@ -1008,7 +934,6 @@
         ]
     },
     {
-        "upgrade-id": 37,
         "name": "Bull Tusk Hammer",
         "type": "hammer",
         "upgrade-price": 5600,
@@ -1028,7 +953,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "upgrade",
                 "name": "Bull Head Hammer",
                 "type": "hammer"
@@ -1036,7 +960,6 @@
         ]
     },
     {
-        "upgrade-id": 38,
         "name": "Black Cat Stamp",
         "type": "hammer",
         "upgrade-price": 3650,
@@ -1056,7 +979,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "create",
                 "name": "White Cat Stamp",
                 "type": "hammer"
@@ -1064,7 +986,6 @@
         ]
     },
     {
-        "upgrade-id": 39,
         "name": "Teddybear",
         "type": "hammer",
         "upgrade-price": 5000,
@@ -1084,7 +1005,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "create",
                 "name": "White Cat Stamp",
                 "type": "hammer"
@@ -1092,7 +1012,6 @@
         ]
     },
     {
-        "upgrade-id": 40,
         "name": "Anvil Hammer",
         "type": "hammer",
         "upgrade-price": 6350,
@@ -1112,7 +1031,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "create",
                 "name": "Iron Striker+",
                 "type": "hammer"
@@ -1120,7 +1038,6 @@
         ]
     },
     {
-        "upgrade-id": 41,
         "name": "Onslaught Hammer",
         "type": "hammer",
         "upgrade-price": 60000,
@@ -1140,7 +1057,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 40,
                 "craft-type": "upgrade",
                 "name": "Anvil Hammer",
                 "type": "hammer"
@@ -1148,7 +1064,6 @@
         ]
     },
     {
-        "upgrade-id": 42,
         "name": "Dead Revolver",
         "type": "hammer",
         "upgrade-price": 6350,
@@ -1168,7 +1083,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "create",
                 "name": "Gunhammer Prototype",
                 "type": "hammer"
@@ -1176,7 +1090,6 @@
         ]
     },
     {
-        "upgrade-id": 43,
         "name": "Titan Hammer",
         "type": "hammer",
         "upgrade-price": 8000,
@@ -1196,7 +1109,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 30,
                 "craft-type": "upgrade",
                 "name": "Gigaton Hammer",
                 "type": "hammer"
@@ -1204,7 +1116,6 @@
         ]
     },
     {
-        "upgrade-id": 44,
         "name": "Graviton Hammer",
         "type": "hammer",
         "upgrade-price": 4900,
@@ -1224,7 +1135,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 15,
                 "craft-type": "create",
                 "name": "Shell Hammer",
                 "type": "hammer"
@@ -1232,7 +1142,6 @@
         ]
     },
     {
-        "upgrade-id": 45,
         "name": "Raven Torrent",
         "type": "hammer",
         "upgrade-price": 10000,
@@ -1252,7 +1161,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Kut-Ku Jaw",
                 "type": "hammer"
@@ -1260,7 +1168,6 @@
         ]
     },
     {
-        "upgrade-id": 46,
         "name": "Finishing Hammer",
         "type": "hammer",
         "upgrade-price": 30000,
@@ -1280,7 +1187,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Diablos Maul",
                 "type": "hammer"
@@ -1288,7 +1194,6 @@
         ]
     },
     {
-        "upgrade-id": 47,
         "name": "Ancient Relic",
         "type": "hammer",
         "upgrade-price": 7150,
@@ -1308,7 +1213,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Dragonhead Hammer",
                 "type": "hammer"
@@ -1316,7 +1220,6 @@
         ]
     },
     {
-        "upgrade-id": 48,
         "name": "Breath Core Hammer",
         "type": "hammer",
         "upgrade-price": 40000,
@@ -1332,7 +1235,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Tarnished Hammer",
                 "type": "hammer"
@@ -1340,7 +1242,6 @@
         ]
     },
     {
-        "upgrade-id": 49,
         "name": "Jadite Mace",
         "type": "hammer",
         "upgrade-price": 35000,
@@ -1360,7 +1261,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Tarnished Hammer",
                 "type": "hammer"
@@ -1368,7 +1268,6 @@
         ]
     },
     {
-        "upgrade-id": 50,
         "name": "Jade Mace",
         "type": "hammer",
         "upgrade-price": 50000,
@@ -1388,7 +1287,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 49,
                 "craft-type": "upgrade",
                 "name": "Jadite Mace",
                 "type": "hammer"
@@ -1396,7 +1294,6 @@
         ]
     },
     {
-        "upgrade-id": 51,
         "name": "Green Monster",
         "type": "hammer",
         "upgrade-price": 30000,
@@ -1416,7 +1313,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "create",
                 "name": "Cactus Creamer",
                 "type": "hammer"
@@ -1424,7 +1320,6 @@
         ]
     },
     {
-        "upgrade-id": 52,
         "name": "Dragonbreaker",
         "type": "hammer",
         "upgrade-price": 40000,
@@ -1444,7 +1339,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Dragon Destroyer",
                 "type": "hammer"
@@ -1452,7 +1346,6 @@
         ]
     },
     {
-        "upgrade-id": 53,
         "name": "War Stamp",
         "type": "hammer",
         "upgrade-price": 30000,
@@ -1472,7 +1365,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 40,
                 "craft-type": "upgrade",
                 "name": "Anvil Hammer",
                 "type": "hammer"
@@ -1480,7 +1372,6 @@
         ]
     },
     {
-        "upgrade-id": 54,
         "name": "Iron Devil",
         "type": "hammer",
         "upgrade-price": 25000,
@@ -1500,7 +1391,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 40,
                 "craft-type": "upgrade",
                 "name": "Anvil Hammer",
                 "type": "hammer"
@@ -1508,7 +1398,6 @@
         ]
     },
     {
-        "upgrade-id": 55,
         "name": "Great Demon Hammer",
         "type": "hammer",
         "upgrade-price": 35000,
@@ -1528,7 +1417,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "create",
                 "name": "Iron Devil",
                 "type": "hammer"
@@ -1536,7 +1424,6 @@
         ]
     },
     {
-        "upgrade-id": 56,
         "name": "Sanctioned Gunhammer",
         "type": "hammer",
         "upgrade-price": 60000,
@@ -1560,7 +1447,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 42,
                 "craft-type": "upgrade",
                 "name": "Dead Revolver",
                 "type": "hammer"
@@ -1568,7 +1454,6 @@
         ]
     },
     {
-        "upgrade-id": 57,
         "name": "Anchor Crusher",
         "type": "hammer",
         "upgrade-price": 65000,
@@ -1588,7 +1473,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "upgrade",
                 "name": "Anchor Hammer+",
                 "type": "hammer"
@@ -1596,7 +1480,6 @@
         ]
     },
     {
-        "upgrade-id": 58,
         "name": "True Black Cauldron",
         "type": "hammer",
         "upgrade-price": 35000,
@@ -1616,7 +1499,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "Black Cauldron",
                 "type": "hammer"
@@ -1624,7 +1506,6 @@
         ]
     },
     {
-        "upgrade-id": 59,
         "name": "Bone Great Axe",
         "type": "hammer",
         "upgrade-price": 40000,
@@ -1648,7 +1529,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "upgrade",
                 "name": "Bone Broadaxe",
                 "type": "hammer"
@@ -1656,7 +1536,6 @@
         ]
     },
     {
-        "upgrade-id": 60,
         "name": "Great Nova",
         "type": "hammer",
         "upgrade-price": 50000,
@@ -1676,7 +1555,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 29,
                 "craft-type": "upgrade",
                 "name": "Crystal Nova",
                 "type": "hammer"
@@ -1684,7 +1562,6 @@
         ]
     },
     {
-        "upgrade-id": 61,
         "name": "Torment Hammer",
         "type": "hammer",
         "upgrade-price": 45000,
@@ -1704,7 +1581,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 44,
                 "craft-type": "upgrade",
                 "name": "Graviton Hammer",
                 "type": "hammer"
@@ -1712,7 +1588,6 @@
         ]
     },
     {
-        "upgrade-id": 62,
         "name": "Ham of Hams",
         "type": "hammer",
         "upgrade-price": 50000,
@@ -1732,7 +1607,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "upgrade",
                 "name": "Enormous Ham",
                 "type": "hammer"
@@ -1740,7 +1614,6 @@
         ]
     },
     {
-        "upgrade-id": 63,
         "name": "Hard Bone Hammer",
         "type": "hammer",
         "upgrade-price": 25000,
@@ -1760,7 +1633,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "create",
                 "name": "Kut-Ku Pick",
                 "type": "hammer"
@@ -1768,7 +1640,6 @@
         ]
     },
     {
-        "upgrade-id": 64,
         "name": "Hard Bone Hammer+",
         "type": "hammer",
         "upgrade-price": 35000,
@@ -1788,7 +1659,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "create",
                 "name": "Hard Bone Hammer",
                 "type": "hammer"
@@ -1796,7 +1666,6 @@
         ]
     },
     {
-        "upgrade-id": 65,
         "name": "Diablos Hammer",
         "type": "hammer",
         "upgrade-price": 45000,
@@ -1816,7 +1685,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 64,
                 "craft-type": "upgrade",
                 "name": "Hard Bone Hammer+",
                 "type": "hammer"
@@ -1824,7 +1692,6 @@
         ]
     },
     {
-        "upgrade-id": 66,
         "name": "Lobster Hammer",
         "type": "hammer",
         "upgrade-price": 30000,
@@ -1844,7 +1711,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "create",
                 "name": "Hard Bone Hammer",
                 "type": "hammer"
@@ -1852,7 +1718,6 @@
         ]
     },
     {
-        "upgrade-id": 67,
         "name": "Violence Hammer",
         "type": "hammer",
         "upgrade-price": 45000,
@@ -1872,7 +1737,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "upgrade",
                 "name": "Dynamic Hammer",
                 "type": "hammer"
@@ -1880,7 +1744,6 @@
         ]
     },
     {
-        "upgrade-id": 68,
         "name": "Weathered Hammer",
         "type": "hammer",
         "upgrade-price": 12500,
@@ -1892,7 +1755,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "create",
                 "name": "Worn Hammer",
                 "type": "hammer"
@@ -1900,7 +1762,6 @@
         ]
     },
     {
-        "upgrade-id": 69,
         "name": "White Cat Hammer",
         "type": "hammer",
         "upgrade-price": 20000,
@@ -1920,7 +1781,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "create",
                 "name": "White Cat Stamp",
                 "type": "hammer"
@@ -1928,7 +1788,6 @@
         ]
     },
     {
-        "upgrade-id": 70,
         "name": "Black Cat Hammer",
         "type": "hammer",
         "upgrade-price": 25000,
@@ -1948,7 +1807,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Black Cat Stamp",
                 "type": "hammer"
@@ -1956,7 +1814,6 @@
         ]
     },
     {
-        "upgrade-id": 71,
         "name": "dummy (Polytan G)",
         "type": "hammer",
         "upgrade-price": 550,
@@ -1976,7 +1833,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 20,
                 "craft-type": "create",
                 "name": "dummy (Polytan)",
                 "type": "hammer"
@@ -1984,7 +1840,6 @@
         ]
     },
     {
-        "upgrade-id": 72,
         "name": "dummy (Amezari Hammer+)",
         "type": "hammer",
         "upgrade-price": 25000,
@@ -2008,7 +1863,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "create",
                 "name": "dummy (Amezari Hammer)",
                 "type": "hammer"
@@ -2016,7 +1870,6 @@
         ]
     },
     {
-        "upgrade-id": 73,
         "name": "War Basher",
         "type": "hammer",
         "upgrade-price": 75000,
@@ -2036,7 +1889,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 53,
                 "craft-type": "upgrade",
                 "name": "War Stamp",
                 "type": "hammer"
@@ -2044,7 +1896,6 @@
         ]
     },
     {
-        "upgrade-id": 74,
         "name": "Iron Impact",
         "type": "hammer",
         "upgrade-price": 55000,
@@ -2064,7 +1915,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 55,
                 "craft-type": "upgrade",
                 "name": "Great Demon Hammer",
                 "type": "hammer"
@@ -2072,7 +1922,6 @@
         ]
     },
     {
-        "upgrade-id": 75,
         "name": "Fist of Fury",
         "type": "hammer",
         "upgrade-price": 35000,
@@ -2092,7 +1941,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "create",
                 "name": "Iron Devil",
                 "type": "hammer"
@@ -2100,7 +1948,6 @@
         ]
     },
     {
-        "upgrade-id": 76,
         "name": "Two Star Silver Pot",
         "type": "hammer",
         "upgrade-price": 50000,
@@ -2120,7 +1967,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "upgrade",
                 "name": "One Star Silver Pot",
                 "type": "hammer"
@@ -2128,7 +1974,6 @@
         ]
     },
     {
-        "upgrade-id": 77,
         "name": "Ceanataur Head Axe",
         "type": "hammer",
         "upgrade-price": 60000,
@@ -2152,7 +1997,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 59,
                 "craft-type": "upgrade",
                 "name": "Bone Great Axe",
                 "type": "hammer"
@@ -2160,7 +2004,6 @@
         ]
     },
     {
-        "upgrade-id": 78,
         "name": "Crater Maker",
         "type": "hammer",
         "upgrade-price": 70000,
@@ -2180,7 +2023,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 44,
                 "craft-type": "upgrade",
                 "name": "Graviton Hammer",
                 "type": "hammer"
@@ -2188,7 +2030,6 @@
         ]
     },
     {
-        "upgrade-id": 79,
         "name": "Torment (Purgatory)",
         "type": "hammer",
         "upgrade-price": 70000,
@@ -2208,7 +2049,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 61,
                 "craft-type": "upgrade",
                 "name": "Torment Hammer",
                 "type": "hammer"
@@ -2216,7 +2056,6 @@
         ]
     },
     {
-        "upgrade-id": 80,
         "name": "Diablo Chaos Broker",
         "type": "hammer",
         "upgrade-price": 75000,
@@ -2236,7 +2075,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 65,
                 "craft-type": "upgrade",
                 "name": "Diablos Hammer",
                 "type": "hammer"
@@ -2244,7 +2082,6 @@
         ]
     },
     {
-        "upgrade-id": 81,
         "name": "King Lobster Hammer",
         "type": "hammer",
         "upgrade-price": 55000,
@@ -2264,7 +2101,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 66,
                 "craft-type": "upgrade",
                 "name": "Lobster Hammer",
                 "type": "hammer"
@@ -2272,7 +2108,6 @@
         ]
     },
     {
-        "upgrade-id": 82,
         "name": "Wolf Torrent",
         "type": "hammer",
         "upgrade-price": 65000,
@@ -2292,7 +2127,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "create",
                 "name": "Raven Torrent",
                 "type": "hammer"
@@ -2300,7 +2134,6 @@
         ]
     },
     {
-        "upgrade-id": 83,
         "name": "Death Venom Hammer",
         "type": "hammer",
         "upgrade-price": 60000,
@@ -2320,7 +2153,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "upgrade",
                 "name": "Venom Monster",
                 "type": "hammer"
@@ -2328,7 +2160,6 @@
         ]
     },
     {
-        "upgrade-id": 84,
         "name": "Purse Bop",
         "type": "hammer",
         "upgrade-price": 50000,
@@ -2352,7 +2183,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "upgrade",
                 "name": "Khezu Horn+",
                 "type": "hunting-horn"
@@ -2360,7 +2190,6 @@
         ]
     },
     {
-        "upgrade-id": 85,
         "name": "Basarios Bash",
         "type": "hammer",
         "upgrade-price": 50000,
@@ -2380,7 +2209,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 35,
                 "craft-type": "upgrade",
                 "name": "Basarios Blow",
                 "type": "hammer"
@@ -2388,7 +2216,6 @@
         ]
     },
     {
-        "upgrade-id": 86,
         "name": "Great Cone",
         "type": "hammer",
         "upgrade-price": 50000,
@@ -2408,7 +2235,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 36,
                 "craft-type": "upgrade",
                 "name": "Conehead Hammer+",
                 "type": "hammer"
@@ -2416,7 +2242,6 @@
         ]
     },
     {
-        "upgrade-id": 87,
         "name": "Pulsating Core",
         "type": "hammer",
         "upgrade-price": 60000,
@@ -2432,7 +2257,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 68,
                 "craft-type": "upgrade",
                 "name": "Weathered Hammer",
                 "type": "hammer"
@@ -2440,7 +2264,6 @@
         ]
     },
     {
-        "upgrade-id": 88,
         "name": "Steel Ice Hammer",
         "type": "hammer",
         "upgrade-price": 80000,
@@ -2460,7 +2283,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 68,
                 "craft-type": "upgrade",
                 "name": "Weathered Hammer",
                 "type": "hammer"
@@ -2468,7 +2290,6 @@
         ]
     },
     {
-        "upgrade-id": 89,
         "name": "Tigrex Hammer",
         "type": "hammer",
         "upgrade-price": 80000,
@@ -2488,7 +2309,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "create",
                 "name": "Striped Striker",
                 "type": "hammer"
@@ -2496,7 +2316,6 @@
         ]
     },
     {
-        "upgrade-id": 90,
         "name": "Hidden Breaker",
         "type": "hammer",
         "upgrade-price": 80000,
@@ -2516,7 +2335,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "create",
                 "name": "Striped Striker",
                 "type": "hammer"
@@ -2524,7 +2342,6 @@
         ]
     },
     {
-        "upgrade-id": 91,
         "name": "Devil Masher",
         "type": "hammer",
         "upgrade-price": 55000,
@@ -2544,7 +2361,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 55,
                 "craft-type": "upgrade",
                 "name": "Great Demon Hammer",
                 "type": "hammer"
@@ -2552,7 +2368,6 @@
         ]
     },
     {
-        "upgrade-id": 92,
         "name": "Ancient Blow",
         "type": "hammer",
         "upgrade-price": 70000,
@@ -2572,7 +2387,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 75,
                 "craft-type": "upgrade",
                 "name": "Fist of Fury",
                 "type": "hammer"
@@ -2580,7 +2394,6 @@
         ]
     },
     {
-        "upgrade-id": 93,
         "name": "Lunastra's Crown",
         "type": "hammer",
         "upgrade-price": 90000,
@@ -2600,7 +2413,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 50,
                 "craft-type": "upgrade",
                 "name": "Jade Mace",
                 "type": "hammer"
@@ -2608,7 +2420,6 @@
         ]
     },
     {
-        "upgrade-id": 94,
         "name": "Daora's Colossus",
         "type": "hammer",
         "upgrade-price": 90000,
@@ -2628,7 +2439,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 88,
                 "craft-type": "upgrade",
                 "name": "Steel Ice Hammer",
                 "type": "hammer"
@@ -2636,7 +2446,6 @@
         ]
     },
     {
-        "upgrade-id": 95,
         "name": "Expert Hammer",
         "type": "hammer",
         "upgrade-price": 20000,
@@ -2656,7 +2465,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "create",
                 "name": "Black Belt Hammer",
                 "type": "hammer"
@@ -2664,7 +2472,6 @@
         ]
     },
     {
-        "upgrade-id": 96,
         "name": "Fatalis Buster",
         "type": "hammer",
         "upgrade-price": 100000,
@@ -2684,7 +2491,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "create",
                 "name": "Black Hammer",
                 "type": "hammer"
@@ -2692,7 +2498,6 @@
         ]
     },
     {
-        "upgrade-id": 97,
         "name": "AncientFatalisBuster",
         "type": "hammer",
         "upgrade-price": 100000,
@@ -2712,7 +2517,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "create",
                 "name": "Black Hammer",
                 "type": "hammer"
@@ -2720,7 +2524,6 @@
         ]
     },
     {
-        "upgrade-id": 98,
         "name": "Dragon Demolisher",
         "type": "hammer",
         "upgrade-price": 95000,
@@ -2740,7 +2543,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 52,
                 "craft-type": "upgrade",
                 "name": "Dragonbreaker",
                 "type": "hammer"
@@ -2748,7 +2550,6 @@
         ]
     },
     {
-        "upgrade-id": 99,
         "name": "Gold Cat Hammer",
         "type": "hammer",
         "upgrade-price": 45000,
@@ -2768,7 +2569,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Black Cat Stamp",
                 "type": "hammer"
@@ -2776,7 +2576,6 @@
         ]
     },
     {
-        "upgrade-id": 100,
         "name": "Blacksmith",
         "type": "hammer",
         "upgrade-price": 75000,
@@ -2796,7 +2595,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 41,
                 "craft-type": "upgrade",
                 "name": "Onslaught Hammer",
                 "type": "hammer"
@@ -2804,7 +2602,6 @@
         ]
     },
     {
-        "upgrade-id": 101,
         "name": "Juggernaut",
         "type": "hammer",
         "upgrade-price": 100000,
@@ -2824,7 +2621,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 33,
                 "craft-type": "create",
                 "name": "Blacksmith",
                 "type": "hammer"
@@ -2832,7 +2628,6 @@
         ]
     },
     {
-        "upgrade-id": 102,
         "name": "Devil Masher+",
         "type": "hammer",
         "upgrade-price": 80000,
@@ -2852,7 +2647,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 91,
                 "craft-type": "upgrade",
                 "name": "Devil Masher",
                 "type": "hammer"
@@ -2860,7 +2654,6 @@
         ]
     },
     {
-        "upgrade-id": 103,
         "name": "Iron Devil's Soul",
         "type": "hammer",
         "upgrade-price": 105000,
@@ -2880,7 +2673,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 102,
                 "craft-type": "upgrade",
                 "name": "Devil Masher+",
                 "type": "hammer"
@@ -2888,7 +2680,6 @@
         ]
     },
     {
-        "upgrade-id": 104,
         "name": "Iron Repellant",
         "type": "hammer",
         "upgrade-price": 85000,
@@ -2912,7 +2703,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 74,
                 "craft-type": "upgrade",
                 "name": "Iron Impact",
                 "type": "hammer"
@@ -2920,7 +2710,6 @@
         ]
     },
     {
-        "upgrade-id": 105,
         "name": "Icy Impact",
         "type": "hammer",
         "upgrade-price": 75000,
@@ -2944,7 +2733,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 74,
                 "craft-type": "upgrade",
                 "name": "Iron Impact",
                 "type": "hammer"
@@ -2952,7 +2740,6 @@
         ]
     },
     {
-        "upgrade-id": 106,
         "name": "Axion",
         "type": "hammer",
         "upgrade-price": 100000,
@@ -2976,7 +2763,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 34,
                 "craft-type": "create",
                 "name": "Icy Impact",
                 "type": "hammer"
@@ -2984,7 +2770,6 @@
         ]
     },
     {
-        "upgrade-id": 107,
         "name": "Regulation GunHammer",
         "type": "hammer",
         "upgrade-price": 95000,
@@ -3004,7 +2789,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 56,
                 "craft-type": "upgrade",
                 "name": "Sanctioned Gunhammer",
                 "type": "hammer"
@@ -3012,7 +2796,6 @@
         ]
     },
     {
-        "upgrade-id": 108,
         "name": "Carmine Axe",
         "type": "hammer",
         "upgrade-price": 85000,
@@ -3032,7 +2815,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 29,
                 "craft-type": "create",
                 "name": "Ceanataur Head Axe",
                 "type": "hammer"
@@ -3040,7 +2822,6 @@
         ]
     },
     {
-        "upgrade-id": 109,
         "name": "Super Nova",
         "type": "hammer",
         "upgrade-price": 100000,
@@ -3064,7 +2845,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 60,
                 "craft-type": "upgrade",
                 "name": "Great Nova",
                 "type": "hammer"
@@ -3072,7 +2852,6 @@
         ]
     },
     {
-        "upgrade-id": 110,
         "name": "VenomousCraterMaker",
         "type": "hammer",
         "upgrade-price": 90000,
@@ -3096,7 +2875,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 78,
                 "craft-type": "upgrade",
                 "name": "Crater Maker",
                 "type": "hammer"
@@ -3104,7 +2882,6 @@
         ]
     },
     {
-        "upgrade-id": 111,
         "name": "Royal Lobster Hammer",
         "type": "hammer",
         "upgrade-price": 90000,
@@ -3124,7 +2901,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 81,
                 "craft-type": "upgrade",
                 "name": "King Lobster Hammer",
                 "type": "hammer"
@@ -3132,7 +2908,6 @@
         ]
     },
     {
-        "upgrade-id": 112,
         "name": "Crow Torrent",
         "type": "hammer",
         "upgrade-price": 105000,
@@ -3156,7 +2931,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 82,
                 "craft-type": "upgrade",
                 "name": "Wolf Torrent",
                 "type": "hammer"
@@ -3164,7 +2938,6 @@
         ]
     },
     {
-        "upgrade-id": 113,
         "name": "Mysterious Jaw",
         "type": "hammer",
         "upgrade-price": 80000,
@@ -3188,7 +2961,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 67,
                 "craft-type": "upgrade",
                 "name": "Violence Hammer",
                 "type": "hammer"
@@ -3196,7 +2968,6 @@
         ]
     },
     {
-        "upgrade-id": 114,
         "name": "Purple Mace",
         "type": "hammer",
         "upgrade-price": 85000,
@@ -3216,7 +2987,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 83,
                 "craft-type": "upgrade",
                 "name": "Death Venom Hammer",
                 "type": "hammer"
@@ -3224,7 +2994,6 @@
         ]
     },
     {
-        "upgrade-id": 115,
         "name": "Pitohui Bird Mace",
         "type": "hammer",
         "upgrade-price": 110000,
@@ -3248,7 +3017,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 114,
                 "craft-type": "upgrade",
                 "name": "Purple Mace",
                 "type": "hammer"
@@ -3256,7 +3024,6 @@
         ]
     },
     {
-        "upgrade-id": 116,
         "name": "Purse Bop+",
         "type": "hammer",
         "upgrade-price": 85000,
@@ -3276,7 +3043,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 30,
                 "craft-type": "create",
                 "name": "Purse Bop",
                 "type": "hammer"
@@ -3284,7 +3050,6 @@
         ]
     },
     {
-        "upgrade-id": 117,
         "name": "Desert Cone",
         "type": "hammer",
         "upgrade-price": 115000,
@@ -3304,7 +3069,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 86,
                 "craft-type": "upgrade",
                 "name": "Great Cone",
                 "type": "hammer"
@@ -3312,7 +3076,6 @@
         ]
     },
     {
-        "upgrade-id": 118,
         "name": "Pulse Crusher Core",
         "type": "hammer",
         "upgrade-price": 100000,
@@ -3332,7 +3095,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 87,
                 "craft-type": "upgrade",
                 "name": "Pulsating Core",
                 "type": "hammer"
@@ -3340,7 +3102,6 @@
         ]
     },
     {
-        "upgrade-id": 119,
         "name": "Gold Cat Crusher",
         "type": "hammer",
         "upgrade-price": 90000,
@@ -3364,7 +3125,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 32,
                 "craft-type": "create",
                 "name": "Gold Cat Hammer",
                 "type": "hammer"
@@ -3372,7 +3132,6 @@
         ]
     },
     {
-        "upgrade-id": 120,
         "name": "dummy (True Polytan G)",
         "type": "hammer",
         "upgrade-price": 590,
@@ -3392,7 +3151,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 71,
                 "craft-type": "upgrade",
                 "name": "dummy (Polytan G)",
                 "type": "hammer"
@@ -3400,7 +3158,6 @@
         ]
     },
     {
-        "upgrade-id": 121,
         "name": "dummy (Amezari Impact)",
         "type": "hammer",
         "upgrade-price": 25000,
@@ -3424,7 +3181,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 72,
                 "craft-type": "upgrade",
                 "name": "dummy (Amezari Hammer+)",
                 "type": "hammer"
@@ -3432,7 +3188,6 @@
         ]
     },
     {
-        "upgrade-id": 122,
         "name": "Foolhardy Stone Fist",
         "type": "hammer",
         "upgrade-price": 110000,
@@ -3452,7 +3207,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 75,
                 "craft-type": "upgrade",
                 "name": "Fist of Fury",
                 "type": "hammer"
@@ -3460,7 +3214,6 @@
         ]
     },
     {
-        "upgrade-id": 123,
         "name": "ImperialGunHmmrSpark",
         "type": "hammer",
         "upgrade-price": 120000,
@@ -3484,7 +3237,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 35,
                 "craft-type": "create",
                 "name": "Regulation GunHammer",
                 "type": "hammer"
@@ -3492,7 +3244,6 @@
         ]
     },
     {
-        "upgrade-id": 124,
         "name": "Big Blue Chopper",
         "type": "hammer",
         "upgrade-price": 110000,
@@ -3516,7 +3267,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 29,
                 "craft-type": "create",
                 "name": "Ceanataur Head Axe",
                 "type": "hammer"
@@ -3524,7 +3274,6 @@
         ]
     },
     {
-        "upgrade-id": 125,
         "name": "The Great Divider",
         "type": "hammer",
         "upgrade-price": 115000,
@@ -3548,7 +3297,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 36,
                 "craft-type": "create",
                 "name": "Carmine Axe",
                 "type": "hammer"
@@ -3556,7 +3304,6 @@
         ]
     },
     {
-        "upgrade-id": 126,
         "name": "Glasya-Labolas",
         "type": "hammer",
         "upgrade-price": 115000,
@@ -3580,7 +3327,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 110,
                 "craft-type": "upgrade",
                 "name": "VenomousCraterMaker",
                 "type": "hammer"
@@ -3588,7 +3334,6 @@
         ]
     },
     {
-        "upgrade-id": 127,
         "name": "Chaotic Order",
         "type": "hammer",
         "upgrade-price": 115000,
@@ -3612,7 +3357,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 80,
                 "craft-type": "upgrade",
                 "name": "Diablo Chaos Broker",
                 "type": "hammer"
@@ -3620,7 +3364,6 @@
         ]
     },
     {
-        "upgrade-id": 128,
         "name": "Khezu Thunder",
         "type": "hammer",
         "upgrade-price": 120000,
@@ -3644,7 +3387,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 116,
                 "craft-type": "upgrade",
                 "name": "Purse Bop+",
                 "type": "hammer"
@@ -3652,7 +3394,6 @@
         ]
     },
     {
-        "upgrade-id": 129,
         "name": "Magnitude",
         "type": "hammer",
         "upgrade-price": 115000,
@@ -3676,7 +3417,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 37,
                 "craft-type": "create",
                 "name": "Desert Cone",
                 "type": "hammer"
@@ -3684,7 +3424,6 @@
         ]
     },
     {
-        "upgrade-id": 130,
         "name": "Luna's Skirt",
         "type": "hammer",
         "upgrade-price": 130000,
@@ -3708,7 +3447,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 93,
                 "craft-type": "upgrade",
                 "name": "Lunastra's Crown",
                 "type": "hammer"
@@ -3716,7 +3454,6 @@
         ]
     },
     {
-        "upgrade-id": 131,
         "name": "Daora's Hyperborea",
         "type": "hammer",
         "upgrade-price": 130000,
@@ -3740,7 +3477,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 94,
                 "craft-type": "upgrade",
                 "name": "Daora's Colossus",
                 "type": "hammer"
@@ -3748,7 +3484,6 @@
         ]
     },
     {
-        "upgrade-id": 132,
         "name": "Warrior's Hammer",
         "type": "hammer",
         "upgrade-price": 75000,
@@ -3772,7 +3507,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 95,
                 "craft-type": "upgrade",
                 "name": "Expert Hammer",
                 "type": "hammer"
@@ -3780,7 +3514,6 @@
         ]
     },
     {
-        "upgrade-id": 133,
         "name": "Fatalis Demolisher",
         "type": "hammer",
         "upgrade-price": 150000,
@@ -3804,7 +3537,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 96,
                 "craft-type": "upgrade",
                 "name": "Fatalis Buster",
                 "type": "hammer"
@@ -3812,7 +3544,6 @@
         ]
     },
     {
-        "upgrade-id": 134,
         "name": "AncientFatalisRuiner",
         "type": "hammer",
         "upgrade-price": 150000,
@@ -3836,7 +3567,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 97,
                 "craft-type": "upgrade",
                 "name": "AncientFatalisBuster",
                 "type": "hammer"
@@ -3844,7 +3574,6 @@
         ]
     },
     {
-        "upgrade-id": 135,
         "name": "Claw of Doom",
         "type": "hammer",
         "upgrade-price": 140000,
@@ -3868,7 +3597,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 98,
                 "craft-type": "upgrade",
                 "name": "Dragon Demolisher",
                 "type": "hammer"
@@ -3876,7 +3604,6 @@
         ]
     },
     {
-        "upgrade-id": 136,
         "name": "Tigrex Hammer+",
         "type": "hammer",
         "upgrade-price": 125000,
@@ -3900,7 +3627,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 89,
                 "craft-type": "upgrade",
                 "name": "Tigrex Hammer",
                 "type": "hammer"
@@ -3908,7 +3634,6 @@
         ]
     },
     {
-        "upgrade-id": 137,
         "name": "Deep Darkhammer",
         "type": "hammer",
         "upgrade-price": 120000,
@@ -3932,7 +3657,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 31,
                 "craft-type": "create",
                 "name": "Hidden Breaker",
                 "type": "hammer"

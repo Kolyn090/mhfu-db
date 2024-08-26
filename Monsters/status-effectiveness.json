@@ -1,10 +1,8 @@
 [
     {
-        "id": 0,
         "monster": "King Shakalaka",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 0,
@@ -15,7 +13,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 0,
@@ -26,7 +23,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 100,
                 "tolerance-inc": 0,
@@ -37,7 +33,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 0,
@@ -50,11 +45,9 @@
         ]
     },
     {
-        "id": 1,
         "monster": "Vespoid Queen",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 0,
@@ -65,7 +58,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 0,
@@ -76,7 +68,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 0,
@@ -89,11 +80,9 @@
         ]
     },
     {
-        "id": 2,
         "monster": "Giadrome",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 25,
@@ -104,7 +93,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 80,
                 "tolerance-inc": 15,
@@ -115,7 +103,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "paralyze",
                 "initial-tolerance": 70,
                 "tolerance-inc": 15,
@@ -126,7 +113,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 80,
                 "tolerance-inc": 15,
@@ -139,11 +125,9 @@
         ]
     },
     {
-        "id": 3,
         "monster": "Velocidrome",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 25,
@@ -154,7 +138,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 80,
                 "tolerance-inc": 15,
@@ -165,7 +148,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "paralyze",
                 "initial-tolerance": 70,
                 "tolerance-inc": 15,
@@ -176,7 +158,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 80,
                 "tolerance-inc": 15,
@@ -189,11 +170,9 @@
         ]
     },
     {
-        "id": 4,
         "monster": "Gendrome",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -204,7 +183,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -215,7 +193,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "paralyze",
                 "initial-tolerance": 70,
                 "tolerance-inc": 15,
@@ -226,7 +203,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -239,11 +215,9 @@
         ]
     },
     {
-        "id": 5,
         "monster": "Iodrome",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -254,7 +228,6 @@
                 "damage": 60
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 80,
                 "tolerance-inc": 15,
@@ -265,7 +238,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "paralyze",
                 "initial-tolerance": 75,
                 "tolerance-inc": 15,
@@ -276,7 +248,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 110,
                 "tolerance-inc": 15,
@@ -289,11 +260,9 @@
         ]
     },
     {
-        "id": 6,
         "monster": "Yian Kut-Ku",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -304,7 +273,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 65,
@@ -315,7 +283,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 110,
                 "tolerance-inc": 25,
@@ -326,7 +293,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 65,
@@ -339,11 +305,9 @@
         ]
     },
     {
-        "id": 7,
         "monster": "Blue Yian Kut-Ku",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -354,7 +318,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 65,
@@ -365,7 +328,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 110,
                 "tolerance-inc": 25,
@@ -376,7 +338,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 65,
@@ -389,11 +350,9 @@
         ]
     },
     {
-        "id": 8,
         "monster": "Yian Garuga",
         "types": [
             {
-                "id": 0,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 100,
@@ -404,7 +363,6 @@
                 "damage": 0
             },
             {
-                "id": 1,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -415,7 +373,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -428,11 +385,9 @@
         ]
     },
     {
-        "id": 9,
         "monster": "Scarred Yian Garuga",
         "types": [
             {
-                "id": 0,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 100,
@@ -443,7 +398,6 @@
                 "damage": 0
             },
             {
-                "id": 1,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -454,7 +408,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -467,11 +420,9 @@
         ]
     },
     {
-        "id": 10,
         "monster": "Gypceros",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -482,7 +433,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -493,7 +443,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 25,
@@ -504,7 +453,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -517,11 +465,9 @@
         ]
     },
     {
-        "id": 11,
         "monster": "Purple Gypceros",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 300,
                 "tolerance-inc": 75,
@@ -532,7 +478,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -543,7 +488,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -556,11 +500,9 @@
         ]
     },
     {
-        "id": 12,
         "monster": "Purple ypceros",
         "types": [
             {
-                "id": 0,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 25,
@@ -573,11 +515,9 @@
         ]
     },
     {
-        "id": 13,
         "monster": "Hypnocatrice",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -588,7 +528,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 65,
@@ -599,7 +538,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 110,
                 "tolerance-inc": 25,
@@ -610,7 +548,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 65,
@@ -623,11 +560,9 @@
         ]
     },
     {
-        "id": 14,
         "monster": "Rathian",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -638,7 +573,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 110,
                 "tolerance-inc": 75,
@@ -649,7 +583,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -660,7 +593,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 120,
                 "tolerance-inc": 75,
@@ -673,11 +605,9 @@
         ]
     },
     {
-        "id": 15,
         "monster": "Pink Rathian",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -688,7 +618,6 @@
                 "damage": 360
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 125,
                 "tolerance-inc": 75,
@@ -699,7 +628,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -710,7 +638,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 125,
                 "tolerance-inc": 75,
@@ -723,11 +650,9 @@
         ]
     },
     {
-        "id": 16,
         "monster": "Gold Rathian",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 350,
                 "tolerance-inc": 100,
@@ -738,7 +663,6 @@
                 "damage": 360
             },
             {
-                "id": 1,
                 "type": "poison-G",
                 "initial-tolerance": 350,
                 "tolerance-inc": 100,
@@ -749,7 +673,6 @@
                 "damage": 360
             },
             {
-                "id": 2,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -760,7 +683,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "paralyze-G",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -771,7 +693,6 @@
                 "damage": 0
             },
             {
-                "id": 4,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -782,7 +703,6 @@
                 "damage": 0
             },
             {
-                "id": 5,
                 "type": "sleep-G",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -793,7 +713,6 @@
                 "damage": 0
             },
             {
-                "id": 6,
                 "type": "knockout",
                 "initial-tolerance": 120,
                 "tolerance-inc": 120,
@@ -804,7 +723,6 @@
                 "damage": 0
             },
             {
-                "id": 7,
                 "type": "knockout",
                 "initial-tolerance": 120,
                 "tolerance-inc": 120,
@@ -817,11 +735,9 @@
         ]
     },
     {
-        "id": 17,
         "monster": "Rathalos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 110,
                 "tolerance-inc": 75,
@@ -832,7 +748,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -843,7 +758,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -854,7 +768,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 160,
                 "tolerance-inc": 60,
@@ -867,11 +780,9 @@
         ]
     },
     {
-        "id": 18,
         "monster": "Azure Rathalos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 215,
                 "tolerance-inc": 75,
@@ -882,7 +793,6 @@
                 "damage": 360
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 125,
                 "tolerance-inc": 75,
@@ -893,7 +803,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -904,7 +813,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 175,
                 "tolerance-inc": 75,
@@ -917,11 +825,9 @@
         ]
     },
     {
-        "id": 19,
         "monster": "Silver Rathalos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 400,
                 "tolerance-inc": 100,
@@ -932,7 +838,6 @@
                 "damage": 420
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -943,7 +848,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -954,7 +858,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 160,
                 "tolerance-inc": 60,
@@ -967,11 +870,9 @@
         ]
     },
     {
-        "id": 20,
         "monster": "Khezu",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 110,
                 "tolerance-inc": 75,
@@ -982,7 +883,6 @@
                 "damage": 60
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -993,7 +893,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 25,
@@ -1004,7 +903,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1017,11 +915,9 @@
         ]
     },
     {
-        "id": 21,
         "monster": "Red Khezu",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 110,
                 "tolerance-inc": 75,
@@ -1032,7 +928,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 350,
                 "tolerance-inc": 75,
@@ -1043,7 +938,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 25,
@@ -1054,7 +948,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "sleep",
                 "initial-tolerance": 350,
                 "tolerance-inc": 75,
@@ -1067,11 +960,9 @@
         ]
     },
     {
-        "id": 22,
         "monster": "Basarios",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1082,7 +973,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1093,7 +983,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -1104,7 +993,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1117,11 +1005,9 @@
         ]
     },
     {
-        "id": 23,
         "monster": "Gravios",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1132,7 +1018,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1143,7 +1028,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1154,7 +1038,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1167,11 +1050,9 @@
         ]
     },
     {
-        "id": 24,
         "monster": "Black Gravios",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1182,7 +1063,6 @@
                 "damage": 480
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 100,
@@ -1193,7 +1073,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1204,7 +1083,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 120,
                 "tolerance-inc": 50,
@@ -1217,11 +1095,9 @@
         ]
     },
     {
-        "id": 25,
         "monster": "Monoblos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1232,7 +1108,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1243,7 +1118,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -1254,7 +1128,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1267,11 +1140,9 @@
         ]
     },
     {
-        "id": 26,
         "monster": "White Monoblos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 100,
@@ -1282,7 +1153,6 @@
                 "damage": 360
             },
             {
-                "id": 1,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1293,7 +1163,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "poison",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -1304,7 +1173,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1317,11 +1185,9 @@
         ]
     },
     {
-        "id": 27,
         "monster": "Diablos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1332,7 +1198,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1343,7 +1208,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 25,
@@ -1354,7 +1218,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -1367,11 +1230,9 @@
         ]
     },
     {
-        "id": 28,
         "monster": "Black Diablos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 250,
                 "tolerance-inc": 50,
@@ -1382,7 +1243,6 @@
                 "damage": 360
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 250,
                 "tolerance-inc": 75,
@@ -1393,7 +1253,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 25,
@@ -1404,7 +1263,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 250,
                 "tolerance-inc": 75,
@@ -1417,11 +1275,9 @@
         ]
     },
     {
-        "id": 29,
         "monster": "Tigrex",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1432,7 +1288,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1443,7 +1298,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1454,7 +1308,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 120,
                 "tolerance-inc": 75,
@@ -1467,11 +1320,9 @@
         ]
     },
     {
-        "id": 30,
         "monster": "Nargacuga",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1482,7 +1333,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1493,7 +1343,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 100,
@@ -1504,7 +1353,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 120,
                 "tolerance-inc": 75,
@@ -1517,11 +1365,9 @@
         ]
     },
     {
-        "id": 31,
         "monster": "Akantor",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 400,
                 "tolerance-inc": 75,
@@ -1532,7 +1378,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 350,
                 "tolerance-inc": 100,
@@ -1543,7 +1388,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 350,
                 "tolerance-inc": 50,
@@ -1554,7 +1398,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1567,11 +1410,9 @@
         ]
     },
     {
-        "id": 32,
         "monster": "Ukanlos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 400,
                 "tolerance-inc": 75,
@@ -1582,7 +1423,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 350,
                 "tolerance-inc": 100,
@@ -1593,7 +1433,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 350,
                 "tolerance-inc": 50,
@@ -1604,7 +1443,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -1617,11 +1455,9 @@
         ]
     },
     {
-        "id": 33,
         "monster": "Cephadrome",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -1632,7 +1468,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -1643,7 +1478,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 110,
                 "tolerance-inc": 25,
@@ -1654,7 +1488,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -1667,11 +1500,9 @@
         ]
     },
     {
-        "id": 34,
         "monster": "Plesioth",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1682,7 +1513,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1693,7 +1523,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -1704,7 +1533,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 130,
                 "tolerance-inc": 50,
@@ -1717,11 +1545,9 @@
         ]
     },
     {
-        "id": 35,
         "monster": "Green Plesioth",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 100,
@@ -1732,7 +1558,6 @@
                 "damage": 360
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 100,
@@ -1743,7 +1568,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1754,7 +1578,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 130,
                 "tolerance-inc": 100,
@@ -1767,11 +1590,9 @@
         ]
     },
     {
-        "id": 36,
         "monster": "Lavasioth",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1782,7 +1603,6 @@
                 "damage": 120
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1793,7 +1613,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1804,7 +1623,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 130,
                 "tolerance-inc": 50,
@@ -1817,11 +1635,9 @@
         ]
     },
     {
-        "id": 37,
         "monster": "Daimyo Hermitaur",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1832,7 +1648,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 110,
                 "tolerance-inc": 100,
@@ -1843,7 +1658,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -1854,7 +1668,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1867,11 +1680,9 @@
         ]
     },
     {
-        "id": 38,
         "monster": "Plum Daimyo Hermitaur",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1882,7 +1693,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 110,
                 "tolerance-inc": 120,
@@ -1893,7 +1703,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 70,
@@ -1904,7 +1713,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1917,11 +1725,9 @@
         ]
     },
     {
-        "id": 39,
         "monster": "Shogun Ceanataur",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -1932,7 +1738,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 125,
                 "tolerance-inc": 90,
@@ -1943,7 +1748,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -1954,7 +1758,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -1967,11 +1770,9 @@
         ]
     },
     {
-        "id": 40,
         "monster": "Terra Shogun Ceanataur",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -1982,7 +1783,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 125,
                 "tolerance-inc": 110,
@@ -1993,7 +1793,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -2004,7 +1803,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 75,
@@ -2017,11 +1815,9 @@
         ]
     },
     {
-        "id": 41,
         "monster": "Bulldrome",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 30,
                 "tolerance-inc": 30,
@@ -2032,7 +1828,6 @@
                 "damage": 180
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 0,
@@ -2043,7 +1838,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 30,
                 "tolerance-inc": 0,
@@ -2054,7 +1848,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 0,
@@ -2067,11 +1860,9 @@
         ]
     },
     {
-        "id": 42,
         "monster": "Congalala",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2082,7 +1873,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 125,
@@ -2093,7 +1883,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 100,
@@ -2104,7 +1893,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2117,11 +1905,9 @@
         ]
     },
     {
-        "id": 43,
         "monster": "Emerald Congalala",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 125,
@@ -2132,7 +1918,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 150,
@@ -2143,7 +1928,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 150,
@@ -2154,7 +1938,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2167,11 +1950,9 @@
         ]
     },
     {
-        "id": 44,
         "monster": "Blangonga",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2182,7 +1963,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2193,7 +1973,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -2204,7 +1983,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2217,11 +1995,9 @@
         ]
     },
     {
-        "id": 45,
         "monster": "Copper Blangonga",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2232,7 +2008,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 100,
@@ -2243,7 +2018,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -2254,7 +2028,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2267,11 +2040,9 @@
         ]
     },
     {
-        "id": 46,
         "monster": "Rajang",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2282,7 +2053,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2293,7 +2063,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 100,
@@ -2304,7 +2073,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2317,11 +2085,9 @@
         ]
     },
     {
-        "id": 47,
         "monster": "Furious Rajang",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2332,7 +2098,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2343,7 +2108,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 100,
@@ -2354,7 +2118,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2367,11 +2130,9 @@
         ]
     },
     {
-        "id": 48,
         "monster": "Kirin",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2382,7 +2143,6 @@
                 "damage": 60
             },
             {
-                "id": 1,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -2395,11 +2155,9 @@
         ]
     },
     {
-        "id": 49,
         "monster": "Kushala Daora",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -2410,7 +2168,6 @@
                 "damage": 288
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 125,
@@ -2421,7 +2178,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -2432,7 +2188,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2445,11 +2200,9 @@
         ]
     },
     {
-        "id": 50,
         "monster": "Rusted Kushala Daora",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -2460,7 +2213,6 @@
                 "damage": 288
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 200,
                 "tolerance-inc": 125,
@@ -2471,7 +2223,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -2482,7 +2233,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 100,
                 "tolerance-inc": 50,
@@ -2495,11 +2245,9 @@
         ]
     },
     {
-        "id": 51,
         "monster": "Chameleos",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 200,
                 "tolerance-inc": 75,
@@ -2510,7 +2258,6 @@
                 "damage": 240
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 110,
                 "tolerance-inc": 120,
@@ -2521,7 +2268,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 75,
@@ -2532,7 +2278,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -2545,11 +2290,9 @@
         ]
     },
     {
-        "id": 52,
         "monster": "Lunastra",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 175,
                 "tolerance-inc": 100,
@@ -2560,7 +2303,6 @@
                 "damage": 300
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 100,
@@ -2571,7 +2313,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -2582,7 +2323,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,
@@ -2595,11 +2335,9 @@
         ]
     },
     {
-        "id": 53,
         "monster": "Teostra",
         "types": [
             {
-                "id": 0,
                 "type": "poison",
                 "initial-tolerance": 175,
                 "tolerance-inc": 100,
@@ -2610,7 +2348,6 @@
                 "damage": 280
             },
             {
-                "id": 1,
                 "type": "paralyze",
                 "initial-tolerance": 150,
                 "tolerance-inc": 100,
@@ -2621,7 +2358,6 @@
                 "damage": 0
             },
             {
-                "id": 2,
                 "type": "sleep",
                 "initial-tolerance": 200,
                 "tolerance-inc": 50,
@@ -2632,7 +2368,6 @@
                 "damage": 0
             },
             {
-                "id": 3,
                 "type": "knockout",
                 "initial-tolerance": 150,
                 "tolerance-inc": 50,

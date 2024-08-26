@@ -1,6 +1,5 @@
 [
     {
-        "upgrade-id": 0,
         "name": "Twin Dagger",
         "type": "dual-blades",
         "upgrade-price": 680,
@@ -16,7 +15,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "Hunter's Dagger+",
                 "type": "sword"
@@ -24,7 +22,6 @@
         ]
     },
     {
-        "upgrade-id": 1,
         "name": "Twin Dagger+",
         "type": "dual-blades",
         "upgrade-price": 1120,
@@ -44,7 +41,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Twin Dagger",
                 "type": "dual-blades"
@@ -52,7 +48,6 @@
         ]
     },
     {
-        "upgrade-id": 2,
         "name": "Dual Tomahawk",
         "type": "dual-blades",
         "upgrade-price": 1720,
@@ -72,7 +67,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "Twin Dagger+",
                 "type": "dual-blades"
@@ -80,7 +74,6 @@
         ]
     },
     {
-        "upgrade-id": 3,
         "name": "Glutton's Set",
         "type": "dual-blades",
         "upgrade-price": 1400,
@@ -100,7 +93,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "Twin Dagger+",
                 "type": "dual-blades"
@@ -108,7 +100,6 @@
         ]
     },
     {
-        "upgrade-id": 4,
         "name": "Giaprey Claws",
         "type": "dual-blades",
         "upgrade-price": 880,
@@ -124,7 +115,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Hunter's Dagger",
                 "type": "sword"
@@ -132,7 +122,6 @@
         ]
     },
     {
-        "upgrade-id": 5,
         "name": "Giaprey Claws+",
         "type": "dual-blades",
         "upgrade-price": 1720,
@@ -152,7 +141,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Giaprey Claws",
                 "type": "dual-blades"
@@ -160,7 +148,6 @@
         ]
     },
     {
-        "upgrade-id": 6,
         "name": "Bone Scythe+",
         "type": "dual-blades",
         "upgrade-price": 880,
@@ -176,13 +163,11 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "Bone Scythe",
                 "type": "dual-blades"
             },
             {
-                "id": 3,
                 "craft-type": "upgrade",
                 "name": "Bone Kris+",
                 "type": "sword"
@@ -190,7 +175,6 @@
         ]
     },
     {
-        "upgrade-id": 7,
         "name": "Chief Scythe",
         "type": "dual-blades",
         "upgrade-price": 1400,
@@ -210,7 +194,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "upgrade",
                 "name": "Bone Scythe+",
                 "type": "dual-blades"
@@ -218,7 +201,6 @@
         ]
     },
     {
-        "upgrade-id": 8,
         "name": "Twin Kut-Ku",
         "type": "dual-blades",
         "upgrade-price": 1720,
@@ -238,7 +220,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "upgrade",
                 "name": "Chief Scythe",
                 "type": "dual-blades"
@@ -246,7 +227,6 @@
         ]
     },
     {
-        "upgrade-id": 9,
         "name": "Velociprey Claws",
         "type": "dual-blades",
         "upgrade-price": 2480,
@@ -266,13 +246,11 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "upgrade",
                 "name": "Giaprey Claws+",
                 "type": "dual-blades"
             },
             {
-                "id": 6,
                 "craft-type": "create",
                 "name": "Velocidrome Bite",
                 "type": "sword"
@@ -280,7 +258,6 @@
         ]
     },
     {
-        "upgrade-id": 10,
         "name": "Order Rapier",
         "type": "dual-blades",
         "upgrade-price": 2480,
@@ -300,7 +277,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "upgrade",
                 "name": "Dual Tomahawk",
                 "type": "dual-blades"
@@ -308,7 +284,6 @@
         ]
     },
     {
-        "upgrade-id": 11,
         "name": "Insector",
         "type": "dual-blades",
         "upgrade-price": 2480,
@@ -328,7 +303,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "Twin Dagger+",
                 "type": "dual-blades"
@@ -336,7 +310,6 @@
         ]
     },
     {
-        "upgrade-id": 12,
         "name": "Cutlass",
         "type": "dual-blades",
         "upgrade-price": 2920,
@@ -356,7 +329,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "upgrade",
                 "name": "Chief Scythe",
                 "type": "dual-blades"
@@ -364,7 +336,6 @@
         ]
     },
     {
-        "upgrade-id": 13,
         "name": "Pink Maracas",
         "type": "dual-blades",
         "upgrade-price": 2080,
@@ -384,7 +355,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "create",
                 "name": "Twin Kut-Ku",
                 "type": "dual-blades"
@@ -392,7 +362,6 @@
         ]
     },
     {
-        "upgrade-id": 14,
         "name": "Freezing Daggers",
         "type": "dual-blades",
         "upgrade-price": 3400,
@@ -412,7 +381,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "upgrade",
                 "name": "Frost Edge+",
                 "type": "sword"
@@ -420,7 +388,6 @@
         ]
     },
     {
-        "upgrade-id": 15,
         "name": "Dual Tomahawk+",
         "type": "dual-blades",
         "upgrade-price": 3400,
@@ -440,7 +407,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "upgrade",
                 "name": "Dual Tomahawk",
                 "type": "dual-blades"
@@ -448,7 +414,6 @@
         ]
     },
     {
-        "upgrade-id": 16,
         "name": "Holy Saber",
         "type": "dual-blades",
         "upgrade-price": 3400,
@@ -468,7 +433,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "create",
                 "name": "Order Rapier",
                 "type": "dual-blades"
@@ -476,7 +440,6 @@
         ]
     },
     {
-        "upgrade-id": 17,
         "name": "Insector+",
         "type": "dual-blades",
         "upgrade-price": 2920,
@@ -496,7 +459,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "upgrade",
                 "name": "Insector",
                 "type": "dual-blades"
@@ -504,7 +466,6 @@
         ]
     },
     {
-        "upgrade-id": 18,
         "name": "Spatula Set",
         "type": "dual-blades",
         "upgrade-price": 25000,
@@ -524,7 +485,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Glutton's Set",
                 "type": "dual-blades"
@@ -532,7 +492,6 @@
         ]
     },
     {
-        "upgrade-id": 19,
         "name": "Velociprey Claws+",
         "type": "dual-blades",
         "upgrade-price": 4480,
@@ -552,7 +511,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "upgrade",
                 "name": "Velociprey Claws",
                 "type": "dual-blades"
@@ -560,7 +518,6 @@
         ]
     },
     {
-        "upgrade-id": 20,
         "name": "Snow Venom",
         "type": "dual-blades",
         "upgrade-price": 5080,
@@ -580,7 +537,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "upgrade",
                 "name": "Giaprey Claws+",
                 "type": "dual-blades"
@@ -588,7 +544,6 @@
         ]
     },
     {
-        "upgrade-id": 21,
         "name": "Twin Flames",
         "type": "dual-blades",
         "upgrade-price": 3920,
@@ -608,7 +563,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Red Saber",
                 "type": "sword"
@@ -616,7 +570,6 @@
         ]
     },
     {
-        "upgrade-id": 22,
         "name": "Bladed Edge",
         "type": "dual-blades",
         "upgrade-price": 3400,
@@ -636,7 +589,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "upgrade",
                 "name": "Chief Scythe",
                 "type": "dual-blades"
@@ -644,7 +596,6 @@
         ]
     },
     {
-        "upgrade-id": 23,
         "name": "Twin Kut-Ku+",
         "type": "dual-blades",
         "upgrade-price": 3920,
@@ -664,7 +615,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "create",
                 "name": "Twin Kut-Ku",
                 "type": "dual-blades"
@@ -672,7 +622,6 @@
         ]
     },
     {
-        "upgrade-id": 24,
         "name": "Pink Maracas+",
         "type": "dual-blades",
         "upgrade-price": 3920,
@@ -692,7 +641,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "upgrade",
                 "name": "Pink Maracas",
                 "type": "dual-blades"
@@ -700,7 +648,6 @@
         ]
     },
     {
-        "upgrade-id": 25,
         "name": "Rouge Flames",
         "type": "dual-blades",
         "upgrade-price": 10000,
@@ -720,7 +667,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "upgrade",
                 "name": "Deadly Poison",
                 "type": "sword"
@@ -728,7 +674,6 @@
         ]
     },
     {
-        "upgrade-id": 26,
         "name": "Dual Diablo",
         "type": "dual-blades",
         "upgrade-price": 30000,
@@ -748,7 +693,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "create",
                 "name": "Studded Club",
                 "type": "sword"
@@ -756,7 +700,6 @@
         ]
     },
     {
-        "upgrade-id": 27,
         "name": "Kirin Bolts",
         "type": "dual-blades",
         "upgrade-price": 5080,
@@ -776,7 +719,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Kirin Bolt+",
                 "type": "sword"
@@ -784,7 +726,6 @@
         ]
     },
     {
-        "upgrade-id": 28,
         "name": "Hi Twin Flames",
         "type": "dual-blades",
         "upgrade-price": 5720,
@@ -804,7 +745,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "upgrade",
                 "name": "Twin Flames",
                 "type": "dual-blades"
@@ -812,7 +752,6 @@
         ]
     },
     {
-        "upgrade-id": 29,
         "name": "Bladed Edge+",
         "type": "dual-blades",
         "upgrade-price": 3920,
@@ -832,7 +771,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "create",
                 "name": "Bladed Edge",
                 "type": "dual-blades"
@@ -840,7 +778,6 @@
         ]
     },
     {
-        "upgrade-id": 30,
         "name": "Cutlass+",
         "type": "dual-blades",
         "upgrade-price": 5080,
@@ -860,7 +797,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "upgrade",
                 "name": "Cutlass",
                 "type": "dual-blades"
@@ -868,7 +804,6 @@
         ]
     },
     {
-        "upgrade-id": 31,
         "name": "Raven Tessen",
         "type": "dual-blades",
         "upgrade-price": 10000,
@@ -888,7 +823,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "create",
                 "name": "Twin Kut-Ku",
                 "type": "dual-blades"
@@ -896,7 +830,6 @@
         ]
     },
     {
-        "upgrade-id": 32,
         "name": "Double Dragon",
         "type": "dual-blades",
         "upgrade-price": 20000,
@@ -916,7 +849,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "create",
                 "name": "Black Sword",
                 "type": "sword"
@@ -924,7 +856,6 @@
         ]
     },
     {
-        "upgrade-id": 33,
         "name": "Legendary Replica",
         "type": "dual-blades",
         "upgrade-price": 10000,
@@ -944,7 +875,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "create",
                 "name": "Hero's Blade Replica",
                 "type": "sword"
@@ -952,7 +882,6 @@
         ]
     },
     {
-        "upgrade-id": 34,
         "name": "Twin Nails",
         "type": "dual-blades",
         "upgrade-price": 50000,
@@ -972,7 +901,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 47,
                 "craft-type": "upgrade",
                 "name": "Steel Ice Dagger+",
                 "type": "sword"
@@ -980,7 +908,6 @@
         ]
     },
     {
-        "upgrade-id": 35,
         "name": "Hurricane",
         "type": "dual-blades",
         "upgrade-price": 30000,
@@ -1000,7 +927,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Odyssey",
                 "type": "sword"
@@ -1008,7 +934,6 @@
         ]
     },
     {
-        "upgrade-id": 36,
         "name": "Prototype Saw-Slicer",
         "type": "dual-blades",
         "upgrade-price": 35000,
@@ -1028,7 +953,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Odyssey",
                 "type": "sword"
@@ -1036,7 +960,6 @@
         ]
     },
     {
-        "upgrade-id": 37,
         "name": "Dual Battleaxe",
         "type": "dual-blades",
         "upgrade-price": 70000,
@@ -1056,7 +979,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "upgrade",
                 "name": "Upper Battleaxe",
                 "type": "sword"
@@ -1064,7 +986,6 @@
         ]
     },
     {
-        "upgrade-id": 38,
         "name": "Icicle Daggers",
         "type": "dual-blades",
         "upgrade-price": 55000,
@@ -1084,7 +1005,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "create",
                 "name": "Freezing Daggers",
                 "type": "dual-blades"
@@ -1092,7 +1012,6 @@
         ]
     },
     {
-        "upgrade-id": 39,
         "name": "Insect Slicer",
         "type": "dual-blades",
         "upgrade-price": 55000,
@@ -1112,7 +1031,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "upgrade",
                 "name": "Insector+",
                 "type": "dual-blades"
@@ -1120,7 +1038,6 @@
         ]
     },
     {
-        "upgrade-id": 40,
         "name": "Chereau's Tool",
         "type": "dual-blades",
         "upgrade-price": 50000,
@@ -1140,7 +1057,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Glutton's Set",
                 "type": "dual-blades"
@@ -1148,7 +1064,6 @@
         ]
     },
     {
-        "upgrade-id": 41,
         "name": "White Death",
         "type": "dual-blades",
         "upgrade-price": 40000,
@@ -1168,7 +1083,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "upgrade",
                 "name": "Giaprey Claws+",
                 "type": "dual-blades"
@@ -1176,7 +1090,6 @@
         ]
     },
     {
-        "upgrade-id": 42,
         "name": "Hi Velociprey Claws",
         "type": "dual-blades",
         "upgrade-price": 40000,
@@ -1196,7 +1109,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "create",
                 "name": "Velociprey Claws+",
                 "type": "dual-blades"
@@ -1204,7 +1116,6 @@
         ]
     },
     {
-        "upgrade-id": 43,
         "name": "Snow Venom+",
         "type": "dual-blades",
         "upgrade-price": 45000,
@@ -1228,7 +1139,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "create",
                 "name": "Snow Venom",
                 "type": "dual-blades"
@@ -1236,7 +1146,6 @@
         ]
     },
     {
-        "upgrade-id": 44,
         "name": "Melting Wail",
         "type": "dual-blades",
         "upgrade-price": 45000,
@@ -1256,7 +1165,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 57,
                 "craft-type": "upgrade",
                 "name": "Osteon Pick+",
                 "type": "sword"
@@ -1264,7 +1172,6 @@
         ]
     },
     {
-        "upgrade-id": 45,
         "name": "dummy (DualTessen \"100Gavas\")",
         "type": "dual-blades",
         "upgrade-price": 350,
@@ -1284,7 +1191,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "dummy (Dual Tessen \"Gavas\")",
                 "type": "dual-blades"
@@ -1292,7 +1198,6 @@
         ]
     },
     {
-        "upgrade-id": 46,
         "name": "Dual Kut-Ku",
         "type": "dual-blades",
         "upgrade-price": 45000,
@@ -1312,7 +1217,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "upgrade",
                 "name": "Twin Kut-Ku+",
                 "type": "dual-blades"
@@ -1320,7 +1224,6 @@
         ]
     },
     {
-        "upgrade-id": 47,
         "name": "Funky Maracas",
         "type": "dual-blades",
         "upgrade-price": 50000,
@@ -1340,7 +1243,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "upgrade",
                 "name": "Pink Maracas+",
                 "type": "dual-blades"
@@ -1348,7 +1250,6 @@
         ]
     },
     {
-        "upgrade-id": 48,
         "name": "Weathered Blades",
         "type": "dual-blades",
         "upgrade-price": 12500,
@@ -1360,7 +1261,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 20,
                 "craft-type": "create",
                 "name": "Worn Blades",
                 "type": "dual-blades"
@@ -1368,7 +1268,6 @@
         ]
     },
     {
-        "upgrade-id": 49,
         "name": "Hi Twin Daggers",
         "type": "dual-blades",
         "upgrade-price": 55000,
@@ -1388,7 +1287,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 48,
                 "craft-type": "upgrade",
                 "name": "Weathered Blades",
                 "type": "dual-blades"
@@ -1396,7 +1294,6 @@
         ]
     },
     {
-        "upgrade-id": 50,
         "name": "Cyclone",
         "type": "dual-blades",
         "upgrade-price": 50000,
@@ -1416,7 +1313,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Hurricane",
                 "type": "dual-blades"
@@ -1424,7 +1320,6 @@
         ]
     },
     {
-        "upgrade-id": 51,
         "name": "Sanctioned Blades",
         "type": "dual-blades",
         "upgrade-price": 50000,
@@ -1444,7 +1339,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "create",
                 "name": "Prototype Saw-Slicer",
                 "type": "dual-blades"
@@ -1452,7 +1346,6 @@
         ]
     },
     {
-        "upgrade-id": 52,
         "name": "Guild Knight Sabers",
         "type": "dual-blades",
         "upgrade-price": 70000,
@@ -1472,7 +1365,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "upgrade",
                 "name": "Holy Saber",
                 "type": "dual-blades"
@@ -1480,7 +1372,6 @@
         ]
     },
     {
-        "upgrade-id": 53,
         "name": "Dual Diablo+",
         "type": "dual-blades",
         "upgrade-price": 70000,
@@ -1500,7 +1391,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "upgrade",
                 "name": "Dual Diablo",
                 "type": "dual-blades"
@@ -1508,7 +1398,6 @@
         ]
     },
     {
-        "upgrade-id": 54,
         "name": "Melting Wail+",
         "type": "dual-blades",
         "upgrade-price": 60000,
@@ -1528,7 +1417,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 44,
                 "craft-type": "upgrade",
                 "name": "Melting Wail",
                 "type": "dual-blades"
@@ -1536,7 +1424,6 @@
         ]
     },
     {
-        "upgrade-id": 55,
         "name": "Gradios Ultimus",
         "type": "dual-blades",
         "upgrade-price": 75000,
@@ -1556,7 +1443,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "upgrade",
                 "name": "Hi Twin Flames",
                 "type": "dual-blades"
@@ -1564,7 +1450,6 @@
         ]
     },
     {
-        "upgrade-id": 56,
         "name": "Limb Cutter",
         "type": "dual-blades",
         "upgrade-price": 50000,
@@ -1584,7 +1469,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 29,
                 "craft-type": "upgrade",
                 "name": "Bladed Edge+",
                 "type": "dual-blades"
@@ -1592,7 +1476,6 @@
         ]
     },
     {
-        "upgrade-id": 57,
         "name": "Wolf Tessen",
         "type": "dual-blades",
         "upgrade-price": 65000,
@@ -1612,7 +1495,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Raven Tessen",
                 "type": "dual-blades"
@@ -1620,7 +1502,6 @@
         ]
     },
     {
-        "upgrade-id": 58,
         "name": "Dual Dragon Ultimus",
         "type": "dual-blades",
         "upgrade-price": 90000,
@@ -1640,7 +1521,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 32,
                 "craft-type": "upgrade",
                 "name": "Double Dragon",
                 "type": "dual-blades"
@@ -1648,7 +1528,6 @@
         ]
     },
     {
-        "upgrade-id": 59,
         "name": "Eternal Schism",
         "type": "dual-blades",
         "upgrade-price": 60000,
@@ -1668,7 +1547,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 48,
                 "craft-type": "upgrade",
                 "name": "Weathered Blades",
                 "type": "dual-blades"
@@ -1676,7 +1554,6 @@
         ]
     },
     {
-        "upgrade-id": 60,
         "name": "Silhouette Sabers",
         "type": "dual-blades",
         "upgrade-price": 80000,
@@ -1696,7 +1573,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 49,
                 "craft-type": "upgrade",
                 "name": "Hi Twin Daggers",
                 "type": "dual-blades"
@@ -1704,7 +1580,6 @@
         ]
     },
     {
-        "upgrade-id": 61,
         "name": "Tigrex Claws",
         "type": "dual-blades",
         "upgrade-price": 80000,
@@ -1724,7 +1599,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "create",
                 "name": "Rex Slicers",
                 "type": "dual-blades"
@@ -1732,7 +1606,6 @@
         ]
     },
     {
-        "upgrade-id": 62,
         "name": "Hidden Ones",
         "type": "dual-blades",
         "upgrade-price": 80000,
@@ -1752,7 +1625,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "create",
                 "name": "Rex Slicers",
                 "type": "dual-blades"
@@ -1760,7 +1632,6 @@
         ]
     },
     {
-        "upgrade-id": 63,
         "name": "Improved Power Saws",
         "type": "dual-blades",
         "upgrade-price": 60000,
@@ -1780,7 +1651,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 51,
                 "craft-type": "upgrade",
                 "name": "Sanctioned Blades",
                 "type": "dual-blades"
@@ -1788,7 +1658,6 @@
         ]
     },
     {
-        "upgrade-id": 64,
         "name": "Dual Chameleos",
         "type": "dual-blades",
         "upgrade-price": 90000,
@@ -1808,7 +1677,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "upgrade",
                 "name": "Rouge Flames",
                 "type": "dual-blades"
@@ -1816,7 +1684,6 @@
         ]
     },
     {
-        "upgrade-id": 65,
         "name": "Festive Fall Typhoon",
         "type": "dual-blades",
         "upgrade-price": 75000,
@@ -1836,7 +1703,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "upgrade",
                 "name": "Kirin Bolts",
                 "type": "dual-blades"
@@ -1844,7 +1710,6 @@
         ]
     },
     {
-        "upgrade-id": 66,
         "name": "Corpse Blades",
         "type": "dual-blades",
         "upgrade-price": 85000,
@@ -1864,7 +1729,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 55,
                 "craft-type": "upgrade",
                 "name": "Gradios Ultimus",
                 "type": "dual-blades"
@@ -1872,7 +1736,6 @@
         ]
     },
     {
-        "upgrade-id": 67,
         "name": "Ultimus Heaven&Earth",
         "type": "dual-blades",
         "upgrade-price": 100000,
@@ -1892,7 +1755,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 58,
                 "craft-type": "upgrade",
                 "name": "Dual Dragon Ultimus",
                 "type": "dual-blades"
@@ -1900,7 +1762,6 @@
         ]
     },
     {
-        "upgrade-id": 68,
         "name": "Fatalis Dual Blades",
         "type": "dual-blades",
         "upgrade-price": 100000,
@@ -1920,7 +1781,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Black Twin Daggers",
                 "type": "dual-blades"
@@ -1928,7 +1788,6 @@
         ]
     },
     {
-        "upgrade-id": 69,
         "name": "Ultimus Celestials",
         "type": "dual-blades",
         "upgrade-price": 100000,
@@ -1952,7 +1811,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Black Twin Daggers",
                 "type": "dual-blades"
@@ -1960,7 +1818,6 @@
         ]
     },
     {
-        "upgrade-id": 70,
         "name": "Crimson Lotus Blades",
         "type": "dual-blades",
         "upgrade-price": 95000,
@@ -1980,7 +1837,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "create",
                 "name": "Flaming Pair",
                 "type": "dual-blades"
@@ -1988,7 +1844,6 @@
         ]
     },
     {
-        "upgrade-id": 71,
         "name": "Twin Nails+",
         "type": "dual-blades",
         "upgrade-price": 90000,
@@ -2012,7 +1867,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 15,
                 "craft-type": "create",
                 "name": "Twin Nails",
                 "type": "dual-blades"
@@ -2020,7 +1874,6 @@
         ]
     },
     {
-        "upgrade-id": 72,
         "name": "Tornado Tomahawks",
         "type": "dual-blades",
         "upgrade-price": 75000,
@@ -2040,7 +1893,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 50,
                 "craft-type": "upgrade",
                 "name": "Cyclone",
                 "type": "dual-blades"
@@ -2048,7 +1900,6 @@
         ]
     },
     {
-        "upgrade-id": 73,
         "name": "Typhoon",
         "type": "dual-blades",
         "upgrade-price": 100000,
@@ -2068,7 +1919,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Tornado Tomahawks",
                 "type": "dual-blades"
@@ -2076,7 +1926,6 @@
         ]
     },
     {
-        "upgrade-id": 74,
         "name": "Firestorm",
         "type": "dual-blades",
         "upgrade-price": 95000,
@@ -2100,7 +1949,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Tornado Tomahawks",
                 "type": "dual-blades"
@@ -2108,7 +1956,6 @@
         ]
     },
     {
-        "upgrade-id": 75,
         "name": "Divine Power Saws",
         "type": "dual-blades",
         "upgrade-price": 100000,
@@ -2132,7 +1979,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 63,
                 "craft-type": "upgrade",
                 "name": "Improved Power Saws",
                 "type": "dual-blades"
@@ -2140,7 +1986,6 @@
         ]
     },
     {
-        "upgrade-id": 76,
         "name": "Dual Battleaxe+",
         "type": "dual-blades",
         "upgrade-price": 90000,
@@ -2160,7 +2005,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "create",
                 "name": "Dual Battleaxe",
                 "type": "dual-blades"
@@ -2168,7 +2012,6 @@
         ]
     },
     {
-        "upgrade-id": 77,
         "name": "Frozen Death",
         "type": "dual-blades",
         "upgrade-price": 90000,
@@ -2192,7 +2035,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Icicle Daggers",
                 "type": "dual-blades"
@@ -2200,7 +2042,6 @@
         ]
     },
     {
-        "upgrade-id": 78,
         "name": "Master Sabers",
         "type": "dual-blades",
         "upgrade-price": 95000,
@@ -2220,7 +2061,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 52,
                 "craft-type": "upgrade",
                 "name": "Guild Knight Sabers",
                 "type": "dual-blades"
@@ -2228,7 +2068,6 @@
         ]
     },
     {
-        "upgrade-id": 79,
         "name": "Alated Insect",
         "type": "dual-blades",
         "upgrade-price": 80000,
@@ -2248,7 +2087,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 39,
                 "craft-type": "upgrade",
                 "name": "Insect Slicer",
                 "type": "dual-blades"
@@ -2256,7 +2094,6 @@
         ]
     },
     {
-        "upgrade-id": 80,
         "name": "Insect Lord",
         "type": "dual-blades",
         "upgrade-price": 105000,
@@ -2280,7 +2117,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 79,
                 "craft-type": "upgrade",
                 "name": "Alated Insect",
                 "type": "dual-blades"
@@ -2288,7 +2124,6 @@
         ]
     },
     {
-        "upgrade-id": 81,
         "name": "Glacial Medusa",
         "type": "dual-blades",
         "upgrade-price": 85000,
@@ -2312,7 +2147,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 43,
                 "craft-type": "upgrade",
                 "name": "Snow Venom+",
                 "type": "dual-blades"
@@ -2320,7 +2154,6 @@
         ]
     },
     {
-        "upgrade-id": 82,
         "name": "Blos Doppelganger",
         "type": "dual-blades",
         "upgrade-price": 70000,
@@ -2340,7 +2173,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 53,
                 "craft-type": "upgrade",
                 "name": "Dual Diablo+",
                 "type": "dual-blades"
@@ -2348,7 +2180,6 @@
         ]
     },
     {
-        "upgrade-id": 83,
         "name": "dummy (DualTessen \"10KGavas\")",
         "type": "dual-blades",
         "upgrade-price": 350,
@@ -2372,7 +2203,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 45,
                 "craft-type": "upgrade",
                 "name": "dummy (DualTessen \"100Gavas\")",
                 "type": "dual-blades"
@@ -2380,7 +2210,6 @@
         ]
     },
     {
-        "upgrade-id": 84,
         "name": "Carmine Edge",
         "type": "dual-blades",
         "upgrade-price": 85000,
@@ -2400,7 +2229,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 56,
                 "craft-type": "upgrade",
                 "name": "Limb Cutter",
                 "type": "dual-blades"
@@ -2408,7 +2236,6 @@
         ]
     },
     {
-        "upgrade-id": 85,
         "name": "Crow Tessen",
         "type": "dual-blades",
         "upgrade-price": 105000,
@@ -2432,7 +2259,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 57,
                 "craft-type": "upgrade",
                 "name": "Wolf Tessen",
                 "type": "dual-blades"
@@ -2440,7 +2266,6 @@
         ]
     },
     {
-        "upgrade-id": 86,
         "name": "Jungle Maracas",
         "type": "dual-blades",
         "upgrade-price": 85000,
@@ -2460,7 +2285,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 47,
                 "craft-type": "upgrade",
                 "name": "Funky Maracas",
                 "type": "dual-blades"
@@ -2468,7 +2292,6 @@
         ]
     },
     {
-        "upgrade-id": 87,
         "name": "Evergreen",
         "type": "dual-blades",
         "upgrade-price": 115000,
@@ -2492,7 +2315,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "create",
                 "name": "Jungle Maracas",
                 "type": "dual-blades"
@@ -2500,7 +2322,6 @@
         ]
     },
     {
-        "upgrade-id": 88,
         "name": "Demonic Flaming Pair",
         "type": "dual-blades",
         "upgrade-price": 120000,
@@ -2520,7 +2341,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 70,
                 "craft-type": "upgrade",
                 "name": "Crimson Lotus Blades",
                 "type": "dual-blades"
@@ -2528,7 +2348,6 @@
         ]
     },
     {
-        "upgrade-id": 89,
         "name": "Eternal Sacrifice",
         "type": "dual-blades",
         "upgrade-price": 140000,
@@ -2552,7 +2371,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 59,
                 "craft-type": "upgrade",
                 "name": "Eternal Schism",
                 "type": "dual-blades"
@@ -2560,7 +2378,6 @@
         ]
     },
     {
-        "upgrade-id": 90,
         "name": "Felyne and Melynx+",
         "type": "dual-blades",
         "upgrade-price": 6300,
@@ -2584,7 +2401,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "create",
                 "name": "Felyne and Melynx",
                 "type": "dual-blades"
@@ -2592,7 +2408,6 @@
         ]
     },
     {
-        "upgrade-id": 91,
         "name": "Volcanic Storm",
         "type": "dual-blades",
         "upgrade-price": 115000,
@@ -2616,7 +2431,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "create",
                 "name": "Firestorm",
                 "type": "dual-blades"
@@ -2624,7 +2438,6 @@
         ]
     },
     {
-        "upgrade-id": 92,
         "name": "Final Battleaxe",
         "type": "dual-blades",
         "upgrade-price": 110000,
@@ -2644,7 +2457,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 76,
                 "craft-type": "upgrade",
                 "name": "Dual Battleaxe+",
                 "type": "dual-blades"
@@ -2652,7 +2464,6 @@
         ]
     },
     {
-        "upgrade-id": 93,
         "name": "Holy Guild Knight",
         "type": "dual-blades",
         "upgrade-price": 110000,
@@ -2676,7 +2487,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 78,
                 "craft-type": "upgrade",
                 "name": "Master Sabers",
                 "type": "dual-blades"
@@ -2684,7 +2494,6 @@
         ]
     },
     {
-        "upgrade-id": 94,
         "name": "ChameleosDualBlades",
         "type": "dual-blades",
         "upgrade-price": 130000,
@@ -2708,7 +2517,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 64,
                 "craft-type": "upgrade",
                 "name": "Dual Chameleos",
                 "type": "dual-blades"
@@ -2716,7 +2524,6 @@
         ]
     },
     {
-        "upgrade-id": 95,
         "name": "Grand Blos",
         "type": "dual-blades",
         "upgrade-price": 115000,
@@ -2740,7 +2547,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 82,
                 "craft-type": "upgrade",
                 "name": "Blos Doppelganger",
                 "type": "dual-blades"
@@ -2748,7 +2554,6 @@
         ]
     },
     {
-        "upgrade-id": 96,
         "name": "Melting Blazer",
         "type": "dual-blades",
         "upgrade-price": 115000,
@@ -2772,7 +2577,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 54,
                 "craft-type": "upgrade",
                 "name": "Melting Wail+",
                 "type": "dual-blades"
@@ -2780,7 +2584,6 @@
         ]
     },
     {
-        "upgrade-id": 97,
         "name": "FestiveRustlingRain",
         "type": "dual-blades",
         "upgrade-price": 135000,
@@ -2804,7 +2607,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "create",
                 "name": "Festive Fall Typhoon",
                 "type": "dual-blades"
@@ -2812,7 +2614,6 @@
         ]
     },
     {
-        "upgrade-id": 98,
         "name": "Punishment Blades",
         "type": "dual-blades",
         "upgrade-price": 125000,
@@ -2836,7 +2637,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 66,
                 "craft-type": "upgrade",
                 "name": "Corpse Blades",
                 "type": "dual-blades"
@@ -2844,7 +2644,6 @@
         ]
     },
     {
-        "upgrade-id": 99,
         "name": "Red Rippers",
         "type": "dual-blades",
         "upgrade-price": 115000,
@@ -2868,7 +2667,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "create",
                 "name": "Carmine Edge",
                 "type": "dual-blades"
@@ -2876,7 +2674,6 @@
         ]
     },
     {
-        "upgrade-id": 100,
         "name": "Dual Dragon Ultimus+",
         "type": "dual-blades",
         "upgrade-price": 150000,
@@ -2900,7 +2697,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 67,
                 "craft-type": "upgrade",
                 "name": "Ultimus Heaven&Earth",
                 "type": "dual-blades"
@@ -2908,7 +2704,6 @@
         ]
     },
     {
-        "upgrade-id": 101,
         "name": "Fatalis Dual Sky",
         "type": "dual-blades",
         "upgrade-price": 150000,
@@ -2928,7 +2723,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 68,
                 "craft-type": "upgrade",
                 "name": "Fatalis Dual Blades",
                 "type": "dual-blades"
@@ -2936,7 +2730,6 @@
         ]
     },
     {
-        "upgrade-id": 102,
         "name": "Ultimus Apocalypse",
         "type": "dual-blades",
         "upgrade-price": 150000,
@@ -2960,7 +2753,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 69,
                 "craft-type": "upgrade",
                 "name": "Ultimus Celestials",
                 "type": "dual-blades"
@@ -2968,7 +2760,6 @@
         ]
     },
     {
-        "upgrade-id": 103,
         "name": "Azure Dual Swords",
         "type": "dual-blades",
         "upgrade-price": 140000,
@@ -2992,7 +2783,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 88,
                 "craft-type": "upgrade",
                 "name": "Demonic Flaming Pair",
                 "type": "dual-blades"
@@ -3000,7 +2790,6 @@
         ]
     },
     {
-        "upgrade-id": 104,
         "name": "Fire and Ice",
         "type": "dual-blades",
         "upgrade-price": 130000,
@@ -3024,7 +2813,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 71,
                 "craft-type": "upgrade",
                 "name": "Twin Nails+",
                 "type": "dual-blades"
@@ -3032,7 +2820,6 @@
         ]
     },
     {
-        "upgrade-id": 105,
         "name": "Tigrex Claws+",
         "type": "dual-blades",
         "upgrade-price": 125000,
@@ -3056,7 +2843,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 61,
                 "craft-type": "upgrade",
                 "name": "Tigrex Claws",
                 "type": "dual-blades"
@@ -3064,7 +2850,6 @@
         ]
     },
     {
-        "upgrade-id": 106,
         "name": "Ebony Wings",
         "type": "dual-blades",
         "upgrade-price": 120000,
@@ -3088,7 +2873,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "create",
                 "name": "Hidden Ones",
                 "type": "dual-blades"
@@ -3096,7 +2880,6 @@
         ]
     },
     {
-        "upgrade-id": 107,
         "name": "Akantor Shadow Claws",
         "type": "dual-blades",
         "upgrade-price": 145000,
@@ -3120,7 +2903,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "create",
                 "name": "Akantor Blades",
                 "type": "dual-blades"
