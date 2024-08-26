@@ -1,5574 +1,4645 @@
 [
     {
-        "id": 0,
         "name": "Book of Combos 1",
         "rare": 4,
         "description": "Intro text for first-tie combiners. Improves your combining success rate."
     },
     {
-        "id": 1,
         "name": "Book of Combos 2",
         "rare": 4,
         "description": "Basic text. Together with 1, improves your combining success rate."
     },
     {
-        "id": 2,
         "name": "Book of Combos 3",
         "rare": 4,
         "description": "Intermediate text. Along with 1 & 2, improves your combining success rate."
     },
     {
-        "id": 3,
         "name": "Book of Combos 4",
         "rare": 5,
         "description": "Advanced text. Along with 1, 2, and 3, improves your combining success rate."
     },
     {
-        "id": 4,
         "name": "Book of Combos 5",
         "rare": 5,
         "description": "Pro text. Along with 1, 2, 3, and 4, improves your combining success rate."
     },
     {
-        "id": 5,
         "name": "Alchemy Guide",
         "rare": 5,
         "description": "With this book, you too can use alchemy. What will you create?"
     },
     {
-        "id": 6,
         "name": "Potion",
         "rare": 1,
         "description": "Restores a small amount of Health."
     },
     {
-        "id": 7,
         "name": "Mega Potion",
         "rare": 2,
         "description": "Restores a moderate amount of Health."
     },
     {
-        "id": 8,
         "name": "Nutrients",
         "rare": 2,
         "description": "Increases the maximum Health level slightly."
     },
     {
-        "id": 9,
         "name": "Mega Nutrients",
         "rare": 3,
         "description": "Medicine that increases the maximum Health level by a small amount."
     },
     {
-        "id": 10,
         "name": "Antidote",
         "rare": 1,
         "description": "Effectively removes all traces of poison from your system."
     },
     {
-        "id": 11,
         "name": "Immunizer",
         "rare": 3,
         "description": "Medicine that enhances natural recovery ability."
     },
     {
-        "id": 12,
         "name": "Power Juice",
         "rare": 2,
         "description": "Allows you to run without becoming fatigued for a period of time."
     },
     {
-        "id": 13,
         "name": "Mega Juice",
         "rare": 3,
         "description": "Allows you to run without fatiguing for even longer than Power Juice."
     },
     {
-        "id": 14,
         "name": "Demondrug",
         "rare": 4,
         "description": "Increases Attack power, bestowing the strength of Asura himself on user."
     },
     {
-        "id": 15,
         "name": "Mega Demondrug",
         "rare": 5,
         "description": "Increases Attack power even more than Demondrug."
     },
     {
-        "id": 16,
         "name": "Power Pill",
         "rare": 1,
         "description": "A strengthening pill that endows you with the power of a fierce god."
     },
     {
-        "id": 17,
         "name": "Armorskin",
         "rare": 4,
         "description": "Increases Defense by hardening your skin to stone-like armor."
     },
     {
-        "id": 18,
         "name": "Mega Armorskin",
         "rare": 5,
         "description": "Increases Defense even more than Armorskin."
     },
     {
-        "id": 19,
         "name": "Armor Pill",
         "rare": 1,
         "description": "A pill that temporarily makes your skin as hard as metal."
     },
     {
-        "id": 20,
         "name": "Cool Drink",
         "rare": 1,
         "description": "A drink that bestows temporary resistance to extreme heat."
     },
     {
-        "id": 21,
         "name": "Hot Drink",
         "rare": 1,
         "description": "A drink that bestows temporary resistance to extreme cold."
     },
     {
-        "id": 22,
         "name": "Thawing Agent",
         "rare": 1,
         "description": "A chemical agent that melts away the frozen tundra in the soul."
     },
     {
-        "id": 23,
         "name": "Psychoserum",
         "rare": 3,
         "description": "Temporarily activates an ESP-like ability to sense monsters."
     },
     {
-        "id": 24,
         "name": "Monster Fluid",
         "rare": 4,
         "description": "Can be mixed with insect stomach juices to make an adhesive."
     },
     {
-        "id": 25,
         "name": "Monster Broth",
         "rare": 5,
         "description": "A broth made from only the thickest of a monster's juices. Quite rich."
     },
     {
-        "id": 26,
         "name": "Monster Essence",
         "rare": 5,
         "description": "Further distilled monster broth, although I don't recommend touching it..."
     },
     {
-        "id": 27,
         "name": "Thunderbug Juice",
         "rare": 5,
         "description": "Fluids of a Thunderbug. When stockpilled, can causes an electrical discharge."
     },
     {
-        "id": 28,
         "name": "Thunderbug Jelly",
         "rare": 5,
         "description": "Gelatin from a Great Thunderbug. More powerful than Juice. Easier to use."
     },
     {
-        "id": 29,
         "name": "Herbal Medicine",
         "rare": 2,
         "description": "Effectively cures posion, and restores a slight amount of Health."
     },
     {
-        "id": 30,
         "name": "Max Potion",
         "rare": 3,
         "description": "Restores Health to the maximum level, enabling a full recovery."
     },
     {
-        "id": 31,
         "name": "Ancient Potion",
         "rare": 5,
         "description": "Restores Health and Stamina to maximum levels, enabling a full recovery."
     },
     {
-        "id": 32,
         "name": "Catalyst",
         "rare": 2,
         "description": "Mixes with other materials to improve their effect. Cannot be used by itself."
     },
     {
-        "id": 33,
         "name": "Energy Drink",
         "rare": 2,
         "description": "Recovers Stamina and cures fatigue. Approved by the Guild."
     },
     {
-        "id": 34,
         "name": "Gunpowder",
         "rare": 2,
         "description": "A dangerous chemical that explodes when disturbed or heated."
     },
     {
-        "id": 35,
         "name": "Lifecrystals",
         "rare": 3,
         "description": "Mysterious crystals long worshipped as a fount of life."
     },
     {
-        "id": 36,
         "name": "Lifepowder",
         "rare": 4,
         "description": "Medicine created by combining Lifecrystals. Strong restorative power."
     },
     {
-        "id": 37,
         "name": "Powercharm",
         "rare": 5,
         "description": "Amulet that raises Attack power. The holder gains the strength of a demon."
     },
     {
-        "id": 38,
         "name": "Powertalon",
         "rare": 5,
         "description": "Amulet that raises Attack. Made from a Lao-Shan's Claw."
     },
     {
-        "id": 39,
         "name": "Armorcharm",
         "rare": 5,
         "description": "Amulet that causes one's skin to become as hard as stone. Raises Defense"
     },
     {
-        "id": 40,
         "name": "Armortalon",
         "rare": 5,
         "description": "Amulet that raises Defense. Made from a Lao-Shan's Claw."
     },
     {
-        "id": 41,
         "name": "Tranquilizer",
         "rare": 4,
         "description": "Medicine that is used as an anesthetic when combined."
     },
     {
-        "id": 42,
         "name": "Raw Meat",
         "rare": 1,
         "description": "Meat obtained through carving up a monster. Has many uses."
     },
     {
-        "id": 43,
         "name": "Poisoned Meat",
         "rare": 1,
         "description": "Poisons if consumed. Used as bait in traps."
     },
     {
-        "id": 44,
         "name": "Tainted Meat",
         "rare": 2,
         "description": "Paralyzes if consumed. Used as bait in traps."
     },
     {
-        "id": 45,
         "name": "Drugged Meat",
         "rare": 1,
         "description": "Causes sleepiness if consumed. Used as bait in traps."
     },
     {
-        "id": 46,
         "name": "Rare Steak",
         "rare": 1,
         "description": "Meat cooked on the rare side. Gives a small boost to Stamina."
     },
     {
-        "id": 47,
         "name": "Well-Done Steak",
         "rare": 2,
         "description": "Well-cooked meat. Gives a medium boost to Stamina."
     },
     {
-        "id": 48,
         "name": "Gourmet Steak",
         "rare": 3,
         "description": "A gourmet steak cooked to perfection. Give a full boost to Stamina."
     },
     {
-        "id": 49,
         "name": "Burnt Meat",
         "rare": 1,
         "description": "Meat burnt to a crisp. Boots Stamina sometimes, but can also weaken you."
     },
     {
-        "id": 50,
         "name": "Hot Meat",
         "rare": 1,
         "description": "Eat to warm the body, ward off the cold, and even recover a bit of Stamina."
     },
     {
-        "id": 51,
         "name": "Cold Meat",
         "rare": 1,
         "description": "Eat to cool the body, ward off the heat, and even recover a bit of Stamina."
     },
     {
-        "id": 52,
         "name": "Rare Fish",
         "rare": 1,
         "description": "A lightly brazed fish. Recovers red portion of Health Gauge when eaten."
     },
     {
-        "id": 53,
         "name": "Gourmet Fish",
         "rare": 2,
         "description": "Recover the red portion of the Health gauge and increases natrual recovery."
     },
     {
-        "id": 54,
         "name": "Gourmet Fish+",
         "rare": 3,
         "description": "Recovers red portion of the Health gauge and increases reilience."
     },
     {
-        "id": 55,
         "name": "Burnt Fish",
         "rare": 1,
         "description": "A fish burnt to a crisp. Sometimes recovers Health, but can also harm you..."
     },
     {
-        "id": 56,
         "name": "Boomerang",
         "rare": 4,
         "description": "Returns when thrown. A peculiar shaped weapon form a foreign land."
     },
     {
-        "id": 57,
         "name": "Throwing Knife",
         "rare": 1,
         "description": "A standard throwing knife. Goes straight to a target. (Supply Item)"
     },
     {
-        "id": 58,
         "name": "Poison Thrw Knf",
         "rare": 1,
         "description": "Throwing knift with a posion edge. Has a toxic effect (Supply Item)"
     },
     {
-        "id": 59,
         "name": "Sleeping Thr Knf",
         "rare": 1,
         "description": "Throwing knife with an edge daubed with sleeping powder. (Supply Item)"
     },
     {
-        "id": 60,
         "name": "Paralyze Thr Knf",
         "rare": 1,
         "description": "Throwing knife with a paralysis toxin coated edge. (Supply Item)"
     },
     {
-        "id": 61,
         "name": "Tranq Thrwng Knf",
         "rare": 4,
         "description": "A knife made to assist in the capture of monsters it strikes. (Supply Item)"
     },
     {
-        "id": 62,
         "name": "Bomb Material",
         "rare": 1,
         "description": "Basic ingredient for making hand-thrown bombs,"
     },
     {
-        "id": 63,
         "name": "Paintball",
         "rare": 1,
         "description": "Can be thrown at a monster to mark it for easy tracking."
     },
     {
-        "id": 64,
         "name": "Flash Bomb",
         "rare": 2,
         "description": "Bomb that flashes brightly upon impact. Blinds monsters."
     },
     {
-        "id": 65,
         "name": "Sonic Bomb",
         "rare": 2,
         "description": "Emits a powerful high-frequency sound upon detonation."
     },
     {
-        "id": 66,
         "name": "Dung",
         "rare": 1,
         "description": "Monster excrement. One dropping can maximize the fertility of a row."
     },
     {
-        "id": 67,
         "name": "Wyvern Droppings",
         "rare": 4,
         "description": "Wyvern excrement. One dropping can maximize the fertility of all rows."
     },
     {
-        "id": 68,
         "name": "Dung Bomb",
         "rare": 2,
         "description": "Creates a terrible smell upon impact, which certain wyverns dislike."
     },
     {
-        "id": 69,
         "name": "Smoke Bomb",
         "rare": 2,
         "description": "Creates a large cloud of smoke in the area where it lands."
     },
     {
-        "id": 70,
         "name": "Poison Smoke Bmb",
         "rare": 2,
         "description": "Smoke bomb containing a toxic chemical. Popular as a household bug bomb."
     },
     {
-        "id": 71,
         "name": "Farcaster",
         "rare": 3,
         "description": "Instantly transports you back to base camp."
     },
     {
-        "id": 72,
         "name": "Deodorant",
         "rare": 2,
         "description": "Removes item usage blocks. When thrown on the ground, its smoke deodorizes."
     },
     {
-        "id": 73,
         "name": "Tranq Bomb",
         "rare": 4,
         "description": "Use to subdue and capture a trapped monster."
     },
     {
-        "id": 74,
         "name": "Spiderweb",
         "rare": 1,
         "description": "A spider's web. Very sticky."
     },
     {
-        "id": 75,
         "name": "Net",
         "rare": 2,
         "description": "Powerful net able to withstand a certain amount of weight."
     },
     {
-        "id": 76,
         "name": "Trap Tool",
         "rare": 3,
         "description": "A tool needed to set up various types of traps, such as the Pitfall Trap."
     },
     {
-        "id": 77,
         "name": "Pitfall Trap",
         "rare": 3,
         "description": "Trap for catching certain large monsters. It is tripped by a heavy weight."
     },
     {
-        "id": 78,
         "name": "Shock Trap",
         "rare": 3,
         "description": "A trap taht can immobilize a monster. Used for capturing."
     },
     {
-        "id": 79,
         "name": "Lightning Rod",
         "rare": 3,
         "description": "Will attract lightning after a while. Can be used in the rain."
     },
     {
-        "id": 80,
         "name": "Barrel Lid",
         "rare": 5,
         "description": "A small barrel lid. There appears to be a drawing on it."
     },
     {
-        "id": 81,
         "name": "Small Barrel",
         "rare": 1,
         "description": "A small, empty barrel."
     },
     {
-        "id": 82,
         "name": "Large Barrel",
         "rare": 2,
         "description": "A large, empty barrel."
     },
     {
-        "id": 83,
         "name": "Sm Barrel-Bomb",
         "rare": 2,
         "description": "A small time-bomb."
     },
     {
-        "id": 84,
         "name": "Sm Barrel-Bomb+",
         "rare": 2,
         "description": "Upgraded Small Barrel Bomb. Not to be taken lightly despite its size."
     },
     {
-        "id": 85,
         "name": "Lg Barrel-Bomb",
         "rare": 3,
         "description": "Powerful bomb triggered by external physical impact."
     },
     {
-        "id": 86,
         "name": "Lg Barrel-Bomb+",
         "rare": 4,
         "description": "Upgraded Large Barrel Bomb. Effective against large monsters."
     },
     {
-        "id": 87,
         "name": "Bounce Bomb",
         "rare": 2,
         "description": "Bounces into the air when set. This modified bomb requires skill to use."
     },
     {
-        "id": 88,
         "name": "Bounce Bomb+",
         "rare": 4,
         "description": "Improved version of the Bounce Bomb. Requires some skill to use."
     },
     {
-        "id": 89,
         "name": "Anti-Dragon Bomb",
         "rare": 3,
         "description": "Small time bomb that attaches to an enemy. (Supply Item)"
     },
     {
-        "id": 90,
         "name": "Huskberry",
         "rare": 1,
         "description": "An empty berry that can grow anywhere. Try planting it in the field."
     },
     {
-        "id": 91,
         "name": "Sm Bone Husk",
         "rare": 2,
         "description": "Bone ammunition casing. Stronger than a Huskberry ammunition casing."
     },
     {
-        "id": 92,
         "name": "Lg Bone Husk",
         "rare": 3,
         "description": "Bone ammunition casing that can withstand powerful explosions."
     },
     {
-        "id": 93,
         "name": "Normal S Lv1",
         "rare": 1,
         "description": "Inexpensive ammo for novices, but don't expect much. Unlimited shots."
     },
     {
-        "id": 94,
         "name": "Normal S Lv2",
         "rare": 1,
         "description": "Normal ammo that is more powerful than Normal S Lv1. Maximum of 99 shots."
     },
     {
-        "id": 95,
         "name": "Normal S Lv3",
         "rare": 2,
         "description": "Normal ammo that causes more damage than its predecessor. Max 99 shots."
     },
     {
-        "id": 96,
         "name": "Pierce S Lv1",
         "rare": 2,
         "description": "Piercing round that causes multiple hits to monsters. Max 60 shots."
     },
     {
-        "id": 97,
         "name": "Pierce S Lv2",
         "rare": 2,
         "description": "Piercing round that causes more hits than Lv1 ammo. Max 60 shots."
     },
     {
-        "id": 98,
         "name": "Pierce S Lv3",
         "rare": 3,
         "description": "Piercing round that causes the most hits in the class. Max 60 shots."
     },
     {
-        "id": 99,
         "name": "Pellet S Lv1",
         "rare": 2,
         "description": "Sprays a wide area and can cause multiple hits at close range. Max 60 shots."
     },
     {
-        "id": 100,
         "name": "Pellet S Lv2",
         "rare": 2,
         "description": "Sprays a wide area, causing more hits than Lv1 ammo. Max 60 shots."
     },
     {
-        "id": 101,
         "name": "Pellet S Lv3",
         "rare": 3,
         "description": "Sprays a wide area, causing the most hits in the class. Max 60 shots."
     },
     {
-        "id": 102,
         "name": "Crag S Lv1",
         "rare": 3,
         "description": "Penetrates and explodes in its target. Quite powerful and stunning. Max 9 shots."
     },
     {
-        "id": 103,
         "name": "Crag S Lv2",
         "rare": 3,
         "description": "Very powerful & stunning shot. Penetrates and explodes. Max 9 shots."
     },
     {
-        "id": 104,
         "name": "Crag S Lv3",
         "rare": 3,
         "description": "Tremendously powerful and stunning shot. Penetrates and explodes. Max 9 shots."
     },
     {
-        "id": 105,
         "name": "Clust S Lv1",
         "rare": 2,
         "description": "Splits into 3 bombs upon impact. Beware of friendly fire. Max 3 shots."
     },
     {
-        "id": 106,
         "name": "Clust S Lv2",
         "rare": 3,
         "description": "Splits into 4 bombs upon impact. Beware of friendly fire. Max 3 shots."
     },
     {
-        "id": 107,
         "name": "Clust S Lv3",
         "rare": 3,
         "description": "Splits into 5 bombs upon impact. Beware of friendly fire. Max 3 shots."
     },
     {
-        "id": 108,
         "name": "Flaming S",
         "rare": 3,
         "description": "Shot effective against monsters vulnerable to fire. Max 60 shots."
     },
     {
-        "id": 109,
         "name": "Water S",
         "rare": 3,
         "description": "Shot effective against monsters vulnerable to water. Max 60 shots."
     },
     {
-        "id": 110,
         "name": "Thunder S",
         "rare": 3,
         "description": "Shot effective against monsters vulnerable to thunder. Max 60 shots."
     },
     {
-        "id": 111,
         "name": "Freeze S",
         "rare": 3,
         "description": "Shot effective against monster vulnerable to ice. Max 60 shots. "
     },
     {
-        "id": 112,
         "name": "Dragon S",
         "rare": 5,
         "description": "Mysterious ammo that can't be used in normal Bowguns. Maximum of 3 shots."
     },
     {
-        "id": 113,
         "name": "Recov S Lv1",
         "rare": 1,
         "description": "Restores a small amount of Health to the target. Maximum of 12 shots."
     },
     {
-        "id": 114,
         "name": "Recov S Lv2",
         "rare": 2,
         "description": "Restores a moderate amount of Health to the target. Maximum of 12 shots."
     },
     {
-        "id": 115,
         "name": "Poison S Lv1",
         "rare": 2,
         "description": "Poisons target, but may require several shots. Maximum of 12 shots."
     },
     {
-        "id": 116,
         "name": "Poison S Lv2",
         "rare": 3,
         "description": "Uses a stronger poison, but may require several shots. Max 8 shots."
     },
     {
-        "id": 117,
         "name": "Para S Lv1",
         "rare": 3,
         "description": "Paralyzes target, but may require several shots. Maximum of 12 shots."
     },
     {
-        "id": 118,
         "name": "Para S lv2",
         "rare": 4,
         "description": "Stronger paralysis effect, but may require several shots. Max 8 shots."
     },
     {
-        "id": 119,
         "name": "Sleep S Lv1",
         "rare": 3,
         "description": "Puts target to sleep, but may require several shots. Maximum of 12 shots."
     },
     {
-        "id": 120,
         "name": "Sleep S Lv2",
         "rare": 4,
         "description": "Stronger sleep effect, but may require several shots. Max 8 shots."
     },
     {
-        "id": 121,
         "name": "Tranq S",
         "rare": 4,
         "description": "Tranquilizer for use on large trapped monsters. Max 8 shots."
     },
     {
-        "id": 122,
         "name": "Paint S",
         "rare": 1,
         "description": "Marks a monster's position on the map for a set time period. Max 99 shots."
     },
     {
-        "id": 123,
         "name": "Demon S",
         "rare": 3,
         "description": "Said to bestow the strength of Asura on the target. Max 5 shots."
     },
     {
-        "id": 124,
         "name": "Armor S",
         "rare": 3,
         "description": "Said to make the target's skin as hard as stone. Maximum of 5 shots."
     },
     {
-        "id": 125,
         "name": "Empty Bottle",
         "rare": 1,
         "description": "A bottle with nothign in it. Nothing more, nothing less."
     },
     {
-        "id": 126,
         "name": "Power Coating",
         "rare": 2,
         "description": "Bows loaded with these bottles will have high attack power. Max 50."
     },
     {
-        "id": 127,
         "name": "Poison Coating",
         "rare": 3,
         "description": "Bows loaded with these bottles posion enemies on shaft impact. Max 20."
     },
     {
-        "id": 128,
         "name": "ParalysisCoating",
         "rare": 3,
         "description": "Bows loaded with these bottles paralyze enemies on shaft impact. Max 20."
     },
     {
-        "id": 129,
         "name": "Sleep Coating",
         "rare": 3,
         "description": "Bows loaded with these bottles will put enemies to sleep. Max 20."
     },
     {
-        "id": 130,
         "name": "CloseRngCoating",
         "rare": 3,
         "description": "Bows loaded with these get higher close-range power & melee Sharpness. Max 20."
     },
     {
-        "id": 131,
         "name": "Paint Coating",
         "rare": 1,
         "description": "Bows loaded with these can make monsters appear on the map. Max 99."
     },
     {
-        "id": 132,
         "name": "Cricket",
         "rare": 1,
         "description": "Energetic insect that works well as fishing bait."
     },
     {
-        "id": 133,
         "name": "Worm",
         "rare": 1,
         "description": "Nightcrawler for fishing. Use 5 worms to raise soil fertility one level."
     },
     {
-        "id": 134,
         "name": "Firefly",
         "rare": 2,
         "description": "A firefly that's always glowing. Works well as fishing bait."
     },
     {
-        "id": 135,
         "name": "Frog",
         "rare": 2,
         "description": "A frog. Works well as fishing bait."
     },
     {
-        "id": 136,
         "name": "Tuna Bait",
         "rare": 2,
         "description": "The bait preferred by the tuna family of fish."
     },
     {
-        "id": 137,
         "name": "Arrowana Bait",
         "rare": 2,
         "description": "The bait preferred by the arrowana family of fish."
     },
     {
-        "id": 138,
         "name": "Goldenfish Bait",
         "rare": 4,
         "description": "The bait preferred by Goldenfish."
     },
     {
-        "id": 139,
         "name": "Mega Fishing Fly",
         "rare": 3,
         "description": "A fly lure that causes a feeding frenz, no matter what fish is biting."
     },
     {
-        "id": 140,
         "name": "Old Pickaxe",
         "rare": 1,
         "description": "A cheap pickaxe with an easily chipped blade."
     },
     {
-        "id": 141,
         "name": "Iron Pickaxe",
         "rare": 1,
         "description": "An iron pickaxe with a strong blade."
     },
     {
-        "id": 142,
         "name": "Mega Pickaxe",
         "rare": 3,
         "description": "A steel-reinforced pickaxe that is hard to chip."
     },
     {
-        "id": 143,
         "name": "Expand Pickaxe",
         "rare": 5,
         "description": "Small pickaxe that appears unsuitable for mining. You sense a strange power..."
     },
     {
-        "id": 144,
         "name": "Old Bugnet",
         "rare": 1,
         "description": "Cheap and easily torn net for catching bugs."
     },
     {
-        "id": 145,
         "name": "Bugnet",
         "rare": 1,
         "description": "Strong net for catching bugs."
     },
     {
-        "id": 146,
         "name": "Mega Bugnet",
         "rare": 3,
         "description": "Extremely durable net for catching bugs."
     },
     {
-        "id": 147,
         "name": "BBQ Spit",
         "rare": 1,
         "description": "A must-have item for any hunter. Allows for the cookign of meat."
     },
     {
-        "id": 148,
         "name": "Gourmet BBQ Spit",
         "rare": 4,
         "description": "A gourmet BBQ spit that allows you to make Well-Done Steaks more easily."
     },
     {
-        "id": 149,
         "name": "Whetstone",
         "rare": 1,
         "description": "A standard whetstone. By grinding weawopns with it, Sharpness is restored."
     },
     {
-        "id": 150,
         "name": "Binoculars",
         "rare": 1,
         "description": "Lets you observe from a distance."
     },
     {
-        "id": 151,
         "name": "Garbage",
         "rare": 1,
         "description": "Junk created when a combination attempt fails."
     },
     {
-        "id": 152,
         "name": "Flute",
         "rare": 2,
         "description": "A dangerous device used to attract certain monsters. May break when used."
     },
     {
-        "id": 153,
         "name": "Health Flute",
         "rare": 4,
         "description": "Restores the Health of those who hear it. May break when used."
     },
     {
-        "id": 154,
         "name": "Antidote Flute",
         "rare": 4,
         "description": "Eliminates poison in the blood of those who hear it. May break when used."
     },
     {
-        "id": 155,
         "name": "Demon Flute",
         "rare": 5,
         "description": "Increases the strength of those who hear it. May break when used."
     },
     {
-        "id": 156,
         "name": "Armor Flute",
         "rare": 5,
         "description": "Improves the endurance of those who hear it. May break when used."
     },
     {
-        "id": 157,
         "name": "Honey",
         "rare": 2,
         "description": "Normal honey. Highly nutritious."
     },
     {
-        "id": 158,
         "name": "Sunset Herb",
         "rare": 2,
         "description": "A strange herb with a pleasant smell. Good for combining."
     },
     {
-        "id": 159,
         "name": "Herb",
         "rare": 1,
         "description": "A plant that restores a slight amount of Health."
     },
     {
-        "id": 160,
         "name": "Antidote Herb",
         "rare": 1,
         "description": "Field plant with antidotal qualities. Relying on it too heavily poses a risk."
     },
     {
-        "id": 161,
         "name": "Fire Herb",
         "rare": 1,
         "description": "A plant that has flammable properties."
     },
     {
-        "id": 162,
         "name": "Ivy",
         "rare": 1,
         "description": "A lightweight and extremely strong plant."
     },
     {
-        "id": 163,
         "name": "Sleep Herb",
         "rare": 1,
         "description": "Plant with sleep-inducing qualities. Can be planted in the field."
     },
     {
-        "id": 164,
         "name": "Sap Plant",
         "rare": 1,
         "description": "A plant with leaves coated in sticky sap. Difficult to remove once attached."
     },
     {
-        "id": 165,
         "name": "Felvine",
         "rare": 1,
         "description": "A Melynx favorite. They can't resist its charm."
     },
     {
-        "id": 166,
         "name": "Cactus Flower",
         "rare": 1,
         "description": "Contains antidotal substances, but has no effect by itself."
     },
     {
-        "id": 167,
         "name": "Hot Pepper",
         "rare": 2,
         "description": "Ignites a fire after only a single bite. Warms you up, but too hot to handle."
     },
     {
-        "id": 168,
         "name": "Dosbiscus",
         "rare": 4,
         "description": "A large, beautifully colored flowering plant foreign to this land."
     },
     {
-        "id": 169,
         "name": "Mountain Herbs",
         "rare": 5,
         "description": "Highly valued natrual grass found only in the mountains. (Account Item)"
     },
     {
-        "id": 170,
         "name": "Giant Corn",
         "rare": 5,
         "description": "Gigantic corn that's hard to grow in this region. Packed with kernels."
     },
     {
-        "id": 171,
         "name": "Special Mushroom",
         "rare": 5,
         "description": "Tiny, difficult to pick. A Mosswine's favorite food. (Account Item)"
     },
     {
-        "id": 172,
         "name": "Select Mushroom",
         "rare": 5,
         "description": "Selected from Special Mushrooms for their size and taste (Account Item)"
     },
     {
-        "id": 173,
         "name": "Blue Mushroom",
         "rare": 2,
         "description": "Rare mushroom with a power-enhancing effect."
     },
     {
-        "id": 174,
         "name": "Nitroshroom",
         "rare": 2,
         "description": "Rare mushroom with the power to generate heat."
     },
     {
-        "id": 175,
         "name": "Parashroom",
         "rare": 3,
         "description": "Mushroom that induces a paralysis effect."
     },
     {
-        "id": 176,
         "name": "Toadstool",
         "rare": 2,
         "description": "A poisonous fungus. Perhaps it has other effects as well..."
     },
     {
-        "id": 177,
         "name": "Exciteshroom",
         "rare": 3,
         "description": "A mushroom with a very strange smell. What would happen if you ate it...?"
     },
     {
-        "id": 178,
         "name": "Dragon Toadstool",
         "rare": 3,
         "description": "A dangerous fungus said to draw the life out of people. Beware."
     },
     {
-        "id": 179,
         "name": "Spicy Mushroom",
         "rare": 3,
         "description": "Speical Spicy Mushroom that recovers a small amount of Stamina."
     },
     {
-        "id": 180,
         "name": "Chaos Mushroom",
         "rare": 4,
         "description": "Said to cause chaos. Its spores cause monsters to hallucinate."
     },
     {
-        "id": 181,
         "name": "Paintberry",
         "rare": 1,
         "description": "Releases a smelly paint-like juice when broken. Can be planted."
     },
     {
-        "id": 182,
         "name": "Power Seed",
         "rare": 2,
         "description": "Temporarily raises Attack power. Short-lived effect if used raw. Plantable."
     },
     {
-        "id": 183,
         "name": "Armor Seed",
         "rare": 2,
         "description": "Temporarily increases Defense when consumed. Very invigorating."
     },
     {
-        "id": 184,
         "name": "Dragon Seed",
         "rare": 2,
         "description": "Mysterious berry said to be hated by dragons."
     },
     {
-        "id": 185,
         "name": "Scatternut",
         "rare": 2,
         "description": "A nut that shatters to pieces when subjected to an impact."
     },
     {
-        "id": 186,
         "name": "Needleberry",
         "rare": 1,
         "description": "Berry covered in needle-like thorns. Can be made into bullets. Plantable."
     },
     {
-        "id": 187,
         "name": "Bomberry",
         "rare": 2,
         "description": "A berry that explodes when subjected to an impact."
     },
     {
-        "id": 188,
         "name": "Tropical Berry",
         "rare": 5,
         "description": "A blood red berry grown in the scorching heat. (Account Item)"
     },
     {
-        "id": 189,
         "name": "Frozen Berry",
         "rare": 3,
         "description": "A completely frozen berry. Can provide relief from heat and recover Stamina."
     },
     {
-        "id": 190,
         "name": "Red Seed",
         "rare": 2,
         "description": "A strange red seed of unknown variety. Can be planted in the field."
     },
     {
-        "id": 191,
         "name": "Green Seed",
         "rare": 2,
         "description": "A strange green seed of unknown variety. Can be planted in the field."
     },
     {
-        "id": 192,
         "name": "Yellow Seed",
         "rare": 4,
         "description": "A strange yellow seed of unknown variety. Can be planted in the field."
     },
     {
-        "id": 193,
         "name": "Beautiful Shell",
         "rare": 2,
         "description": "A beautiful shell with a faint tinge of color. (Account Item)"
     },
     {
-        "id": 194,
         "name": "Black Pearl",
         "rare": 4,
         "description": "Taken from the depths of a shell. Valued as treasure, as well as material."
     },
     {
-        "id": 195,
         "name": "Giant Blk Pearl",
         "rare": 5,
         "description": "Largest and most beautiful of all Black Pearls. Very valuable and hard to find."
     },
     {
-        "id": 196,
         "name": "Stone",
         "rare": 1,
         "description": "A small rock. Can be thrown."
     },
     {
-        "id": 197,
         "name": "Disk Stone",
         "rare": 4,
         "description": "A disk-shaped stone."
     },
     {
-        "id": 198,
         "name": "Iron Ore",
         "rare": 4,
         "description": "Ore that can be smelted into metal and used for many different purposes."
     },
     {
-        "id": 199,
         "name": "Earth Crystal",
         "rare": 4,
         "description": "Crystallized remains of micro biotic organisms. A prized weapon abrasive."
     },
     {
-        "id": 200,
         "name": "Machalite Ore",
         "rare": 5,
         "description": "Better than Iron Ore. Used to make Machalite. Also called Sparrowstone."
     },
     {
-        "id": 201,
         "name": "Dragonite Ore",
         "rare": 5,
         "description": "Better than Machalite. Extremely valuable. Also called Dragonstone."
     },
     {
-        "id": 202,
         "name": "Carbalite Ore",
         "rare": 5,
         "description": "An experimental ore also called Spiritstone, it is superior to Dragonite."
     },
     {
-        "id": 203,
         "name": "Eltalite Ore",
         "rare": 5,
         "description": "Better than Carbalite Ore. New material with great potential. AKA Kitestone."
     },
     {
-        "id": 204,
         "name": "Union Ore",
         "rare": 5,
         "description": "Ore with a metal that can fuse any other material together. AKA Dovestone."
     },
     {
-        "id": 205,
         "name": "Mellanje Ore",
         "rare": 5,
         "description": "Soft, easy to work with Ore that combines well. AKA Pidgeonstone."
     },
     {
-        "id": 206,
         "name": "Firestone",
         "rare": 5,
         "description": "Combusts at room temp. Mix with suitable materials only. AKA Phoenixstone,"
     },
     {
-        "id": 207,
         "name": "Firecell Stone",
         "rare": 5,
         "description": "A magma-like ore. Only to be handled by trained hands. AKA Eagle's Eye."
     },
     {
-        "id": 208,
         "name": "Coal",
         "rare": 3,
         "description": "A combustible rock that emits a faint warmth. (Account Item)"
     },
     {
-        "id": 209,
         "name": "Goldstone Piece",
         "rare": 3,
         "description": "A small, pure piece of Goldstone. Commands a high price. (Account Item)"
     },
     {
-        "id": 210,
         "name": "Goldstone Hunk",
         "rare": 4,
         "description": "Massive hunk of precious Goldstone. Its shine grabs the eye. (Account Item)"
     },
     {
-        "id": 211,
         "name": "Lightcrystal",
         "rare": 5,
         "description": "Crystal with a dull glow. Extremely hard, it is used for tools in the armory."
     },
     {
-        "id": 212,
         "name": "Novacrystal",
         "rare": 5,
         "description": "Brightly glowing crystal. Extremely hard, it is used for tools in the armory."
     },
     {
-        "id": 213,
         "name": "Purecrystal",
         "rare": 5,
         "description": "100% pure and extremely hard, it's even used in workshop machinery."
     },
     {
-        "id": 214,
         "name": "Antiseptic Stone",
         "rare": 3,
         "description": "An unnatural Crystal with enhanced antiseptic qualities."
     },
     {
-        "id": 215,
         "name": "Ice Crystal",
         "rare": 2,
         "description": "WILL not thaw at room temperature. Confirmed to increase ore density."
     },
     {
-        "id": 216,
         "name": "Rainbow Ore",
         "rare": 5,
         "description": "Beautiful ore. Colors and properties depend on many variables."
     },
     {
-        "id": 217,
         "name": "Great Stone",
         "rare": 5,
         "description": "Looks normal enough, but it has a great presence. Contains an ancient aura."
     },
     {
-        "id": 218,
         "name": "Armor Stone",
         "rare": 4,
         "description": "Ore with a unique reaction to heat. Can be combined to make an armor coating."
     },
     {
-        "id": 219,
         "name": "Armor Sphere",
         "rare": 5,
         "description": "Its unique reaction to heat can be used to increase armor strength."
     },
     {
-        "id": 220,
         "name": "Armor Sphere+",
         "rare": 5,
         "description": "Dense and high quality. Treasured as a supplement to armor strength."
     },
     {
-        "id": 221,
         "name": "Hrd Armor Sphere",
         "rare": 5,
         "description": "Hard, high density Armor Sphere. Rare material used in high strength armor."
     },
     {
-        "id": 222,
         "name": "Hvy Armor Sphere",
         "rare": 5,
         "description": "Thick, Rarely obtained, the bar on armor dense Armor Sphere. it raises strength."
     },
     {
-        "id": 223,
         "name": "Ryl Armor Sphere",
         "rare": 5,
         "description": "Incredibly rare Armor Sphere with a sparkle. Further improves armor."
     },
     {
-        "id": 224,
         "name": "Tru Armor Sphere",
         "rare": 5,
         "description": "Near impossible to find Armor Sphere with hard to extract latent abilities."
     },
     {
-        "id": 225,
         "name": "Knife Mackerel",
         "rare": 1,
         "description": "A fish with a dorsal fin hard enough to be used to sharpen weapons."
     },
     {
-        "id": 226,
         "name": "Sushifish",
         "rare": 1,
         "description": "A delicious fish that restores a small amount of Health when consumed."
     },
     {
-        "id": 227,
         "name": "Sleepyfish",
         "rare": 2,
         "description": "A fish with sleep-inducing properties."
     },
     {
-        "id": 228,
         "name": "Pin Tuna",
         "rare": 1,
         "description": "A fish with a jaw covered in tiny needle-like spikes."
     },
     {
-        "id": 229,
         "name": "Rumblefish",
         "rare": 2,
         "description": "A fish that cracks open when killed."
     },
     {
-        "id": 230,
         "name": "Scatterfish",
         "rare": 4,
         "description": "A fish that shatters to pieces when killed."
     },
     {
-        "id": 231,
         "name": "Burst Arrowana",
         "rare": 4,
         "description": "A fish that ruptures open when killed."
     },
     {
-        "id": 232,
         "name": "Bomb Arrowana",
         "rare": 4,
         "description": "A fish that explodes when killed."
     },
     {
-        "id": 233,
         "name": "Glutton Tuna",
         "rare": 4,
         "description": "WILL devour anything in its path, and sometimes these remain inside."
     },
     {
-        "id": 234,
         "name": "Gastronome Tuna",
         "rare": 4,
         "description": "An enormous Glutton Tuna. Will eat anything, no matter the size."
     },
     {
-        "id": 235,
         "name": "Speartuna",
         "rare": 5,
         "description": "A rare and valuable giant-sized fish. What could it be used for...?"
     },
     {
-        "id": 236,
         "name": "Small Goldenfish",
         "rare": 4,
         "description": "A curiously small, gold fish. Commands a high price. fare,"
     },
     {
-        "id": 237,
         "name": "Goldenfish",
         "rare": 4,
         "description": "A rare fish whose entire body is gold. Can be sold for profit. (Account Item)"
     },
     {
-        "id": 238,
         "name": "Silverfish",
         "rare": 5,
         "description": "A strange fish with a silver body. Quite valuable. (Account Item)"
     },
     {
-        "id": 239,
         "name": "Ancient Fish",
         "rare": 5,
         "description": "A precious fish which can be almost entirely used as material."
     },
     {
-        "id": 240,
         "name": "Springnight Carp",
         "rare": 4,
         "description": "A species of carp whose arrival signals the start of breeding season."
     },
     {
-        "id": 241,
         "name": "Tailed Frog",
         "rare": 5,
         "description": "Rare frog that retained its tail. This happens under special conditions."
     },
     {
-        "id": 242,
         "name": "Insect Husk",
         "rare": 1,
         "description": "The remains of a dead Insect."
     },
     {
-        "id": 243,
         "name": "Yambug",
         "rare": 1,
         "description": "Yam-like bug that exudes a scent that drives tuna wild. Great fishing bait."
     },
     {
-        "id": 244,
         "name": "Bughopper",
         "rare": 1,
         "description": "An insect that exudes a scent that drives arrowana wild. Great fishing bait."
     },
     {
-        "id": 245,
         "name": "Snakebee Larva",
         "rare": 1,
         "description": "A snake-like larva with a scent that Goldenfish just love. Great fishing bait."
     },
     {
-        "id": 246,
         "name": "Godbug",
         "rare": 4,
         "description": "An insect said to live for a thousand years."
     },
     {
-        "id": 247,
         "name": "Bitterbug",
         "rare": 1,
         "description": "Contains a bitter essence. Has a 50% chance of curing poison if consumed."
     },
     {
-        "id": 248,
         "name": "Flashbug",
         "rare": 2,
         "description": "An insect that emits a powerful flash when it dies."
     },
     {
-        "id": 249,
         "name": "Thunderbug",
         "rare": 4,
         "description": "An insect that emits electricity when struck. Has many applications."
     },
     {
-        "id": 250,
         "name": "Carpenterbug",
         "rare": 4,
         "description": "Viscous body fluids and sharp jaws make this Insect an artisan."
     },
     {
-        "id": 251,
         "name": "King Scarab",
         "rare": 5,
         "description": "The royal class of the scarabs, with a hard shell and lustrous wings."
     },
     {
-        "id": 252,
         "name": "Emperor Cricket",
         "rare": 5,
         "description": "Exceptionally strong shell makes it a good counter-part to soft materials."
     },
     {
-        "id": 253,
         "name": "Killer Beetle",
         "rare": 4,
         "description": "Insect with a hard shell and dazzling wings. Used as an abrasive."
     },
     {
-        "id": 254,
         "name": "Hercudrome",
         "rare": 5,
         "description": "Said to be the world's strongest bug. Widely used in making equipment."
     },
     {
-        "id": 255,
         "name": "Rare Scarab",
         "rare": 5,
         "description": "A rare, prized insect. Used to increase the power of metal objects."
     },
     {
-        "id": 256,
         "name": "PhantomButterfly",
         "rare": 5,
         "description": "Rarely seen by humans, its wings shimmer like precious gems."
     },
     {
-        "id": 257,
         "name": "Royal Rhino",
         "rare": 2,
         "description": "Beetle with a jewel-like shine and prized by collectors. (Account Item)"
     },
     {
-        "id": 258,
         "name": "Divine Rhino",
         "rare": 4,
         "description": "Beetle that glows as if from the heavens. Loved by collectors. (Account Item)"
     },
     {
-        "id": 259,
         "name": "Rainbow Insect",
         "rare": 5,
         "description": "Beautiful insect material. Colors and properties depend on many variables."
     },
     {
-        "id": 260,
         "name": "Great Hornfly",
         "rare": 5,
         "description": "Insect with a giant horn, massive shell, and wings of butterfly-like beauty."
     },
     {
-        "id": 261,
         "name": "Great Ladybug",
         "rare": 5,
         "description": "Giant Insect with a very hard shell. Protects crops by eating harmful pests."
     },
     {
-        "id": 262,
         "name": "Screamer",
         "rare": 4,
         "description": "A monster's organ. emits a shrill internal If broken, it sound."
     },
     {
-        "id": 263,
         "name": "Poison Sac",
         "rare": 4,
         "description": "A monster's Internal organ. Contains a lethal poison."
     },
     {
-        "id": 264,
         "name": "Toxin Sac",
         "rare": 5,
         "description": "A monster's internal organ filled with potent toxin. Dangerous, even to touch."
     },
     {
-        "id": 265,
         "name": "DeadlyPoisonSac",
         "rare": 5,
         "description": "A monster's filled with @ most toxin. Internal organ lethal Use extreme care."
     },
     {
-        "id": 266,
         "name": "Paralysis Sac",
         "rare": 4,
         "description": "A monster's internal organ filled with a paralyzing neurotoxin,"
     },
     {
-        "id": 267,
         "name": "Sleep Sac",
         "rare": 4,
         "description": "A monster's internal organ filled with a powder that causes sleep when inhaled."
     },
     {
-        "id": 268,
         "name": "Coma Sac",
         "rare": 5,
         "description": "A monster's organ that filled with a powder internal can induce a coma."
     },
     {
-        "id": 269,
         "name": "Flame Sac",
         "rare": 4,
         "description": "A monster's internal organ. Contains a very flammable powder."
     },
     {
-        "id": 270,
         "name": "Inferno Sac",
         "rare": 5,
         "description": "A monster's internal organ filled with a powder that ignites when touched."
     },
     {
-        "id": 271,
         "name": "Blazing Fire Sac",
         "rare": 5,
         "description": "A monster's internal organ filled with an explosive powder. Watch out!"
     },
     {
-        "id": 272,
         "name": "Electro Sac",
         "rare": 4,
         "description": "The internal organ of a Khezu. Releases electricity If disturbed."
     },
     {
-        "id": 273,
         "name": "Thunder Sac",
         "rare": 5,
         "description": "The internal organ of a Khezu. Contains unequaled electrical energy."
     },
     {
-        "id": 274,
         "name": "Lightning Sac",
         "rare": 5,
         "description": "A monster's internal organ charged with electricity & the rumbling of thunder."
     },
     {
-        "id": 275,
         "name": "Power Extract",
         "rare": 3,
         "description": "Gypceros extract. The secret to Its ability to run fast and far."
     },
     {
-        "id": 276,
         "name": "Pale Extract",
         "rare": 3,
         "description": "Khezu extract. Has the ability to amplify the effects of medicines."
     },
     {
-        "id": 277,
         "name": "Sm Monster Bone",
         "rare": 3,
         "description": "A very useful material, indispensable for both hunting and daily life."
     },
     {
-        "id": 278,
         "name": "Med Monster Bone",
         "rare": 4,
         "description": "Has more uses than small bone. Usually carved to make any Item."
     },
     {
-        "id": 279,
         "name": "Lg Monster Bone",
         "rare": 5,
         "description": "Indispensable for crafting one-piece items. Bone can be connected to shell."
     },
     {
-        "id": 280,
         "name": "Monster Bone+",
         "rare": 5,
         "description": "Top quality monster bone. Hard to find but a nearly unbreakable material."
     },
     {
-        "id": 281,
         "name": "Hrd Monster Bone",
         "rare": 5,
         "description": "A monster's most unique bone. Priceless strength, but difficult to work."
     },
     {
-        "id": 282,
         "name": "Hvy Monster Bone",
         "rare": 5,
         "description": "Strong bone from only the toughest of wyverns. It's very thick and heavy."
     },
     {
-        "id": 283,
         "name": "Eldr Dragon Bone",
         "rare": 5,
         "description": "You can sense the elder dragon's dignity from this massive bone alone."
     },
     {
-        "id": 284,
         "name": "BigEDragonBone",
         "rare": 5,
         "description": "Top-notch bone from a large dragon. Feels like It could last forever."
     },
     {
-        "id": 285,
         "name": "Mystery Bone",
         "rare": 1,
         "description": "A well-worn bone. Not sturdy enough to use in combination."
     },
     {
-        "id": 286,
         "name": "Unknown Skull",
         "rare": 4,
         "description": "Animal skull. So worn and weathered, it's unidentifiable."
     },
     {
-        "id": 287,
         "name": "Master's Skull",
         "rare": 5,
         "description": "The remains of a top hunter who once let his guard down."
     },
     {
-        "id": 288,
         "name": "Bone",
         "rare": 1,
         "description": "Just a bone. So worn and weathered, it's unidentifiable."
     },
     {
-        "id": 289,
         "name": "RobustWyvernBone",
         "rare": 5,
         "description": "A bird wyvern's robust bone. It's easy to work with and is very durable."
     },
     {
-        "id": 290,
         "name": "Brute Bone",
         "rare": 3,
         "description": "The stout bone of a brutish monster. An easy to work material."
     },
     {
-        "id": 291,
         "name": "Giant Bone",
         "rare": 4,
         "description": "A fat, cut large bone. Can be in the workshop to make crafting material."
     },
     {
-        "id": 292,
         "name": "Stout Bone",
         "rare": 5,
         "description": "The stout, hard bone of a brute. Rigid, it is priceless for crafting,"
     },
     {
-        "id": 293,
         "name": "Massive Bone",
         "rare": 5,
         "description": "Very hard bone from a very large beast. Its worth as material is beyond words."
     },
     {
-        "id": 294,
         "name": "Wyvern Fang",
         "rare": 3,
         "description": "Used for Bowgun munitions. Combined with explosives, it makes spreading shots."
     },
     {
-        "id": 295,
         "name": "Wyvern Claw",
         "rare": 3,
         "description": "Used for Bowgun munitions. Combined with explosives, it makes spreading shots."
     },
     {
-        "id": 296,
         "name": "Wyvern Stone",
         "rare": 5,
         "description": "A unique item formed by the hardening of foreign materials inside a wyvern."
     },
     {
-        "id": 297,
         "name": "Big Wyvern Stone",
         "rare": 5,
         "description": "A Wyvern Stone that's had years upon years to form. It has a mysterious glow."
     },
     {
-        "id": 298,
         "name": "BigEDragonJewel",
         "rare": 5,
         "description": "Ultra-rarely does a giant stone like this form inside an Elder Dragon."
     },
     {
-        "id": 299,
         "name": "White Liver",
         "rare": 2,
         "description": "A white liver, just as stated. Its texture is adored. (Account Item)"
     },
     {
-        "id": 300,
         "name": "Popo Tongue",
         "rare": 3,
         "description": "A Popo tongue is popular, healthy, and enjoyable to eat. (Account Item)"
     },
     {
-        "id": 301,
         "name": "Secret Pouch",
         "rare": 4,
         "description": "The pouch carried by a Melynx. The insides are a jumble. (Account Item)"
     },
     {
-        "id": 302,
         "name": "CarapaceonBrains",
         "rare": 2,
         "description": "The brain matter of a Carapaceon. A widely known delicacy. (Account Item)"
     },
     {
-        "id": 303,
         "name": "CarapaceonBrain+",
         "rare": 4,
         "description": "First-class Carapaceon Brains. An Einsteinian delicacy. (Account Item)"
     },
     {
-        "id": 304,
         "name": "Piscine Liver",
         "rare": 3,
         "description": "Internal organ from a Piscine Wyvern. A great cure-all. (Account Item)"
     },
     {
-        "id": 305,
         "name": "Wyvern Tears",
         "rare": 5,
         "description": "Precious tears wept only on special occasions. (Account Item)"
     },
     {
-        "id": 306,
         "name": "Wyvern Sobs",
         "rare": 5,
         "description": "Precious crocodile tears wept only on special occasions. (Account Item)"
     },
     {
-        "id": 307,
         "name": "Territorial Dung",
         "rare": 5,
         "description": "Droppings used by a monster (Account to mark territory. Item)"
     },
     {
-        "id": 308,
         "name": "TerritorialDung+",
         "rare": 5,
         "description": "Large droppings used by a monster to mark territory. (Account Item)"
     },
     {
-        "id": 309,
         "name": "Crab Pearl",
         "rare": 5,
         "description": "A jewel polished by time inside a monster's body. (Account Item)"
     },
     {
-        "id": 310,
         "name": "Crab Pearl+",
         "rare": 5,
         "description": "A treasured jewel polished by time inside a monster's body. (Account Item)"
     },
     {
-        "id": 311,
         "name": "Dragon Treasure",
         "rare": 5,
         "description": "Shining stones gathered and loved by an elder dragon. (Account Item)"
     },
     {
-        "id": 312,
         "name": "Anc Drgn Treasre",
         "rare": 5,
         "description": "This stone's radiance grows brighter as time passes. (Account Item)"
     },
     {
-        "id": 313,
         "name": "Decayed Drgn Scl",
         "rare": 5,
         "description": "Decays as time relentlessly attacks its surface. (Account Item)"
     },
     {
-        "id": 314,
         "name": "Dragon Herb",
         "rare": 5,
         "description": "Crystallized Dragon Scale. Priceless as a natural medicine. (Account Item)"
     },
     {
-        "id": 315,
         "name": "Felyne Fur Ruby",
         "rare": 5,
         "description": "Priceless ruby formed by the rare hardening of a Felyne hairball."
     },
     {
-        "id": 316,
         "name": "Mosswine Hide",
         "rare": 4,
         "description": "Mosswine hide. It's covered in moss."
     },
     {
-        "id": 317,
         "name": "Bullfango Pelt",
         "rare": 1,
         "description": "Bullfango hide. It's covered in bristly fur."
     },
     {
-        "id": 318,
         "name": "ThkBullfangoPelt",
         "rare": 5,
         "description": "High-grade Bullfango Pelt. The fur is thick and of superior quality."
     },
     {
-        "id": 319,
         "name": "Bullfango Head",
         "rare": 4,
         "description": "A Bullfango head with a pair of huge fangs."
     },
     {
-        "id": 320,
         "name": "Bulldrome Tusk",
         "rare": 4,
         "description": "Majestic Bulldrome Tusk. The damaged surface tells the tale of many battles."
     },
     {
-        "id": 321,
         "name": "Bulldrome Hide",
         "rare": 4,
         "description": "A Bulldrome's bristly hide. It is strangely beautiful."
     },
     {
-        "id": 322,
         "name": "Bulldrome Hide+",
         "rare": 4,
         "description": "The tough hide of a Bulldrome. It is unblemished."
     },
     {
-        "id": 323,
         "name": "Kelbi Horn",
         "rare": 4,
         "description": "Infusions of powdered Kelbi Horn are used as medicine."
     },
     {
-        "id": 324,
         "name": "Kelbi Hide",
         "rare": 1,
         "description": "Used to join the plates in a suit of armor and to make winter clothing."
     },
     {
-        "id": 325,
         "name": "Anteka Antlers",
         "rare": 4,
         "description": "The horns of an Anteka. Used and in weapons, armor, interior decorating."
     },
     {
-        "id": 326,
         "name": "Anteka Pelt",
         "rare": 3,
         "description": "The soft, thick fur of an Anteka. Provides protection from cold."
     },
     {
-        "id": 327,
         "name": "High Qualty Pelt",
         "rare": 4,
         "description": "Feels excellent to the touch. Difficult to carve but valued by the Guild."
     },
     {
-        "id": 328,
         "name": "Remobra Skin",
         "rare": 4,
         "description": "The black skin of a wyvern called a Remobra. Its glossy surface sheens."
     },
     {
-        "id": 329,
         "name": "Remobra Skin+",
         "rare": 4,
         "description": "A high quality Remobra skin. It has a vivid black luster."
     },
     {
-        "id": 330,
         "name": "SpecRemobraSkin+",
         "rare": 5,
         "description": "Superior quality Remobra skin. It shines with a Black Pearl-like luster."
     },
     {
-        "id": 331,
         "name": "Striped Skin",
         "rare": 5,
         "description": "The striped skin of a Remobra. The black and red stripes are very popular."
     },
     {
-        "id": 332,
         "name": "Remobra Skull",
         "rare": 4,
         "description": "Skull of a serpent-like Remobra. Even in death its fangs appear powerful."
     },
     {
-        "id": 333,
         "name": "ShakalakaTreasre",
         "rare": 4,
         "description": "Dropped by a Shakalaka in a state of confusion. Looks like trash..."
     },
     {
-        "id": 334,
         "name": "ShakalakaTreasr+",
         "rare": 5,
         "description": "The rarest of the rare things Shakalakas' drop, their prized... garbage!?"
     },
     {
-        "id": 335,
         "name": "ShakaInheritance",
         "rare": 5,
         "description": "Dropped by King Shakalaka. It's the King's splendid... garbage?"
     },
     {
-        "id": 336,
         "name": "Giaprey Scale",
         "rare": 3,
         "description": "The color of this scale allows you to approach in the snow unseen."
     },
     {
-        "id": 337,
         "name": "Giaprey Scale+",
         "rare": 5,
         "description": "Scale ripped from a Giaprey. Used to craft excellent equipment."
     },
     {
-        "id": 338,
         "name": "Giaprey Hide",
         "rare": 3,
         "description": "Hide stripped of its scales. Used to make clothing for villagers."
     },
     {
-        "id": 339,
         "name": "Giaprey Hide+",
         "rare": 5,
         "description": "High quality Giaprey Hide. A pathway to the creation of sturdy equipment."
     },
     {
-        "id": 340,
         "name": "Giadrome Hide",
         "rare": 4,
         "description": "The hide of a Giadrome. It bears the scars of a leader's battles."
     },
     {
-        "id": 341,
         "name": "Giadrome Claw",
         "rare": 4,
         "description": "Sharper than a Giaprey claw, touching it bare-handed is quite dangerous."
     },
     {
-        "id": 342,
         "name": "Giadrome Claw+",
         "rare": 5,
         "description": "A sharp Gladrome Claw. The deadly weapon of a Giadrome pack leader."
     },
     {
-        "id": 343,
         "name": "Giadrome Skull",
         "rare": 4,
         "description": "The large crest on this Giadrome skull denotes it as a pack leader."
     },
     {
-        "id": 344,
         "name": "Velociprey Fang",
         "rare": 2,
         "description": "Sharp (though not as sharp as a wyvern fang). Used to make Bowgun ammo."
     },
     {
-        "id": 345,
         "name": "Velociprey Scale",
         "rare": 3,
         "description": "Scale obtained by carving up a Velociprey. Blue and black in color."
     },
     {
-        "id": 346,
         "name": "Velociprey Scle+",
         "rare": 5,
         "description": "Scale stripped from a Velociprey. It can be made into Light, durable armor."
     },
     {
-        "id": 347,
         "name": "Velociprey Hide",
         "rare": 3,
         "description": "Hide stripped of its scales. Used to join the plates in a sult of armor."
     },
     {
-        "id": 348,
         "name": "Velociprey Hide+",
         "rare": 5,
         "description": "The high quality, descaled hide of a Velociprey, it has many applications."
     },
     {
-        "id": 349,
         "name": "Velocidrome Hide",
         "rare": 4,
         "description": "The hide of a Velociprey leader. It bears the scars of a leadership role."
     },
     {
-        "id": 350,
         "name": "Velocidrome Claw",
         "rare": 4,
         "description": "Claw from an alpha Velociprey. Sharp and blade-like."
     },
     {
-        "id": 351,
         "name": "Velocidrome Clw+",
         "rare": 5,
         "description": "The sharp claw of a Velocidrome. It can easily slice through prey."
     },
     {
-        "id": 352,
         "name": "Velocidrome Head",
         "rare": 4,
         "description": "Large head with a crest. You'd look pretty fierce if you put it on."
     },
     {
-        "id": 353,
         "name": "Genprey Fang",
         "rare": 2,
         "description": "Poisonous fang from a Genprey. Paralyzing toxin even works on wyverns."
     },
     {
-        "id": 354,
         "name": "Genprey Scale",
         "rare": 3,
         "description": "Scale from a Genprey. Acts as camouflage in the desert zone."
     },
     {
-        "id": 355,
         "name": "Genprey Scale+",
         "rare": 5,
         "description": "Scale taken from a Genprey. Strong enough to repel a wyvern's fangs."
     },
     {
-        "id": 356,
         "name": "Genprey Hide",
         "rare": 5,
         "description": "A hide with all the scales removed. Can be tanned at the fort."
     },
     {
-        "id": 357,
         "name": "Genprey Hide+",
         "rare": 5,
         "description": "The high quality, descaled hide of a Genprey, it can neutralize neurotoxins."
     },
     {
-        "id": 358,
         "name": "Gendrome Hide",
         "rare": 4,
         "description": "Sturdy green hide from a Gendrome. Perfect for making strong armor."
     },
     {
-        "id": 359,
         "name": "Gendrome Tail",
         "rare": 5,
         "description": "This flexible tail has adapted to the harsh conditions of the desert."
     },
     {
-        "id": 360,
         "name": "Gendrome Skull",
         "rare": 4,
         "description": "The skull of a Gendrome is noted for its two crests."
     },
     {
-        "id": 361,
         "name": "Ioprey Fang",
         "rare": 2,
         "description": "Fang filled with deadly poison. Care is required when handling it."
     },
     {
-        "id": 362,
         "name": "Ioprey Scale",
         "rare": 3,
         "description": "The dangerous poison normally in the scale has been removed."
     },
     {
-        "id": 363,
         "name": "Ioprey Scale+",
         "rare": 5,
         "description": "Scale stripped from an Ioprey. Can be used, once the polson is removed."
     },
     {
-        "id": 364,
         "name": "Ioprey Hide",
         "rare": 3,
         "description": "Descaled hide, often made into belts. Red belts are used in decorations."
     },
     {
-        "id": 365,
         "name": "Ioprey Hide+",
         "rare": 5,
         "description": "High quality, descaled hide of an Ioprey, the red skin resists poison."
     },
     {
-        "id": 366,
         "name": "Iodrome Hide",
         "rare": 4,
         "description": "Sturdy red hide from an Iodrome. Perfect for making strong armor."
     },
     {
-        "id": 367,
         "name": "Iodrome Skull",
         "rare": 4,
         "description": "The large crest on an Iodrome's skull is enough to catch the eyes of all."
     },
     {
-        "id": 368,
         "name": "OrangeHypnoPelt",
         "rare": 5,
         "description": "Vibrant orange pelt of a Hypnocatrice. It's great for making strong leather."
     },
     {
-        "id": 369,
         "name": "OrangeHypnoPelt+",
         "rare": 5,
         "description": "Thick and vibrant orange fur. It's a very valuable crafting material."
     },
     {
-        "id": 370,
         "name": "Top-GrdHypnoClaw",
         "rare": 5,
         "description": "Very sharp and rigid high- quality claw. The shine is proof of its quality."
     },
     {
-        "id": 371,
         "name": "Hypno Claw+",
         "rare": 5,
         "description": "Hypnocatrice's hard claw. One kick with this on, and your prey is done."
     },
     {
-        "id": 372,
         "name": "Hypno Bezoar",
         "rare": 5,
         "description": "Helps the Hypnocatrice digest its food. It's transparent, yet shines."
     },
     {
-        "id": 373,
         "name": "Hypno Bezoar+",
         "rare": 5,
         "description": "Noblewomen's desire, this stone is very pure and has a beautiful shape."
     },
     {
-        "id": 374,
         "name": "Hypno Beak",
         "rare": 5,
         "description": "Complex-shaped beak. Its unique shape is popular in some hunting circles."
     },
     {
-        "id": 375,
         "name": "Hypno Fang",
         "rare": 5,
         "description": "This beak looks like a fang. Its hardness is good for combining."
     },
     {
-        "id": 376,
         "name": "RainbowTailFeath",
         "rare": 5,
         "description": "Light-refracting tail feather. Used in jewelry, young women love this."
     },
     {
-        "id": 377,
         "name": "Hypno Ticket",
         "rare": 5,
         "description": "Stamped proof of hunting a Hypnocatrice and finishing a hard quest."
     },
     {
-        "id": 378,
         "name": "Kut-Ku Scale",
         "rare": 4,
         "description": "Pink colored scale from a Kut-Ku. Fire-resistant. Can be found in the field."
     },
     {
-        "id": 379,
         "name": "Kut-Ku Scale+",
         "rare": 5,
         "description": "Superior scale from a Kut- Ku. Its size and weight are a cut above."
     },
     {
-        "id": 380,
         "name": "Thick Kut-Ku Scl",
         "rare": 5,
         "description": "The pinnacle of Kut-Ku scales. Very few scales mature to this degree."
     },
     {
-        "id": 381,
         "name": "Kut-Ku Shell",
         "rare": 4,
         "description": "The Fire resistant shell of a Kut-Ku. Quite resistant to Fire."
     },
     {
-        "id": 382,
         "name": "Kut-Ku Carapace",
         "rare": 5,
         "description": "Harder than Kut-Ku Shell, this material is also known as Gravite."
     },
     {
-        "id": 383,
         "name": "Hvy Kut-Ku Shell",
         "rare": 5,
         "description": "Stout outer shell, harder than a Kut-Ku Carapace. Also known as Mediastinum."
     },
     {
-        "id": 384,
         "name": "Kut-Ku Ear",
         "rare": 5,
         "description": "The Fire resistant ear of a Kut-Ku, Used to prevent Bowgun flash-back."
     },
     {
-        "id": 385,
         "name": "Long Kut-Ku Ear",
         "rare": 5,
         "description": "Kut-Ku's Fire resistant ear. The flexible material is a good base for armor."
     },
     {
-        "id": 386,
         "name": "Lucky Kut-Ku Ear",
         "rare": 5,
         "description": "Highly-specialized ear. Lots of flesh and good texture makes it \"lucky\"."
     },
     {
-        "id": 387,
         "name": "Giant Beak",
         "rare": 5,
         "description": "The huge, sturdy beak of a Yian Kut-Ku."
     },
     {
-        "id": 388,
         "name": "Splendid Beak",
         "rare": 5,
         "description": "Finding a large, beautiful beak in this shape is quite rare! Splendid!"
     },
     {
-        "id": 389,
         "name": "Kut-Ku Webbing",
         "rare": 4,
         "description": "Webbing from a Kut-Ku wing. Better as a fusing material than animal skin."
     },
     {
-        "id": 390,
         "name": "Str Kut-Ku Wing",
         "rare": 4,
         "description": "Top-grade Kut-Ku wing. Stout, expansive, and fire resistant material"
     },
     {
-        "id": 391,
         "name": "Blue Kut-Ku Scl",
         "rare": 5,
         "description": "Scale of the extremely rare Blue Kut-Ku. vivid blue armor. Makes"
     },
     {
-        "id": 392,
         "name": "Blue Kut-Ku Scl+",
         "rare": 5,
         "description": "Superior scale from a Blue Yian Kut-Ku. color Its complex infinitely cool."
     },
     {
-        "id": 393,
         "name": "ThkBlueKut-KuScl",
         "rare": 5,
         "description": "Super thick Blue Kut-Ku scale. As blue as the ocean, it's a work of art."
     },
     {
-        "id": 394,
         "name": "Blue Kut-Ku Shl",
         "rare": 5,
         "description": "Shell of a rare Blue Kut-Ku. The vivid blue makes it a popular item."
     },
     {
-        "id": 395,
         "name": "Blue Kut-Ku Cpc",
         "rare": 5,
         "description": "Rare Blue Kut-Ku Carapace. Harder than its shell, often used in crafing."
     },
     {
-        "id": 396,
         "name": "HvyBlueKut-KuShl",
         "rare": 5,
         "description": "Outer shell even thicker than Blue Kut-Ku Cpc. Crafters long for this."
     },
     {
-        "id": 397,
         "name": "Rubbery Hide",
         "rare": 4,
         "description": "Highly elastic Gypceros hide. A good insulator, resistant to electricity."
     },
     {
-        "id": 398,
         "name": "Rubbery Hide+",
         "rare": 5,
         "description": "High quality, highly elastic Gypceros hide. Gives off a strange scent."
     },
     {
-        "id": 399,
         "name": "SpecRubberyHide+",
         "rare": 5,
         "description": "Special quality, highly elastic Gypceros hide. Absorbs all attacks."
     },
     {
-        "id": 400,
         "name": "Gypceros Head",
         "rare": 5,
         "description": "The uniquely shaped head of a Gypceros. A must have for Gypceros lovers!"
     },
     {
-        "id": 401,
         "name": "HardGypcerosHead",
         "rare": 5,
         "description": "Hard rubber-like head of a Gyperos. A must for all Gypceros lovers!"
     },
     {
-        "id": 402,
         "name": "Pur Rubbery Hide",
         "rare": 5,
         "description": "A rarely seen Purple Gypceros hide. The chic purple hide is en vogue."
     },
     {
-        "id": 403,
         "name": "Pur Gypceros Wng",
         "rare": 5,
         "description": "A seldom seen purple wing from a Gypceros,. Incredibly valuable."
     },
     {
-        "id": 404,
         "name": "HrdPuGypcerosWng",
         "rare": 5,
         "description": "Top-grade purple Gypceros wing. Poison-resistant, it makes for good protection."
     },
     {
-        "id": 405,
         "name": "Garuga Scale",
         "rare": 4,
         "description": "Scale carved from Yian Garuga. It shines an ominous purple."
     },
     {
-        "id": 406,
         "name": "Garuga Scale+",
         "rare": 5,
         "description": "Superior Garuga scale. Looks like a Kut-Ku scale, but it's much tougher."
     },
     {
-        "id": 407,
         "name": "ThickGarugaScale",
         "rare": 5,
         "description": "Top-grade Garuga scale. Sparkles like purple quartz and just as hard."
     },
     {
-        "id": 408,
         "name": "Garuga Shell",
         "rare": 4,
         "description": "A rare material admired and the subject of much research."
     },
     {
-        "id": 409,
         "name": "Garuga Carapace",
         "rare": 5,
         "description": "Garuga Shell that's become stronger with time. Great skill is needed to work."
     },
     {
-        "id": 410,
         "name": "Hvy Garuga Shell",
         "rare": 5,
         "description": "Heavy, dark purple outer shell with an unusually intimidating air about it."
     },
     {
-        "id": 411,
         "name": "Garuga Ear",
         "rare": 5,
         "description": "Its shape and form shows a different evolutionary path than Yian Kut-Ku."
     },
     {
-        "id": 412,
         "name": "Long Garuga Ear",
         "rare": 5,
         "description": "Well-developed Garuga Ear. Worn as armor, it's said to heighten one's senses."
     },
     {
-        "id": 413,
         "name": "Sharpened Beak",
         "rare": 5,
         "description": "The sharpened beak of Yian Garuga. Compared to a Kut- Ku, it's much deadlier."
     },
     {
-        "id": 414,
         "name": "Rejuvenated Beak",
         "rare": 5,
         "description": "Garuga beak. Its color, luster, and the jawline''s angle have been restored."
     },
     {
-        "id": 415,
         "name": "Garuga Wing",
         "rare": 5,
         "description": "A first class material that requires high crafting technology."
     },
     {
-        "id": 416,
         "name": "Str Garuga Wing",
         "rare": 5,
         "description": "Large and well-developed Garuga Wing. Prized among crafters."
     },
     {
-        "id": 417,
         "name": "Garuga Tail",
         "rare": 5,
         "description": "Has a special function that responds to shocks with a powerful venom."
     },
     {
-        "id": 418,
         "name": "LethrGarugaTail",
         "rare": 5,
         "description": "Leathery tail outfitted with deadly poison meant to kill its target."
     },
     {
-        "id": 419,
         "name": "Garuga Mane",
         "rare": 5,
         "description": "A sense of coercion fills the air. This mane is no simple decoration."
     },
     {
-        "id": 420,
         "name": "SilverGarugaPelt",
         "rare": 5,
         "description": "Shimmering silver pelt that mesmerizes with beauty when its it flutters."
     },
     {
-        "id": 421,
         "name": "Blango Pelt",
         "rare": 4,
         "description": "Snow white Blango Pelt. It protects the body against the mountain cold."
     },
     {
-        "id": 422,
         "name": "Blango Pelt+",
         "rare": 4,
         "description": "Harder to work than normal Blango Pelt, this has high value as a material."
     },
     {
-        "id": 423,
         "name": "Sharp Claw",
         "rare": 4,
         "description": "A shining black claw. Unlike wyvern claws, this is shaped to grip objects."
     },
     {
-        "id": 424,
         "name": "Piercing Claw",
         "rare": 5,
         "description": "Dangerous to touch with bare hands, a knife it's used as in some workshops."
     },
     {
-        "id": 425,
         "name": "Blangonga Fang",
         "rare": 5,
         "description": "The fang of the killer Blangonga. As sharp and deadly as a dagger."
     },
     {
-        "id": 426,
         "name": "Blangonga Fang+",
         "rare": 5,
         "description": "A Blangonga bicuspid. As large as a human thigh, it has potential as a weapon."
     },
     {
-        "id": 427,
         "name": "HvyBlangongaFang",
         "rare": 5,
         "description": "Giant Blangonga Fang. Can make shish kabobs out of even medium-sized beasts."
     },
     {
-        "id": 428,
         "name": "Blangonga Pelt",
         "rare": 4,
         "description": "White fur with astounding thermal properties and as strong as an iron chain."
     },
     {
-        "id": 429,
         "name": "Blangonga Pelt+",
         "rare": 5,
         "description": "The hardened pelt of a Blangonga. The needle-like hairs are prized material."
     },
     {
-        "id": 430,
         "name": "HrdBlangongaPlt+",
         "rare": 5,
         "description": "Very hard Blangonga pelt. Made tough by the arctic winds. 100% natural armor."
     },
     {
-        "id": 431,
         "name": "Blangonga Whiskr",
         "rare": 5,
         "description": "Large whiskers on the head denote the alpha leader of a group of Blangos."
     },
     {
-        "id": 432,
         "name": "Lthr Pelagus Plt",
         "rare": 5,
         "description": "Especially tough Pelagus pelt. You can tell its owner was an aged leader."
     },
     {
-        "id": 433,
         "name": "Blangonga Tail",
         "rare": 5,
         "description": "The smooth feeling of a Blangonga Tail is undeniably appealing."
     },
     {
-        "id": 434,
         "name": "LeathrBlangoTail",
         "rare": 5,
         "description": "Leathery Blangonga tail. Soft-as-snow fur makes it prized crafting material."
     },
     {
-        "id": 435,
         "name": "C.BlangongaPelt+",
         "rare": 5,
         "description": "Copper Blangonga pelt. It's harder due to the harsh desert environment."
     },
     {
-        "id": 436,
         "name": "HvyC.BlangoFang",
         "rare": 5,
         "description": "Extremely sharp, big fang infused with the strength of desert survival."
     },
     {
-        "id": 437,
         "name": "LthrC.BlangoTail",
         "rare": 5,
         "description": "Leathery tail of a rich copper color and as hard as a boulder."
     },
     {
-        "id": 438,
         "name": "Conga Pelt",
         "rare": 4,
         "description": "Conga fur. Its solid feel makes it a good material."
     },
     {
-        "id": 439,
         "name": "Conga Pelt+",
         "rare": 4,
         "description": "The hard pelt of a Conga. The thick fur makes long-lasting equipment."
     },
     {
-        "id": 440,
         "name": "Congalala Pelt",
         "rare": 4,
         "description": "Pink fur of a Congalala. The tufts of hair are often used in clothing."
     },
     {
-        "id": 441,
         "name": "Congalala Pelt+",
         "rare": 5,
         "description": "The stout hairs of this pelt are important tools in crafting equipment."
     },
     {
-        "id": 442,
         "name": "HrdCongalalaPlt+",
         "rare": 5,
         "description": "The even stouter hairs of this pelt and its glossy coat make it perfect."
     },
     {
-        "id": 443,
         "name": "Vibrant Pelt",
         "rare": 5,
         "description": "Vibrant hair that grows on the head of a Congalala. The colors are lovely."
     },
     {
-        "id": 444,
         "name": "Congalala Claw",
         "rare": 4,
         "description": "A Congalala Claw. Large and sharp, it has a black luster."
     },
     {
-        "id": 445,
         "name": "Congalala Claw+",
         "rare": 5,
         "description": "A long, hard, sharp claw with a wild nature that makes crafting difficult."
     },
     {
-        "id": 446,
         "name": "HrdCongalalaClw+",
         "rare": 5,
         "description": "Specially developed for fighting. It's so sharp, it's a natural weapon."
     },
     {
-        "id": 447,
         "name": "Congalala Fang",
         "rare": 5,
         "description": "The fang of a Congalala is solid enough to crunch objects into dust."
     },
     {
-        "id": 448,
         "name": "Lg Pelagus Fang",
         "rare": 5,
         "description": "Large Pelagus fang that can bite through even the hardest of boulders."
     },
     {
-        "id": 449,
         "name": "E.CongalalaPelt+",
         "rare": 5,
         "description": "Emerald fur, but the color difference isn't all. It boasts better quality too."
     },
     {
-        "id": 450,
         "name": "HrdE.CongaClaw",
         "rare": 5,
         "description": "Emerald Congalala claw. So hard a giant it could pulverize tree to dust."
     },
     {
-        "id": 451,
         "name": "Vibrant Comb",
         "rare": 5,
         "description": "An Emerald Congalala's comb. Proof of a leader. Splendid and vivid color."
     },
     {
-        "id": 452,
         "name": "Rajang Horn",
         "rare": 5,
         "description": "Majestic gold horn of a Rajang. Hunters yearn for the heroism it represents."
     },
     {
-        "id": 453,
         "name": "Hard Rajang Horn",
         "rare": 5,
         "description": "Majestic large gold horn. All who see it feel the bravery of the hunter."
     },
     {
-        "id": 454,
         "name": "Rajang Fang",
         "rare": 5,
         "description": "This sharpened fang can cut through anything dumb enough to touch it."
     },
     {
-        "id": 455,
         "name": "Hvy Rajang Fang",
         "rare": 5,
         "description": "Fang that can cut through anything. Once caught, the prey's life vanishes."
     },
     {
-        "id": 456,
         "name": "Blk Rajang Pelt",
         "rare": 5,
         "description": "Black Rajang fur. When crafted, the fabric is desired even by royalty."
     },
     {
-        "id": 457,
         "name": "Blk Rajang Pelt+",
         "rare": 5,
         "description": "When made into armor, strong and gives a sense of security. this leathery pelt"
     },
     {
-        "id": 458,
         "name": "Rajang Claw",
         "rare": 5,
         "description": "A sharp Rajang Claw. Difficult to carve and more difficult to craft."
     },
     {
-        "id": 459,
         "name": "Hard Rajang Claw",
         "rare": 5,
         "description": "A hard Rajang claw that has taken many lives in a most brutal fashion."
     },
     {
-        "id": 460,
         "name": "Rajang Tail",
         "rare": 5,
         "description": "The glistening tail of a Rajang. The gold fur is beautiful and elegant."
     },
     {
-        "id": 461,
         "name": "Gold Rajang Pelt",
         "rare": 5,
         "description": "The fur of a Rajang's body. The gold hair is treasured by tailors."
     },
     {
-        "id": 462,
         "name": "GoldRajangPelt+",
         "rare": 5,
         "description": "Shimmering golden pelt. It shines with the furious power of a Rajang's anger."
     },
     {
-        "id": 463,
         "name": "Piscine Fang",
         "rare": 4,
         "description": "Fang from a Plesioth or Cephalos. Used to hold and kill prey."
     },
     {
-        "id": 464,
         "name": "HvyPiscineFang",
         "rare": 5,
         "description": "Heavy Piscine fang that can bite through even large shelled creatures."
     },
     {
-        "id": 465,
         "name": "Plesioth Scale",
         "rare": 4,
         "description": "An incandescent scale from a Plesioth. Becomes brittle if it dries out."
     },
     {
-        "id": 466,
         "name": "Plesioth Scale+",
         "rare": 5,
         "description": "A faintly shining scale from a Plesioth. It keeps shining even when dry."
     },
     {
-        "id": 467,
         "name": "ThckPlesiothScl",
         "rare": 5,
         "description": "Brilliant Plesioth scale. So thick that neither fang nor claw can penetrate."
     },
     {
-        "id": 468,
         "name": "Plesioth Fin",
         "rare": 5,
         "description": "A beautiful fin from a Plesioth. The spikes are stunningly poisonous."
     },
     {
-        "id": 469,
         "name": "Plesioth Fin+",
         "rare": 5,
         "description": "Beautiful, high quality fin. Its thorns are filled with a strong neurotoxin."
     },
     {
-        "id": 470,
         "name": "SpecPlesiothFin+",
         "rare": 5,
         "description": "Top-quality material, and the most beautiful of Plesioth fins available."
     },
     {
-        "id": 471,
         "name": "Grn Plesioth Scl",
         "rare": 5,
         "description": "Scale of a mysterious Green Plesioth. It has a emerald-like glow."
     },
     {
-        "id": 472,
         "name": "Grn Plsioth Scl+",
         "rare": 5,
         "description": "A high quality scale from a Green Plesioth. The color is eye-catching."
     },
     {
-        "id": 473,
         "name": "ThckGrnPlesioScl",
         "rare": 5,
         "description": "Top-grade, scale. Specialized armor can be made from this. thick green"
     },
     {
-        "id": 474,
         "name": "Grn Plesioth Fin",
         "rare": 5,
         "description": "A beautiful fin from a Green Plesioth. Often used in decoration."
     },
     {
-        "id": 475,
         "name": "Grn Plsioth Fin+",
         "rare": 5,
         "description": "A high quality fin from a Green Plesioth. Easy to work, it is widely used."
     },
     {
-        "id": 476,
         "name": "SpecGrnPlesioFn+",
         "rare": 5,
         "description": "Top-quality green fin used in decoration crafting. Adds a sparkle to armor."
     },
     {
-        "id": 477,
         "name": "Cephalos Scale",
         "rare": 4,
         "description": "A sand wyvern scale. Its color is a brilliant blue. Retains moisture."
     },
     {
-        "id": 478,
         "name": "Cephalos Scale+",
         "rare": 5,
         "description": "High quality sand wyvern scale. Its color is a stunning blue."
     },
     {
-        "id": 479,
         "name": "Cephalos Fin",
         "rare": 5,
         "description": "A sand wyvern fin. It isn't poisonous, but it's very sharp."
     },
     {
-        "id": 480,
         "name": "Cephalos Fin+",
         "rare": 5,
         "description": "A high quality fin from a Cephalos. Sharper than the normal version."
     },
     {
-        "id": 481,
         "name": "Coral Cphlos Scl",
         "rare": 5,
         "description": "A coral sand wyvern scale. The vivid purple is popular with hunters."
     },
     {
-        "id": 482,
         "name": "Coral Cphlos Fin",
         "rare": 5,
         "description": "A coral sand wyvern fin. The faint pink color is quite cute."
     },
     {
-        "id": 483,
         "name": "ThckLavasiothScl",
         "rare": 5,
         "description": "Thick Lavasioth scale. Under the encrusted lava lies a golden treasure,"
     },
     {
-        "id": 484,
         "name": "HvyLavasiothShl",
         "rare": 5,
         "description": "Heavy scale that covers its body, Cooled lava adds to the armor."
     },
     {
-        "id": 485,
         "name": "HvyLavasiothFang",
         "rare": 5,
         "description": "Heavy and specialized fang that's so big, it barely looks like a Piscine's."
     },
     {
-        "id": 486,
         "name": "SpecLavasioFin+",
         "rare": 5,
         "description": "Top-grade Lavasioth fin. Forged in magma, extremely sharp edge. it has an"
     },
     {
-        "id": 487,
         "name": "Lavasioth Ticket",
         "rare": 5,
         "description": "Stamped proof of hunting a Lavasioth and finishing a hard quest"
     },
     {
-        "id": 488,
         "name": "Wyvern Skull Shl",
         "rare": 4,
         "description": "A Carapaceon shell made from a wyvern's skull."
     },
     {
-        "id": 489,
         "name": "Sm Hermitaur Shl",
         "rare": 2,
         "description": "Piece of bone from a giant Carapaceon. Small, so it is limited in its uses."
     },
     {
-        "id": 490,
         "name": "Hermitaur Shell",
         "rare": 4,
         "description": "This stratified Daimyo shell is lighter than it appears and easy to craft."
     },
     {
-        "id": 491,
         "name": "Hermitaur Carpce",
         "rare": 5,
         "description": "The hard carapace of a Daimyo Hermitaur. Harder than shell to work."
     },
     {
-        "id": 492,
         "name": "HvyHermitaurShl",
         "rare": 5,
         "description": "A Daimyo Hemitaur's strong bone shell. Its thickness makes for strong armor."
     },
     {
-        "id": 493,
         "name": "Hermitaur Claw",
         "rare": 5,
         "description": "Giant claw from a Daimyo Hermitaur. The sharp claw can slice through rock."
     },
     {
-        "id": 494,
         "name": "Hermitaur Claw+",
         "rare": 5,
         "description": "Sharp claw from a Daimyo Heritaur. It is said to be as hard as metal."
     },
     {
-        "id": 495,
         "name": "HrdHermitaurClaw",
         "rare": 5,
         "description": "Hard claw from a Daimyo Hermitaur. Holds up like a fort against assaults."
     },
     {
-        "id": 496,
         "name": "PlumD.HermitrShl",
         "rare": 5,
         "description": "A rich and deep purple giant shell. strong and colorful It makes for armor."
     },
     {
-        "id": 497,
         "name": "PlumD.HermitrClw",
         "rare": 5,
         "description": "A rich and deep purple hard claw. strong and colorful It makes for armor."
     },
     {
-        "id": 498,
         "name": "Sm Ceanataur Shl",
         "rare": 2,
         "description": "Piece of a giant Ceanataur Shell. Lighter than it looks and easy to craft."
     },
     {
-        "id": 499,
         "name": "Ceanataur Shell",
         "rare": 3,
         "description": "A giant Shogun Ceanataur Shell. Has a distinctive color and shape."
     },
     {
-        "id": 500,
         "name": "Ceanataur Carpce",
         "rare": 5,
         "description": "Harder than a Ceanataur Shell, this carapace is harder to work with."
     },
     {
-        "id": 501,
         "name": "HvyCeanataurShl",
         "rare": 5,
         "description": "Heavier Carpce. Top-grade material needs an expert crafter. than a Ceanataur"
     },
     {
-        "id": 502,
         "name": "Ceanataur Leg",
         "rare": 5,
         "description": "Leg of a Shogun Ceanataur. Incredibly strong to be able to move a huge body."
     },
     {
-        "id": 503,
         "name": "HvyCeanataurLeg",
         "rare": 5,
         "description": "Heavy leg of a Shogun Ceanataur. It's wanted for its thickness and shape."
     },
     {
-        "id": 504,
         "name": "Ceanataur Pincer",
         "rare": 5,
         "description": "Seeing a Shogun's pincer blade causes even the bravest hunters to flinch."
     },
     {
-        "id": 505,
         "name": "Ceanataur Claw",
         "rare": 5,
         "description": "A giant Shogun Ceanataur Claw. Those who fall in its path pay the price."
     },
     {
-        "id": 506,
         "name": "Ceanataur Claw+",
         "rare": 5,
         "description": "The sharp claw of a giant Shogun Ceanataur. It true menace to hunters."
     },
     {
-        "id": 507,
         "name": "HrdCeanataurClaw",
         "rare": 5,
         "description": "Hard-as-rock Shogun claw. Choice material for the best equipment."
     },
     {
-        "id": 508,
         "name": "TerraCeanatrShl",
         "rare": 5,
         "description": "New, sublime equipment can be crafted from this giant earth-colored shell."
     },
     {
-        "id": 509,
         "name": "TerraCeanatrClaw",
         "rare": 5,
         "description": "Giant earth-colored claw, that many have succumbed to. Makes great weapons."
     },
     {
-        "id": 510,
         "name": "Sm Lobstershell",
         "rare": 5,
         "description": "The cranial shell of a King Lobster that was used as bait. Very rare."
     },
     {
-        "id": 511,
         "name": "Lg Lobstershell",
         "rare": 5,
         "description": "The body shell of a King Lobster that was used as bait. Very rare."
     },
     {
-        "id": 512,
         "name": "Gt Lobstershell",
         "rare": 5,
         "description": "The very large body shell of a King Lobster that was used as bait. Very rare."
     },
     {
-        "id": 513,
         "name": "Rathian Scale",
         "rare": 4,
         "description": "A scale from a Rathian. Its focus is her nest. Its mate is a male Rathalos."
     },
     {
-        "id": 514,
         "name": "Rathian Scale+",
         "rare": 5,
         "description": "The scale of a Rathian. It appears to be normal, but its stiffness is not."
     },
     {
-        "id": 515,
         "name": "ThckRathianScl",
         "rare": 5,
         "description": "Especially thick Rathian scale. Its age shows the longevity of its owner."
     },
     {
-        "id": 516,
         "name": "Rathian Plate",
         "rare": 5,
         "description": "A fiery scale from the tail of a Rathian."
     },
     {
-        "id": 517,
         "name": "Rathian Ruby",
         "rare": 5,
         "description": "A rare, precious gem from inside a wyvern. Almost too nice to use."
     },
     {
-        "id": 518,
         "name": "HvnlyRathianScl",
         "rare": 5,
         "description": "A phantasmal scale. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 519,
         "name": "Rathian Shell",
         "rare": 4,
         "description": "Shell from a Rathian, comprised of numerous scales. Very hard."
     },
     {
-        "id": 520,
         "name": "Rathian Carapace",
         "rare": 5,
         "description": "Harder than a Rathian Shell, this material is also known as Gravite."
     },
     {
-        "id": 521,
         "name": "HvyRathianShell",
         "rare": 5,
         "description": "Shell heavier than a Carapace. Used whenever reinforcement is required."
     },
     {
-        "id": 522,
         "name": "Rathian Spike",
         "rare": 5,
         "description": "Spike-like hair from the back and wings of a Rathian. Poisonous."
     },
     {
-        "id": 523,
         "name": "Rathian Spike+",
         "rare": 5,
         "description": "A hair even stronger sword. from a Rathian, Longer than a than normal."
     },
     {
-        "id": 524,
         "name": "Rathian Thorn",
         "rare": 5,
         "description": "Spike-like hair that covers a Rathian. Highly poisonous and very sharp."
     },
     {
-        "id": 525,
         "name": "Pnk Rathian Scl",
         "rare": 5,
         "description": "Scale from a Pink Rathian, that resembles a dream-like flower petal."
     },
     {
-        "id": 526,
         "name": "Pnk Rathian Scl+",
         "rare": 5,
         "description": "Scale from a Pink Rathian. The color masks its true strength."
     },
     {
-        "id": 527,
         "name": "ThckPnkRathnScl",
         "rare": 5,
         "description": "Beautiful, sparkling scale from a Pink Rathian. Few crafters have seen one."
     },
     {
-        "id": 528,
         "name": "Pnk Rathian Shl",
         "rare": 5,
         "description": "Shell It hardened during adolescence. from a Pink Rathian."
     },
     {
-        "id": 529,
         "name": "Pnk Rathian Cpc",
         "rare": 5,
         "description": "Harder than Pink Rathian Shell. Its beautiful color is often used in armor."
     },
     {
-        "id": 530,
         "name": "HvyPnkRathianShl",
         "rare": 5,
         "description": "Heavy outer shell. Beauty so great that just one demands a high price."
     },
     {
-        "id": 531,
         "name": "Gld Rathian Scl+",
         "rare": 5,
         "description": "Scale carved from the body of a Gold Rathian. Brilliant, even at night."
     },
     {
-        "id": 532,
         "name": "ThckGldRathnScl",
         "rare": 5,
         "description": "Thick gold scale. Bright as the sun, almost holy, it's unlike any other."
     },
     {
-        "id": 533,
         "name": "Gld Rathian Cpc",
         "rare": 5,
         "description": "A hard shell covered in shining gold scales. As gorgeous as a gold bar."
     },
     {
-        "id": 534,
         "name": "HvyGldRathianShl",
         "rare": 5,
         "description": "Heavy golden shell that shines brighter than gold. Takes the breath away."
     },
     {
-        "id": 535,
         "name": "GoldRathianThorn",
         "rare": 5,
         "description": "Golden spike-like hair that is extremely sharp and poisonous."
     },
     {
-        "id": 536,
         "name": "Fire Wyvern Claw",
         "rare": 4,
         "description": "Claw that grows on the wing of a fire wyvern. Can be cut off in battle."
     },
     {
-        "id": 537,
         "name": "HrdFireWyvernClw",
         "rare": 5,
         "description": "A fire wyvern's hard wing claw. So hard & sharp that even rocks are like paper."
     },
     {
-        "id": 538,
         "name": "FireWyvern Fluid",
         "rare": 4,
         "description": "Heat producing body fluids from a fire wyvern. Useful in equipment crafting."
     },
     {
-        "id": 539,
         "name": "FireWyvrn Marrow",
         "rare": 5,
         "description": "A material obtained via new carving techniques. Highly combustible."
     },
     {
-        "id": 540,
         "name": "FireWyvrn BrnStm",
         "rare": 5,
         "description": "The latest material to be temoved with technology. Difficult to process."
     },
     {
-        "id": 541,
         "name": "Rathalos Scale",
         "rare": 4,
         "description": "A scale from a Rathalos. Wyvern scales and shells are basic crafting items."
     },
     {
-        "id": 542,
         "name": "Rathalos Scale+",
         "rare": 5,
         "description": "A scale from a Rathalos, it is extraordinarily strong."
     },
     {
-        "id": 543,
         "name": "Hrd Rathalos Scl",
         "rare": 5,
         "description": "Thicker and heavier than most wyvern scales. A natural treasure."
     },
     {
-        "id": 544,
         "name": "Rathalos Plate",
         "rare": 5,
         "description": "A fiery scale from the tail of a Rathalos."
     },
     {
-        "id": 545,
         "name": "Rathalos Ruby",
         "rare": 5,
         "description": "A precious gem from inside a wyvern. Sending it to be processed is excruciating."
     },
     {
-        "id": 546,
         "name": "HvnlyRathalosScl",
         "rare": 5,
         "description": "A phantasmal scale. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 547,
         "name": "Rathalos Shell",
         "rare": 4,
         "description": "Shell from a Rathalos, comprised of numerous scales. Very hard."
     },
     {
-        "id": 548,
         "name": "Rathalos Carpace",
         "rare": 5,
         "description": "Harder than a Rathalos shell, this material is also known as Gravite."
     },
     {
-        "id": 549,
         "name": "HvyRathalosShl",
         "rare": 5,
         "description": "Harder than a Rathalos Carpace, it's also known as Mediastinum."
     },
     {
-        "id": 550,
         "name": "Rathalos Tail",
         "rare": 5,
         "description": "The tail of a Rathalos. A multi-purpose item."
     },
     {
-        "id": 551,
         "name": "LthrRathalosTail",
         "rare": 5,
         "description": "Top-grade Rathalos tail. The treasured leather only used Is in select armor."
     },
     {
-        "id": 552,
         "name": "Rathalos Webbing",
         "rare": 4,
         "description": "This heat-resistant material is often used as armor lining."
     },
     {
-        "id": 553,
         "name": "Rathalos Wing",
         "rare": 5,
         "description": "A valuable item. Used by smiths at the armory to make powerful equipment."
     },
     {
-        "id": 554,
         "name": "StrRathalosWing",
         "rare": 5,
         "description": "Top-grade Rathalos wing. The fine cut is worthy of the Sky King himself."
     },
     {
-        "id": 555,
         "name": "Azure Rthlos Scl",
         "rare": 5,
         "description": "The scale of an Azure Rathalos. It is the deep blue of the night sky."
     },
     {
-        "id": 556,
         "name": "Azre Rthlos Scl+",
         "rare": 5,
         "description": "Scale of an Azure Rathalos. Its strength is higher than its beauty."
     },
     {
-        "id": 557,
         "name": "ThckAzurRthisScl",
         "rare": 5,
         "description": "Layered smaller scales make this thick scale beautiful and strong."
     },
     {
-        "id": 558,
         "name": "Azure Rthlos Shl",
         "rare": 5,
         "description": "The shell of an Azure Rathalos. Made of scales hardened at adolescence."
     },
     {
-        "id": 559,
         "name": "Azure Rthlos Cpc",
         "rare": 5,
         "description": "Harder than an Azure Rathalos Shell. Its beauty is desirable for armor."
     },
     {
-        "id": 560,
         "name": "HvyAzurRthisShl",
         "rare": 5,
         "description": "Azure Rathalos Shell thicker than anything seen before. Ultra-rare."
     },
     {
-        "id": 561,
         "name": "Azur Rthlos Tail",
         "rare": 5,
         "description": "Severed tail of an Azure Rathalos. Its rarity and high value are linked."
     },
     {
-        "id": 562,
         "name": "LthrAzrRthlsTail",
         "rare": 5,
         "description": "Top-quality tail. The especially strong leather is beyond valuable."
     },
     {
-        "id": 563,
         "name": "Azur Rthlos Wing",
         "rare": 5,
         "description": "Wing shed by an Azure Rathalos. Used to make both weapons and armor."
     },
     {
-        "id": 564,
         "name": "Slvr Rthlos Scl+",
         "rare": 5,
         "description": "Quality scale carved from the Silver Rathalos. It has a moon-like shine."
     },
     {
-        "id": 565,
         "name": "ThckSlvrRthisScl",
         "rare": 5,
         "description": "Layered smaller scales make up this thick scale. Often used in jewels."
     },
     {
-        "id": 566,
         "name": "Slvr Rthlos Cpc",
         "rare": 5,
         "description": "The silver scales of this hard Silver Rathalos Carapace have a icy shine."
     },
     {
-        "id": 567,
         "name": "HvySlvrRthisShl",
         "rare": 5,
         "description": "Heavy shell that shines like the moon darkness. Mythical in the item."
     },
     {
-        "id": 568,
         "name": "Slvr Rthlos Tail",
         "rare": 5,
         "description": "Severed tail of a Silver Rathalos. Its rarity and high value are linked."
     },
     {
-        "id": 569,
         "name": "LthrSlvrRthlsTal",
         "rare": 5,
         "description": "Top-grade tail. Its beauty is worth its weight silver in times a thousand."
     },
     {
-        "id": 570,
         "name": "Slvr Rthlos Wing",
         "rare": 5,
         "description": "Wing shed by a Silver Rathalos. Hunters long for its shining glory."
     },
     {
-        "id": 571,
         "name": "Flabby Hide",
         "rare": 4,
         "description": "Workable as a material after recent advances. Has mysterious properties."
     },
     {
-        "id": 572,
         "name": "Khezu Hide - Tan",
         "rare": 5,
         "description": "The tanned hide of a Khezu. Its strange properties are a mystery"
     },
     {
-        "id": 573,
         "name": "KhezuHide-Cream",
         "rare": 5,
         "description": "Top-quality Khezu hide. Its glossy luster mesmerizes all who see it."
     },
     {
-        "id": 574,
         "name": "Pale Bone",
         "rare": 5,
         "description": "Rib bone from a Khezu with meat still attached."
     },
     {
-        "id": 575,
         "name": "Pale Khezu Steak",
         "rare": 5,
         "description": "Fatty red meat from a Pale Khezu. Looks tasty, but cannot be eaten."
     },
     {
-        "id": 576,
         "name": "KhezuSpecialCut",
         "rare": 5,
         "description": "Supreme quality cut among all that red Khezu flesh. Not especially tasty..."
     },
     {
-        "id": 577,
         "name": "Alluring Hide",
         "rare": 5,
         "description": "Red Khezu hide polished to a luster, Just looking at it makes you feel strange."
     },
     {
-        "id": 578,
         "name": "Alluring Webbing",
         "rare": 5,
         "description": "Hard to craft but highly useful, its multi-colored hues are treasured."
     },
     {
-        "id": 579,
         "name": "StrAlluringWing",
         "rare": 5,
         "description": "Alluring top-grade Red Khezu wing. Flexible but strong. Very valuable."
     },
     {
-        "id": 580,
         "name": "Basarios Shell",
         "rare": 4,
         "description": "Shell from a Basarios. Rock-like consistency. Can be forged into metal."
     },
     {
-        "id": 581,
         "name": "Basarios Carpace",
         "rare": 5,
         "description": "Harder than a Basarios shell, this material is also known as Gravite."
     },
     {
-        "id": 582,
         "name": "HvyBasariosShell",
         "rare": 5,
         "description": "Heavy shell encrusted with some quality Ore. Mimics a stone wall very well,"
     },
     {
-        "id": 583,
         "name": "Basarios Wing",
         "rare": 5,
         "description": "The wing of a Basarios. Very hard to work as a material."
     },
     {
-        "id": 584,
         "name": "StrBasariosWing",
         "rare": 5,
         "description": "Top-grade Basarios wing. Not great for flying, but beyond great as material."
     },
     {
-        "id": 585,
         "name": "Basarios Tears",
         "rare": 5,
         "description": "Faintly pink gems found near the tear ducts of a Basarlos."
     },
     {
-        "id": 586,
         "name": "Tigrex Scale",
         "rare": 4,
         "description": "Scale from the incredibly violent Tigrex. Incredibly massive and sturdy."
     },
     {
-        "id": 587,
         "name": "Tigrex Scale+",
         "rare": 5,
         "description": "A flawless Tigrex scale. When interlocked, they can be harder than steel."
     },
     {
-        "id": 588,
         "name": "ThickTigrexScale",
         "rare": 5,
         "description": "Thick Tigrex Scale. Able to resist the desert heat and the mountain cold."
     },
     {
-        "id": 589,
         "name": "HvnlyTigrexScale",
         "rare": 5,
         "description": "A phantasmal scale. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 590,
         "name": "Tigrex Shell",
         "rare": 4,
         "description": "A hard Tigrex shell capable of repelling any impact. Extreme tenacity."
     },
     {
-        "id": 591,
         "name": "Tigrex Carapace",
         "rare": 5,
         "description": "Hardened by the sands of time, Its edges indicate a Tigrex's ferocity."
     },
     {
-        "id": 592,
         "name": "Hvy Tigrex Shell",
         "rare": 5,
         "description": "Heavy Tigrex shell. Able ot withstand the toughest nature has to offer."
     },
     {
-        "id": 593,
         "name": "Tigrex Tail",
         "rare": 5,
         "description": "This flexible and strong tail can make great equipment."
     },
     {
-        "id": 594,
         "name": "LeathrTigrexTail",
         "rare": 5,
         "description": "The violent Tigrex's top- grade tail. Hard to work, and requires great skill."
     },
     {
-        "id": 595,
         "name": "Tigrex Claw",
         "rare": 5,
         "description": "A distinctive forelimb claw unseen on other wyverns. Fiendishly sharp."
     },
     {
-        "id": 596,
         "name": "Tigrex Claw+",
         "rare": 5,
         "description": "Sharpened by the sands of time. Said to be sharpened by the deaths of others."
     },
     {
-        "id": 597,
         "name": "Hard Tigrex Claw",
         "rare": 5,
         "description": "Super tough Tigrex claw. It has dug Into much flesh and spilled much blood."
     },
     {
-        "id": 598,
         "name": "Tigrex Fang",
         "rare": 5,
         "description": "No one can hide their fear of this terrible fang sharpened by pain itself."
     },
     {
-        "id": 599,
         "name": "Tigrex Fang+",
         "rare": 5,
         "description": "The sharp fang of a Tigrex. These fangs can cut any prey to shreds."
     },
     {
-        "id": 600,
         "name": "Hvy Tigrex Fang",
         "rare": 5,
         "description": "Thick, large Tigrex fang used to tear its prey into pieces."
     },
     {
-        "id": 601,
         "name": "Tigrex Skull Shl",
         "rare": 5,
         "description": "The skull of the violent Tigrex. Just as dreadful as the living version."
     },
     {
-        "id": 602,
         "name": "Narga Scale+",
         "rare": 5,
         "description": "Top-quality black scale. It's surprisingly light, yet stiff and smooth."
     },
     {
-        "id": 603,
         "name": "ThickNargaScale",
         "rare": 5,
         "description": "Top-grade thick black scale. Still light, but stronger with thickness."
     },
     {
-        "id": 604,
         "name": "HvnlyNargaScale",
         "rare": 5,
         "description": "A phantasmal scale. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 605,
         "name": "Black Narga Pelt",
         "rare": 5,
         "description": "Black fur that grows on scales. Covers the animal in jet-black darkness."
     },
     {
-        "id": 606,
         "name": "BlackNargaPelt+",
         "rare": 5,
         "description": "Highly-developed black fur. Glossy and strong, it protects against attacks."
     },
     {
-        "id": 607,
         "name": "Nargacuga Tail",
         "rare": 5,
         "description": "A weapon of the Nargacuga, it looks the part and has the power to prove it."
     },
     {
-        "id": 608,
         "name": "LeatherNargaTail",
         "rare": 5,
         "description": "Top-grade Nargacuga tail. Ideal material with delicacy and strength."
     },
     {
-        "id": 609,
         "name": "Narga Tail Spike",
         "rare": 5,
         "description": "Spike-shaped scale from a Nargacuga's tail. Blood flow doubles when angered."
     },
     {
-        "id": 610,
         "name": "HvyNargaTailSpik",
         "rare": 5,
         "description": "Top-quality tail Heavy and sharp, is deadlier than most. spike. it"
     },
     {
-        "id": 611,
         "name": "NargaCuttingWing",
         "rare": 5,
         "description": "Blade-like Nargacuga wing. Evolved to cut prey down on the fly."
     },
     {
-        "id": 612,
         "name": "StrNargaCttngWng",
         "rare": 5,
         "description": "Stronger cutting wing. Cuts prey in two with even greater ease on the fly."
     },
     {
-        "id": 613,
         "name": "Nargacuga Fang+",
         "rare": 5,
         "description": "Extraordinarily sharp, this fang has evolved more for tearing than chewing."
     },
     {
-        "id": 614,
         "name": "HvyNargacugaFang",
         "rare": 5,
         "description": "Developed, sharp Nargacuga fang. Slices through prey like pie."
     },
     {
-        "id": 615,
         "name": "Narga Brain Stem",
         "rare": 5,
         "description": "The brainstem, while hard to work with, is easily the most valuable of all."
     },
     {
-        "id": 616,
         "name": "Gravios Shell",
         "rare": 4,
         "description": "The stone-like shell of a Gravios. May contain traces of ore."
     },
     {
-        "id": 617,
         "name": "Gravios Carapace",
         "rare": 5,
         "description": "Harder than Gravios Shell, this material is known as Gravite."
     },
     {
-        "id": 618,
         "name": "HvyGraviosShell",
         "rare": 5,
         "description": "Stout outer shell, heavier than a Gravios Carapace. Also known as Mediastinum."
     },
     {
-        "id": 619,
         "name": "HvnlyGraviosShl",
         "rare": 5,
         "description": "A phantasmal shell. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 620,
         "name": "Gravios Skl Shl",
         "rare": 5,
         "description": "A carved portion of a Gravios Skull. Incredibly hard to work with."
     },
     {
-        "id": 621,
         "name": "Gravios BrainStm",
         "rare": 5,
         "description": "The brain stem is a precious, piece of Gravios. but hard to craft."
     },
     {
-        "id": 621,
         "name": "Blk Gravios Shl",
         "rare": 5,
         "description": ""
     },
     {
-        "id": 622,
         "name": "Blk Gravios Cpc",
         "rare": 5,
         "description": "Carapace of a Black Gravios. A charred color, it is difficult to use."
     },
     {
-        "id": 623,
         "name": "HvyBlkGraviosShl",
         "rare": 5,
         "description": "Heavy Black Gravios shell. Lava is nothing; it has a stoutness not often seen."
     },
     {
-        "id": 624,
         "name": "HvnlyBlkGraviShl",
         "rare": 5,
         "description": "A phantasmal shell. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 625,
         "name": "Blk Gravios Skl",
         "rare": 5,
         "description": "Portion of a Black Gravios Skull. Like a black mask, it imparts power."
     },
     {
-        "id": 626,
         "name": "Twisted Horn",
         "rare": 5,
         "description": "The large, gnarled horn of a Diablos. Has a variety of uses."
     },
     {
-        "id": 627,
         "name": "Majestic Horn",
         "rare": 5,
         "description": "High-quality horn from a Diablos. Used to make strong weapons."
     },
     {
-        "id": 628,
         "name": "StoutWarpedHorn",
         "rare": 5,
         "description": "A Diablos's stout, twisted horn. Preserving this is hard, thus it's valuable."
     },
     {
-        "id": 629,
         "name": "Diablos Shell",
         "rare": 4,
         "description": "Part of the shell that covers a Diablos. Very dense and thus heavy."
     },
     {
-        "id": 630,
         "name": "Diablos Carapace",
         "rare": 5,
         "description": "Harder than a Diablos shell, it's also known as Gravite."
     },
     {
-        "id": 631,
         "name": "HvyDiablosShell",
         "rare": 5,
         "description": "Harder than a Diablos Carapace, it's also known as Mediastinum."
     },
     {
-        "id": 632,
         "name": "Diablos Spine",
         "rare": 5,
         "description": "Part of the hard spine from a Diablos' back. A weaponcraft material."
     },
     {
-        "id": 633,
         "name": "Diablos Thoracic",
         "rare": 5,
         "description": "The hardest part of a Diablos spine. Incredibly hard to carve."
     },
     {
-        "id": 634,
         "name": "HvyDiablosSpine",
         "rare": 5,
         "description": "Diablos's spine. It's been made strong by the desert heat. Ideal for armor."
     },
     {
-        "id": 635,
         "name": "Diablos Tail",
         "rare": 5,
         "description": "A Diablos tail. Stronger and more durable than an iron hammer."
     },
     {
-        "id": 636,
         "name": "LthrDiablosTail",
         "rare": 5,
         "description": "The best of the best Diablos tail. Incredibly tough, yet flexible."
     },
     {
-        "id": 637,
         "name": "Blos Fang",
         "rare": 4,
         "description": "A large, sturdy fang from a Diablos or Monoblos. Stays sharp."
     },
     {
-        "id": 638,
         "name": "TwstBlkBlosHrn",
         "rare": 5,
         "description": "Rumored to be the twisted horn of a Black Diablos. A stunning item."
     },
     {
-        "id": 639,
         "name": "StoutBlkTwstdHrn",
         "rare": 5,
         "description": "Twisted horn of a Black Diablos. It's just a horn, but its aura is ferocious."
     },
     {
-        "id": 640,
         "name": "Black Blos Shell",
         "rare": 5,
         "description": "A shell from a Black Diablos. The dark color popular with hunters."
     },
     {
-        "id": 641,
         "name": "Black Blos Cpc",
         "rare": 5,
         "description": "Different from a Diablos Carapace in composition. It is very hard to damage."
     },
     {
-        "id": 642,
         "name": "HvyBlkBlosShell",
         "rare": 5,
         "description": "Heavy Black Diablos shell. Dense and hard, thus its weight."
     },
     {
-        "id": 643,
         "name": "Black Blos Spine",
         "rare": 5,
         "description": "The skillfully removed spine of a Black Diablos, it is thick and dull."
     },
     {
-        "id": 644,
         "name": "Blk Blos Thracic",
         "rare": 5,
         "description": "The hard shell of a Black Diablos. Impervious to the harsh desert winds."
     },
     {
-        "id": 645,
         "name": "HvyBlkBlosSpine",
         "rare": 5,
         "description": "Tough spine capable of supporting a Black Diablos. Very heavy."
     },
     {
-        "id": 646,
         "name": "Black Blos Tail",
         "rare": 5,
         "description": "The tail of a Black Diablos, like a giant black iron hammer."
     },
     {
-        "id": 647,
         "name": "LthrBlkBlosTail",
         "rare": 5,
         "description": "tail. Top-grade Black Diablos Its twistedness can reduce walls to dust."
     },
     {
-        "id": 648,
         "name": "Vespoid Abdomen",
         "rare": 5,
         "description": "The abdomen of a Vespoid queen. In rare cases these are filled with eggs."
     },
     {
-        "id": 649,
         "name": "VespoidQn'sCrown",
         "rare": 5,
         "description": "Crown-like warped outer shell from a Queen's thorax. Very valuable."
     },
     {
-        "id": 650,
         "name": "Vespoid Shell",
         "rare": 4,
         "description": "With special materials, this can be worked very strong armor. into"
     },
     {
-        "id": 651,
         "name": "Vespoid Carapace",
         "rare": 5,
         "description": "Hardest part of a Vespoid shell. Exhibits special properties when processed."
     },
     {
-        "id": 652,
         "name": "Vespoid Wing",
         "rare": 4,
         "description": "A hard-to-work material. Front and reverse sides have different textures."
     },
     {
-        "id": 653,
         "name": "Vespoid InnrWng",
         "rare": 5,
         "description": "Blade-shaped inner wing of a Vespoid. The secret to its killing prowess."
     },
     {
-        "id": 654,
         "name": "Vspoid Razorwing",
         "rare": 5,
         "description": "Sharper than the Inner Wing. A simple touch is enough to cut."
     },
     {
-        "id": 655,
         "name": "Hornetaur Shell",
         "rare": 4,
         "description": "With special materials, this can be worked into very strong armor."
     },
     {
-        "id": 656,
         "name": "Hornetaur Crapce",
         "rare": 5,
         "description": "Hard part of a Hornetaur shell. Exhibits special properties when worked."
     },
     {
-        "id": 657,
         "name": "Hornetaur Head",
         "rare": 4,
         "description": "With special materials, can be worked into strong weapons or armor."
     },
     {
-        "id": 658,
         "name": "Hornetaur Wing",
         "rare": 4,
         "description": "A hard-to-work material. Appears pearl-like when struck by light."
     },
     {
-        "id": 659,
         "name": "HornetaurInnrWng",
         "rare": 5,
         "description": "Blade-shaped inner wing of a Hornetaur. The secret to its killing prowess."
     },
     {
-        "id": 660,
         "name": "Hornet Razorwing",
         "rare": 5,
         "description": "Wing sharper than Inner Wing. A simple touch is enough to cut."
     },
     {
-        "id": 661,
         "name": "Blood Red Horn",
         "rare": 5,
         "description": "Deep red Monoblos horn. Its size is fitting of the monster's name."
     },
     {
-        "id": 662,
         "name": "Top-GrdRedHorn",
         "rare": 5,
         "description": "Top-grade red Monoblos horn. Beautiful and full of raw masculinity."
     },
     {
-        "id": 663,
         "name": "Monoblos Shell",
         "rare": 4,
         "description": "Gray-colored outer shell from a Monoblos."
     },
     {
-        "id": 664,
         "name": "MonoblosCarapace",
         "rare": 5,
         "description": "Harder than Monoblos Shell, this material is also known as Gravite."
     },
     {
-        "id": 665,
         "name": "Monoblos Spine",
         "rare": 5,
         "description": "A hard spine from the back of a Monoblos. A weaponcraft material."
     },
     {
-        "id": 666,
         "name": "MonoblosThoracic",
         "rare": 5,
         "description": "Shell back. into a hard Thoracic. from a Monoblos's Molten sand turns it"
     },
     {
-        "id": 667,
         "name": "Monoblos Heart",
         "rare": 5,
         "description": "The heart of a Monoblos. Symbolizes ferocious anger."
     },
     {
-        "id": 668,
         "name": "Wht Monoblos Hrn",
         "rare": 5,
         "description": "Unusual White Monoblos Horn. Shines like new snow. Highly desirable."
     },
     {
-        "id": 669,
         "name": "Top-GrdPlatHorn",
         "rare": 5,
         "description": "Top-grade rare white horn. Platinum-like beauty steals the breath away."
     },
     {
-        "id": 670,
         "name": "Wht Monoblos Shl",
         "rare": 5,
         "description": "Unique White Monoblos Shell. The clean white is a popular mystery."
     },
     {
-        "id": 671,
         "name": "Wht Monoblos Cpc",
         "rare": 5,
         "description": "Rare white Monoblos outer shell. When polished, it gives a spectacular shine."
     },
     {
-        "id": 672,
         "name": "Wht Monoblos Spn",
         "rare": 5,
         "description": "Unusual White Monoblos Spine, expertly carved. It is a burning white."
     },
     {
-        "id": 673,
         "name": "WhtMonoblosThora",
         "rare": 5,
         "description": "Rare White Monoblos Thoracic, Fuse with molten sand & it becomes a jewel."
     },
     {
-        "id": 674,
         "name": "Kirin Horn",
         "rare": 5,
         "description": "The horn of the beast god, as powerful as a lightning bolt. Exquisite material."
     },
     {
-        "id": 675,
         "name": "Kirin Hide",
         "rare": 5,
         "description": "Beautiful white hide. As hard to use as it is to obtain. Exquisite."
     },
     {
-        "id": 676,
         "name": "Kirin Hide+",
         "rare": 5,
         "description": "Gorgeous white hide of a Kirin. is a sign of Its lack of damage its strength."
     },
     {
-        "id": 677,
         "name": "SpecialKirinHide",
         "rare": 5,
         "description": "Choice Kirin hide. It's the dream of any hunter to obtain this beauty."
     },
     {
-        "id": 678,
         "name": "Kirin Mane",
         "rare": 5,
         "description": "Magnificent silver mane. Even after being cut off, it seems to retain energy."
     },
     {
-        "id": 679,
         "name": "Platinum Mane",
         "rare": 5,
         "description": "Kirin mane that sparkles like platinum, Shimmers with the wind. Priceless."
     },
     {
-        "id": 680,
         "name": "Kirin Thndr Tail",
         "rare": 5,
         "description": "A rare tail overflowing with elegance, charged with electricity."
     },
     {
-        "id": 681,
         "name": "LthrKirinThndrTl",
         "rare": 5,
         "description": "Ultra-rare tail charged with electricity that gives it a slight shine."
     },
     {
-        "id": 682,
         "name": "Kirin Azure Horn",
         "rare": 5,
         "description": "This azure horn is a rare item even for Kirin Horns. Gives off a divine light."
     },
     {
-        "id": 683,
         "name": "Lao-Shan's Claw",
         "rare": 5,
         "description": "Lao-Shan's massive claw. Impossible to work, so it must be used as-is."
     },
     {
-        "id": 684,
         "name": "Lao-Shan's Horn",
         "rare": 5,
         "description": "Horn from Lao-Shan's snout. Is compatible with Firestone. A prized find."
     },
     {
-        "id": 685,
         "name": "Lao-Shan's Scale",
         "rare": 5,
         "description": "Deep red scale that is the equal of any wyvern's shell. Easy to work with."
     },
     {
-        "id": 686,
         "name": "Lao-Shan Scale+",
         "rare": 5,
         "description": "Deep red scale whose hardness rivals even that of a carapace."
     },
     {
-        "id": 687,
         "name": "Lao-Shan'sThkScl",
         "rare": 5,
         "description": "Thick scale carved from the giant dragon. Warping is on par with wyverns."
     },
     {
-        "id": 688,
         "name": "Lao-Shan's Ruby",
         "rare": 5,
         "description": "A precious gem from inside a dragon. The burning red is the gem's soul."
     },
     {
-        "id": 689,
         "name": "Lao-ShanHvnlyScl",
         "rare": 5,
         "description": "A phantasmal scale. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 690,
         "name": "Lao-Shan's Shell",
         "rare": 5,
         "description": "Shell of Lao-Shan Lung. The thick dragon shell tells you of its age."
     },
     {
-        "id": 691,
         "name": "Lao-ShanCarapace",
         "rare": 5,
         "description": "The carapace of a giant dragon, Years ago, this carapace was @ shell."
     },
     {
-        "id": 692,
         "name": "Lao-Shan'sHvyShl",
         "rare": 5,
         "description": "Heavy shell from a giant dragon. An eternity has made this shell eternal."
     },
     {
-        "id": 693,
         "name": "Azure LaoS Horn",
         "rare": 5,
         "description": "A horn carved from an Azure Lao-Shan. A priceless treasure."
     },
     {
-        "id": 694,
         "name": "Azure LaoS Shell",
         "rare": 5,
         "description": "Shell from an enormous Azure Lao-Shan, it is as big as a piece of bedrock."
     },
     {
-        "id": 695,
         "name": "Azure LaoS Claw",
         "rare": 5,
         "description": "A mountain-like giant claw. Too hard to work with, it's used as is."
     },
     {
-        "id": 696,
         "name": "Gaoren Shell",
         "rare": 5,
         "description": "Carved from Shen Gaoren. Shaped by time, this shell is harder than even metal."
     },
     {
-        "id": 697,
         "name": "Gaoren Carapace",
         "rare": 5,
         "description": "A shell, hardened by time, that surpasses even metal in toughness."
     },
     {
-        "id": 698,
         "name": "HvyGaorenShell",
         "rare": 5,
         "description": "Time has changed this ordinary shell into a thick and heavy one."
     },
     {
-        "id": 699,
         "name": "HvnlyGaorenShell",
         "rare": 5,
         "description": "A phantasmal shell. When crafted, sald to unify the earth and seize the sky."
     },
     {
-        "id": 700,
         "name": "Gaoren Spine",
         "rare": 5,
         "description": "Shell from the spine of Gaoren. Guards the body with incredible tenacity."
     },
     {
-        "id": 701,
         "name": "Gaoren Thoracic",
         "rare": 5,
         "description": "Carapace from the spine of Gaoren. Its strength is absolutely fortress-like."
     },
     {
-        "id": 702,
         "name": "Hvy Gaoren Spine",
         "rare": 5,
         "description": "Heavy back shell. With this, the Gaoren becomes a mighty fortress"
     },
     {
-        "id": 703,
         "name": "Gaoren Pincer",
         "rare": 5,
         "description": "Giant pincer of Gaoren. Its metal slicing power is deadly to hunters,"
     },
     {
-        "id": 704,
         "name": "Gaoren Claw",
         "rare": 5,
         "description": "Shen Gaoren's deadly claw, capable of slicing all it comes into contact with."
     },
     {
-        "id": 705,
         "name": "Hard Gaoren Claw",
         "rare": 5,
         "description": "Claw so hard, walls into dust in one hit. it smashes"
     },
     {
-        "id": 706,
         "name": "Daora Shell",
         "rare": 5,
         "description": "The shining silver Kushala Daora shell is solid and highly useful."
     },
     {
-        "id": 707,
         "name": "Daora Carapace",
         "rare": 5,
         "description": "A shell hardened by time. Crafting it is incredibly difficult."
     },
     {
-        "id": 708,
         "name": "Hvy Daora Shell",
         "rare": 5,
         "description": "Repeated molting through- out its life has made this shell very tough."
     },
     {
-        "id": 709,
         "name": "DaoraDragonScale",
         "rare": 5,
         "description": "Shining silver scale from Kushala Daora. Hard, It Is a top-class abrasive."
     },
     {
-        "id": 710,
         "name": "DaoraDragonScal+",
         "rare": 5,
         "description": "High quality scale from Kushala Daora. It Is said to surpass steel."
     },
     {
-        "id": 711,
         "name": "ThcekDaoraDrgnScl",
         "rare": 5,
         "description": "Thick Daora scale. Extreme cold has made this strong with a touch of cold."
     },
     {
-        "id": 712,
         "name": "Daora Webbing",
         "rare": 5,
         "description": "Hard to craft but works well with metals. Beloved for its light weight."
     },
     {
-        "id": 713,
         "name": "Str Daora Wing",
         "rare": 5,
         "description": "Strong as steel but soft as the wind, this material is incredibly valuable."
     },
     {
-        "id": 714,
         "name": "Daora Horn",
         "rare": 5,
         "description": "The gallant horn of Daora. Using it requires extra- ordinary experience."
     },
     {
-        "id": 715,
         "name": "Hard Daora Horn",
         "rare": 5,
         "description": "This hard horn can summon great freezing winds with a single swipe."
     },
     {
-        "id": 716,
         "name": "Daora Tail",
         "rare": 5,
         "description": "Cut from Kushala Daora. Incredibly destructive power contained within."
     },
     {
-        "id": 717,
         "name": "Lthr Daora Tail",
         "rare": 5,
         "description": "Tough, leathery Daora tail. Strong as the winds, but flexible as well."
     },
     {
-        "id": 718,
         "name": "Daora Claw",
         "rare": 5,
         "description": "Kushala Daora's claw. As hard as ore, It cannot be used by ordinary crafters."
     },
     {
-        "id": 719,
         "name": "Daora Sharp Claw",
         "rare": 5,
         "description": "This sharp claw shines the black luster of Daora's life."
     },
     {
-        "id": 720,
         "name": "Daora Jewel",
         "rare": 5,
         "description": "A rarely formed inside a Daora. is breathtaking. jewel from Its glow"
     },
     {
-        "id": 721,
         "name": "Chameleos Hide",
         "rare": 5,
         "description": "This hide is so strange to the touch, you'll want to rub it all over your face."
     },
     {
-        "id": 722,
         "name": "Chameleos Hide+",
         "rare": 5,
         "description": "Superior hide of a Chameleos. touch, Strange to the but very durable."
     },
     {
-        "id": 723,
         "name": "SpecChameleHide+",
         "rare": 5,
         "description": "Top-grade Chameleos hide. Its strange texture calms those who touch it."
     },
     {
-        "id": 724,
         "name": "Chameleos Horn",
         "rare": 5,
         "description": "Faintly glows with a white light. Great for interior decorating."
     },
     {
-        "id": 725,
         "name": "Chameleos Spike",
         "rare": 5,
         "description": "Sharp horn of a Chameleos. Strong and hard, but strangely easy to work.«"
     },
     {
-        "id": 726,
         "name": "HrdChameleosHorn",
         "rare": 5,
         "description": "Hard, leathery horn that refracts light. Very beautiful and valuable."
     },
     {
-        "id": 727,
         "name": "Chameleos Claw",
         "rare": 5,
         "description": "Thin, yet incredibly strong and very easy to work with during crafting."
     },
     {
-        "id": 728,
         "name": "ChameleosWebbing",
         "rare": 5,
         "description": "Thin, light wing webbing. The inner part of the webbing is highly durable."
     },
     {
-        "id": 729,
         "name": "StrChameleosWing",
         "rare": 5,
         "description": "Top-grade wing. Strong and leathery with a firm frame. Ultra-valuable."
     },
     {
-        "id": 730,
         "name": "Chameleos Tail",
         "rare": 5,
         "description": "The distinctive tail of the Chameleos. It causes a strange sensation."
     },
     {
-        "id": 731,
         "name": "LthrChameleoTail",
         "rare": 5,
         "description": "Firm leathery tail. Its unique texture makes it an excellent material."
     },
     {
-        "id": 732,
         "name": "Chameleos Jewel",
         "rare": 5,
         "description": "A rarely formed jewel from inside a Chameleos. It has a multi-colored glow."
     },
     {
-        "id": 733,
         "name": "Fire Dragon Scl",
         "rare": 5,
         "description": "A scalding hot Fire Dragon Scale."
     },
     {
-        "id": 734,
         "name": "Fire Drgn Scl+",
         "rare": 5,
         "description": "A gallant Fire Dragon Scale that burns from within with hot fire."
     },
     {
-        "id": 735,
         "name": "ThckFireDrgnScl",
         "rare": 5,
         "description": "Best of the best quality Fire Dragon scale from a truly scorching beast."
     },
     {
-        "id": 736,
         "name": "Fire Dragon Claw",
         "rare": 5,
         "description": "A sharp, glowing Fire Dragon Claw. Hard even for experts to craft."
     },
     {
-        "id": 737,
         "name": "HrdFireDrgnClaw",
         "rare": 5,
         "description": "One scratch from this hard, fiery claw causes spontaneous combustion."
     },
     {
-        "id": 738,
         "name": "Fire Drgn Webbng",
         "rare": 5,
         "description": "Wing webbing carved from a Fire Dragon. A marvelous material with wide uses."
     },
     {
-        "id": 739,
         "name": "Fire Dragon Pwdr",
         "rare": 5,
         "description": "Powder from Fire Dragon wings. Said to magnify a material's abilities."
     },
     {
-        "id": 740,
         "name": "Fire Drgn Jwl",
         "rare": 5,
         "description": "A rarely formed jewel Inside a Fire Dragon. It holds a ferocious inferno. from"
     },
     {
-        "id": 741,
         "name": "ElderDragonBlood",
         "rare": 5,
         "description": "Contains an unknown ingredient. The object of much scholarly research."
     },
     {
-        "id": 742,
         "name": "Lunastra Shell",
         "rare": 5,
         "description": "The high class shell of Lunastra. Treasured for its unmatched blue color."
     },
     {
-        "id": 743,
         "name": "LunastraCarapace",
         "rare": 5,
         "description": "Harder than a Lunastra shell, this blue shell steals the breath away."
     },
     {
-        "id": 744,
         "name": "Lunastra Mane",
         "rare": 5,
         "description": "The dignified mane of Lunastra. The silky hairs are a high class material."
     },
     {
-        "id": 745,
         "name": "Lunastra Tail",
         "rare": 5,
         "description": "The deadly tail of Lunastra. Its destructive force can shatter rock."
     },
     {
-        "id": 746,
         "name": "Lunastra Horn",
         "rare": 5,
         "description": "There's something about Lunastra's horn that captivates the eye."
     },
     {
-        "id": 747,
         "name": "Lunastra Spike",
         "rare": 5,
         "description": "Horn infused with the Lunastra's fury, it's hot to the touch."
     },
     {
-        "id": 748,
         "name": "Teostra Shell",
         "rare": 5,
         "description": "The red hot shell of Teostra. It proves its domain over all fire."
     },
     {
-        "id": 749,
         "name": "Teostra Carapace",
         "rare": 5,
         "description": "Harder than Teostra Shell. Captures the eye like red hot steel."
     },
     {
-        "id": 750,
         "name": "HvyTeostraShell",
         "rare": 5,
         "description": "Those who see the stately red of this heavy shell feel their hearts break."
     },
     {
-        "id": 751,
         "name": "Teostra Mane",
         "rare": 5,
         "description": "The majestic mane of Teostra, it is a sure sign of Teostra's regality."
     },
     {
-        "id": 752,
         "name": "Teostra Tail",
         "rare": 5,
         "description": "Covered in red scales, the tree like tail of Teostra is incredibly hard to cut."
     },
     {
-        "id": 753,
         "name": "LthrTeostraTail",
         "rare": 5,
         "description": "Leather tail that can break stone walls. One whip brings a tornado."
     },
     {
-        "id": 754,
         "name": "Teostra Horn",
         "rare": 5,
         "description": "A horn that displays the power of Teostra. Hunters wither before its might."
     },
     {
-        "id": 755,
         "name": "Teostra Horn+",
         "rare": 5,
         "description": "A sharp horn that burns with the fury of Teostra. It is tinged with fire."
     },
     {
-        "id": 756,
         "name": "HardTeostraHorn",
         "rare": 5,
         "description": "Majestic horn that makes all who see it fall down on one knee."
     },
     {
-        "id": 757,
         "name": "Dragonmoss",
         "rare": 5,
         "description": "Moss said to grow on an elder dragon. Mysterious, it shines beautifully."
     },
     {
-        "id": 758,
         "name": "Dragonmoss+",
         "rare": 5,
         "description": "Its mysterious effects can raise the quality of even high quality goods."
     },
     {
-        "id": 759,
         "name": "AncientDrgnmoss",
         "rare": 5,
         "description": "Moss that grows on a Yama Tsukami. It has mysterious properties."
     },
     {
-        "id": 760,
         "name": "Dragonwood",
         "rare": 5,
         "description": "A parasitic plant said to grow on elder dragons. It has a mysterious air."
     },
     {
-        "id": 761,
         "name": "Dragonwood+",
         "rare": 5,
         "description": "This shining Dragonwood's beauty can be transferred into an equipment's power."
     },
     {
-        "id": 762,
         "name": "AncientDrgnwood",
         "rare": 5,
         "description": "Tree that grows on a Yama Tsukami. It gives off a mysterious air."
     },
     {
-        "id": 763,
         "name": "YamaTsukamiHide",
         "rare": 5,
         "description": "Hide carved from a Yama Tsukaml. Can be made into textile with processing."
     },
     {
-        "id": 764,
         "name": "YamaTsukaFillet",
         "rare": 5,
         "description": "Fillet of a Yama Tsukami tentacle. Slimy and Light."
     },
     {
-        "id": 765,
         "name": "YamaTsukamiFluid",
         "rare": 5,
         "description": "Fluid extracted from a Yama Tsukaml. Black and sticky."
     },
     {
-        "id": 766,
         "name": "Dark Piece",
         "rare": 5,
         "description": "Mysterious, ominous piece of Dark Stone. Crafting it is a scary proposition."
     },
     {
-        "id": 767,
         "name": "Dark Stone",
         "rare": 5,
         "description": "Jet black stone with an ominous aura. Holding it wraps one in despair."
     },
     {
-        "id": 768,
         "name": "Fatalis Horn",
         "rare": 5,
         "description": "The power of the dragon is said to reside in the four horns atop his skull."
     },
     {
-        "id": 769,
         "name": "HardFatalisHorn",
         "rare": 5,
         "description": "Horn of This black, has a strange power. immense strength. glowing horn"
     },
     {
-        "id": 770,
         "name": "Fatalis Scale",
         "rare": 5,
         "description": "A scale from Fatalis' body that goes on to form its shell."
     },
     {
-        "id": 771,
         "name": "ThckFatalisScale",
         "rare": 5,
         "description": "Thick, jet-black scale that covers the body. Its thickness tells its age."
     },
     {
-        "id": 772,
         "name": "Fatalis Shell",
         "rare": 5,
         "description": "A multi-layered carapace that cannot be damaged by normal weaponry."
     },
     {
-        "id": 773,
         "name": "Hvy Fatalis Shl",
         "rare": 5,
         "description": "Harder than a Fatalis Shell, it's also known as Mediastinum."
     },
     {
-        "id": 774,
         "name": "Fatalis Eye",
         "rare": 5,
         "description": "The crystalline eyeball of Fatalis. One of the Three Great Treasures."
     },
     {
-        "id": 775,
         "name": "Fatalis Evil Eye",
         "rare": 5,
         "description": "A Fatalis Eye with an unusual aura. It might be possessed..."
     },
     {
-        "id": 776,
         "name": "Fatalis Webbing",
         "rare": 5,
         "description": "The large surface area makes it very useful. Must be used when fresh."
     },
     {
-        "id": 777,
         "name": "Str Fatalis Wng",
         "rare": 5,
         "description": "Hard as a metal, yet malleable wing. Skill is required to work its"
     },
     {
-        "id": 778,
         "name": "Fatalis CrmsnHrn",
         "rare": 5,
         "description": "Crimson red horn of an angered Fatalis. Glows red, even if cut off."
     },
     {
-        "id": 779,
         "name": "HrdFatlisCrmHorn",
         "rare": 5,
         "description": "Shiny red horn. Its power comes from fury strong enough to shake the skies."
     },
     {
-        "id": 780,
         "name": "Fatalis CrmsnScl",
         "rare": 5,
         "description": "Fatalis scale dyed red with hate. It flashes crimson in the darkness."
     },
     {
-        "id": 781,
         "name": "ThckFatlisCrmScl",
         "rare": 5,
         "description": "Scale of deep red. Warm to the touch, it fills the heart with ambiguity."
     },
     {
-        "id": 782,
         "name": "Fatalis CrmsnShl",
         "rare": 5,
         "description": "Fatalis shell bathed red with wrath, but the black base betrays its roots."
     },
     {
-        "id": 783,
         "name": "HvyFatalisCrmShl",
         "rare": 5,
         "description": "Shell of deep red. One look at it fills the heart with Fatalis's rage."
     },
     {
-        "id": 784,
         "name": "Fatalis DevilEye",
         "rare": 5,
         "description": "The eye of an angered Fatalis, its fiendish gaze -is too much for some."
     },
     {
-        "id": 785,
         "name": "Fatalis CrmsnWng",
         "rare": 5,
         "description": "The wing of Fatalis, swirling with a magma-like crimson of anger."
     },
     {
-        "id": 786,
         "name": "StrFatlisCrmWing",
         "rare": 5,
         "description": "Wing of deep red. Its magma-like swirling is reminiscent of the earth."
     },
     {
-        "id": 787,
         "name": "Wht Fatalis Scl",
         "rare": 5,
         "description": "A scale that shines even in the dark. It has a sense of viciousness."
     },
     {
-        "id": 788,
         "name": "ThckWhtFatlisScl",
         "rare": 5,
         "description": "Sparking white scale. Its beauty can steal your heart."
     },
     {
-        "id": 789,
         "name": "Wht Fatalis Shl",
         "rare": 5,
         "description": "Shell taken from a White Fatalis. Hardened over time, it is very rare."
     },
     {
-        "id": 790,
         "name": "HvyWhtFatalisShl",
         "rare": 5,
         "description": "Sparkling white shell. Heavier and stronger than most Fatalis parts."
     },
     {
-        "id": 791,
         "name": "Wht Fatalis Wbng",
         "rare": 5,
         "description": "The beautiful white shine of a Fatalis wing is both ominous and inspiring."
     },
     {
-        "id": 792,
         "name": "StrWhtFatalisWng",
         "rare": 5,
         "description": "Sparkling white wing. Exudes a crushing power on those who view it."
     },
     {
-        "id": 793,
         "name": "Wht Fatalis Horn",
         "rare": 5,
         "description": "Horn grown on the head of a White Fatalis. Dragon horns are truly powerful."
     },
     {
-        "id": 794,
         "name": "HrdWhtFatlisHorn",
         "rare": 5,
         "description": "Sparkling white horn. Charged with electricity, it's one shocking attack."
     },
     {
-        "id": 795,
         "name": "Akantor Scale",
         "rare": 5,
         "description": "Faintly glittering Akantor Scale. It will not melt, even if dipped in lava."
     },
     {
-        "id": 796,
         "name": "Akantor Shell",
         "rare": 5,
         "description": "Shining Akantor Shell. Exceptionally hard, and thus difficult to craft."
     },
     {
-        "id": 797,
         "name": "Akantor Tail",
         "rare": 5,
         "description": "The large rock-like tail of an Akantor. Strong enough to gouge the earth."
     },
     {
-        "id": 798,
         "name": "Akantor Claw",
         "rare": 5,
         "description": "Hard Akantor Claw that can smash bedrock. Its victims are left unrecognizable."
     },
     {
-        "id": 799,
         "name": "Akantor Fang",
         "rare": 5,
         "description": "Huge fang that can strike to the heavens. It has passed through many foes."
     },
     {
-        "id": 800,
         "name": "Akantor Spike",
         "rare": 5,
         "description": "A flawless spike from Akantor armor, it can easily scar rock."
     },
     {
-        "id": 801,
         "name": "HvyUkanlosShell",
         "rare": 5,
         "description": "Minerals in this encrusted cold-infused shell make it surprisingly strong."
     },
     {
-        "id": 802,
         "name": "UkanlosUnderscl",
         "rare": 5,
         "description": "Thick waterproof scale that covers the Ukanlos's underside."
     },
     {
-        "id": 803,
         "name": "Hvy Ukanlos Tail",
         "rare": 5,
         "description": "Icy tail of @ Ukanlos. One swish makes the earth shake and the air resound."
     },
     {
-        "id": 804,
         "name": "UkanlosDiggngClw",
         "rare": 5,
         "description": "Ukanlos claw. Its twisted shape is due to repeated digging through tough ice."
     },
     {
-        "id": 805,
         "name": "UkanlosShovelJaw",
         "rare": 5,
         "description": "Ukanlos's shovel-like jaw. It uses it to plow through snow."
     },
     {
-        "id": 806,
         "name": "StrongUkanlosFin",
         "rare": 5,
         "description": "Giant saw-like fin that runs along the Ukanlos's back. Cuts through all."
     },
     {
-        "id": 807,
         "name": "Ukanlos Stone",
         "rare": 5,
         "description": "A phantasmal stone. When crafted, said to unify the earth and seize the sky."
     },
     {
-        "id": 808,
         "name": "Wyverian Harp",
         "rare": 5,
         "description": "A legendary Wyverian Harp. Originally @ weapon, it is in need of repairs."
     },
     {
-        "id": 809,
         "name": "Sinister Cloth",
         "rare": 5,
         "description": "Found long ago in the tomb of a king from a long forgotten desert land."
     },
     {
-        "id": 810,
         "name": "Lost Umbrella",
         "rare": 5,
         "description": "Noblewoman's umbrella. Seems to have hidden features. Try fixing it."
     },
     {
-        "id": 811,
         "name": "Ruststone",
         "rare": 5,
         "description": "Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
     },
     {
-        "id": 812,
         "name": "Flat Ruststone",
         "rare": 5,
         "description": "Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
     },
     {
-        "id": 813,
         "name": "Large Ruststone",
         "rare": 5,
         "description": "Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
     },
     {
-        "id": 814,
         "name": "Small Ruststone",
         "rare": 5,
         "description": "Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
     },
     {
-        "id": 815,
         "name": "Ruststone Rod",
         "rare": 5,
         "description": "Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
     },
     {
-        "id": 816,
         "name": "Ancient Stone",
         "rare": 5,
         "description": "Appears to be some kind of fossilized metal. Maybe a treasure if polished."
     },
     {
-        "id": 817,
         "name": "AncientFlatstone",
         "rare": 5,
         "description": "Appears to be some kind of fossilized metal. Maybe a treasure if polished."
     },
     {
-        "id": 818,
         "name": "Lg Ancient Stone",
         "rare": 5,
         "description": "Appears to be some kind of fossilized metal. Maybe a treasure if polished."
     },
     {
-        "id": 819,
         "name": "Sm Ancient Stone",
         "rare": 5,
         "description": "Appears to be some kind of fossilized metal. Maybe a treasure if polished."
     },
     {
-        "id": 820,
         "name": "Ancient StoneRod",
         "rare": 5,
         "description": "Appears to be some kind of fossilized metal. Maybe a treasure if polished."
     },
     {
-        "id": 821,
         "name": "Organizer Guide",
         "rare": 4,
         "description": "Issue of popular \"Hunting Life” magazine that has an article on item box usage."
     },
     {
-        "id": 822,
         "name": "Backpacker Guide",
         "rare": 5,
         "description": "Issue of popular \"Hunting Life” magazine that has an article on carrying items."
     },
     {
-        "id": 823,
         "name": "Lynian Info",
         "rare": 1,
         "description": "Monster List reference on the Lynian family. Habits, ecology, etc."
     },
     {
-        "id": 824,
         "name": "Shakalaka Info",
         "rare": 1,
         "description": "Book for your Monster List filled with Information about Shakalakas."
     },
     {
-        "id": 825,
         "name": "Neopteron Info",
         "rare": 1,
         "description": "Monster List reference on the Neopteron family. Habits, ecology, etc."
     },
     {
-        "id": 826,
         "name": "GrtThundrbuginfo",
         "rare": 1,
         "description": "Book for your Monster List filled with Information on the Great Thunderbug."
     },
     {
-        "id": 827,
         "name": "Herbivore Info",
         "rare": 1,
         "description": "Monster List reference on Herbivores. Habits, ecology, etc."
     },
     {
-        "id": 828,
         "name": "Bird Wyvern Info",
         "rare": 1,
         "description": "Monster List reference on bird-like wyverns. Habits, ecology, etc."
     },
     {
-        "id": 829,
         "name": "HypnocatriceInfo",
         "rare": 2,
         "description": "Monster List reference on Hypnocatrices. Habits, ecology, etc."
     },
     {
-        "id": 830,
         "name": "Yian Garuga Info",
         "rare": 2,
         "description": "Book for your Monster List filled with reference ,material on Yian Garuga."
     },
     {
-        "id": 831,
         "name": "FlyingWyvernInfo",
         "rare": 2,
         "description": "Monster List reference on flying wyverns. Habits, ecology, etc."
     },
     {
-        "id": 832,
         "name": "Remobra Info",
         "rare": 2,
         "description": "Book for your Monster List filled with reference -material on Remobras."
     },
     {
-        "id": 833,
         "name": "Tigrex Info",
         "rare": 2,
         "description": "Book for your Monster List filled with reference -material on Tigrex."
     },
     {
-        "id": 834,
         "name": "Nargacuga Info",
         "rare": 2,
         "description": "Book for your Monster List filled with reference /material on Nargacuga."
     },
     {
-        "id": 835,
         "name": "Akantor Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference smaterial on Akantor."
     },
     {
-        "id": 836,
         "name": "Ukanlos Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference smaterial on Ukanlos."
     },
     {
-        "id": 837,
         "name": "Piscine Info",
         "rare": 2,
         "description": "Monster List reference on the Piscine wyvern family. Habits, ecology, etc."
     },
     {
-        "id": 838,
         "name": "Lavasioth Info",
         "rare": 2,
         "description": "Book for your Monster List filled with reference material on Lavasioth."
     },
     {
-        "id": 839,
         "name": "Carapaceon Info",
         "rare": 2,
         "description": "Monster List reference on the Carapaceon family. Habits, ecology, etc."
     },
     {
-        "id": 840,
         "name": "Carapaceon Info",
         "rare": 2,
         "description": "Monster List reference on the Carapaceon family. Habits, ecology, etc."
     },
     {
-        "id": 841,
         "name": "Shen Gaoren Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference -material on Shen Gaoren."
     },
     {
-        "id": 842,
         "name": "Pelagus Info",
         "rare": 2,
         "description": "Monster List reference on the Pelagus family. Habits, ecology, etc."
     },
     {
-        "id": 843,
         "name": "Rajang Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference -material on Rajang."
     },
     {
-        "id": 844,
         "name": "Kirin Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference smaterial on Kirin."
     },
     {
-        "id": 845,
         "name": "KushalaDaoraInfo",
         "rare": 3,
         "description": "Book for your Monster List filled with reference -material on Kushala Daora."
     },
     {
-        "id": 846,
         "name": "Chameleos Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference -material on Chameleos."
     },
     {
-        "id": 847,
         "name": "Lunastra Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference ;material on Lunastra."
     },
     {
-        "id": 848,
         "name": "Teostra Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference -material on Teostra."
     },
     {
-        "id": 849,
         "name": "Lao-Shan Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference-material on Lao-Shan Lung."
     },
     {
-        "id": 850,
         "name": "YamaTsukamiInfo",
         "rare": 3,
         "description": "Monster List reference on Yama Tsukami. sHabits, ecology, etc."
     },
     {
-        "id": 851,
         "name": "Fatalis Info",
         "rare": 3,
         "description": "Book for your Monster List filled with reference -material on Fatalis."
     },
     {
-        "id": 852,
         "name": "Steel Egg",
         "rare": 5,
         "description": "A glittering Steel Egg. Incredibly expensive and fare. No use to a hunter."
     },
     {
-        "id": 853,
         "name": "Silver Egg",
         "rare": 5,
         "description": "A glittering Silver Egg. Incredibly expensive and fare. No use to a hunter."
     },
     {
-        "id": 854,
         "name": "Golden Egg",
         "rare": 5,
         "description": "A glittering Gold Egg. Incredibly expensive and fare. No use to a hunter."
     },
     {
-        "id": 855,
         "name": "Map",
         "rare": 1,
         "description": "A map that shows the topography of the region. (Supply Item)"
     },
     {
-        "id": 856,
         "name": "First-Aid Med",
         "rare": 1,
         "description": "Medicine that restores a small amount of Health. (Supply Item)"
     },
     {
-        "id": 857,
         "name": "Ration",
         "rare": 1,
         "description": "Restores a small amount of Stamina when eaten. (Supply Item)"
     },
     {
-        "id": 858,
         "name": "Portable Spit",
         "rare": 1,
         "description": "A Guild BBQ spit for novice hunters. (Supply Item)"
     },
     {
-        "id": 859,
         "name": "Mini Whetstone",
         "rare": 1,
         "description": "A small whetstone for restoring Sharpness. (Supply Item)"
     },
     {
-        "id": 860,
         "name": "Prtbl Shock Trap",
         "rare": 3,
         "description": "Trap that stops monsters in thelr tracks. Capture use. (Supply Item)"
     },
     {
-        "id": 861,
         "name": "Supply Flash Bmb",
         "rare": 2,
         "description": "A hand-thrown bomb that emits a flash. (Supply Item)"
     },
     {
-        "id": 862,
         "name": "Sply Max Potion",
         "rare": 2,
         "description": "Raises and recovers Health to its maximum level. (Supply Item)"
     },
     {
-        "id": 863,
         "name": "Sply Pitfall Trp",
         "rare": 3,
         "description": "A trap that captures prey by causing them to fall into a pit. (Supply Item)"
     },
     {
-        "id": 864,
         "name": "Sply Lg Brrl Bmb",
         "rare": 3,
         "description": "Upgraded version of the Large Barrel Bomb. Very powerful. (Supply Item)"
     },
     {
-        "id": 865,
         "name": "Ballista S",
         "rare": 5,
         "description": "Ammunition for a very large Bowgun installation. (Supply Item)"
     },
     {
-        "id": 866,
         "name": "Cannon S",
         "rare": 5,
         "description": "Special ammo used against large dragons. Very heavy. (Supply Item)"
     },
     {
-        "id": 867,
         "name": "Wyvern Egg",
         "rare": 5,
         "description": "An egg stolen from a wyvern's nest. (Account Item)"
     },
     {
-        "id": 868,
         "name": "Herbivore Egg",
         "rare": 5,
         "description": "Egg stolen from an Apceros Looks tasty. Item)"
     },
     {
-        "id": 869,
         "name": "Carnivore Egg",
         "rare": 5,
         "description": "Smaller and easier to carry than a Herbivore Egg. (Account Item)"
     },
     {
-        "id": 870,
         "name": "Sootstone Ore",
         "rare": 5,
         "description": "Ore that contains Sootstone. (Account Item)"
     },
     {
-        "id": 871,
         "name": "Quartz Ore",
         "rare": 5,
         "description": "Ore that contains White Quartz. (Account Item)"
     },
     {
-        "id": 872,
         "name": "Powderstone",
         "rare": 5,
         "description": "Explodes slightest (Account upon even the impact. Item)"
     },
     {
-        "id": 873,
         "name": "Khezu Whelp",
         "rare": 5,
         "description": "A juvenile Khezu. Carrying it slowly zaps away your Health. (Account Item)"
     },
     {
-        "id": 874,
         "name": "Khz Whip Ice Crm",
         "rare": 5,
         "description": "Ice cream made from Khezu Whelps by an expert Veggie Elder. (Account Item)"
     },
     {
-        "id": 875,
         "name": "Kut-Ku Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Yian Kut-Ku."
     },
     {
-        "id": 876,
         "name": "Congalala Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Congalala."
     },
     {
-        "id": 877,
         "name": "Khezu Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Khezu."
     },
     {
-        "id": 878,
         "name": "Daimyo Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Daimyo Hermit."
     },
     {
-        "id": 879,
         "name": "Blangonga Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Blangonga."
     },
     {
-        "id": 880,
         "name": "Yian Garuga Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Yian Garuga."
     },
     {
-        "id": 881,
         "name": "Tigrex Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Tigrex."
     },
     {
-        "id": 882,
         "name": "Diablos Coin",
         "rare": 5,
         "description": "Given on the whim of an esteemed instructor upon defeating a Diablos."
     },
     {
-        "id": 883,
         "name": "Gravios Coin",
         "rare": 5,
         "description": "Given on the whim of an esteemed instructor upon defeating a Gravios."
     },
     {
-        "id": 884,
         "name": "Kirin Coin",
         "rare": 5,
         "description": "Given on the whim of an esteemed instructor upon defeating a Kirin."
     },
     {
-        "id": 885,
         "name": "Cephadrome Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Cephadrome."
     },
     {
-        "id": 886,
         "name": "Plesioth Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Plesioth."
     },
     {
-        "id": 887,
         "name": "Shogun Coin",
         "rare": 4,
         "description": "Given on the whim of an esteemed instructor upon defeating a Shogun Cean."
     },
     {
-        "id": 888,
         "name": "Fire Coin",
         "rare": 5,
         "description": "Given on the whim of an esteemed instructor upon defeating a fire wyvern."
     },
     {
-        "id": 889,
         "name": "Rajang Coin",
         "rare": 5,
         "description": "Given on the whim of an esteemed instructor upon defeating a Rajang."
     },
     {
-        "id": 890,
         "name": "BlackBeltCoinG",
         "rare": 5,
         "description": "Nihilistic black coin. Conferred upon completion of G-Level training."
     },
     {
-        "id": 891,
         "name": "Expert Coin G",
         "rare": 5,
         "description": "Glistening yellow coin. Conferred upon completion of G-Level training."
     },
     {
-        "id": 892,
         "name": "Warrior Coin G",
         "rare": 5,
         "description": "Refreshing blue coin. Conferred upon completion of G-Level training."
     },
     {
-        "id": 893,
         "name": "Legend Coin G",
         "rare": 5,
         "description": "Enigmatic crimson coin. Conferred upon completion of G-Level training."
     },
     {
-        "id": 894,
         "name": "Commendation",
         "rare": 5,
         "description": "Ticket awarded for a display of bravery. Try collecting them."
     },
     {
-        "id": 895,
         "name": "Commendation G",
         "rare": 5,
         "description": "Ticket awarded for a display of great bravery. Try collecting them,"
     },
     {
-        "id": 896,
         "name": "Commendation S",
         "rare": 5,
         "description": "Ticket awarded for a display of superb bravery. Try collecting them,"
     },
     {
-        "id": 897,
         "name": "Pawprint Stamp",
         "rare": 5,
         "description": "The paper currency of the Lynian race, stamped with a Felyne paw. Unreadable."
     },
     {
-        "id": 898,
         "name": "Pokke Ticket",
         "rare": 5,
         "description": "Received for contributions to Pokke Village. If you give it to the crafter..."
     },
     {
-        "id": 899,
         "name": "Pokke Ticket+",
         "rare": 5,
         "description": "Received for becoming the true Hero of Pokke. If you give it to the crafter..."
     },
     {
-        "id": 900,
         "name": "Normal Ticket",
         "rare": 5,
         "description": "Can be traded for common pieces of equipment in place of using materials."
     },
     {
-        "id": 901,
         "name": "Hard Ticket",
         "rare": 5,
         "description": "Can be traded for rare pleces of equipment in place of using materials."
     },
     {
-        "id": 902,
         "name": "Plus Class Tcket",
         "rare": 5,
         "description": "Can be traded for ultra rare pieces of equipment in place of materials."
     },
     {
-        "id": 903,
         "name": "Hero of Kkto Bio",
         "rare": 5,
         "description": "Recounts Hero of Kokoto's exploits. Includes plans for the Hero's sword."
     },
     {
-        "id": 904,
         "name": "Hero of JumboBio",
         "rare": 5,
         "description": "Recounts Hero of Jumbo's exploits. Includes plans for the Hero's sword."
     },
     {
-        "id": 905,
         "name": "Elder Thank You",
         "rare": 5,
         "description": "Given to the one who saved the town from fear. A recipe is on the back."
     },
     {
-        "id": 906,
         "name": "Elder Thnk You+",
         "rare": 5,
         "description": "Given to the one who saved the town from calamity. A recipe is on the back."
     },
     {
-        "id": 907,
         "name": "FlynMealPassReg",
         "rare": 4,
         "description": "Ticket for a standard Felyne dinner. If traded at the crafting shop..."
     },
     {
-        "id": 908,
         "name": "FlynMealPassPlus",
         "rare": 5,
         "description": "Ticket for a high class Felyne dinner. If traded at the crafting shop..."
     },
     {
-        "id": 909,
         "name": "Comrade Ticket",
         "rare": 5,
         "description": "Ticket awarded for raising another hunter's Comrade. Try collecting them."
     },
     {
-        "id": 910,
         "name": "VeggieElderTcket",
         "rare": 4,
         "description": "Earned by hunting with friends. Try trading it with a Veggie Elder."
     },
     {
-        "id": 911,
         "name": "VeggieElderTckt+",
         "rare": 4,
         "description": "If you trade this with a Veggie Elder you may get a tare item..."
     },
     {
-        "id": 912,
         "name": "VegElderTcktBrz",
         "rare": 4,
         "description": "Earned by hunting with friends. Try trading it with a Veggie Elder."
     },
     {
-        "id": 913,
         "name": "VegElderTcktSlv",
         "rare": 4,
         "description": "If you trade this with a Veggie Elder you may get a tare item..."
     },
     {
-        "id": 914,
         "name": "VegElderTcktGld",
         "rare": 4,
         "description": "If you trade this with a Veggie Elder you may get a superior item..."
     },
     {
-        "id": 915,
         "name": "VegElderTcktSky",
         "rare": 5,
         "description": "If you trade this with a Veggie Elder you may get an extraordinary item..."
     },
     {
-        "id": 916,
         "name": "Blackbelt Ticket",
         "rare": 5,
         "description": "Earned by overcoming difficult training. Maybe you should collect them?"
     },
     {
-        "id": 917,
         "name": "Expert Ticket",
         "rare": 5,
         "description": "Earned by overcoming extreme training. Maybe you should collect them?"
     },
     {
-        "id": 918,
         "name": "Paw Pass Ticket",
         "rare": 5,
         "description": "After you hand this in, you're going home... Nya! (Supply Item)"
     },
     {
-        "id": 919,
         "name": "Limited Paw Pass",
         "rare": 5,
         "description": "Meet the goals of a quest, and you can use this to go home, meow. (Supply Item)"
     },
     {
-        "id": 920,
         "name": "Hunter's Ticket",
         "rare": 5,
         "description": "Written by the Hero of Kokoto and given only to full-fledged hunters."
     },
     {
-        "id": 921,
         "name": "Hunter Soul Tkt",
         "rare": 5,
         "description": "An honor for hunters. Symbolizes a hunter's true soul. successful"
     },
     {
-        "id": 922,
         "name": "Puppet Ticket",
         "rare": 5,
         "description": "A ticket stamped by two Felyne paws. At your service, nya!"
     },
     {
-        "id": 923,
         "name": "SpecPuppetTicket",
         "rare": 5,
         "description": "A Guild-stamped, hand-made ticket. It was made with a lot of heart."
     },
     {
-        "id": 924,
         "name": "Suiko Jewel",
         "rare": 4,
         "description": "Material that is perfect for use as a Decoration."
     },
     {
-        "id": 925,
         "name": "Akito Jewel",
         "rare": 4,
         "description": "Material that is perfect for use as a Decoration."
     },
     {
-        "id": 926,
         "name": "BattlefieldJewel",
         "rare": 5,
         "description": "Jewel used as a Decoration. High-end, but occasionally flawed."
     },
     {
-        "id": 927,
         "name": "LapisLazuliJewel",
         "rare": 5,
         "description": "Jewel used as a Decoration. A seldom obtained ornament."

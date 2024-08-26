@@ -1,5 +1,4 @@
 {
-    "upgrade-id": "INT",
     "name": "VARCHAR",
     "type": "VARCHAR",
     "upgrade-price": "INT",
@@ -11,7 +10,6 @@
     ],
     "upgrade-from": [
         {
-            "id": "INT",
             "craft-type": "VARCHAR",
             "name": "VARCHAR",
             "type": "VARCHAR"

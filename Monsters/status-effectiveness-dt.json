@@ -1,9 +1,7 @@
 {
-    "id": "INT",
     "monster": "VARCHAR",
     "types": [
         {
-            "id": "INT",
             "type": "VARCHAR",
             "initial-tolerance": "INT",
             "tolerance-inc": "INT",

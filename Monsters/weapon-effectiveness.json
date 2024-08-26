@@ -1,10 +1,8 @@
 [
     {
-        "id": 0,
         "monster": "Felyne",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 120,
                 "strike": 120,
@@ -13,11 +11,9 @@
         ]
     },
     {
-        "id": 1,
         "monster": "Melynx",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 110,
                 "strike": 100,
@@ -26,11 +22,9 @@
         ]
     },
     {
-        "id": 2,
         "monster": "Shakalaka",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 70,
                 "strike": 70,
@@ -39,11 +33,9 @@
         ]
     },
     {
-        "id": 3,
         "monster": "Vespoid",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 120,
                 "strike": 130,
@@ -52,11 +44,9 @@
         ]
     },
     {
-        "id": 4,
         "monster": "Hornetaur",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 100,
                 "strike": 120,
@@ -65,11 +55,9 @@
         ]
     },
     {
-        "id": 5,
         "monster": "Great Thunderbug",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 90,
                 "strike": 90,
@@ -78,11 +66,9 @@
         ]
     },
     {
-        "id": 6,
         "monster": "Anteka",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 100,
                 "strike": 90,
@@ -91,11 +77,9 @@
         ]
     },
     {
-        "id": 7,
         "monster": "Popo",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 100,
                 "strike": 100,
@@ -104,11 +88,9 @@
         ]
     },
     {
-        "id": 8,
         "monster": "Kelbi",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 140,
                 "strike": 140,
@@ -117,11 +99,9 @@
         ]
     },
     {
-        "id": 9,
         "monster": "Mosswine",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 150,
                 "strike": 150,
@@ -130,11 +110,9 @@
         ]
     },
     {
-        "id": 10,
         "monster": "Aptonoth",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 110,
                 "strike": 110,
@@ -143,18 +121,15 @@
         ]
     },
     {
-        "id": 11,
         "monster": "Apceros",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 80,
                 "strike": 100,
                 "shooting": 90
             },
             {
-                "id": 1,
                 "part": "other",
                 "slash": 70,
                 "strike": 100,
@@ -163,11 +138,9 @@
         ]
     },
     {
-        "id": 12,
         "monster": "Giaprey",
         "parts": [
             {
-                "id": 0,
                 "part": "other",
                 "slash": 80,
                 "strike": 80,
@@ -176,11 +149,9 @@
         ]
     },
     {
-        "id": 13,
         "monster": "Velociprey",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 120,
                 "strike": 120,
@@ -189,11 +160,9 @@
         ]
     },
     {
-        "id": 14,
         "monster": "Genprey",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 100,
                 "strike": 100,
@@ -202,11 +171,9 @@
         ]
     },
     {
-        "id": 15,
         "monster": "Ioprey",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 90,
                 "strike": 90,
@@ -215,25 +182,21 @@
         ]
     },
     {
-        "id": 16,
         "monster": "Remobra",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 95,
                 "strike": 90,
                 "shooting": 90
             },
             {
-                "id": 1,
                 "part": "wing",
                 "slash": 50,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "other",
                 "slash": 80,
                 "strike": 80,
@@ -242,53 +205,45 @@
         ]
     },
     {
-        "id": 17,
         "monster": "Cephalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 70,
                 "strike": 80,
                 "shooting": 80
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 110,
                 "strike": 100,
                 "shooting": 140
             },
             {
-                "id": 2,
                 "part": "neck",
                 "slash": 130,
                 "strike": 140,
                 "shooting": 150
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 90,
                 "strike": 100,
                 "shooting": 150
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 60,
                 "strike": 70,
                 "shooting": 60
             },
             {
-                "id": 5,
                 "part": "wing",
                 "slash": 70,
                 "strike": 60,
                 "shooting": 60
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 50,
                 "strike": 45,
@@ -297,11 +252,9 @@
         ]
     },
     {
-        "id": 18,
         "monster": "Hermitaur",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 80,
                 "strike": 110,
@@ -310,11 +263,9 @@
         ]
     },
     {
-        "id": 19,
         "monster": "Ceanataur",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 70,
                 "strike": 90,
@@ -323,11 +274,9 @@
         ]
     },
     {
-        "id": 20,
         "monster": "Bullfango",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 80,
                 "strike": 70,
@@ -336,18 +285,15 @@
         ]
     },
     {
-        "id": 21,
         "monster": "Conga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 65,
                 "strike": 75,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "other",
                 "slash": 60,
                 "strike": 65,
@@ -356,18 +302,15 @@
         ]
     },
     {
-        "id": 22,
         "monster": "Blango",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 75,
                 "strike": 70,
                 "shooting": 75
             },
             {
-                "id": 1,
                 "part": "other",
                 "slash": 65,
                 "strike": 60,
@@ -376,11 +319,9 @@
         ]
     },
     {
-        "id": 23,
         "monster": "King Shakalaka",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 40,
                 "strike": 40,
@@ -389,11 +330,9 @@
         ]
     },
     {
-        "id": 24,
         "monster": "Vespoid Queen",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 100,
                 "strike": 100,
@@ -402,11 +341,9 @@
         ]
     },
     {
-        "id": 25,
         "monster": "Giadrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 100,
                 "strike": 100,
@@ -415,11 +352,9 @@
         ]
     },
     {
-        "id": 26,
         "monster": "Velocidrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 100,
                 "strike": 100,
@@ -428,11 +363,9 @@
         ]
     },
     {
-        "id": 27,
         "monster": "Gendrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 90,
                 "strike": 90,
@@ -441,11 +374,9 @@
         ]
     },
     {
-        "id": 28,
         "monster": "Iodrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 80,
                 "strike": 80,
@@ -454,53 +385,45 @@
         ]
     },
     {
-        "id": 29,
         "monster": "Yian Kut-Ku",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 80,
                 "shooting": 100
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 50
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 80
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 30
             },
             {
-                "id": 5,
                 "part": "wing",
                 "slash": 75,
                 "strike": 70,
                 "shooting": 70
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 25,
                 "strike": 30,
@@ -509,53 +432,45 @@
         ]
     },
     {
-        "id": 30,
         "monster": "Blue Yian Kut-Ku",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 80,
                 "shooting": 100
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 50
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 80
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 30
             },
             {
-                "id": 5,
                 "part": "wing",
                 "slash": 75,
                 "strike": 70,
                 "shooting": 70
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 25,
                 "strike": 30,
@@ -564,53 +479,45 @@
         ]
     },
     {
-        "id": 31,
         "monster": "Scarred Yian Garuga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 65,
                 "strike": 60,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 60
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 40,
                 "strike": 20,
                 "shooting": 10
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 20,
                 "strike": 40,
                 "shooting": 10
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 25,
                 "strike": 25,
@@ -619,53 +526,45 @@
         ]
     },
     {
-        "id": 32,
         "monster": "Yian Garuga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 65,
                 "strike": 60,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 60
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 45,
                 "strike": 25,
                 "shooting": 10
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 25,
                 "strike": 45,
                 "shooting": 10
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 25,
                 "strike": 25,
@@ -674,53 +573,45 @@
         ]
     },
     {
-        "id": 33,
         "monster": "Gypceros",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 30,
                 "strike": 80,
                 "shooting": 70
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 25,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 70,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 80,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 90,
                 "strike": 40,
                 "shooting": 80
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 50,
                 "strike": 30,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 20,
                 "strike": 20,
@@ -729,53 +620,45 @@
         ]
     },
     {
-        "id": 34,
         "monster": "Purple Gypceros",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 30,
                 "strike": 80,
                 "shooting": 70
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 25,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 70,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 80,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 90,
                 "strike": 40,
                 "shooting": 80
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 50,
                 "strike": 30,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 20,
                 "strike": 20,
@@ -784,53 +667,45 @@
         ]
     },
     {
-        "id": 35,
         "monster": "Hypnocatrice",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 65,
                 "strike": 50,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 50,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "feet",
                 "slash": 35,
                 "strike": 40,
@@ -839,53 +714,45 @@
         ]
     },
     {
-        "id": 36,
         "monster": "Rathian",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 60,
                 "strike": 55,
                 "shooting": 55
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "feet",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 50
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 30,
                 "strike": 30,
@@ -894,53 +761,45 @@
         ]
     },
     {
-        "id": 37,
         "monster": "Pink Rathian",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 60,
                 "strike": 55,
                 "shooting": 50
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 55,
                 "strike": 50,
                 "shooting": 50
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 30,
                 "strike": 30,
@@ -949,53 +808,45 @@
         ]
     },
     {
-        "id": 38,
         "monster": "Gold Rathian",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 45,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 50
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 25,
                 "strike": 25,
@@ -1004,53 +855,45 @@
         ]
     },
     {
-        "id": 39,
         "monster": "Rathalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 55
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 55
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 30
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 45,
                 "strike": 50,
                 "shooting": 45
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 30,
                 "strike": 30,
@@ -1059,53 +902,45 @@
         ]
     },
     {
-        "id": 40,
         "monster": "Azure Rathalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 55
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 55
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 65
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 30,
                 "strike": 30,
@@ -1114,53 +949,45 @@
         ]
     },
     {
-        "id": 41,
         "monster": "Silver Rathalos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 35,
                 "strike": 45,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 45,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 60
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 25,
                 "strike": 25,
@@ -1169,53 +996,45 @@
         ]
     },
     {
-        "id": 42,
         "monster": "Khezu",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 45,
                 "strike": 60,
                 "shooting": 80
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 60,
                 "strike": 50,
                 "shooting": 50
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 50,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 20,
                 "strike": 20,
@@ -1224,53 +1043,45 @@
         ]
     },
     {
-        "id": 43,
         "monster": "Red Khezu",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 45,
                 "strike": 60,
                 "shooting": 80
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 60,
                 "strike": 50,
                 "shooting": 50
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 50,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 20,
                 "strike": 20,
@@ -1279,60 +1090,51 @@
         ]
     },
     {
-        "id": 44,
         "monster": "Basarios",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 15,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 15,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "stomach-pre-break",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "stomach-post-break",
                 "slash": 75,
                 "strike": 75,
                 "shooting": 80
             },
             {
-                "id": 5,
                 "part": "tail",
                 "slash": 15,
                 "strike": 15,
                 "shooting": 15
             },
             {
-                "id": 6,
                 "part": "wings",
                 "slash": 15,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "legs",
                 "slash": 20,
                 "strike": 25,
@@ -1341,60 +1143,51 @@
         ]
     },
     {
-        "id": 45,
         "monster": "Gravios",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "stomach-pre-break",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "stomach-post-break",
                 "slash": 80,
                 "strike": 80,
                 "shooting": 75
             },
             {
-                "id": 5,
                 "part": "tail",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "wings",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "legs",
                 "slash": 15,
                 "strike": 25,
@@ -1403,60 +1196,51 @@
         ]
     },
     {
-        "id": 46,
         "monster": "Black Gravios",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "stomach-pre-break",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "stomach-post-break",
                 "slash": 80,
                 "strike": 80,
                 "shooting": 75
             },
             {
-                "id": 5,
                 "part": "tail",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "wings",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "legs",
                 "slash": 15,
                 "strike": 25,
@@ -1465,53 +1249,45 @@
         ]
     },
     {
-        "id": 47,
         "monster": "Monoblos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 80,
                 "shooting": 80
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 50,
                 "strike": 45,
                 "shooting": 50
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 80,
                 "strike": 60,
                 "shooting": 120
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 60,
                 "strike": 50,
                 "shooting": 50
             },
             {
-                "id": 6,
                 "part": "legs",
                 "slash": 40,
                 "strike": 45,
@@ -1520,53 +1296,45 @@
         ]
     },
     {
-        "id": 48,
         "monster": "White Monoblos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 80,
                 "shooting": 80
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 50,
                 "strike": 45,
                 "shooting": 50
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 80,
                 "strike": 60,
                 "shooting": 120
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 60,
                 "strike": 50,
                 "shooting": 50
             },
             {
-                "id": 6,
                 "part": "legs",
                 "slash": 40,
                 "strike": 45,
@@ -1575,60 +1343,51 @@
         ]
     },
     {
-        "id": 49,
         "monster": "Diablos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 25,
                 "strike": 10,
                 "shooting": 25
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 45,
                 "strike": 65,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "wings",
                 "slash": 20,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "stomach",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 5,
                 "part": "tail",
                 "slash": 60,
                 "strike": 55,
                 "shooting": 75
             },
             {
-                "id": 6,
                 "part": "wing membrane",
                 "slash": 40,
                 "strike": 55,
                 "shooting": 45
             },
             {
-                "id": 7,
                 "part": "legs",
                 "slash": 30,
                 "strike": 35,
@@ -1637,60 +1396,51 @@
         ]
     },
     {
-        "id": 50,
         "monster": "Black Diablos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 25,
                 "strike": 10,
                 "shooting": 25
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 45,
                 "strike": 65,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "wings",
                 "slash": 20,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "stomach",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 5,
                 "part": "tail",
                 "slash": 60,
                 "strike": 55,
                 "shooting": 75
             },
             {
-                "id": 6,
                 "part": "wing membrane",
                 "slash": 40,
                 "strike": 55,
                 "shooting": 45
             },
             {
-                "id": 7,
                 "part": "legs",
                 "slash": 30,
                 "strike": 35,
@@ -1699,102 +1449,87 @@
         ]
     },
     {
-        "id": 51,
         "monster": "Tigrex",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 75,
                 "strike": 65,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 35,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 5,
                 "part": "forelegs",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "hindlegs",
                 "slash": 40,
                 "strike": 45,
                 "shooting": 40
             },
             {
-                "id": 7,
                 "part": "head-enraged",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 45
             },
             {
-                "id": 8,
                 "part": "neck-enraged",
                 "slash": 55,
                 "strike": 55,
                 "shooting": 20
             },
             {
-                "id": 9,
                 "part": "stomach-enraged",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 10,
                 "part": "back-enraged",
                 "slash": 50,
                 "strike": 45,
                 "shooting": 20
             },
             {
-                "id": 11,
                 "part": "tail-enraged",
                 "slash": 35,
                 "strike": 30,
                 "shooting": 10
             },
             {
-                "id": 12,
                 "part": "forelegs-enraged",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 13,
                 "part": "hindlegs-enraged",
                 "slash": 40,
                 "strike": 45,
@@ -1803,60 +1538,51 @@
         ]
     },
     {
-        "id": 52,
         "monster": "Nargacuga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 55
             },
             {
-                "id": 1,
                 "part": "head-enraged",
                 "slash": 55,
                 "strike": 55,
                 "shooting": 60
             },
             {
-                "id": 2,
                 "part": "neck",
                 "slash": 30,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "back",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "tail",
                 "slash": 35,
                 "strike": 30,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "forelegs",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 25
             },
             {
-                "id": 7,
                 "part": "hindlegs",
                 "slash": 30,
                 "strike": 30,
@@ -1865,102 +1591,87 @@
         ]
     },
     {
-        "id": 53,
         "monster": "Akantor",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 40
             },
             {
-                "id": 5,
                 "part": "forelegs",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "hindlegs",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 25
             },
             {
-                "id": 7,
                 "part": "head-brokenstomach",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "neck-brokenstomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 9,
                 "part": "stomach-brokenstomach",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 25
             },
             {
-                "id": 10,
                 "part": "back-brokenstomach",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 11,
                 "part": "tail-brokenstomach",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 12,
                 "part": "forelegs-brokenstomach",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 13,
                 "part": "hindlegs-brokenstomach",
                 "slash": 20,
                 "strike": 15,
@@ -1969,102 +1680,87 @@
         ]
     },
     {
-        "id": 54,
         "monster": "Ukanlos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 35
             },
             {
-                "id": 1,
                 "part": "back",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 3,
                 "part": "forelegs",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 15
             },
             {
-                "id": 4,
                 "part": "hindlegs",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 40
             },
             {
-                "id": 5,
                 "part": "waist",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 25
             },
             {
-                "id": 7,
                 "part": "head-brokenstomach",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "back-brokenstomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 9,
                 "part": "stomach-brokenstomach",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 25
             },
             {
-                "id": 10,
                 "part": "forelegs-brokenstomach",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 25
             },
             {
-                "id": 11,
                 "part": "hindlegs-brokenstomach",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 12,
                 "part": "waist-brokenstomach",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 13,
                 "part": "tail-brokenstomach",
                 "slash": 20,
                 "strike": 15,
@@ -2073,53 +1769,45 @@
         ]
     },
     {
-        "id": 55,
         "monster": "Cephadrome",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 50
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 85,
                 "strike": 80,
                 "shooting": 100
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 95,
                 "strike": 100,
                 "shooting": 70
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 100
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 5,
                 "part": "legs",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 50,
                 "strike": 40,
@@ -2128,53 +1816,45 @@
         ]
     },
     {
-        "id": 56,
         "monster": "Plesioth",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 60,
                 "strike": 50,
                 "shooting": 60
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 100,
                 "strike": 80,
                 "shooting": 50
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 40,
                 "shooting": 35
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "legs",
                 "slash": 50,
                 "strike": 40,
@@ -2183,53 +1863,45 @@
         ]
     },
     {
-        "id": 57,
         "monster": "Green Plesioth",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 60,
                 "strike": 50,
                 "shooting": 60
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 100,
                 "strike": 80,
                 "shooting": 50
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 40,
                 "shooting": 35
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "legs",
                 "slash": 50,
                 "strike": 40,
@@ -2238,53 +1910,45 @@
         ]
     },
     {
-        "id": 58,
         "monster": "Lavasioth",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 35,
                 "strike": 35,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 35,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 45,
                 "shooting": 30
             },
             {
-                "id": 3,
                 "part": "stomach",
                 "slash": 40,
                 "strike": 35,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 40,
                 "strike": 30,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "fin",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "legs",
                 "slash": 30,
                 "strike": 40,
@@ -2293,95 +1957,81 @@
         ]
     },
     {
-        "id": 59,
         "monster": "Daimyo Hermitaur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "shell",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 3,
                 "part": "legs",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "claw",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 5,
                 "part": "arm",
                 "slash": 40,
                 "strike": 45,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "head-guard",
                 "slash": 20,
                 "strike": 40,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "body-guard",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 8,
                 "part": "shell-guard",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 9,
                 "part": "legs-guard",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 10,
                 "part": "claw-pre-break-guard",
                 "slash": 15,
                 "strike": 20,
                 "shooting": 10
             },
             {
-                "id": 11,
                 "part": "claw-post-break-guard",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 12,
                 "part": "arm-guard",
                 "slash": 20,
                 "strike": 30,
@@ -2390,95 +2040,81 @@
         ]
     },
     {
-        "id": 60,
         "monster": "Plum Daimyo Hermitaur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "shell",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 3,
                 "part": "legs",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "claw",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 5,
                 "part": "arm",
                 "slash": 40,
                 "strike": 45,
                 "shooting": 30
             },
             {
-                "id": 6,
                 "part": "head-guard",
                 "slash": 20,
                 "strike": 40,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "body-guard",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 8,
                 "part": "shell-guard",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 9,
                 "part": "legs-guard",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 10,
                 "part": "claw-pre-break-guard",
                 "slash": 15,
                 "strike": 20,
                 "shooting": 10
             },
             {
-                "id": 11,
                 "part": "claw-post-break-guard",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 12,
                 "part": "arm-guard",
                 "slash": 20,
                 "strike": 30,
@@ -2487,88 +2123,75 @@
         ]
     },
     {
-        "id": 61,
         "monster": "Shogun Ceanataur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 45,
                 "strike": 55,
                 "shooting": 35
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "shell",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "legs",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "claw",
                 "slash": 20,
                 "strike": 30,
                 "shooting": 15
             },
             {
-                "id": 5,
                 "part": "arm",
                 "slash": 20,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "head-brokenshell",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 40
             },
             {
-                "id": 7,
                 "part": "bodybrokenshell",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "shell-brokenshell",
                 "slash": 25,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 9,
                 "part": "legs-brokenshell",
                 "slash": 35,
                 "strike": 35,
                 "shooting": 30
             },
             {
-                "id": 10,
                 "part": "claw-brokenshell",
                 "slash": 25,
                 "strike": 35,
                 "shooting": 15
             },
             {
-                "id": 11,
                 "part": "arm-brokenshell",
                 "slash": 30,
                 "strike": 35,
@@ -2577,88 +2200,75 @@
         ]
     },
     {
-        "id": 62,
         "monster": "Terra Shogun Ceanataur",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 45,
                 "strike": 55,
                 "shooting": 35
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 35,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "shell",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 25
             },
             {
-                "id": 3,
                 "part": "legs",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "claw",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "arm",
                 "slash": 25,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "head-brokenshell",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 40
             },
             {
-                "id": 7,
                 "part": "body-brokenshell",
                 "slash": 60,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "shell-brokenshell",
                 "slash": 25,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 9,
                 "part": "legs-brokenshell",
                 "slash": 35,
                 "strike": 35,
                 "shooting": 30
             },
             {
-                "id": 10,
                 "part": "claw-brokenshell",
                 "slash": 25,
                 "strike": 35,
                 "shooting": 20
             },
             {
-                "id": 11,
                 "part": "arm-brokenshell",
                 "slash": 30,
                 "strike": 35,
@@ -2667,53 +2277,45 @@
         ]
     },
     {
-        "id": 63,
         "monster": "Shen Gaoren",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 38,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 40,
                 "strike": 45,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "shell",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "legs",
                 "slash": 32,
                 "strike": 37,
                 "shooting": 25
             },
             {
-                "id": 4,
                 "part": "claw",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "arm",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "inside-shell",
                 "slash": 80,
                 "strike": 90,
@@ -2722,11 +2324,9 @@
         ]
     },
     {
-        "id": 64,
         "monster": "Bulldrome",
         "parts": [
             {
-                "id": 0,
                 "part": "body",
                 "slash": 80,
                 "strike": 70,
@@ -2735,74 +2335,63 @@
         ]
     },
     {
-        "id": 65,
         "monster": "Congalala",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 65,
                 "strike": 75,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 35
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 35
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 40,
                 "strike": 30,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "head-guard",
                 "slash": 65,
                 "strike": 75,
                 "shooting": 60
             },
             {
-                "id": 6,
                 "part": "body-guard",
                 "slash": 5,
                 "strike": 5,
                 "shooting": 5
             },
             {
-                "id": 7,
                 "part": "forelegs-guard",
                 "slash": 65,
                 "strike": 15,
                 "shooting": 15
             },
             {
-                "id": 8,
                 "part": "hindlegs-guard",
                 "slash": 65,
                 "strike": 15,
                 "shooting": 15
             },
             {
-                "id": 9,
                 "part": "tail-guard",
                 "slash": 35,
                 "strike": 30,
@@ -2811,74 +2400,63 @@
         ]
     },
     {
-        "id": 66,
         "monster": "Emerald Congalala",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 30,
                 "strike": 50,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 30,
                 "shooting": 35
             },
             {
-                "id": 5,
                 "part": "head-guard",
                 "slash": 30,
                 "strike": 50,
                 "shooting": 60
             },
             {
-                "id": 6,
                 "part": "bod-guardy",
                 "slash": 5,
                 "strike": 5,
                 "shooting": 5
             },
             {
-                "id": 7,
                 "part": "forelegs-guard",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 15
             },
             {
-                "id": 8,
                 "part": "hindlegs-guard",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 15
             },
             {
-                "id": 9,
                 "part": "tail-guard",
                 "slash": 50,
                 "strike": 30,
@@ -2887,39 +2465,33 @@
         ]
     },
     {
-        "id": 67,
         "monster": "Blangonga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 70,
                 "strike": 70,
                 "shooting": 75
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 45,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 40,
@@ -2928,39 +2500,33 @@
         ]
     },
     {
-        "id": 68,
         "monster": "Copper Blangonga",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 65,
                 "strike": 70,
                 "shooting": 70
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 30,
                 "strike": 30,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 40,
@@ -2969,39 +2535,33 @@
         ]
     },
     {
-        "id": 69,
         "monster": "Rajang",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 60,
                 "strike": 60,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 45,
                 "strike": 50,
                 "shooting": 45
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 40,
@@ -3010,39 +2570,33 @@
         ]
     },
     {
-        "id": 70,
         "monster": "Furious Rajang",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 60,
                 "strike": 60,
                 "shooting": 60
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 45,
                 "strike": 50,
                 "shooting": 45
             },
             {
-                "id": 2,
                 "part": "forelegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "hindlegs",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 40
             },
             {
-                "id": 4,
                 "part": "tail",
                 "slash": 50,
                 "strike": 40,
@@ -3051,25 +2605,21 @@
         ]
     },
     {
-        "id": 71,
         "monster": "Kirin",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 45,
                 "strike": 40,
                 "shooting": 70
             },
             {
-                "id": 1,
                 "part": "body",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "horn",
                 "slash": 90,
                 "strike": 100,
@@ -3078,102 +2628,87 @@
         ]
     },
     {
-        "id": 72,
         "monster": "Kushala Daora",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 3,
                 "part": "wings",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 35,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 7,
                 "part": "head-windwrap",
                 "slash": 45,
                 "strike": 55,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "stomach-windwrap",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 9,
                 "part": "back-windwrap",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 10,
                 "part": "wings-windwrap",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 11,
                 "part": "forelegs-windwrap",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 12,
                 "part": "hindlegs-windwrap",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 13,
                 "part": "tail-windwrap",
                 "slash": 35,
                 "strike": 30,
@@ -3182,102 +2717,87 @@
         ]
     },
     {
-        "id": 73,
         "monster": "Rusted Kushala Daora",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 3,
                 "part": "wings",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 35,
                 "strike": 30,
                 "shooting": 40
             },
             {
-                "id": 7,
                 "part": "head-windwrap",
                 "slash": 45,
                 "strike": 55,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "stomach-windwrap",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 9,
                 "part": "back-windwrap",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 10,
                 "part": "wings-windwrap",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 11,
                 "part": "forelegs-windwrap",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 12,
                 "part": "hindlegs-windwrap",
                 "slash": 30,
                 "strike": 35,
                 "shooting": 25
             },
             {
-                "id": 13,
                 "part": "tail-windwrap",
                 "slash": 35,
                 "strike": 30,
@@ -3286,116 +2806,99 @@
         ]
     },
     {
-        "id": 74,
         "monster": "Chameleos",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 50,
                 "strike": 45,
                 "shooting": 40
             },
             {
-                "id": 1,
                 "part": "chest",
                 "slash": 35,
                 "strike": 25,
                 "shooting": 15
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 25,
                 "shooting": 15
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 25,
                 "strike": 15,
                 "shooting": 15
             },
             {
-                "id": 4,
                 "part": "wings",
                 "slash": 20,
                 "strike": 10,
                 "shooting": 15
             },
             {
-                "id": 5,
                 "part": "forelegs",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 15
             },
             {
-                "id": 6,
                 "part": "hindlegs",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 7,
                 "part": "tail",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 15
             },
             {
-                "id": 8,
                 "part": "head-hidden",
                 "slash": 50,
                 "strike": 50,
                 "shooting": 50
             },
             {
-                "id": 9,
                 "part": "chest-hidden",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 15
             },
             {
-                "id": 10,
                 "part": "stomach-hidden",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 15
             },
             {
-                "id": 11,
                 "part": "back-hidden",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 10
             },
             {
-                "id": 12,
                 "part": "wings-hidden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 15
             },
             {
-                "id": 13,
                 "part": "forelegs-hidden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 15
             },
             {
-                "id": 14,
                 "part": "hindlegs-hidden",
                 "slash": 25,
                 "strike": 20,
                 "shooting": 15
             },
             {
-                "id": 15,
                 "part": "tail-hidden",
                 "slash": 15,
                 "strike": 15,
@@ -3404,102 +2907,87 @@
         ]
     },
     {
-        "id": 75,
         "monster": "Lunastra",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 3,
                 "part": "wings",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "slash": 35,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 35,
                 "strike": 25,
                 "shooting": 60
             },
             {
-                "id": 7,
                 "part": "head-flamewrap",
                 "slash": 40,
                 "strike": 50,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "stomach-flamewrap",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 9,
                 "part": "back-flamewrap",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 10,
                 "part": "wings-flamewrap",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 11,
                 "part": "forelegs-flamewrap",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 12,
                 "part": "hindlegs-flamewrap",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 25
             },
             {
-                "id": 13,
                 "part": "tail-flamewrap",
                 "slash": 25,
                 "strike": 25,
@@ -3508,102 +2996,87 @@
         ]
     },
     {
-        "id": 76,
         "monster": "Teostra",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "stomach",
                 "slash": 35,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 3,
                 "part": "wings",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "forelegs",
                 "slash": 35,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "hindlegs",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "tail",
                 "slash": 35,
                 "strike": 25,
                 "shooting": 60
             },
             {
-                "id": 7,
                 "part": "head-flamewrap",
                 "slash": 40,
                 "strike": 40,
                 "shooting": 30
             },
             {
-                "id": 8,
                 "part": "stomach-flamewrap",
                 "slash": 25,
                 "strike": 40,
                 "shooting": 25
             },
             {
-                "id": 9,
                 "part": "back-flamewrap",
                 "slash": 20,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 10,
                 "part": "wings-flamewrap",
                 "slash": 20,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 11,
                 "part": "forelegs-flamewrap",
                 "slash": 25,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 12,
                 "part": "hindlegs-flamewrap",
                 "slash": 25,
                 "strike": 30,
                 "shooting": 25
             },
             {
-                "id": 13,
                 "part": "tail-flamewrap",
                 "slash": 25,
                 "strike": 25,
@@ -3612,60 +3085,51 @@
         ]
     },
     {
-        "id": 77,
         "monster": "Lao-Shan Lung",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 28,
                 "strike": 20,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 55,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "internal",
                 "slash": 80,
                 "strike": 90,
                 "shooting": 80
             },
             {
-                "id": 5,
                 "part": "shoulder",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "legs",
                 "slash": 32,
                 "strike": 37,
                 "shooting": 25
             },
             {
-                "id": 7,
                 "part": "tail",
                 "slash": 10,
                 "strike": 20,
@@ -3674,60 +3138,51 @@
         ]
     },
     {
-        "id": 78,
         "monster": "Ashen Lao-Shan Lung",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 28,
                 "strike": 20,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "neck",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "stomach",
                 "slash": 55,
                 "strike": 50,
                 "shooting": 40
             },
             {
-                "id": 3,
                 "part": "back",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "internal",
                 "slash": 80,
                 "strike": 90,
                 "shooting": 80
             },
             {
-                "id": 5,
                 "part": "shoulder",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "legs",
                 "slash": 32,
                 "strike": 37,
                 "shooting": 25
             },
             {
-                "id": 7,
                 "part": "tail",
                 "slash": 10,
                 "strike": 20,
@@ -3736,53 +3191,45 @@
         ]
     },
     {
-        "id": 79,
         "monster": "Yama Tsukami",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 55,
                 "strike": 60,
                 "shooting": 35
             },
             {
-                "id": 1,
                 "part": "eyes",
                 "slash": 90,
                 "strike": 90,
                 "shooting": 60
             },
             {
-                "id": 2,
                 "part": "mouth",
                 "slash": 80,
                 "strike": 70,
                 "shooting": 90
             },
             {
-                "id": 3,
                 "part": "upper-body",
                 "slash": 50,
                 "strike": 60,
                 "shooting": 40
             },
             {
-                "id": 4,
                 "part": "stomach",
                 "slash": 65,
                 "strike": 60,
                 "shooting": 30
             },
             {
-                "id": 5,
                 "part": "antennae",
                 "slash": 55,
                 "strike": 50,
                 "shooting": 25
             },
             {
-                "id": 6,
                 "part": "tentacles",
                 "slash": 50,
                 "strike": 50,
@@ -3791,67 +3238,57 @@
         ]
     },
     {
-        "id": 80,
         "monster": "Fatalis",
         "parts": [
             {
-                "id": 0,
                 "part": "face",
                 "slash": 80,
                 "strike": 75,
                 "shooting": 45
             },
             {
-                "id": 1,
                 "part": "head",
                 "slash": 50,
                 "strike": 55,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "tail",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "neck",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "chest",
                 "slash": 30,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "wings",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "stomach",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 8,
                 "part": "legs",
                 "slash": 20,
                 "strike": 20,
@@ -3860,130 +3297,111 @@
         ]
     },
     {
-        "id": 81,
         "monster": "Crimson Fatalis",
         "parts": [
             {
-                "id": 0,
                 "part": "face",
                 "slash": 50,
                 "strike": 45,
                 "shooting": 45
             },
             {
-                "id": 1,
                 "part": "head",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 2,
                 "part": "back",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "tail",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 4,
                 "part": "neck",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 25
             },
             {
-                "id": 5,
                 "part": "chest",
                 "slash": 30,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "wings",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "stomach",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 8,
                 "part": "legs",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 9,
                 "part": "face-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 10,
                 "part": "head-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 11,
                 "part": "back-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 12,
                 "part": "tail-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 13,
                 "part": "neck-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 14,
                 "part": "chest-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 15,
                 "part": "wings-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 16,
                 "part": "stomach-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 17,
                 "part": "legs-harden",
                 "slash": 10,
                 "strike": 10,
@@ -3992,123 +3410,105 @@
         ]
     },
     {
-        "id": 82,
         "monster": "White Fatalis",
         "parts": [
             {
-                "id": 0,
                 "part": "head",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 30
             },
             {
-                "id": 1,
                 "part": "back",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 2,
                 "part": "tail",
                 "slash": 10,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 3,
                 "part": "neck",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 25
             },
             {
-                "id": 4,
                 "part": "chest",
                 "slash": 30,
                 "strike": 15,
                 "shooting": 20
             },
             {
-                "id": 5,
                 "part": "wings",
                 "slash": 30,
                 "strike": 25,
                 "shooting": 20
             },
             {
-                "id": 6,
                 "part": "stomach",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 7,
                 "part": "legs",
                 "slash": 20,
                 "strike": 20,
                 "shooting": 20
             },
             {
-                "id": 8,
                 "part": "face-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 9,
                 "part": "head-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 10,
                 "part": "back-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 11,
                 "part": "tail-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 12,
                 "part": "neck-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 13,
                 "part": "chest-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 14,
                 "part": "wings-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 15,
                 "part": "stomach-harden",
                 "slash": 10,
                 "strike": 10,
                 "shooting": 10
             },
             {
-                "id": 16,
                 "part": "legs-harden",
                 "slash": 10,
                 "strike": 10,

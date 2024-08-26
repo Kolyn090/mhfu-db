@@ -1,10 +1,8 @@
 [
     {
-        "id": 0,
         "location": "SnwyMntains",
         "travel": [
             {
-                "id": 0,
                 "point-cost": 200,
                 "items": [
                     "Tranquilizer",
@@ -33,7 +31,6 @@
                 "unlock-at": "default"
             },
             {
-                "id": 1,
                 "point-cost": 300,
                 "items": [
                     "Raw Meat",
@@ -62,7 +59,6 @@
                 "unlock-at": "clear elder 'Shadow in the Snow'"
             },
             {
-                "id": 2,
                 "point-cost": 500,
                 "items": [
                     "Net",
@@ -85,7 +81,6 @@
                 "unlock-at": "clear elder 'A Troublesome Pair' / HR4"
             },
             {
-                "id": 3,
                 "point-cost": 1000,
                 "items": [
                     "Trap Tool",
@@ -112,7 +107,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice' / HR4"
             },
             {
-                "id": 4,
                 "point-cost": 1500,
                 "items": [
                     "Armor Stone",
@@ -144,11 +138,9 @@
         ]
     },
     {
-        "id": 1,
         "location": "Jungle",
         "travel": [
             {
-                "id": 0,
                 "point-cost": 200,
                 "items": [
                     "Honey",
@@ -172,7 +164,6 @@
                 "unlock-at": "default"
             },
             {
-                "id": 1,
                 "point-cost": 300,
                 "items": [
                     "Raw Meat",
@@ -200,7 +191,6 @@
                 "unlock-at": "clear elder 'Shadow in the Snow'"
             },
             {
-                "id": 2,
                 "point-cost": 500,
                 "items": [
                     "Raw Meat",
@@ -228,7 +218,6 @@
                 "unlock-at": "clear elder 'A Troublesome Pair'"
             },
             {
-                "id": 3,
                 "point-cost": 1000,
                 "items": [
                     "Monster Broth",
@@ -257,7 +246,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice' / HR4"
             },
             {
-                "id": 4,
                 "point-cost": 1500,
                 "items": [
                     "Monster Broth",
@@ -288,11 +276,9 @@
         ]
     },
     {
-        "id": 2,
         "location": "Desert",
         "travel": [
             {
-                "id": 0,
                 "point-cost": 200,
                 "items": [
                     "Genprey Fang",
@@ -314,7 +300,6 @@
                 "unlock-at": "default"
             },
             {
-                "id": 1,
                 "point-cost": 300,
                 "items": [
                     "Genprey Fang",
@@ -336,7 +321,6 @@
                 "unlock-at": "clear elder 'Shadow in the Snow'"
             },
             {
-                "id": 2,
                 "point-cost": 500,
                 "items": [
                     "Large Barrel",
@@ -358,7 +342,6 @@
                 "unlock-at": "clear elder 'A Troublesome Pair'"
             },
             {
-                "id": 3,
                 "point-cost": 1000,
                 "items": [
                     "Wyvern Droppings",
@@ -384,7 +367,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice' / HR4"
             },
             {
-                "id": 4,
                 "point-cost": 1500,
                 "items": [
                     "Hrd Armor Sphere",
@@ -410,11 +392,9 @@
         ]
     },
     {
-        "id": 3,
         "location": "Swamp",
         "travel": [
             {
-                "id": 0,
                 "point-cost": 200,
                 "items": [
                     "Large Barrel",
@@ -438,7 +418,6 @@
                 "unlock-at": "clearn elder 'The Ruler of the Snow'"
             },
             {
-                "id": 1,
                 "point-cost": 300,
                 "items": [
                     "Raw Meat",
@@ -462,7 +441,6 @@
                 "unlock-at": "clearn elder 'The Ruler of the Snow'"
             },
             {
-                "id": 2,
                 "point-cost": 500,
                 "items": [
                     "Monster Fluid",
@@ -491,7 +469,6 @@
                 "unlock-at": "clear elder 'A Troublesome Pair'"
             },
             {
-                "id": 3,
                 "point-cost": 1000,
                 "items": [
                     "Monster Fluid",
@@ -521,7 +498,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice' / HR4"
             },
             {
-                "id": 4,
                 "point-cost": 1500,
                 "items": [
                     "Monster Essence",
@@ -553,11 +529,9 @@
         ]
     },
     {
-        "id": 4,
         "location": "Forest & Hills",
         "travel": [
             {
-                "id": 0,
                 "point-cost": 200,
                 "items": [
                     "Honey",
@@ -576,7 +550,6 @@
                 "unlock-at": "clearn elder 'The Ruler of the Snow'"
             },
             {
-                "id": 1,
                 "point-cost": 300,
                 "items": [
                     "Wyvern Droppings",
@@ -607,7 +580,6 @@
                 "unlock-at": "clearn elder 'The Ruler of the Snow'"
             },
             {
-                "id": 2,
                 "point-cost": 500,
                 "items": [
                     "Wyvern Droppings",
@@ -632,7 +604,6 @@
                 "unlock-at": "clear elder 'A Troublesome Pair' またはHR4になる"
             },
             {
-                "id": 3,
                 "point-cost": 1000,
                 "items": [
                     "Wyvern Droppings",
@@ -654,7 +625,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: 2 Monoblos!'"
             },
             {
-                "id": 4,
                 "point-cost": 1500,
                 "items": [
                     "Hrd Armor Sphere",
@@ -681,11 +651,9 @@
         ]
     },
     {
-        "id": 5,
         "location": "Volcano",
         "travel": [
             {
-                "id": 0,
                 "point-cost": 200,
                 "items": [
                     "Huskberry",
@@ -710,7 +678,6 @@
                 "unlock-at": "clear elder 'Absolute Power'"
             },
             {
-                "id": 1,
                 "point-cost": 300,
                 "items": [
                     "Dragon Toadstool",
@@ -732,7 +699,6 @@
                 "unlock-at": "clear elder 'Absolute Power'"
             },
             {
-                "id": 2,
                 "point-cost": 500,
                 "items": [
                     "Armor Sphere",
@@ -755,7 +721,6 @@
                 "unlock-at": "clear elder 'A Troublesome Pair' またはHR4になる"
             },
             {
-                "id": 3,
                 "point-cost": 1000,
                 "items": [
                     "Armor Sphere+",
@@ -781,7 +746,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: 2 Monoblos!', 集会所☆6緊急「接近！ラオシャンロン」クリア"
             },
             {
-                "id": 4,
                 "point-cost": 1500,
                 "items": [
                     "Hvy Armor Sphere",
@@ -808,11 +772,9 @@
         ]
     },
     {
-        "id": 6,
         "location": "Great Forest",
         "travel": [
             {
-                "id": 0,
                 "point-cost": 200,
                 "items": [
                     "Huskberry",
@@ -831,7 +793,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice'"
             },
             {
-                "id": 1,
                 "point-cost": 300,
                 "items": [
                     "Dragon Toadstool",
@@ -850,7 +811,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice'"
             },
             {
-                "id": 2,
                 "point-cost": 500,
                 "items": [
                     "Dragon Toadstool",
@@ -875,7 +835,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice'"
             },
             {
-                "id": 3,
                 "point-cost": 1000,
                 "items": [
                     "Monster Fluid",
@@ -899,7 +858,6 @@
                 "unlock-at": "clear nekoht 'Secret Request: Hypnocatrice'"
             },
             {
-                "id": 4,
                 "point-cost": 1500,
                 "items": [
                     "Hrd Armor Sphere",

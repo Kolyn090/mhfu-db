@@ -1,6 +1,5 @@
 [
     {
-        "upgrade-id": 0,
         "name": "Buster Sword+",
         "type": "great-swd",
         "upgrade-price": 850,
@@ -16,7 +15,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Buster Sword",
                 "type": "great-swd"
@@ -24,7 +22,6 @@
         ]
     },
     {
-        "upgrade-id": 1,
         "name": "Buster Blade",
         "type": "great-swd",
         "upgrade-price": 1400,
@@ -44,7 +41,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "Buster Sword+",
                 "type": "great-swd"
@@ -52,7 +48,6 @@
         ]
     },
     {
-        "upgrade-id": 2,
         "name": "Bone Blade+",
         "type": "great-swd",
         "upgrade-price": 850,
@@ -64,7 +59,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "create",
                 "name": "Bone Blade",
                 "type": "great-swd"
@@ -72,7 +66,6 @@
         ]
     },
     {
-        "upgrade-id": 3,
         "name": "Bone Slasher",
         "type": "great-swd",
         "upgrade-price": 1100,
@@ -92,7 +85,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "upgrade",
                 "name": "Bone Blade+",
                 "type": "great-swd"
@@ -100,7 +92,6 @@
         ]
     },
     {
-        "upgrade-id": 4,
         "name": "Tarnished Great Swd",
         "type": "great-swd",
         "upgrade-price": 2500,
@@ -112,7 +103,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "create",
                 "name": "Rusted Great Sword",
                 "type": "great-swd"
@@ -120,7 +110,6 @@
         ]
     },
     {
-        "upgrade-id": 5,
         "name": "Ravager Blade",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -140,7 +129,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "Buster Blade",
                 "type": "great-swd"
@@ -148,7 +136,6 @@
         ]
     },
     {
-        "upgrade-id": 6,
         "name": "Defender",
         "type": "great-swd",
         "upgrade-price": 1400,
@@ -168,7 +155,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "create",
                 "name": "Buster Sword+",
                 "type": "great-swd"
@@ -176,7 +162,6 @@
         ]
     },
     {
-        "upgrade-id": 7,
         "name": "Sentinel",
         "type": "great-swd",
         "upgrade-price": 2600,
@@ -196,7 +181,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "upgrade",
                 "name": "Defender",
                 "type": "great-swd"
@@ -204,7 +188,6 @@
         ]
     },
     {
-        "upgrade-id": 8,
         "name": "White Serpentblade",
         "type": "great-swd",
         "upgrade-price": 1100,
@@ -224,7 +207,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 0,
                 "craft-type": "create",
                 "name": "Buster Sword",
                 "type": "great-swd"
@@ -232,7 +214,6 @@
         ]
     },
     {
-        "upgrade-id": 9,
         "name": "Silver Serpentblade",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -252,7 +233,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 6,
                 "craft-type": "create",
                 "name": "White Serpentblade",
                 "type": "great-swd"
@@ -260,7 +240,6 @@
         ]
     },
     {
-        "upgrade-id": 10,
         "name": "Vile Serpentblade",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -280,7 +259,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "upgrade",
                 "name": "Silver Serpentblade",
                 "type": "great-swd"
@@ -288,7 +266,6 @@
         ]
     },
     {
-        "upgrade-id": 11,
         "name": "Golem Blade",
         "type": "great-swd",
         "upgrade-price": 1750,
@@ -308,7 +285,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Bone Slasher",
                 "type": "great-swd"
@@ -316,7 +292,6 @@
         ]
     },
     {
-        "upgrade-id": 12,
         "name": "Finblade",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -336,7 +311,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Bone Slasher",
                 "type": "great-swd"
@@ -344,7 +318,6 @@
         ]
     },
     {
-        "upgrade-id": 13,
         "name": "Chick Decapitator",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -364,7 +337,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Bone Slasher",
                 "type": "great-swd"
@@ -372,7 +344,6 @@
         ]
     },
     {
-        "upgrade-id": 14,
         "name": "Red Stripe",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -392,7 +363,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 2,
                 "craft-type": "upgrade",
                 "name": "Bone Blade+",
                 "type": "great-swd"
@@ -400,7 +370,6 @@
         ]
     },
     {
-        "upgrade-id": 15,
         "name": "Ravager Blade+",
         "type": "great-swd",
         "upgrade-price": 4250,
@@ -420,7 +389,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "create",
                 "name": "Ravager Blade",
                 "type": "great-swd"
@@ -428,7 +396,6 @@
         ]
     },
     {
-        "upgrade-id": 16,
         "name": "Khezu Shock Sword",
         "type": "great-swd",
         "upgrade-price": 3100,
@@ -448,7 +415,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 5,
                 "craft-type": "create",
                 "name": "Ravager Blade",
                 "type": "great-swd"
@@ -456,7 +422,6 @@
         ]
     },
     {
-        "upgrade-id": 17,
         "name": "Cat's Soul",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -476,7 +441,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 1,
                 "craft-type": "upgrade",
                 "name": "Buster Blade",
                 "type": "great-swd"
@@ -484,7 +448,6 @@
         ]
     },
     {
-        "upgrade-id": 18,
         "name": "Barbaroi Blade",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -504,7 +467,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "upgrade",
                 "name": "Sentinel",
                 "type": "great-swd"
@@ -512,7 +474,6 @@
         ]
     },
     {
-        "upgrade-id": 19,
         "name": "Golem Blade+",
         "type": "great-swd",
         "upgrade-price": 2600,
@@ -532,7 +493,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "create",
                 "name": "Golem Blade",
                 "type": "great-swd"
@@ -540,7 +500,6 @@
         ]
     },
     {
-        "upgrade-id": 20,
         "name": "Valkyrie Blade",
         "type": "great-swd",
         "upgrade-price": 3100,
@@ -560,7 +519,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "upgrade",
                 "name": "Golem Blade+",
                 "type": "great-swd"
@@ -568,7 +526,6 @@
         ]
     },
     {
-        "upgrade-id": 21,
         "name": "Plesioth Watersword",
         "type": "great-swd",
         "upgrade-price": 3650,
@@ -588,7 +545,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 8,
                 "craft-type": "create",
                 "name": "Finblade",
                 "type": "great-swd"
@@ -596,7 +552,6 @@
         ]
     },
     {
-        "upgrade-id": 22,
         "name": "Red Wing",
         "type": "great-swd",
         "upgrade-price": 2150,
@@ -616,7 +571,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 3,
                 "craft-type": "create",
                 "name": "Bone Slasher",
                 "type": "great-swd"
@@ -624,7 +578,6 @@
         ]
     },
     {
-        "upgrade-id": 23,
         "name": "Red Pincer",
         "type": "great-swd",
         "upgrade-price": 3100,
@@ -644,7 +597,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "create",
                 "name": "Red Stripe",
                 "type": "great-swd"
@@ -652,7 +604,6 @@
         ]
     },
     {
-        "upgrade-id": 24,
         "name": "Cat's Curse",
         "type": "great-swd",
         "upgrade-price": 4250,
@@ -672,7 +623,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "upgrade",
                 "name": "Cat's Soul",
                 "type": "great-swd"
@@ -680,7 +630,6 @@
         ]
     },
     {
-        "upgrade-id": 25,
         "name": "Crimson Goat",
         "type": "great-swd",
         "upgrade-price": 6350,
@@ -700,7 +649,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 12,
                 "craft-type": "create",
                 "name": "Barbaroi Blade",
                 "type": "great-swd"
@@ -708,7 +656,6 @@
         ]
     },
     {
-        "upgrade-id": 26,
         "name": "Halberd",
         "type": "great-swd",
         "upgrade-price": 4250,
@@ -728,7 +675,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 7,
                 "craft-type": "upgrade",
                 "name": "Sentinel",
                 "type": "great-swd"
@@ -736,7 +682,6 @@
         ]
     },
     {
-        "upgrade-id": 27,
         "name": "Deadly Serpentblade",
         "type": "great-swd",
         "upgrade-price": 4900,
@@ -756,7 +701,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "upgrade",
                 "name": "Vile Serpentblade",
                 "type": "great-swd"
@@ -764,7 +708,6 @@
         ]
     },
     {
-        "upgrade-id": 28,
         "name": "Spartacus Blade",
         "type": "great-swd",
         "upgrade-price": 6350,
@@ -784,7 +727,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Valkyrie Blade",
                 "type": "great-swd"
@@ -792,7 +734,6 @@
         ]
     },
     {
-        "upgrade-id": 29,
         "name": "Executioner",
         "type": "great-swd",
         "upgrade-price": 4250,
@@ -812,7 +753,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "upgrade",
                 "name": "Golem Blade+",
                 "type": "great-swd"
@@ -820,7 +760,6 @@
         ]
     },
     {
-        "upgrade-id": 30,
         "name": "Executioner+",
         "type": "great-swd",
         "upgrade-price": 5600,
@@ -840,7 +779,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Executioner",
                 "type": "great-swd"
@@ -848,7 +786,6 @@
         ]
     },
     {
-        "upgrade-id": 31,
         "name": "Plesioth Crystasword",
         "type": "great-swd",
         "upgrade-price": 6350,
@@ -868,7 +805,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "upgrade",
                 "name": "Plesioth Watersword",
                 "type": "great-swd"
@@ -876,7 +812,6 @@
         ]
     },
     {
-        "upgrade-id": 32,
         "name": "Chicken Decapitator",
         "type": "great-swd",
         "upgrade-price": 4900,
@@ -896,7 +831,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "upgrade",
                 "name": "Chick Decapitator",
                 "type": "great-swd"
@@ -904,7 +838,6 @@
         ]
     },
     {
-        "upgrade-id": 33,
         "name": "Blue Wing",
         "type": "great-swd",
         "upgrade-price": 6350,
@@ -924,7 +857,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "create",
                 "name": "Red Wing",
                 "type": "great-swd"
@@ -932,7 +864,6 @@
         ]
     },
     {
-        "upgrade-id": 34,
         "name": "Great Pincer",
         "type": "great-swd",
         "upgrade-price": 5600,
@@ -952,7 +883,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "upgrade",
                 "name": "Red Pincer",
                 "type": "great-swd"
@@ -960,7 +890,6 @@
         ]
     },
     {
-        "upgrade-id": 35,
         "name": "Ceanataur Blade",
         "type": "great-swd",
         "upgrade-price": 3650,
@@ -980,7 +909,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "create",
                 "name": "Red Stripe",
                 "type": "great-swd"
@@ -988,7 +916,6 @@
         ]
     },
     {
-        "upgrade-id": 36,
         "name": "Blue Claw Blade",
         "type": "great-swd",
         "upgrade-price": 4900,
@@ -1008,7 +935,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 35,
                 "craft-type": "upgrade",
                 "name": "Ceanataur Blade",
                 "type": "great-swd"
@@ -1016,7 +942,6 @@
         ]
     },
     {
-        "upgrade-id": 37,
         "name": "Tactical Blade",
         "type": "great-swd",
         "upgrade-price": 25000,
@@ -1036,7 +961,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "Ravager Blade+",
                 "type": "great-swd"
@@ -1044,7 +968,6 @@
         ]
     },
     {
-        "upgrade-id": 38,
         "name": "Chrome Razor",
         "type": "great-swd",
         "upgrade-price": 7150,
@@ -1064,7 +987,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 10,
                 "craft-type": "create",
                 "name": "Ravager Blade+",
                 "type": "great-swd"
@@ -1072,7 +994,6 @@
         ]
     },
     {
-        "upgrade-id": 39,
         "name": "Bronze Coin",
         "type": "great-swd",
         "upgrade-price": 35000,
@@ -1092,7 +1013,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "create",
                 "name": "Carbalite Sword",
                 "type": "great-swd"
@@ -1100,7 +1020,6 @@
         ]
     },
     {
-        "upgrade-id": 40,
         "name": "Sieglinde",
         "type": "great-swd",
         "upgrade-price": 8000,
@@ -1120,7 +1039,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Valkyrie Blade",
                 "type": "great-swd"
@@ -1128,7 +1046,6 @@
         ]
     },
     {
-        "upgrade-id": 41,
         "name": "Titernia",
         "type": "great-swd",
         "upgrade-price": 7150,
@@ -1148,7 +1065,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "create",
                 "name": "Valkyrie Blade",
                 "type": "great-swd"
@@ -1156,7 +1072,6 @@
         ]
     },
     {
-        "upgrade-id": 42,
         "name": "Kirin Thundersword",
         "type": "great-swd",
         "upgrade-price": 20000,
@@ -1176,7 +1091,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Executioner",
                 "type": "great-swd"
@@ -1184,7 +1098,6 @@
         ]
     },
     {
-        "upgrade-id": 43,
         "name": "Sword of the Diablos",
         "type": "great-swd",
         "upgrade-price": 5600,
@@ -1204,7 +1117,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Executioner",
                 "type": "great-swd"
@@ -1212,7 +1124,6 @@
         ]
     },
     {
-        "upgrade-id": 44,
         "name": "Sentoryu Raven",
         "type": "great-swd",
         "upgrade-price": 10000,
@@ -1232,7 +1143,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 13,
                 "craft-type": "upgrade",
                 "name": "Chick Decapitator",
                 "type": "great-swd"
@@ -1240,7 +1150,6 @@
         ]
     },
     {
-        "upgrade-id": 45,
         "name": "Rathalos Firesword",
         "type": "great-swd",
         "upgrade-price": 8000,
@@ -1260,7 +1169,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 14,
                 "craft-type": "create",
                 "name": "Red Wing",
                 "type": "great-swd"
@@ -1268,7 +1176,6 @@
         ]
     },
     {
-        "upgrade-id": 46,
         "name": "Eternal Annihilator",
         "type": "great-swd",
         "upgrade-price": 40000,
@@ -1288,7 +1195,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 23,
                 "craft-type": "create",
                 "name": "Dragonslayer",
                 "type": "great-swd"
@@ -1296,7 +1202,6 @@
         ]
     },
     {
-        "upgrade-id": 47,
         "name": "Ancient Blade",
         "type": "great-swd",
         "upgrade-price": 40000,
@@ -1312,7 +1217,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Tarnished Great Swd",
                 "type": "great-swd"
@@ -1320,7 +1224,6 @@
         ]
     },
     {
-        "upgrade-id": 48,
         "name": "Steel Ice Blade",
         "type": "great-swd",
         "upgrade-price": 35000,
@@ -1340,7 +1243,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 4,
                 "craft-type": "upgrade",
                 "name": "Tarnished Great Swd",
                 "type": "great-swd"
@@ -1348,7 +1250,6 @@
         ]
     },
     {
-        "upgrade-id": 49,
         "name": "Steel Ice Blade+",
         "type": "great-swd",
         "upgrade-price": 50000,
@@ -1368,7 +1269,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 48,
                 "craft-type": "upgrade",
                 "name": "Steel Ice Blade",
                 "type": "great-swd"
@@ -1376,7 +1276,6 @@
         ]
     },
     {
-        "upgrade-id": 50,
         "name": "Carbalite Sword",
         "type": "great-swd",
         "upgrade-price": 25000,
@@ -1396,7 +1295,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Chrome Razor",
                 "type": "great-swd"
@@ -1404,7 +1302,6 @@
         ]
     },
     {
-        "upgrade-id": 51,
         "name": "Carbalite Sword+",
         "type": "great-swd",
         "upgrade-price": 35000,
@@ -1424,7 +1321,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 25,
                 "craft-type": "create",
                 "name": "Carbalite Sword",
                 "type": "great-swd"
@@ -1432,7 +1328,6 @@
         ]
     },
     {
-        "upgrade-id": 52,
         "name": "Cat's King",
         "type": "great-swd",
         "upgrade-price": 45000,
@@ -1452,7 +1347,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "upgrade",
                 "name": "Cat's Curse",
                 "type": "great-swd"
@@ -1460,7 +1354,6 @@
         ]
     },
     {
-        "upgrade-id": 53,
         "name": "Judgment",
         "type": "great-swd",
         "upgrade-price": 40000,
@@ -1480,7 +1373,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 16,
                 "craft-type": "create",
                 "name": "Halberd",
                 "type": "great-swd"
@@ -1488,7 +1380,6 @@
         ]
     },
     {
-        "upgrade-id": 54,
         "name": "Poison Serpentblade",
         "type": "great-swd",
         "upgrade-price": 40000,
@@ -1508,7 +1399,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "upgrade",
                 "name": "Deadly Serpentblade",
                 "type": "great-swd"
@@ -1516,7 +1406,6 @@
         ]
     },
     {
-        "upgrade-id": 55,
         "name": "Golden Serpentblade",
         "type": "great-swd",
         "upgrade-price": 40000,
@@ -1536,7 +1425,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 9,
                 "craft-type": "upgrade",
                 "name": "Silver Serpentblade",
                 "type": "great-swd"
@@ -1544,7 +1432,6 @@
         ]
     },
     {
-        "upgrade-id": 56,
         "name": "Obelion",
         "type": "great-swd",
         "upgrade-price": 50000,
@@ -1564,7 +1451,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "upgrade",
                 "name": "Spartacus Blade",
                 "type": "great-swd"
@@ -1572,7 +1458,6 @@
         ]
     },
     {
-        "upgrade-id": 57,
         "name": "Enforcer's Axe",
         "type": "great-swd",
         "upgrade-price": 60000,
@@ -1592,7 +1477,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 30,
                 "craft-type": "upgrade",
                 "name": "Executioner+",
                 "type": "great-swd"
@@ -1600,7 +1484,6 @@
         ]
     },
     {
-        "upgrade-id": 58,
         "name": "Agito",
         "type": "great-swd",
         "upgrade-price": 25000,
@@ -1620,7 +1503,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 17,
                 "craft-type": "create",
                 "name": "Executioner",
                 "type": "great-swd"
@@ -1628,7 +1510,6 @@
         ]
     },
     {
-        "upgrade-id": 59,
         "name": "Wyvern Agito",
         "type": "great-swd",
         "upgrade-price": 35000,
@@ -1648,7 +1529,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 26,
                 "craft-type": "create",
                 "name": "Agito",
                 "type": "great-swd"
@@ -1656,7 +1536,6 @@
         ]
     },
     {
-        "upgrade-id": 60,
         "name": "Plesioth Azureblade",
         "type": "great-swd",
         "upgrade-price": 55000,
@@ -1676,7 +1555,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 31,
                 "craft-type": "upgrade",
                 "name": "Plesioth Crystasword",
                 "type": "great-swd"
@@ -1684,7 +1562,6 @@
         ]
     },
     {
-        "upgrade-id": 61,
         "name": "Rooster Decapitator",
         "type": "great-swd",
         "upgrade-price": 45000,
@@ -1704,7 +1581,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 32,
                 "craft-type": "upgrade",
                 "name": "Chicken Decapitator",
                 "type": "great-swd"
@@ -1712,7 +1588,6 @@
         ]
     },
     {
-        "upgrade-id": 62,
         "name": "Pickaxe Blade",
         "type": "great-swd",
         "upgrade-price": 50000,
@@ -1736,7 +1611,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 61,
                 "craft-type": "upgrade",
                 "name": "Rooster Decapitator",
                 "type": "great-swd"
@@ -1744,7 +1618,6 @@
         ]
     },
     {
-        "upgrade-id": 63,
         "name": "Slaughter",
         "type": "great-swd",
         "upgrade-price": 65000,
@@ -1764,7 +1637,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 61,
                 "craft-type": "upgrade",
                 "name": "Rooster Decapitator",
                 "type": "great-swd"
@@ -1772,7 +1644,6 @@
         ]
     },
     {
-        "upgrade-id": 64,
         "name": "Killer's Scythe",
         "type": "great-swd",
         "upgrade-price": 50000,
@@ -1792,13 +1663,11 @@
         ],
         "upgrade-from": [
             {
-                "id": 34,
                 "craft-type": "upgrade",
                 "name": "Great Pincer",
                 "type": "great-swd"
             },
             {
-                "id": 36,
                 "craft-type": "upgrade",
                 "name": "Blue Claw Blade",
                 "type": "great-swd"
@@ -1806,7 +1675,6 @@
         ]
     },
     {
-        "upgrade-id": 65,
         "name": "Crystallized Tuna",
         "type": "great-swd",
         "upgrade-price": 45000,
@@ -1826,7 +1694,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 15,
                 "craft-type": "create",
                 "name": "Frozen Tuna",
                 "type": "great-swd"
@@ -1834,7 +1701,6 @@
         ]
     },
     {
-        "upgrade-id": 66,
         "name": "Weathered Grt Sword",
         "type": "great-swd",
         "upgrade-price": 12500,
@@ -1846,7 +1712,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 29,
                 "craft-type": "create",
                 "name": "Worn Great Sword",
                 "type": "great-swd"
@@ -1854,7 +1719,6 @@
         ]
     },
     {
-        "upgrade-id": 67,
         "name": "Strategic Blade",
         "type": "great-swd",
         "upgrade-price": 40000,
@@ -1874,7 +1738,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 37,
                 "craft-type": "upgrade",
                 "name": "Tactical Blade",
                 "type": "great-swd"
@@ -1882,7 +1745,6 @@
         ]
     },
     {
-        "upgrade-id": 68,
         "name": "Lacerator Blade",
         "type": "great-swd",
         "upgrade-price": 55000,
@@ -1902,7 +1764,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 51,
                 "craft-type": "upgrade",
                 "name": "Carbalite Sword+",
                 "type": "great-swd"
@@ -1910,7 +1771,6 @@
         ]
     },
     {
-        "upgrade-id": 69,
         "name": "Khezu Shock Blade",
         "type": "great-swd",
         "upgrade-price": 50000,
@@ -1930,7 +1790,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 11,
                 "craft-type": "create",
                 "name": "Khezu Shock Sword",
                 "type": "great-swd"
@@ -1938,7 +1797,6 @@
         ]
     },
     {
-        "upgrade-id": 70,
         "name": "Blushing Dame",
         "type": "great-swd",
         "upgrade-price": 70000,
@@ -1958,7 +1816,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 41,
                 "craft-type": "upgrade",
                 "name": "Titernia",
                 "type": "great-swd"
@@ -1966,7 +1823,6 @@
         ]
     },
     {
-        "upgrade-id": 71,
         "name": "Siegmund",
         "type": "great-swd",
         "upgrade-price": 75000,
@@ -1986,7 +1842,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "upgrade",
                 "name": "Spartacus Blade",
                 "type": "great-swd"
@@ -1994,7 +1849,6 @@
         ]
     },
     {
-        "upgrade-id": 72,
         "name": "Pael Keizah",
         "type": "great-swd",
         "upgrade-price": 70000,
@@ -2014,7 +1868,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 56,
                 "craft-type": "upgrade",
                 "name": "Obelion",
                 "type": "great-swd"
@@ -2022,7 +1875,6 @@
         ]
     },
     {
-        "upgrade-id": 73,
         "name": "True Dragon's Jaw",
         "type": "great-swd",
         "upgrade-price": 55000,
@@ -2042,7 +1894,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 59,
                 "craft-type": "upgrade",
                 "name": "Wyvern Agito",
                 "type": "great-swd"
@@ -2050,7 +1901,6 @@
         ]
     },
     {
-        "upgrade-id": 74,
         "name": "Demon Rod",
         "type": "great-swd",
         "upgrade-price": 80000,
@@ -2070,7 +1920,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 59,
                 "craft-type": "upgrade",
                 "name": "Wyvern Agito",
                 "type": "great-swd"
@@ -2078,7 +1927,6 @@
         ]
     },
     {
-        "upgrade-id": 75,
         "name": "Diablo Destroyer",
         "type": "great-swd",
         "upgrade-price": 75000,
@@ -2098,7 +1946,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 43,
                 "craft-type": "upgrade",
                 "name": "Sword of the Diablos",
                 "type": "great-swd"
@@ -2106,7 +1953,6 @@
         ]
     },
     {
-        "upgrade-id": 76,
         "name": "Sentoryu Wolf",
         "type": "great-swd",
         "upgrade-price": 65000,
@@ -2126,7 +1972,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 21,
                 "craft-type": "create",
                 "name": "Sentoryu Raven",
                 "type": "great-swd"
@@ -2134,7 +1979,6 @@
         ]
     },
     {
-        "upgrade-id": 77,
         "name": "Shiny Rathalos Sword",
         "type": "great-swd",
         "upgrade-price": 70000,
@@ -2154,7 +1998,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 33,
                 "craft-type": "upgrade",
                 "name": "Blue Wing",
                 "type": "great-swd"
@@ -2162,7 +2005,6 @@
         ]
     },
     {
-        "upgrade-id": 78,
         "name": "Tigrex Great Sword",
         "type": "great-swd",
         "upgrade-price": 80000,
@@ -2182,7 +2024,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "create",
                 "name": "Tiger Agito",
                 "type": "great-swd"
@@ -2190,7 +2031,6 @@
         ]
     },
     {
-        "upgrade-id": 79,
         "name": "Hidden Blaze",
         "type": "great-swd",
         "upgrade-price": 80000,
@@ -2210,7 +2050,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 22,
                 "craft-type": "create",
                 "name": "Tiger Agito",
                 "type": "great-swd"
@@ -2218,7 +2057,6 @@
         ]
     },
     {
-        "upgrade-id": 80,
         "name": "Epitaph Blade",
         "type": "great-swd",
         "upgrade-price": 60000,
@@ -2234,7 +2072,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 66,
                 "craft-type": "upgrade",
                 "name": "Weathered Grt Sword",
                 "type": "great-swd"
@@ -2242,7 +2079,6 @@
         ]
     },
     {
-        "upgrade-id": 81,
         "name": "Teostra Blade",
         "type": "great-swd",
         "upgrade-price": 80000,
@@ -2262,7 +2098,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 66,
                 "craft-type": "upgrade",
                 "name": "Weathered Grt Sword",
                 "type": "great-swd"
@@ -2270,7 +2105,6 @@
         ]
     },
     {
-        "upgrade-id": 82,
         "name": "Chrome Death Razor",
         "type": "great-swd",
         "upgrade-price": 7150,
@@ -2290,7 +2124,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Chrome Razor",
                 "type": "great-swd"
@@ -2298,7 +2131,6 @@
         ]
     },
     {
-        "upgrade-id": 83,
         "name": "Gaoren Coin",
         "type": "great-swd",
         "upgrade-price": 85000,
@@ -2318,7 +2150,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 19,
                 "craft-type": "create",
                 "name": "Bronze Coin",
                 "type": "great-swd"
@@ -2326,7 +2157,6 @@
         ]
     },
     {
-        "upgrade-id": 84,
         "name": "Great Demon Rod",
         "type": "great-swd",
         "upgrade-price": 90000,
@@ -2346,7 +2176,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 30,
                 "craft-type": "create",
                 "name": "Demon Rod",
                 "type": "great-swd"
@@ -2354,7 +2183,6 @@
         ]
     },
     {
-        "upgrade-id": 85,
         "name": "King Thundersword",
         "type": "great-swd",
         "upgrade-price": 60000,
@@ -2374,7 +2202,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 20,
                 "craft-type": "create",
                 "name": "Kirin Thundersword",
                 "type": "great-swd"
@@ -2382,7 +2209,6 @@
         ]
     },
     {
-        "upgrade-id": 86,
         "name": "Expert Blade",
         "type": "great-swd",
         "upgrade-price": 20000,
@@ -2402,7 +2228,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 18,
                 "craft-type": "create",
                 "name": "Black Belt Blade",
                 "type": "great-swd"
@@ -2410,7 +2235,6 @@
         ]
     },
     {
-        "upgrade-id": 87,
         "name": "Eternal Eradicator",
         "type": "great-swd",
         "upgrade-price": 65000,
@@ -2430,7 +2254,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 46,
                 "craft-type": "upgrade",
                 "name": "Eternal Annihilator",
                 "type": "great-swd"
@@ -2438,7 +2261,6 @@
         ]
     },
     {
-        "upgrade-id": 88,
         "name": "Fatalis Blade",
         "type": "great-swd",
         "upgrade-price": 100000,
@@ -2458,7 +2280,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Black Blade",
                 "type": "great-swd"
@@ -2466,7 +2287,6 @@
         ]
     },
     {
-        "upgrade-id": 89,
         "name": "Fatalis Ancestor",
         "type": "great-swd",
         "upgrade-price": 100000,
@@ -2486,7 +2306,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 24,
                 "craft-type": "create",
                 "name": "Black Blade",
                 "type": "great-swd"
@@ -2494,7 +2313,6 @@
         ]
     },
     {
-        "upgrade-id": 90,
         "name": "Daora's Decimator",
         "type": "great-swd",
         "upgrade-price": 90000,
@@ -2514,7 +2332,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 49,
                 "craft-type": "upgrade",
                 "name": "Steel Ice Blade+",
                 "type": "great-swd"
@@ -2522,7 +2339,6 @@
         ]
     },
     {
-        "upgrade-id": 91,
         "name": "King Teostra Blade",
         "type": "great-swd",
         "upgrade-price": 90000,
@@ -2542,7 +2358,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 81,
                 "craft-type": "upgrade",
                 "name": "Teostra Blade",
                 "type": "great-swd"
@@ -2550,7 +2365,6 @@
         ]
     },
     {
-        "upgrade-id": 92,
         "name": "Master Blaze",
         "type": "great-swd",
         "upgrade-price": 95000,
@@ -2574,7 +2388,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 68,
                 "craft-type": "upgrade",
                 "name": "Lacerator Blade",
                 "type": "great-swd"
@@ -2582,7 +2395,6 @@
         ]
     },
     {
-        "upgrade-id": 93,
         "name": "Decider",
         "type": "great-swd",
         "upgrade-price": 75000,
@@ -2606,7 +2418,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 51,
                 "craft-type": "upgrade",
                 "name": "Carbalite Sword+",
                 "type": "great-swd"
@@ -2614,7 +2425,6 @@
         ]
     },
     {
-        "upgrade-id": 94,
         "name": "Punisher",
         "type": "great-swd",
         "upgrade-price": 115000,
@@ -2638,7 +2448,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 33,
                 "craft-type": "create",
                 "name": "Decider",
                 "type": "great-swd"
@@ -2646,7 +2455,6 @@
         ]
     },
     {
-        "upgrade-id": 95,
         "name": "Igneous Blade",
         "type": "great-swd",
         "upgrade-price": 100000,
@@ -2666,7 +2474,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 33,
                 "craft-type": "create",
                 "name": "Decider",
                 "type": "great-swd"
@@ -2674,7 +2481,6 @@
         ]
     },
     {
-        "upgrade-id": 96,
         "name": "Khezu Shock Full",
         "type": "great-swd",
         "upgrade-price": 85000,
@@ -2698,7 +2504,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 69,
                 "craft-type": "upgrade",
                 "name": "Khezu Shock Blade",
                 "type": "great-swd"
@@ -2706,7 +2511,6 @@
         ]
     },
     {
-        "upgrade-id": 97,
         "name": "Khezu Shock Full+",
         "type": "great-swd",
         "upgrade-price": 120000,
@@ -2730,7 +2534,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 96,
                 "craft-type": "upgrade",
                 "name": "Khezu Shock Full",
                 "type": "great-swd"
@@ -2738,7 +2541,6 @@
         ]
     },
     {
-        "upgrade-id": 98,
         "name": "Cat of Venus",
         "type": "great-swd",
         "upgrade-price": 75000,
@@ -2762,7 +2564,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 52,
                 "craft-type": "upgrade",
                 "name": "Cat's King",
                 "type": "great-swd"
@@ -2770,7 +2571,6 @@
         ]
     },
     {
-        "upgrade-id": 99,
         "name": "Cat of Gold",
         "type": "great-swd",
         "upgrade-price": 95000,
@@ -2794,7 +2594,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 35,
                 "craft-type": "create",
                 "name": "Cat of Venus",
                 "type": "great-swd"
@@ -2802,7 +2601,6 @@
         ]
     },
     {
-        "upgrade-id": 100,
         "name": "Alveblade",
         "type": "great-swd",
         "upgrade-price": 105000,
@@ -2826,13 +2624,11 @@
         ],
         "upgrade-from": [
             {
-                "id": 70,
                 "craft-type": "upgrade",
                 "name": "Blushing Dame",
                 "type": "great-swd"
             },
             {
-                "id": 72,
                 "craft-type": "upgrade",
                 "name": "Pael Keizah",
                 "type": "great-swd"
@@ -2840,7 +2636,6 @@
         ]
     },
     {
-        "upgrade-id": 101,
         "name": "Plesioth Wave Sword",
         "type": "great-swd",
         "upgrade-price": 90000,
@@ -2864,7 +2659,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 60,
                 "craft-type": "upgrade",
                 "name": "Plesioth Azureblade",
                 "type": "great-swd"
@@ -2872,7 +2666,6 @@
         ]
     },
     {
-        "upgrade-id": 102,
         "name": "Plesioth Wave Blade",
         "type": "great-swd",
         "upgrade-price": 110000,
@@ -2896,7 +2689,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 101,
                 "craft-type": "upgrade",
                 "name": "Plesioth Wave Sword",
                 "type": "great-swd"
@@ -2904,7 +2696,6 @@
         ]
     },
     {
-        "upgrade-id": 103,
         "name": "Pickaxe Blade+",
         "type": "great-swd",
         "upgrade-price": 80000,
@@ -2928,7 +2719,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 27,
                 "craft-type": "create",
                 "name": "Pickaxe Blade",
                 "type": "great-swd"
@@ -2936,7 +2726,6 @@
         ]
     },
     {
-        "upgrade-id": 104,
         "name": "Sleep Sword Zantoma",
         "type": "great-swd",
         "upgrade-price": 105000,
@@ -2960,7 +2749,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 36,
                 "craft-type": "create",
                 "name": "Pickaxe Blade+",
                 "type": "great-swd"
@@ -2968,7 +2756,6 @@
         ]
     },
     {
-        "upgrade-id": 105,
         "name": "Slaughter+",
         "type": "great-swd",
         "upgrade-price": 90000,
@@ -2992,7 +2779,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 28,
                 "craft-type": "create",
                 "name": "Slaughter",
                 "type": "great-swd"
@@ -3000,7 +2786,6 @@
         ]
     },
     {
-        "upgrade-id": 106,
         "name": "Poison King",
         "type": "great-swd",
         "upgrade-price": 115000,
@@ -3024,7 +2809,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 105,
                 "craft-type": "upgrade",
                 "name": "Slaughter+",
                 "type": "great-swd"
@@ -3032,7 +2816,6 @@
         ]
     },
     {
-        "upgrade-id": 107,
         "name": "Sentoryu Crow",
         "type": "great-swd",
         "upgrade-price": 105000,
@@ -3056,7 +2839,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 76,
                 "craft-type": "upgrade",
                 "name": "Sentoryu Wolf",
                 "type": "great-swd"
@@ -3064,7 +2846,6 @@
         ]
     },
     {
-        "upgrade-id": 108,
         "name": "Violet Pincer",
         "type": "great-swd",
         "upgrade-price": 85000,
@@ -3084,13 +2865,11 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "upgrade",
                 "name": "Daimyo Cutter",
                 "type": "long-swd"
             },
             {
-                "id": 64,
                 "craft-type": "upgrade",
                 "name": "Killer's Scythe",
                 "type": "great-swd"
@@ -3098,7 +2877,6 @@
         ]
     },
     {
-        "upgrade-id": 109,
         "name": "Grand Pincer",
         "type": "great-swd",
         "upgrade-price": 115000,
@@ -3122,7 +2900,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 37,
                 "craft-type": "create",
                 "name": "Violet Pincer",
                 "type": "great-swd"
@@ -3130,7 +2907,6 @@
         ]
     },
     {
-        "upgrade-id": 110,
         "name": "Carmine Blade",
         "type": "great-swd",
         "upgrade-price": 85000,
@@ -3150,7 +2926,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 64,
                 "craft-type": "upgrade",
                 "name": "Killer's Scythe",
                 "type": "great-swd"
@@ -3158,7 +2933,6 @@
         ]
     },
     {
-        "upgrade-id": 111,
         "name": "Epitaph Eternal",
         "type": "great-swd",
         "upgrade-price": 100000,
@@ -3178,7 +2952,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 80,
                 "craft-type": "upgrade",
                 "name": "Epitaph Blade",
                 "type": "great-swd"
@@ -3186,7 +2959,6 @@
         ]
     },
     {
-        "upgrade-id": 112,
         "name": "Igneous Sword",
         "type": "great-swd",
         "upgrade-price": 120000,
@@ -3210,7 +2982,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 34,
                 "craft-type": "create",
                 "name": "Igneous Blade",
                 "type": "great-swd"
@@ -3218,7 +2989,6 @@
         ]
     },
     {
-        "upgrade-id": 113,
         "name": "Gaoren Cleaver",
         "type": "great-swd",
         "upgrade-price": 130000,
@@ -3242,7 +3012,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 83,
                 "craft-type": "upgrade",
                 "name": "Gaoren Coin",
                 "type": "great-swd"
@@ -3250,7 +3019,6 @@
         ]
     },
     {
-        "upgrade-id": 114,
         "name": "Brünhild",
         "type": "great-swd",
         "upgrade-price": 125000,
@@ -3274,7 +3042,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 100,
                 "craft-type": "upgrade",
                 "name": "Alveblade",
                 "type": "great-swd"
@@ -3282,7 +3049,6 @@
         ]
     },
     {
-        "upgrade-id": 115,
         "name": "Great Demon Hot Rod",
         "type": "great-swd",
         "upgrade-price": 130000,
@@ -3306,7 +3072,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 84,
                 "craft-type": "upgrade",
                 "name": "Great Demon Rod",
                 "type": "great-swd"
@@ -3314,7 +3079,6 @@
         ]
     },
     {
-        "upgrade-id": 116,
         "name": "ImperialThundersword",
         "type": "great-swd",
         "upgrade-price": 100000,
@@ -3338,7 +3102,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 85,
                 "craft-type": "upgrade",
                 "name": "King Thundersword",
                 "type": "great-swd"
@@ -3346,7 +3109,6 @@
         ]
     },
     {
-        "upgrade-id": 117,
         "name": "King Atillart Sword",
         "type": "great-swd",
         "upgrade-price": 115000,
@@ -3370,7 +3132,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 75,
                 "craft-type": "upgrade",
                 "name": "Diablo Destroyer",
                 "type": "great-swd"
@@ -3378,7 +3139,6 @@
         ]
     },
     {
-        "upgrade-id": 118,
         "name": "Killer's Carver",
         "type": "great-swd",
         "upgrade-price": 115000,
@@ -3398,7 +3158,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 38,
                 "craft-type": "create",
                 "name": "Carmine Blade",
                 "type": "great-swd"
@@ -3406,7 +3165,6 @@
         ]
     },
     {
-        "upgrade-id": 119,
         "name": "Warrior's Blade",
         "type": "great-swd",
         "upgrade-price": 75000,
@@ -3430,7 +3188,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 86,
                 "craft-type": "upgrade",
                 "name": "Expert Blade",
                 "type": "great-swd"
@@ -3438,7 +3195,6 @@
         ]
     },
     {
-        "upgrade-id": 120,
         "name": "Tigrex Supreme Sword",
         "type": "great-swd",
         "upgrade-price": 125000,
@@ -3458,7 +3214,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 78,
                 "craft-type": "upgrade",
                 "name": "Tigrex Great Sword",
                 "type": "great-swd"
@@ -3466,7 +3221,6 @@
         ]
     },
     {
-        "upgrade-id": 121,
         "name": "Darkness Darkblade",
         "type": "great-swd",
         "upgrade-price": 120000,
@@ -3490,7 +3244,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 31,
                 "craft-type": "create",
                 "name": "Hidden Blaze",
                 "type": "great-swd"
@@ -3498,7 +3251,6 @@
         ]
     },
     {
-        "upgrade-id": 122,
         "name": "Eternal Destroyer",
         "type": "great-swd",
         "upgrade-price": 105000,
@@ -3522,7 +3274,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 87,
                 "craft-type": "upgrade",
                 "name": "Eternal Eradicator",
                 "type": "great-swd"
@@ -3530,7 +3281,6 @@
         ]
     },
     {
-        "upgrade-id": 123,
         "name": "Black Fatalis Blade",
         "type": "great-swd",
         "upgrade-price": 150000,
@@ -3550,7 +3300,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 88,
                 "craft-type": "upgrade",
                 "name": "Fatalis Blade",
                 "type": "great-swd"
@@ -3558,7 +3307,6 @@
         ]
     },
     {
-        "upgrade-id": 124,
         "name": "Fatalis Legacy",
         "type": "great-swd",
         "upgrade-price": 150000,
@@ -3582,7 +3330,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 89,
                 "craft-type": "upgrade",
                 "name": "Fatalis Ancestor",
                 "type": "great-swd"
@@ -3590,7 +3337,6 @@
         ]
     },
     {
-        "upgrade-id": 125,
         "name": "Akantor Broadsword+",
         "type": "great-swd",
         "upgrade-price": 145000,
@@ -3614,7 +3360,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 32,
                 "craft-type": "create",
                 "name": "Akantor Broadsword",
                 "type": "great-swd"
@@ -3622,7 +3367,6 @@
         ]
     },
     {
-        "upgrade-id": 126,
         "name": "Daora's Tughril Beg",
         "type": "great-swd",
         "upgrade-price": 130000,
@@ -3646,7 +3390,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 90,
                 "craft-type": "upgrade",
                 "name": "Daora's Decimator",
                 "type": "great-swd"
@@ -3654,7 +3397,6 @@
         ]
     },
     {
-        "upgrade-id": 127,
         "name": "Teostra del Sol",
         "type": "great-swd",
         "upgrade-price": 130000,
@@ -3674,7 +3416,6 @@
         ],
         "upgrade-from": [
             {
-                "id": 91,
                 "craft-type": "upgrade",
                 "name": "King Teostra Blade",
                 "type": "great-swd"

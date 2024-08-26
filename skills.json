@@ -1,1278 +1,1065 @@
 [
     {
-        "id": 0,
         "name": "Attack Up (Large)",
         "skill-point": "Attack",
         "points": 20
     },
     {
-        "id": 1,
         "name": "Attack Up (Medium)",
         "skill-point": "Attack",
         "points": 15
     },
     {
-        "id": 2,
         "name": "Attack Up (Small)",
         "skill-point": "Attack",
         "points": 10
     },
     {
-        "id": 3,
         "name": "Attack Down (Small)",
         "skill-point": "Attack",
         "points": -10
     },
     {
-        "id": 4,
         "name": "Attack Down (Medium)",
         "skill-point": "Attack",
         "points": -15
     },
     {
-        "id": 5,
         "name": "Attack Down (Large)",
         "skill-point": "Attack",
         "points": -20
     },
     {
-        "id": 6,
         "name": "Defense +40",
         "skill-point": "Defense",
         "points": 20
     },
     {
-        "id": 7,
         "name": "Defense +30",
         "skill-point": "Defense",
         "points": 15
     },
     {
-        "id": 8,
         "name": "Defense +20",
         "skill-point": "Defense",
         "points": 10
     },
     {
-        "id": 9,
         "name": "Defense -20",
         "skill-point": "Defense",
         "points": -10
     },
     {
-        "id": 10,
         "name": "Defense -30",
         "skill-point": "Defense",
         "points": -15
     },
     {
-        "id": 11,
         "name": "Defense -40",
         "skill-point": "Defense",
         "points": -20
     },
     {
-        "id": 12,
         "name": "Health +50",
         "skill-point": "Health",
         "points": 20
     },
     {
-        "id": 13,
         "name": "Health +30",
         "skill-point": "Health",
         "points": 15
     },
     {
-        "id": 14,
         "name": "Health +20",
         "skill-point": "Health",
         "points": 10
     },
     {
-        "id": 15,
         "name": "Health -10",
         "skill-point": "Health",
         "points": -10
     },
     {
-        "id": 16,
         "name": "Health -20",
         "skill-point": "Health",
         "points": -15
     },
     {
-        "id": 17,
         "name": "Health -30",
         "skill-point": "Health",
         "points": -20
     },
     {
-        "id": 18,
         "name": "All Res +10",
         "skill-point": "All Resist",
         "points": 20
     },
     {
-        "id": 19,
         "name": "All Res +5",
         "skill-point": "All Resist",
         "points": 15
     },
     {
-        "id": 20,
         "name": "All Res +3",
         "skill-point": "All Resist",
         "points": 10
     },
     {
-        "id": 21,
         "name": "All Res -3",
         "skill-point": "All Resist",
         "points": -10
     },
     {
-        "id": 22,
         "name": "All Res -5",
         "skill-point": "All Resist",
         "points": -15
     },
     {
-        "id": 23,
         "name": "All Res -10",
         "skill-point": "All Resist",
         "points": -20
     },
     {
-        "id": 24,
         "name": "Fire Res +10",
         "skill-point": "Fire Res",
         "points": 15
     },
     {
-        "id": 25,
         "name": "Fire Res +5",
         "skill-point": "Fire Res",
         "points": 10
     },
     {
-        "id": 26,
         "name": "Fire Res -5",
         "skill-point": "Fire Res",
         "points": -10
     },
     {
-        "id": 27,
         "name": "Fire Res -10",
         "skill-point": "Fire Res",
         "points": -15
     },
     {
-        "id": 28,
         "name": "Water Res +10",
         "skill-point": "Water Res",
         "points": 15
     },
     {
-        "id": 29,
         "name": "Water Res +5",
         "skill-point": "Water Res",
         "points": 10
     },
     {
-        "id": 30,
         "name": "Water Res -5",
         "skill-point": "Water Res",
         "points": -10
     },
     {
-        "id": 31,
         "name": "Water Res -10",
         "skill-point": "Water Res",
         "points": -15
     },
     {
-        "id": 32,
         "name": "Thunder Res +10",
         "skill-point": "ThunderRes",
         "points": 15
     },
     {
-        "id": 33,
         "name": "Thunder Res +5",
         "skill-point": "ThunderRes",
         "points": 10
     },
     {
-        "id": 34,
         "name": "Thunder Res -5",
         "skill-point": "ThunderRes",
         "points": -10
     },
     {
-        "id": 35,
         "name": "Thunder Res -10",
         "skill-point": "ThunderRes",
         "points": -15
     },
     {
-        "id": 36,
         "name": "Ice Res +10",
         "skill-point": "Ice Res",
         "points": 15
     },
     {
-        "id": 37,
         "name": "Ice Res +5",
         "skill-point": "Ice Res",
         "points": 10
     },
     {
-        "id": 38,
         "name": "Ice Res -5",
         "skill-point": "Ice Res",
         "points": -10
     },
     {
-        "id": 39,
         "name": "Ice Res -10",
         "skill-point": "Ice Res",
         "points": -15
     },
     {
-        "id": 40,
         "name": "Dragon Res +10",
         "skill-point": "Dragon Res",
         "points": 15
     },
     {
-        "id": 41,
         "name": "Dragon Res +5",
         "skill-point": "Dragon Res",
         "points": 10
     },
     {
-        "id": 42,
         "name": "Dragon Res -5",
         "skill-point": "Dragon Res",
         "points": -10
     },
     {
-        "id": 43,
         "name": "Dragon Res -10",
         "skill-point": "Dragon Res",
         "points": -15
     },
     {
-        "id": 44,
         "name": "Faint Negated",
         "skill-point": "Faint",
         "points": 15
     },
     {
-        "id": 45,
         "name": "Faint Prob Halved",
         "skill-point": "Faint",
         "points": 10
     },
     {
-        "id": 46,
         "name": "Faint Duration(x2)",
         "skill-point": "Faint",
         "points": -10
     },
     {
-        "id": 47,
         "name": "Poison Negated",
         "skill-point": "Poison",
         "points": 15
     },
     {
-        "id": 48,
         "name": "Poison Dur Halved",
         "skill-point": "Poison",
         "points": 10
     },
     {
-        "id": 49,
         "name": "Poison Dur(x2)",
         "skill-point": "Poison",
         "points": -10
     },
     {
-        "id": 50,
         "name": "Paralysis Negated",
         "skill-point": "Paralysis",
         "points": 15
     },
     {
-        "id": 51,
         "name": "Para Duration Halved",
         "skill-point": "Paralysis",
         "points": 10
     },
     {
-        "id": 52,
         "name": "Para Duration(x2)",
         "skill-point": "Paralysis",
         "points": -10
     },
     {
-        "id": 53,
         "name": "Sleep Negated",
         "skill-point": "Sleep",
         "points": 15
     },
     {
-        "id": 54,
         "name": "Sleep Dur Halved",
         "skill-point": "Sleep",
         "points": 10
     },
     {
-        "id": 55,
         "name": "Sleep Duration(x2)",
         "skill-point": "Sleep",
         "points": -10
     },
     {
-        "id": 56,
         "name": "Antiseptic",
         "skill-point": "Antiseptic",
         "points": 10
     },
     {
-        "id": 57,
         "name": "Fatigue Cancellation",
         "skill-point": "Fatigue",
         "points": 10
     },
     {
-        "id": 58,
         "name": "Snow Res",
         "skill-point": "Snow Res",
         "points": 10
     },
     {
-        "id": 59,
         "name": "Quake Resistance",
         "skill-point": "Quake Res",
         "points": 10
     },
     {
-        "id": 60,
         "name": "High Grade Earplug",
         "skill-point": "HearProtct",
         "points": 15
     },
     {
-        "id": 61,
         "name": "Earplug",
         "skill-point": "HearProtct",
         "points": 10
     },
     {
-        "id": 62,
         "name": "Dragon Wind Breaker",
         "skill-point": "Wind Press",
         "points": 20
     },
     {
-        "id": 63,
         "name": "High Wind Res",
         "skill-point": "Wind Press",
         "points": 15
     },
     {
-        "id": 64,
         "name": "Low Wind Res",
         "skill-point": "Wind Press",
         "points": 10
     },
     {
-        "id": 65,
         "name": "Steal No Effect",
         "skill-point": "Anti-Theft",
         "points": 10
     },
     {
-        "id": 66,
         "name": "Self-Defense",
         "skill-point": "ResistSts",
         "points": 10
     },
     {
-        "id": 67,
         "name": "Metallic Protection",
         "skill-point": "AntiFirDrg",
         "points": 10
     },
     {
-        "id": 68,
         "name": "Frosty Protection",
         "skill-point": "AntiDaora",
         "points": 10
     },
     {
-        "id": 69,
         "name": "Fiery Protection",
         "skill-point": "AntiChamel",
         "points": 10
     },
     {
-        "id": 70,
         "name": "Sharpness +1",
         "skill-point": "Artisan",
         "points": 10
     },
     {
-        "id": 71,
         "name": "Sharp Sword",
         "skill-point": "Sharpness",
         "points": 10
     },
     {
-        "id": 72,
         "name": "Blunt",
         "skill-point": "Sharpness",
         "points": -10
     },
     {
-        "id": 73,
         "name": "ESP",
         "skill-point": "Fencing",
         "points": 10
     },
     {
-        "id": 74,
         "name": "Sharpening Skl Inc",
         "skill-point": "SwdShrpner",
         "points": 10
     },
     {
-        "id": 75,
         "name": "Sharpening Skl Half",
         "skill-point": "SwdShrpner",
         "points": -10
     },
     {
-        "id": 76,
         "name": "Guard +2",
         "skill-point": "Guard",
         "points": 20
     },
     {
-        "id": 77,
         "name": "Guard +1",
         "skill-point": "Guard",
         "points": 10
     },
     {
-        "id": 78,
         "name": "Guard -1",
         "skill-point": "Guard",
         "points": -10
     },
     {
-        "id": 79,
         "name": "Auto-Guard",
         "skill-point": "Auto-Guard",
         "points": 10
     },
     {
-        "id": 80,
         "name": "Art of Unsheathing",
         "skill-point": "Sword Draw",
         "points": 10
     },
     {
-        "id": 81,
         "name": "Stellar Hunter",
         "skill-point": "Edgemaster",
         "points": 10
     },
     {
-        "id": 82,
         "name": "NormalS/RapidBow Up",
         "skill-point": "NormalS Up",
         "points": 10
     },
     {
-        "id": 83,
         "name": "PierceS/PierceBow Up",
         "skill-point": "PierceS Up",
         "points": 10
     },
     {
-        "id": 84,
         "name": "PelletS/ScattrBow Up",
         "skill-point": "PelletS Up",
         "points": 10
     },
     {
-        "id": 85,
         "name": "Normal S All LV Add",
         "skill-point": "NormalSAdd",
         "points": 10
     },
     {
-        "id": 86,
         "name": "Pierce S All LV Add",
         "skill-point": "PierceSAdd",
         "points": 15
     },
     {
-        "id": 87,
         "name": "Pierce S LV1 Add",
         "skill-point": "PierceSAdd",
         "points": 10
     },
     {
-        "id": 88,
         "name": "Pellet S All LV Add",
         "skill-point": "PelletSAdd",
         "points": 15
     },
     {
-        "id": 89,
         "name": "Pellet S LV 1 Add",
         "skill-point": "PelletSAdd",
         "points": 10
     },
     {
-        "id": 90,
         "name": "Crag S All LV Add",
         "skill-point": "CragSAdd",
         "points": 15
     },
     {
-        "id": 91,
         "name": "Crag S LV 1 Add",
         "skill-point": "CragSAdd",
         "points": 10
     },
     {
-        "id": 92,
         "name": "Clust S All LV Add",
         "skill-point": "ClustSAdd",
         "points": 15
     },
     {
-        "id": 93,
         "name": "Clust S LV 1 Add",
         "skill-point": "ClustSAdd",
         "points": 10
     },
     {
-        "id": 94,
         "name": "Reloading Speed +3",
         "skill-point": "Reload",
         "points": 20
     },
     {
-        "id": 95,
         "name": "Reloading Speed +2",
         "skill-point": "Reload",
         "points": 15
     },
     {
-        "id": 96,
         "name": "Reloading Speed +1",
         "skill-point": "Reload",
         "points": 10
     },
     {
-        "id": 97,
         "name": "Reloading Speed -1",
         "skill-point": "Reload",
         "points": -10
     },
     {
-        "id": 98,
         "name": "Reloading Speed -2",
         "skill-point": "Reload",
         "points": -15
     },
     {
-        "id": 99,
         "name": "Reloading Speed -3",
         "skill-point": "Reload",
         "points": -20
     },
     {
-        "id": 100,
         "name": "Auto Reload",
         "skill-point": "AutoReload",
         "points": 10
     },
     {
-        "id": 101,
         "name": "Recoil Reduction +2",
         "skill-point": "Recoil",
         "points": 20
     },
     {
-        "id": 102,
         "name": "Recoil Reduction +1",
         "skill-point": "Recoil",
         "points": 10
     },
     {
-        "id": 103,
         "name": "Shell Deviation Down",
         "skill-point": "Precision",
         "points": 10
     },
     {
-        "id": 104,
         "name": "Shell Deviation Up",
         "skill-point": "Precision",
         "points": -10
     },
     {
-        "id": 105,
         "name": "Poison Coating Add",
         "skill-point": "PoisonCAdd",
         "points": 10
     },
     {
-        "id": 106,
         "name": "Paralysis Coat Add",
         "skill-point": "ParalyCAdd",
         "points": 10
     },
     {
-        "id": 107,
         "name": "Sleep Coating Add",
         "skill-point": "SleepCAdd",
         "points": 10
     },
     {
-        "id": 108,
         "name": "Power Coating Add",
         "skill-point": "PowerCAdd",
         "points": 10
     },
     {
-        "id": 109,
         "name": "ClsRngCAdd",
         "skill-point": "ClsRngCAdd",
         "points": 10
     },
     {
-        "id": 110,
         "name": "Straight & True",
         "skill-point": "SteadyHand",
         "points": 10
     },
     {
-        "id": 111,
         "name": "Reckless Abandon +3",
         "skill-point": "Expert",
         "points": 20
     },
     {
-        "id": 112,
         "name": "Reckless Abandon +2",
         "skill-point": "Expert",
         "points": 15
     },
     {
-        "id": 113,
         "name": "Reckless Abandon +1",
         "skill-point": "Expert",
         "points": 10
     },
     {
-        "id": 114,
         "name": "Reckless Abandon -1",
         "skill-point": "Expert",
         "points": -10
     },
     {
-        "id": 115,
         "name": "Reckless Abandon -2",
         "skill-point": "Expert",
         "points": -15
     },
     {
-        "id": 116,
         "name": "Abnormal Sts Atk Up",
         "skill-point": "Spc Attack",
         "points": 10
     },
     {
-        "id": 117,
         "name": "Element Attack Up",
         "skill-point": "ElementAtk",
         "points": 10
     },
     {
-        "id": 118,
         "name": "Damage Rec Speed +2",
         "skill-point": "Rec Speed",
         "points": 20
     },
     {
-        "id": 119,
         "name": "Damage Rec Speed +1",
         "skill-point": "Rec Speed",
         "points": 10
     },
     {
-        "id": 120,
         "name": "Damage Rec Speed -1",
         "skill-point": "Rec Speed",
         "points": -10
     },
     {
-        "id": 121,
         "name": "Damage Rec Speed -2",
         "skill-point": "Rec Speed",
         "points": -20
     },
     {
-        "id": 122,
         "name": "Divine Protection",
         "skill-point": "Protection",
         "points": 10
     },
     {
-        "id": 123,
         "name": "Demonic Protection",
         "skill-point": "Protection",
         "points": -10
     },
     {
-        "id": 124,
         "name": "Guard Inc",
         "skill-point": "Guard Up",
         "points": 10
     },
     {
-        "id": 125,
         "name": "Evade +2",
         "skill-point": "Evade",
         "points": 15
     },
     {
-        "id": 126,
         "name": "Evade +1",
         "skill-point": "Evade",
         "points": 10
     },
     {
-        "id": 127,
         "name": "Evade Distance Up",
         "skill-point": "Evade Dist",
         "points": 10
     },
     {
-        "id": 128,
         "name": "Adrenaline +2",
         "skill-point": "Potential",
         "points": 15
     },
     {
-        "id": 129,
         "name": "Adrenaline +1",
         "skill-point": "Potential",
         "points": 10
     },
     {
-        "id": 130,
         "name": "Worry",
         "skill-point": "Potential",
         "points": -10
     },
     {
-        "id": 131,
         "name": "Gunnery King",
         "skill-point": "Gunnery",
         "points": 15
     },
     {
-        "id": 132,
         "name": "+10",
         "skill-point": "Gunnery",
         "points": 15
     },
     {
-        "id": 133,
         "name": "Capacity Up",
         "skill-point": "Capacity",
         "points": 10
     },
     {
-        "id": 134,
         "name": "Focus",
         "skill-point": "ShortCharg",
         "points": 10
     },
     {
-        "id": 135,
         "name": "Distracted",
         "skill-point": "ShortCharg",
         "points": -10
     },
     {
-        "id": 136,
         "name": "Guts",
         "skill-point": "Guts",
         "points": 10
     },
     {
-        "id": 137,
         "name": "Emboldened",
         "skill-point": "Fury",
         "points": 10
     },
     {
-        "id": 138,
         "name": "Farsight",
         "skill-point": "Map",
         "points": 10
     },
     {
-        "id": 139,
         "name": "Map Unavailable",
         "skill-point": "Map",
         "points": -10
     },
     {
-        "id": 140,
         "name": "Autotracker",
         "skill-point": "PsychicVis",
         "points": 15
     },
     {
-        "id": 141,
         "name": "Detect",
         "skill-point": "PsychicVis",
         "points": 10
     },
     {
-        "id": 142,
         "name": "Gathering +2",
         "skill-point": "Gathering",
         "points": 15
     },
     {
-        "id": 143,
         "name": "Gathering +1",
         "skill-point": "Gathering",
         "points": 10
     },
     {
-        "id": 144,
         "name": "Gathering -1",
         "skill-point": "Gathering",
         "points": -10
     },
     {
-        "id": 145,
         "name": "Carving Celebrity",
         "skill-point": "Carving",
         "points": 20
     },
     {
-        "id": 146,
         "name": "Carving Iron Man",
         "skill-point": "Carving",
         "points": 10
     },
     {
-        "id": 147,
         "name": "High Speed Gathering",
         "skill-point": "HiSpdGathr",
         "points": 10
     },
     {
-        "id": 148,
         "name": "Backpacking Expert",
         "skill-point": "Backpackng",
         "points": 10
     },
     {
-        "id": 149,
         "name": "Divine Whim",
         "skill-point": "Whim",
         "points": 15
     },
     {
-        "id": 150,
         "name": "Spirit's Whim",
         "skill-point": "Whim",
         "points": 10
     },
     {
-        "id": 151,
         "name": "Spectre's Whim",
         "skill-point": "Whim",
         "points": -10
     },
     {
-        "id": 152,
         "name": "Devil's Whim",
         "skill-point": "Whim",
         "points": -15
     },
     {
-        "id": 153,
         "name": "Fishing Expert",
         "skill-point": "Fishing",
         "points": 10
     },
     {
-        "id": 154,
         "name": "Heat Cancel (Hi)",
         "skill-point": "Heat Res",
         "points": 15
     },
     {
-        "id": 155,
         "name": "Heat Cancel (Lo)",
         "skill-point": "Heat Res",
         "points": 10
     },
     {
-        "id": 156,
         "name": "Heat Inc (Lo)",
         "skill-point": "Heat Res",
         "points": -10
     },
     {
-        "id": 157,
         "name": "Heat Inc (Hi)",
         "skill-point": "Heat Res",
         "points": -15
     },
     {
-        "id": 158,
         "name": "Cold Elimination(Hi)",
         "skill-point": "Cold Res",
         "points": 15
     },
     {
-        "id": 159,
         "name": "Cold Elimination(Lo)",
         "skill-point": "Cold Res",
         "points": 10
     },
     {
-        "id": 160,
         "name": "Cold Increase (Lo)",
         "skill-point": "Cold Res",
         "points": -10
     },
     {
-        "id": 161,
         "name": "Cold Increase (Hi)",
         "skill-point": "Cold Res",
         "points": -15
     },
     {
-        "id": 162,
         "name": "TerrainDamageNegate",
         "skill-point": "Terrain",
         "points": 15
     },
     {
-        "id": 163,
         "name": "TerrainDamageHalf",
         "skill-point": "Terrain",
         "points": 10
     },
     {
-        "id": 164,
         "name": "TerrainDamageInc(Lo)",
         "skill-point": "Terrain",
         "points": -10
     },
     {
-        "id": 165,
         "name": "TerrainDamageInc(Hi)",
         "skill-point": "Terrain",
         "points": -15
     },
     {
-        "id": 166,
         "name": "Runner",
         "skill-point": "Stamina",
         "points": 10
     },
     {
-        "id": 167,
         "name": "Flat Footed",
         "skill-point": "Stamina",
         "points": -10
     },
     {
-        "id": 168,
         "name": "Constitution +2",
         "skill-point": "Constitutn",
         "points": 15
     },
     {
-        "id": 169,
         "name": "Constitution +1",
         "skill-point": "Constitutn",
         "points": 10
     },
     {
-        "id": 170,
         "name": "Constitution -1",
         "skill-point": "Constitutn",
         "points": -10
     },
     {
-        "id": 171,
         "name": "Constitution -2",
         "skill-point": "Constitutn",
         "points": -15
     },
     {
-        "id": 172,
         "name": "Hunger Negated",
         "skill-point": "Hunger",
         "points": 15
     },
     {
-        "id": 173,
         "name": "Hunger Halved",
         "skill-point": "Hunger",
         "points": 10
     },
     {
-        "id": 174,
         "name": "Hunger Increase (Lo)",
         "skill-point": "Hunger",
         "points": -10
     },
     {
-        "id": 175,
         "name": "Hunger Increase (Hi)",
         "skill-point": "Hunger",
         "points": -15
     },
     {
-        "id": 176,
         "name": "Stealth",
         "skill-point": "Sneak",
         "points": 10
     },
     {
-        "id": 177,
         "name": "Taunt",
         "skill-point": "Sneak",
         "points": -10
     },
     {
-        "id": 178,
         "name": "Luck Booster",
         "skill-point": "Fate",
         "points": 15
     },
     {
-        "id": 179,
         "name": "Good Luck",
         "skill-point": "Fate",
         "points": 10
     },
     {
-        "id": 180,
         "name": "Bad Luck",
         "skill-point": "Fate",
         "points": -10
     },
     {
-        "id": 181,
         "name": "Calamity",
         "skill-point": "Fate",
         "points": -20
     },
     {
-        "id": 182,
         "name": "Trap Master",
         "skill-point": "SpeedSetup",
         "points": 10
     },
     {
-        "id": 183,
         "name": "Tranquilizing Celeb",
         "skill-point": "Tranquilzr",
         "points": 15
     },
     {
-        "id": 184,
         "name": "Tranquilizing Whiz",
         "skill-point": "Tranquilzr",
         "points": 10
     },
     {
-        "id": 185,
         "name": "Tranquilizing Guru",
         "skill-point": "Perceive",
         "points": 10
     },
     {
-        "id": 186,
         "name": "HealthRecItemsImprvd",
         "skill-point": "Recovery",
         "points": 10
     },
     {
-        "id": 187,
         "name": "HealthRecItemsWeaknd",
         "skill-point": "Recovery",
         "points": -10
     },
     {
-        "id": 188,
         "name": "Item Usage Improve",
         "skill-point": "Everlastng",
         "points": 10
     },
     {
-        "id": 189,
         "name": "Item Usage Decline",
         "skill-point": "Everlastng",
         "points": -10
     },
     {
-        "id": 190,
         "name": "Wide Area +2",
         "skill-point": "Wide Area",
         "points": 20
     },
     {
-        "id": 191,
         "name": "Wide Area +1",
         "skill-point": "Wide Area",
         "points": 10
     },
     {
-        "id": 192,
         "name": "Throwing Skill Up",
         "skill-point": "Throw",
         "points": 10
     },
     {
-        "id": 193,
         "name": "Bomber",
         "skill-point": "BombStrUp",
         "points": 10
     },
     {
-        "id": 194,
         "name": "Scavenger",
         "skill-point": "Gluttony",
         "points": 15
     },
     {
-        "id": 195,
         "name": "Filled Up",
         "skill-point": "Gluttony",
         "points": 10
     },
     {
-        "id": 196,
         "name": "Quick Eating",
         "skill-point": "Cooking",
         "points": 10
     },
     {
-        "id": 197,
         "name": "Slow Life",
         "skill-point": "Cooking",
         "points": -10
     },
     {
-        "id": 198,
         "name": "BBQ Celebrity",
         "skill-point": "BBQ",
         "points": 10
     },
     {
-        "id": 199,
         "name": "So-Called BBQ King",
         "skill-point": "BBQ",
         "points": -10
     },
     {
-        "id": 200,
         "name": "Flute Expert",
         "skill-point": "Horn",
         "points": 10
     },
     {
-        "id": 201,
         "name": "Combine Success +45%",
         "skill-point": "MixSucRate",
         "points": 20
     },
     {
-        "id": 202,
         "name": "Combine Success +25%",
         "skill-point": "MixSucRate",
         "points": 15
     },
     {
-        "id": 203,
         "name": "Combine Success +15%",
         "skill-point": "MixSucRate",
         "points": 10
     },
     {
-        "id": 204,
         "name": "Combine Success -5%",
         "skill-point": "MixSucRate",
         "points": -10
     },
     {
-        "id": 205,
         "name": "Combine Success -10%",
         "skill-point": "MixSucRate",
         "points": -15
     },
     {
-        "id": 206,
         "name": "Combine Success -15%",
         "skill-point": "MixSucRate",
         "points": -20
     },
     {
-        "id": 207,
         "name": "Bullet Limit",
         "skill-point": "Shot Mix",
         "points": 10
     },
     {
-        "id": 208,
         "name": "Alchemy",
         "skill-point": "Alchemy",
         "points": 10
     },
     {
-        "id": 209,
         "name": "ComradGuidance&Trade",
         "skill-point": "ComrdGuide",
         "points": 15
     },
     {
-        "id": 210,
         "name": "Comrade Guidance",
         "skill-point": "ComrdGuide",
         "points": 10
     },
     {
-        "id": 211,
         "name": "Comrade Attack Up",
         "skill-point": "ComradeAtk",
         "points": 10
     },
     {
-        "id": 212,
         "name": "Comrade Defense Up",
         "skill-point": "ComradeDef",
         "points": 10

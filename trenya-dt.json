@@ -1,9 +1,7 @@
 {
-    "id": "INT",
     "location": "VARCHAR",
     "travel": [
         {
-            "id": "INT",
             "point-cost": "INT",
             "items": "ARRAY(VARCHAR)",
             "condition": "VARCHAR",

@@ -1,5 +1,4 @@
 {
-    "id": "INT",
     "name": "VARCHAR",
     "time-limit": "INT",
     "location": "VARCHAR",
@@ -13,14 +12,12 @@
     },
     "armors": [
         {
-            "id": "INT",
             "name": "VARCHAR",
             "decorations": "ARRAY(VARCHAR)"
         }
     ],
     "items": [
         {
-            "id": "INT",
             "name": "VARCHAR",
             "count": "INT/VARCHAR"
         }

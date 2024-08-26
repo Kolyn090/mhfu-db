@@ -1,1593 +1,1355 @@
 [
     {
-        "id": 0,
         "meal1": "meat",
         "meal2": "meat",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             }
         ]
     },
     {
-        "id": 1,
         "meal1": "meat",
         "meal2": "meat",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             }
         ]
     },
     {
-        "id": 2,
         "meal1": "meat",
         "meal2": "meat",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             }
         ]
     },
     {
-        "id": 3,
         "meal1": "meat",
         "meal2": "meat",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 30
             }
         ]
     },
     {
-        "id": 4,
         "meal1": "meat",
         "meal2": "meat",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 30
             }
         ]
     },
     {
-        "id": 5,
         "meal1": "meat",
         "meal2": "veggie",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 6,
         "meal1": "meat",
         "meal2": "veggie",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 7,
         "meal1": "meat",
         "meal2": "veggie",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 8,
         "meal1": "meat",
         "meal2": "veggie",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 40
             },
             {
-                "id": 1,
                 "stat": "attack",
                 "points": 20
             }
         ]
     },
     {
-        "id": 9,
         "meal1": "meat",
         "meal2": "fish",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 10,
         "meal1": "meat",
         "meal2": "fish",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "thundr-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 11,
         "meal1": "meat",
         "meal2": "fish",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             },
             {
-                "id": 1,
                 "stat": "water-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 12,
         "meal1": "meat",
         "meal2": "fish",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": 50
             }
         ]
     },
     {
-        "id": 13,
         "meal1": "meat",
         "meal2": "bran",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             }
         ]
     },
     {
-        "id": 14,
         "meal1": "meat",
         "meal2": "bran",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 15
             }
         ]
     },
     {
-        "id": 15,
         "meal1": "meat",
         "meal2": "bran",
         "chief-number": 4,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -50
             }
         ]
     },
     {
-        "id": 16,
         "meal1": "meat",
         "meal2": "fruit",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "fire-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 17,
         "meal1": "meat",
         "meal2": "fruit",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 20
             }
         ]
     },
     {
-        "id": 18,
         "meal1": "meat",
         "meal2": "fruit",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "fire-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 19,
         "meal1": "meat",
         "meal2": "fruit",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -40
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 20,
         "meal1": "meat",
         "meal2": "milk",
         "chief-number": 2,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -20
             }
         ]
     },
     {
-        "id": 21,
         "meal1": "meat",
         "meal2": "milk",
         "chief-number": 4,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 40
             }
         ]
     },
     {
-        "id": 22,
         "meal1": "meat",
         "meal2": "milk",
         "chief-number": 5,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             },
             {
-                "id": 1,
                 "stat": "defense",
                 "points": 15
             }
         ]
     },
     {
-        "id": 23,
         "meal1": "meat",
         "meal2": "drink",
         "chief-number": 1,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 24,
         "meal1": "meat",
         "meal2": "drink",
         "chief-number": 2,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             }
         ]
     },
     {
-        "id": 25,
         "meal1": "meat",
         "meal2": "drink",
         "chief-number": 3,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 26,
         "meal1": "meat",
         "meal2": "drink",
         "chief-number": 4,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "ice-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 27,
         "meal1": "meat",
         "meal2": "drink",
         "chief-number": 5,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "fire-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 28,
         "meal1": "veggie",
         "meal2": "veggie",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             }
         ]
     },
     {
-        "id": 29,
         "meal1": "veggie",
         "meal2": "veggie",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             }
         ]
     },
     {
-        "id": 30,
         "meal1": "veggie",
         "meal2": "veggie",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             }
         ]
     },
     {
-        "id": 31,
         "meal1": "veggie",
         "meal2": "veggie",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             }
         ]
     },
     {
-        "id": 32,
         "meal1": "veggie",
         "meal2": "veggie",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 15
             }
         ]
     },
     {
-        "id": 33,
         "meal1": "veggie",
         "meal2": "fish",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 34,
         "meal1": "veggie",
         "meal2": "fish",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -30
             }
         ]
     },
     {
-        "id": 35,
         "meal1": "veggie",
         "meal2": "fish",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             },
             {
-                "id": 1,
                 "stat": "dragon-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 36,
         "meal1": "veggie",
         "meal2": "fish",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "ice-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 37,
         "meal1": "veggie",
         "meal2": "bran",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 38,
         "meal1": "veggie",
         "meal2": "bran",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 39,
         "meal1": "veggie",
         "meal2": "bran",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 50
             }
         ]
     },
     {
-        "id": 40,
         "meal1": "veggie",
         "meal2": "bran",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             },
             {
-                "id": 1,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 41,
         "meal1": "veggie",
         "meal2": "bran",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 42,
         "meal1": "veggie",
         "meal2": "fruit",
         "chief-number": 1,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             }
         ]
     },
     {
-        "id": 43,
         "meal1": "veggie",
         "meal2": "fruit",
         "chief-number": 2,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "health",
                 "points": 10
             }
         ]
     },
     {
-        "id": 44,
         "meal1": "veggie",
         "meal2": "fruit",
         "chief-number": 3,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -30
             }
         ]
     },
     {
-        "id": 45,
         "meal1": "veggie",
         "meal2": "fruit",
         "chief-number": 4,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 50
             }
         ]
     },
     {
-        "id": 46,
         "meal1": "veggie",
         "meal2": "milk",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -10
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 47,
         "meal1": "veggie",
         "meal2": "milk",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "defense",
                 "points": 15
             }
         ]
     },
     {
-        "id": 48,
         "meal1": "veggie",
         "meal2": "milk",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 20
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 49,
         "meal1": "veggie",
         "meal2": "drink",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 50,
         "meal1": "veggie",
         "meal2": "drink",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 40
             }
         ]
     },
     {
-        "id": 51,
         "meal1": "veggie",
         "meal2": "drink",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -50
             }
         ]
     },
     {
-        "id": 52,
         "meal1": "fish",
         "meal2": "fish",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 53,
         "meal1": "fish",
         "meal2": "fish",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 54,
         "meal1": "fish",
         "meal2": "fish",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 55,
         "meal1": "fish",
         "meal2": "fish",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 56,
         "meal1": "fish",
         "meal2": "fish",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 20
             }
         ]
     },
     {
-        "id": 57,
         "meal1": "fish",
         "meal2": "bran",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             }
         ]
     },
     {
-        "id": 58,
         "meal1": "fish",
         "meal2": "bran",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             }
         ]
     },
     {
-        "id": 59,
         "meal1": "fish",
         "meal2": "bran",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -30
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 60,
         "meal1": "fish",
         "meal2": "bran",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 40
             },
             {
-                "id": 1,
                 "stat": "defense",
                 "points": 20
             }
         ]
     },
     {
-        "id": 61,
         "meal1": "fish",
         "meal2": "fruit",
         "chief-number": 1,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             }
         ]
     },
     {
-        "id": 62,
         "meal1": "fish",
         "meal2": "fruit",
         "chief-number": 3,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             },
             {
-                "id": 1,
                 "stat": "fire-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 63,
         "meal1": "fish",
         "meal2": "fruit",
         "chief-number": 4,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 20
             }
         ]
     },
     {
-        "id": 64,
         "meal1": "fish",
         "meal2": "fruit",
         "chief-number": 5,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 50
             },
             {
-                "id": 1,
                 "stat": "defense",
                 "points": 10
             }
         ]
     },
     {
-        "id": 65,
         "meal1": "fish",
         "meal2": "milk",
         "chief-number": 2,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 66,
         "meal1": "fish",
         "meal2": "milk",
         "chief-number": 3,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 30
             }
         ]
     },
     {
-        "id": 67,
         "meal1": "fish",
         "meal2": "milk",
         "chief-number": 4,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "thundr-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 68,
         "meal1": "fish",
         "meal2": "drink",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             }
         ]
     },
     {
-        "id": 69,
         "meal1": "fish",
         "meal2": "drink",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 70,
         "meal1": "fish",
         "meal2": "drink",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 71,
         "meal1": "bran",
         "meal2": "bran",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 72,
         "meal1": "bran",
         "meal2": "bran",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 73,
         "meal1": "bran",
         "meal2": "bran",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 74,
         "meal1": "bran",
         "meal2": "bran",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 50
             }
         ]
     },
     {
-        "id": 75,
         "meal1": "bran",
         "meal2": "bran",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 50
             }
         ]
     },
     {
-        "id": 76,
         "meal1": "bran",
         "meal2": "fruit",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "ice-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 77,
         "meal1": "bran",
         "meal2": "fruit",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -40
             }
         ]
     },
     {
-        "id": 78,
         "meal1": "bran",
         "meal2": "fruit",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 30
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 79,
         "meal1": "bran",
         "meal2": "milk",
         "chief-number": 3,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 80,
         "meal1": "bran",
         "meal2": "milk",
         "chief-number": 4,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 30
             },
             {
-                "id": 1,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 81,
         "meal1": "bran",
         "meal2": "milk",
         "chief-number": 5,
         "highest-star": 4,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -50
             }
         ]
     },
     {
-        "id": 82,
         "meal1": "bran",
         "meal2": "drink",
         "chief-number": 1,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 83,
         "meal1": "bran",
         "meal2": "drink",
         "chief-number": 2,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "thundr-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 84,
         "meal1": "bran",
         "meal2": "drink",
         "chief-number": 3,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "defense",
                 "points": 15
             },
             {
-                "id": 1,
                 "stat": "water-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 85,
         "meal1": "bran",
         "meal2": "drink",
         "chief-number": 5,
         "highest-star": 5,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             },
             {
-                "id": 1,
                 "stat": "water-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 86,
         "meal1": "fruit",
         "meal2": "fruit",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -10
             }
         ]
     },
     {
-        "id": 87,
         "meal1": "fruit",
         "meal2": "fruit",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "attack",
                 "points": 20
             }
         ]
     },
     {
-        "id": 88,
         "meal1": "fruit",
         "meal2": "milk",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             }
         ]
     },
     {
-        "id": 89,
         "meal1": "fruit",
         "meal2": "milk",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "ice-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 90,
         "meal1": "fruit",
         "meal2": "milk",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -20
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": -25
             }
         ]
     },
     {
-        "id": 91,
         "meal1": "fruit",
         "meal2": "milk",
         "chief-number": 3,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 50
             },
             {
-                "id": 1,
                 "stat": "dragon-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 92,
         "meal1": "fruit",
         "meal2": "drink",
         "chief-number": 1,
         "highest-star": 6,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -10
             }
         ]
     },
     {
-        "id": 93,
         "meal1": "fruit",
         "meal2": "drink",
         "chief-number": 3,
         "highest-star": 6,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 94,
         "meal1": "fruit",
         "meal2": "drink",
         "chief-number": 4,
         "highest-star": 6,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             },
             {
-                "id": 1,
                 "stat": "defense",
                 "points": 15
             }
         ]
     },
     {
-        "id": 95,
         "meal1": "fruit",
         "meal2": "drink",
         "chief-number": 5,
         "highest-star": 6,
         "effects": [
             {
-                "id": 0,
                 "stat": "attack",
                 "points": 10
             },
             {
-                "id": 1,
                 "stat": "thundr-res",
                 "points": 5
             }
         ]
     },
     {
-        "id": 96,
         "meal1": "milk",
         "meal2": "milk",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "stamina",
                 "points": 25
             },
             {
-                "id": 1,
                 "stat": "attack",
                 "points": 10
             }
         ]
     },
     {
-        "id": 97,
         "meal1": "milk",
         "meal2": "drink",
         "chief-number": 1,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": -10
             }
         ]
     },
     {
-        "id": 98,
         "meal1": "milk",
         "meal2": "drink",
         "chief-number": 2,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "ice-res",
                 "points": 3
             }
         ]
     },
     {
-        "id": 99,
         "meal1": "milk",
         "meal2": "drink",
         "chief-number": 4,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 20
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": 50
             }
         ]
     },
     {
-        "id": 100,
         "meal1": "milk",
         "meal2": "drink",
         "chief-number": 5,
         "highest-star": 3,
         "effects": [
             {
-                "id": 0,
                 "stat": "health",
                 "points": 50
             },
             {
-                "id": 1,
                 "stat": "stamina",
                 "points": 50
             }

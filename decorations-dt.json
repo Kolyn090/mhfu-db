@@ -1,5 +1,4 @@
 {
-    "id": "INT",
     "name": "VARCHAR",
     "rare": "INT",
     "slots": "INT",
@@ -7,14 +6,12 @@
     "description": "VARCHAR",
     "skill-points": [
         {
-            "id": "INT",
             "name": "VARCHAR",
             "points": "INT"
         }
     ],
     "materials": [
         {
-            "id": "INT",
             "name": "VARCHAR",
             "amount": "INT"
         }
