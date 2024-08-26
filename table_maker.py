@@ -87,7 +87,9 @@ def make_table_for_json(filedir, file):
         return type_mapping.get(py_type, 'UNKNOWN')
 
     def get_table_dir():
-        return filedir.replace('.json', '-dt.json')
+        split = filedir.split("/");
+        os.makedirs('/'.join(split[:len(split)-1]) + "/table/", exist_ok=True)
+        return '/'.join(split[:len(split)-1]) + "/table/" + split[len(split)-1].replace('.json', '-dt.json')
 
     if file == "":
         return
