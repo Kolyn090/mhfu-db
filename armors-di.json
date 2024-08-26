@@ -1,0 +1,33 @@
+{
+    "part": null,
+    "name": null,
+    "rare": null,
+    "price": null,
+    "hunter-type": null,
+    "defense": null,
+    "skill-points": [
+        {
+            "name": {
+                "REFERENCES": "./skills.json",
+                "FIELD": "skill-point"
+            },
+            "points": null
+        }
+    ],
+    "description": null,
+    "slots": null,
+    "fire-res": null,
+    "thundr-res": null,
+    "dragon-res": null,
+    "water-res": null,
+    "ice-res": null,
+    "materials": [
+        {
+            "name": {
+                "REFERENCES": "./items.json",
+                "FIELD": "name"
+            },
+            "amount": null
+        }
+    ]
+}

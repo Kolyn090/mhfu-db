@@ -1,0 +1,18 @@
+{
+    "location": null,
+    "areas": [
+        {
+            "areanumber": null,
+            "positions": [
+                {
+                    "type": null,
+                    "condition": null,
+                    "materials": {
+                        "REFERENCES": "./items.json",
+                        "FIELD": "name"
+                    }
+                }
+            ]
+        }
+    ]
+}
