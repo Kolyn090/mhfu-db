@@ -154,7 +154,7 @@ def make_table_for_all_json_files_under(root):
         if not root.endswith('.json'):
             return
         # Ignore tables
-        if root.endswith('-dt.json'):
+        if root.endswith('-dt.json') or root.endswith('-di.json'):
             return
 
         filedir = root

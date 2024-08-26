@@ -1,0 +1,25 @@
+{
+    "name": null,
+    "rare": null,
+    "slots": null,
+    "price": null,
+    "description": null,
+    "skill-points": [
+        {
+            "name": {
+                "REFERENCES": "./skills.json",
+                "FIELD": "skill-point"
+            },
+            "points": null
+        }
+    ],
+    "materials": [
+        {
+            "name": {
+                "REFERENCES": "./items.json",
+                "FIELD": "name"
+            },
+            "amount": null
+        }
+    ]
+}
