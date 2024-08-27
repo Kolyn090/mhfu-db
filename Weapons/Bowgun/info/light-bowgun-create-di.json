@@ -1,0 +1,29 @@
+{
+    "name": null,
+    "type": null,
+    "attack": null,
+    "rare": null,
+    "slots": null,
+    "affinity": null,
+    "create-price": null,
+    "defense": null,
+    "materials": [
+        {
+            "name": {
+                "REFERENCES": "../../items.json",
+                "FIELD": "name"
+            },
+            "amount": null
+        }
+    ],
+    "description": null,
+    "ammo": [
+        {
+            "name": {
+                "REFERENCES": "../../items.json",
+                "FIELD": "name"
+            },
+            "capacity": null
+        }
+    ]
+}

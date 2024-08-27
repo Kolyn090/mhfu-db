@@ -1,0 +1,24 @@
+{
+    "name": null,
+    "type": null,
+    "upgrade-price": null,
+    "materials": [
+        {
+            "name": {
+                "REFERENCES": "../../items.json",
+                "FIELD": "name"
+            },
+            "amount": null
+        }
+    ],
+    "upgrade-from": [
+        {
+            "craft-type": null,
+            "name": {
+                "REFERENCES": "./",
+                "FIELD": "name"
+            },
+            "type": null
+        }
+    ]
+}

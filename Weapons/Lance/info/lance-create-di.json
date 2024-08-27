@@ -1,0 +1,28 @@
+{
+    "name": null,
+    "type": null,
+    "attack": null,
+    "rare": null,
+    "slots": null,
+    "affinity": null,
+    "create-price": null,
+    "defense": null,
+    "materials": [
+        {
+            "name": {
+                "REFERENCES": "../../items.json",
+                "FIELD": "name"
+            },
+            "amount": null
+        }
+    ],
+    "description": null,
+    "sharpness": null,
+    "sharpness-artisan": null,
+    "elements": [
+        {
+            "name": null,
+            "attack": null
+        }
+    ]
+}
