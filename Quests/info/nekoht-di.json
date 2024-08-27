@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "quest-type": null,
+    "reward": null,
+    "contract-fee": null,
+    "time-limit": null,
+    "location": null,
+    "main-monsters": {
+        "REFERENCES": "../Monsters/monsters.json",
+        "FIELD": "name"
+    },
+    "goal-condition": null,
+    "client": null,
+    "quest-details": null,
+    "difficulty": null
+}
