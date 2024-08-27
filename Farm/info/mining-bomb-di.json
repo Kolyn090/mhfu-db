@@ -1,7 +1,7 @@
 {
     "using": {
         "REFERENCES": "../items.json",
-        "FIELD": "name"
+        "REFERENCES-FIELD": "name"
     },
     "min": null,
     "max": null,

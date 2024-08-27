@@ -1,7 +1,7 @@
 {
     "monster": {
         "REFERENCES": "./monsters.json",
-        "FIELD": "name"
+        "REFERENCES-FIELD": "name"
     },
     "types": [
         {
@@ -12,7 +12,7 @@
                 {
                     "name": {
                         "REFERENCES": "../items.json",
-                        "FIELD": "name"
+                        "REFERENCES-FIELD": "name"
                     },
                     "count": null,
                     "chance": null

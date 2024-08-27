@@ -9,7 +9,7 @@
         {
             "name": {
                 "REFERENCES": "./skills.json",
-                "FIELD": "skill-point"
+                "REFERENCES-FIELD": "skill-point"
             },
             "points": null
         }
@@ -25,7 +25,7 @@
         {
             "name": {
                 "REFERENCES": "./items.json",
-                "FIELD": "name"
+                "REFERENCES-FIELD": "name"
             },
             "amount": null
         }

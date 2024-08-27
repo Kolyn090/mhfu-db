@@ -2,11 +2,11 @@
     "type": null,
     "materialA": {
         "REFERENCES": "./items.json",
-        "FIELD": "name"
+        "REFERENCES-FIELD": "name"
     },
     "materialB": {
         "REFERENCES": "./items.json",
-        "FIELD": "name"
+        "REFERENCES-FIELD": "name"
     },
     "chance": null,
     "min": null,
