@@ -1,0 +1,14 @@
+{
+    "location": null,
+    "travel": [
+        {
+            "point-cost": null,
+            "items": {
+                "REFERENCES": "./items.json",
+                "FIELD": "name"
+            },
+            "condition": null,
+            "unlock-at": null
+        }
+    ]
+}
