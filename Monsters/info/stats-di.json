@@ -1,0 +1,18 @@
+{
+    "monster": {
+        "REFERENCES": "./monsters.json",
+        "FIELD": "name"
+    },
+    "attack-enraged": null,
+    "defense-enraged": null,
+    "appear": [
+        {
+            "size-smallest": null,
+            "size-largest": null,
+            "health": null,
+            "attack": null,
+            "defense": null,
+            "note": null
+        }
+    ]
+}

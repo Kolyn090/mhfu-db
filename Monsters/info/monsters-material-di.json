@@ -1,0 +1,23 @@
+{
+    "monster": {
+        "REFERENCES": "./monsters.json",
+        "FIELD": "name"
+    },
+    "types": [
+        {
+            "type": null,
+            "count": null,
+            "condition": null,
+            "materials": [
+                {
+                    "name": {
+                        "REFERENCES": "../items.json",
+                        "FIELD": "name"
+                    },
+                    "count": null,
+                    "chance": null
+                }
+            ]
+        }
+    ]
+}

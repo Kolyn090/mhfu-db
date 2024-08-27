@@ -1,0 +1,18 @@
+{
+    "monster": {
+        "REFERENCES": "./monsters.json",
+        "FIELD": "name"
+    },
+    "types": [
+        {
+            "type": null,
+            "initial-tolerance": null,
+            "tolerance-inc": null,
+            "tolerance-max": null,
+            "tolerance-dec-step": null,
+            "tolerance-dec-interval": null,
+            "duration": null,
+            "damage": null
+        }
+    ]
+}

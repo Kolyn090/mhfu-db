@@ -1,0 +1,12 @@
+{
+    "monster": {
+        "REFERENCES": "./monsters.json",
+        "FIELD": "name"
+    },
+    "parts": [
+        {
+            "part": null,
+            "duration": null
+        }
+    ]
+}
