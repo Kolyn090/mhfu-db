@@ -6,7 +6,10 @@
         "contract-fee": 1200,
         "time-limit": 50,
         "location": "Great Forest (Day)",
-        "main-monsters": "Hypnocatrice, Velociprey",
+        "main-monsters": [
+            "Hypnocatrice",
+            "Velociprey"
+        ],
         "goal-condition": "Hunt the Hypnocatrice",
         "client": "Selfish Mantled Girl",
         "quest-details": "I told my mother that I wanted a hat adorned with a Hypnotrice's tail feather, but she got mad and siad I was being selfish. Therefore this is a secret request. You must tell no one. OK!?",
@@ -19,7 +22,10 @@
         "contract-fee": 600,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Bulldrome, Bullfango Herd",
+        "main-monsters": [
+            "Bulldrome",
+            "Bullfango Herd"
+        ],
         "goal-condition": "Slay 20 Bullfangos",
         "client": "Very Suspect Paddler",
         "quest-details": "A Bulldrome and its pack are going hod-wild around a mining point for Ore. I don't want others to find that secret location, so please hunt them in secret for me.",
@@ -32,7 +38,10 @@
         "contract-fee": 700,
         "time-limit": 50,
         "location": "Arena",
-        "main-monsters": "King Shakalaka, Shakalaka Tribe",
+        "main-monsters": [
+            "King Shakalaka",
+            "Shakalaka Tribe"
+        ],
         "goal-condition": "Slay 15 Shakalakas",
         "client": "Deserted Areana Manager",
         "quest-details": "I went to open up the little arena that hasn't been used in a while one morning, and I find that it's been taken over by a group of strange, little... things! Now I need your help to take them out!",
@@ -45,7 +54,12 @@
         "contract-fee": 550,
         "time-limit": 50,
         "location": "Arena",
-        "main-monsters": "Velociprey, Giaprey, Genprey, Ioprey",
+        "main-monsters": [
+            "Velociprey",
+            "Giaprey",
+            "Genprey",
+            "Ioprey"
+        ],
         "goal-condition": "Slay 20 Velociprey",
         "client": "Deserted Areana Manager",
         "quest-details": "I went to open up the little arena that hasn't been used in a while one morning, and I find that it's been turned into a meat-lover's paradise! Please bring an end to their partying",
@@ -58,7 +72,10 @@
         "contract-fee": 850,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Vespoid Queen, Velocidrome",
+        "main-monsters": [
+            "Vespoid Queen",
+            "Velocidrome"
+        ],
         "goal-condition": "Slay the Vespoid Queen",
         "client": "Jungle Researcher",
         "quest-details": "It's no use. No matter where I look, I can't seem to find the Vespoid Queen! Perhaps if you slayed a large amount of Vespoids to make her feel that her swarm was in grave danger, she might appear...",
@@ -71,7 +88,10 @@
         "contract-fee": 1200,
         "time-limit": 50,
         "location": "Great Forest (Day)",
-        "main-monsters": "Hypnocatrice, Velociprey",
+        "main-monsters": [
+            "Hypnocatrice",
+            "Velociprey"
+        ],
         "goal-condition": "Hunt the Hypnocatrice",
         "client": "Selfish Mantled Girl",
         "quest-details": "I told my mother that I wanted a hat adorned with a Hypnotrice's tail feather, but she got mad and siad I was being selfish. Therefore this is a secret request. You must tell no one. OK!?",
@@ -84,7 +104,10 @@
         "contract-fee": 800,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "Cephadrome, Gendrome",
+        "main-monsters": [
+            "Cephadrome",
+            "Gendrome"
+        ],
         "goal-condition": "Hunt the Cephadrome",
         "client": "Old Desert Town Mayor",
         "quest-details": "There is a gigantic Cephadrome here in the Old Desert. There are numerous casualties and a state of emergency has been declared. We're calling on all hunters everywhere to please help!",
@@ -97,7 +120,10 @@
         "contract-fee": 1000,
         "time-limit": 50,
         "location": "Old Swamp",
-        "main-monsters": "Gypceros, Melynx Pack",
+        "main-monsters": [
+            "Gypceros",
+            "Melynx Pack"
+        ],
         "goal-condition": "Hunt the Gypceros",
         "client": "Compassionate Hunter",
         "quest-details": "That Gypceros stole my very imporant Book of Combos, and then, right after that, a band of Melynx stole my BBQ Spit! At this rate, I'm going to be forced into early retirement! Heeeeelp!",
@@ -110,7 +136,10 @@
         "contract-fee": 1100,
         "time-limit": 50,
         "location": "Swamp (Day)",
-        "main-monsters": "Purple Gypceros, Bulldrome",
+        "main-monsters": [
+            "Purple Gypceros",
+            "Bulldrome"
+        ],
         "goal-condition": "Hunt the Purple Gypceros",
         "client": "Guarded Merchant",
         "quest-details": "I saw a gigantic Gypceros lurking deep in the swamp! It scared everyone so bad that I can't do business with a thing like that out there! Please hunt it down so I can work in peace!",
@@ -123,7 +152,10 @@
         "contract-fee": 1150,
         "time-limit": 50,
         "location": "Old Swamp",
-        "main-monsters": "Basarios, Hornetaur",
+        "main-monsters": [
+            "Basarios",
+            "Hornetaur"
+        ],
         "goal-condition": "Hunt the Basarios",
         "client": "Illegal Middleman",
         "quest-details": "Off the record, I want you to hunt the Basarios down. You can tell the Guild that you failed and then sell the materials you get wholesale. Hmm? Oh no, this is a real request from the Guild...",
@@ -136,7 +168,10 @@
         "contract-fee": 1150,
         "time-limit": 50,
         "location": "Old Jungle",
-        "main-monsters": "Khezu, Ioprey",
+        "main-monsters": [
+            "Khezu",
+            "Ioprey"
+        ],
         "goal-condition": "Hunt the Khezu",
         "client": "Madam Merchant",
         "quest-details": "Just when I thought that maybe this time the peace would last, this happens! As long as that Khezu just sits there, we can't get out of the Old Jungle. Please, come to our rescue, hunter!",
@@ -149,7 +184,10 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Snowy Mountains (Day)",
-        "main-monsters": "Red Khezu, Giadrome",
+        "main-monsters": [
+            "Red Khezu",
+            "Giadrome"
+        ],
         "goal-condition": "Hunt the Red Khezu",
         "client": "Uncomfortable Butler",
         "quest-details": "I've always longed to venture into the Snowy Mountains! I think I could hunt down an Anteka, but I could never fight a wyvern. Maybe you could take care of a special monster for me...",
@@ -162,7 +200,10 @@
         "contract-fee": 1200,
         "time-limit": 50,
         "location": "Swamp (Day)",
-        "main-monsters": "Multiple Congalalas, Conga",
+        "main-monsters": [
+            "Congalalas",
+            "Conga"
+        ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Selfish Landowner",
         "quest-details": "A large number of Congalalas are congregating in the Swamp and I want you to hunt them down. You must get rid of at least 2 of those horrid things for me. I won't accept any less!",
@@ -175,7 +216,10 @@
         "contract-fee": 1200,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Multiple Daimyo Hermitaurs, Hermitaur",
+        "main-monsters": [
+            "Daimyo Hermitaurs",
+            "Hermitaur"
+        ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Tanned Fisherman",
         "quest-details": "Help! There has been an explosion of so many Daimyo Hermitaurs near our fishing grounds that we can't handle things by ourselves! Get rid of as many as you can so we can get back to fishing!",
@@ -188,7 +232,10 @@
         "contract-fee": 1400,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Yian Kut-Ku, Daimyo Hermitaur",
+        "main-monsters": [
+            "Yian Kut-Ku",
+            "Daimyo Hermitaur"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Gutsy Youth",
         "quest-details": "So I hear a Yian Kut-Ku and a Daimyo Hermitaur are in the Jungle. Sounds like a job for me! Don't worry, if you fail I'll mop them up for you. You can count on it!",
@@ -201,7 +248,10 @@
         "contract-fee": 2400,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "Monoblos, White Monoblos",
+        "main-monsters": [
+            "Monoblos",
+            "White Monoblos"
+        ],
         "goal-condition": "Hunt the Monoblos and the White Monoblos",
         "client": "Pretty Mantled Lady",
         "quest-details": "An ancient wall painting our country was researching was destroyed by a Monoblos, and as an art-lover, I won't stand for it! My father can't spare any soldiers, so you're my only hope!",
@@ -214,7 +264,10 @@
         "contract-fee": 1000,
         "time-limit": 50,
         "location": "Great Arena",
-        "main-monsters": "Iodrome, Remobra",
+        "main-monsters": [
+            "Iodrome",
+            "Remobra"
+        ],
         "goal-condition": "Slay 15 Remobras",
         "client": "Deserted Areana Manager",
         "quest-details": "I went to open up the little arena that hasn't been used in a while one morning, and I find that it's been turned into a Remobra nest! Please, I need you to help me clear them out!",
@@ -227,7 +280,10 @@
         "contract-fee": 1750,
         "time-limit": 50,
         "location": "Great Forest (Night)",
-        "main-monsters": "2 Hypnocatrices",
+        "main-monsters": [
+            "Hypnocatrice",
+            "Hypnocatrice"
+        ],
         "goal-condition": "Hunt 2 Hypnocatrices",
         "client": "Short Hair Mantled Girl",
         "quest-details": "I got a request to hunt some Hypnocatrices, but I have so many other things to do that I can't handle it all. Can you handle it in my stead, please? ...But please keep this a secret, OK?",
@@ -240,7 +296,10 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "Plesioth, Cephalos",
+        "main-monsters": [
+            "Plesioth",
+            "Cephalos"
+        ],
         "goal-condition": "Hunt the Plesioth",
         "client": "Old Desert Weapon Smiths",
         "quest-details": "We've received a rescue request from a poacher out hunting the Plesioth of the underground lake in the Old Desert. We ask that you please hold the Plesioth off while we rescue the person.",
@@ -253,7 +312,10 @@
         "contract-fee": 1800,
         "time-limit": 50,
         "location": "Old Jungle",
-        "main-monsters": "2 Green Plesioth",
+        "main-monsters": [
+            "Green Plesioth",
+            "Green Plesioth"
+        ],
         "goal-condition": "Hunt 2 Green Plesioth",
         "client": "Hasty High Official",
         "quest-details": "Help! I've received word that a Green Plesioth has appeared along our Queen's route to another land. Please take care of it in secret for us before she enters the area!",
@@ -266,7 +328,10 @@
         "contract-fee": 1300,
         "time-limit": 50,
         "location": "Forest & Hills (Night)",
-        "main-monsters": "Yian Garuga, Great Thunderbug",
+        "main-monsters": [
+            "Yian Garuga",
+            "Great Thunderbug"
+        ],
         "goal-condition": "Hunt the Yian Garuga",
         "client": "Mantled Lone Hunter",
         "quest-details": "Phew... I barely made it out alive from that Yian Garuga. I'll tell you what. You keep it a secret and I'll let you know where you can find this sly, coll-headed beast. Have we got a deal?",
@@ -279,7 +344,10 @@
         "contract-fee": 1300,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Monoblos, Cephalos",
+        "main-monsters": [
+            "Monoblos",
+            "Cephalos"
+        ],
         "goal-condition": "Hunt the Monoblos",
         "client": "Kokoto Village Chief",
         "quest-details": "This is a request to the virtuous hunters of Pokke. A Monoblos is tearing through the desert near my village of Kokoto. Please hunt it down for us!",
@@ -292,7 +360,10 @@
         "contract-fee": 2400,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "Monoblos, White Monoblos",
+        "main-monsters": [
+            "Monoblos",
+            "White Monoblos"
+        ],
         "goal-condition": "Hunt the Monoblos and the White Monoblos",
         "client": "Pretty Mantled Lady",
         "quest-details": "An ancient wall painting our country was researching was destroyed by a Monoblos, and as an art-lover, I won't stand for it! My father can't spare any soldiers, so you're my only hope!",
@@ -305,7 +376,10 @@
         "contract-fee": 1200,
         "time-limit": 50,
         "location": "Forest & Hills (Day)",
-        "main-monsters": "Multiple Yian Kut-Ku, Multiple Blue Yian Kut-Ku",
+        "main-monsters": [
+            "Yian Kut-Ku",
+            "Blue Yian Kut-Ku"
+        ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Rilled Villagers",
         "quest-details": "Aaaah!! A Kut-Ku here and a Kut-Ku there! The hillside is covered in a confusion of red and blue! We don't care if you have to get rid of them one at a time, but please, just do it!",
@@ -318,7 +392,9 @@
         "contract-fee": 1350,
         "time-limit": 50,
         "location": "Old Volcano",
-        "main-monsters": "Multiple Basarios",
+        "main-monsters": [
+            "Basarios"
+        ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Unlucky Journey Lady",
         "quest-details": "I was hiding from a Basarios behind some boundlers when it turned out to be another one! I though I could hide behind some other boulders ahead of me, but it was yet another one! Somebody, help!",
@@ -331,7 +407,10 @@
         "contract-fee": 1500,
         "time-limit": 50,
         "location": "Volcano (Day)",
-        "main-monsters": "Multiple Shogun Ceanataurs, Ceanataur Battalion",
+        "main-monsters": [
+            "Shogun Ceanataur",
+            "Ceanataur"
+        ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Mantled Lady",
         "quest-details": "I've had the pleasure of tasting some exotic foods in my social circles, and I'm afraid I've grown fond of Shogun meat. They're experiencing a population boom, so what better timing?",
@@ -344,7 +423,10 @@
         "contract-fee": 1500,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "Multiple Blangongas, Blango Pack",
+        "main-monsters": [
+            "Blangonga",
+            "Blango"
+        ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Mantled Lady In Green",
         "quest-details": "My request is this: Please hunt down a few Blangongas in a row! The beasts are too hard for the hunters of my village, so please keep this a secret and spare their pride. Good luck!",
@@ -357,7 +439,10 @@
         "contract-fee": 2200,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Plesioth, White Monoblos",
+        "main-monsters": [
+            "Plesioth",
+            "White Monoblos"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Guild Messenger",
         "quest-details": "We've received word that an airship made an emergency landing in the Desert, but a Monoblos often walks through the area, and the desert lake is home to a Plesioth. Please hurry to the hunt!",
@@ -370,7 +455,10 @@
         "contract-fee": 2000,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Congalala, Shogun Ceanataur",
+        "main-monsters": [
+            "Congalala",
+            "Shogun Ceanataur"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Oblivious Daughter",
         "quest-details": "I spotted that Congalala I ran into last time fighting ferociously with Mr. Crab in the Swamp. I don't want anyone else to suffer as I have, so please do something about them both!",
@@ -383,7 +471,10 @@
         "contract-fee": 2000,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Gypceros, Hypnocatrice",
+        "main-monsters": [
+            "Gypceros",
+            "Hypnocatrice"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Jungle Town Diplomat",
         "quest-details": "The Jungle is naturally foggy, but this time, there was something unusual in the air. As it turned out, it's the fault of two monsters in particular. I wonder if you could hunt them down for us?",
@@ -396,7 +487,10 @@
         "contract-fee": 2200,
         "time-limit": 50,
         "location": "Old Jungle",
-        "main-monsters": "Khezu, Green Plesioth",
+        "main-monsters": [
+            "Khezu",
+            "Green Plesioth"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Honest Retainer",
         "quest-details": "Recently, travelers through the Old Jungle have been disappearing... and we'd like for you to look into this. We believe this to be the work of monsters, but we would like confirmation.",
@@ -409,7 +503,9 @@
         "contract-fee": 1700,
         "time-limit": 50,
         "location": "Town",
-        "main-monsters": "Kushala Daora",
+        "main-monsters": [
+            "Kushala Daora"
+        ],
         "goal-condition": "Slay the Kushala Daora",
         "client": "Guild Master",
         "quest-details": "A brown Kushala Daora is rapidly closing on the town. Scouts report that outlying areas have already been razed. If we don't stop this dragon, our town will be annihilated! We need you!",
@@ -422,7 +518,9 @@
         "contract-fee": 1900,
         "time-limit": 50,
         "location": "Desert (Night)",
-        "main-monsters": "Lunastra",
+        "main-monsters": [
+            "Lunastra"
+        ],
         "goal-condition": "Slay the Lunastra",
         "client": "Fallen Aristocrat",
         "quest-details": "A perfectly clear desert night sky opened up and she descended down upon me... Her form was that of a breathtaking shooting star. Surely, I am to be her king. Come, she mustn't escape me!",
@@ -435,7 +533,9 @@
         "contract-fee": 1900,
         "time-limit": 50,
         "location": "Volcano (Day)",
-        "main-monsters": "Lunastra",
+        "main-monsters": [
+            "Lunastra"
+        ],
         "goal-condition": "Slay the Lunastra",
         "client": "Elder Dragon Scholar",
         "quest-details": "We've received a communique from headquarters. An elder dragon has appeared in the Volcanic Belt. Fight the dragon and collect data on its behavior!",
@@ -448,7 +548,9 @@
         "contract-fee": 4000,
         "time-limit": 50,
         "location": "Fortress",
-        "main-monsters": "Ash Lao-Shan Lung",
+        "main-monsters": [
+            "Ashen Lao-Shan Lung"
+        ],
         "goal-condition": "Defend the Fortress from Lao-Shan Lung",
         "client": "Guild Master",
         "quest-details": "It seems that once again our land is in crisis. The giant elder dragon Lao-Shan Lung is approaching the village from the mountains. Head to the fort and defend our way of life!",
@@ -461,7 +563,10 @@
         "contract-fee": 1500,
         "time-limit": 50,
         "location": "Great Forest (Day)",
-        "main-monsters": "Nargacuga, Kelbi",
+        "main-monsters": [
+            "Nargacuga",
+            "Kelbi"
+        ],
         "goal-condition": "Hunt the Nargacuga",
         "client": "Brave Mantled Youth",
         "quest-details": "I couldn't sit by while the Nargacuga hurt our people, so I snuck out the go slay it... and failed. I can't face my father like this, so please defeat it for me in secret!",
@@ -474,7 +579,10 @@
         "contract-fee": 1500,
         "time-limit": 50,
         "location": "Great Forest (Day)",
-        "main-monsters": "Nargacuga, Kelbi",
+        "main-monsters": [
+            "Nargacuga",
+            "Kelbi"
+        ],
         "goal-condition": "Hunt the Nargacuga",
         "client": "Brave Mantled Youth",
         "quest-details": "I couldn't sit by while the Nargacuga hurt our people, so I snuck out the go slay it... and failed. I can't face my father like this, so please defeat it for me in secret!",
@@ -487,7 +595,10 @@
         "contract-fee": 1500,
         "time-limit": 50,
         "location": "Old Jungle",
-        "main-monsters": "Nargacuga, Aptonoth",
+        "main-monsters": [
+            "Nargacuga",
+            "Aptonoth"
+        ],
         "goal-condition": "Hunt the Nargacuga",
         "client": "Bearded Soldier",
         "quest-details": "Our head drill sergeant was attacked while out on an expedition in the Old Jungle by an unknown assailant. We think it's probably a monster, but we require the assistance of a hunter!",
@@ -500,7 +611,10 @@
         "contract-fee": 2500,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "2 Tigrex",
+        "main-monsters": [
+            "Tigrex",
+            "Tigrex"
+        ],
         "goal-condition": "Hunt 2 Tigrex",
         "client": "Red & Black Mantled Pair",
         "quest-details": "We're the Mysterious Duo, able to silence even the crying of kids! Normally, the Tigrex is nothing to us, but our stomachs are acting up a bit today, so help us out...? Owahahaha! Hahaha!",
@@ -513,7 +627,10 @@
         "contract-fee": 1450,
         "time-limit": 50,
         "location": "Old Volcano",
-        "main-monsters": "Rathalos, Ioprey",
+        "main-monsters": [
+            "Rathalos",
+            "Ioprey"
+        ],
         "goal-condition": "Hunt the Rathalos",
         "client": "Mighty Mountain Monks",
         "quest-details": "Unbelievably, the king of all wyverns has appeared in the Old Volcano belt. To protect our temple, we went to fight it, but to no avail. Please, we humbly ask for your assistance, hunter!",
@@ -526,7 +643,10 @@
         "contract-fee": 1350,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "Rathian, Genprey",
+        "main-monsters": [
+            "Rathian",
+            "Genprey"
+        ],
         "goal-condition": "Hunt the Rathian",
         "client": "Healed Hunter",
         "quest-details": "Wow, nothing like a hunting ground to get the blood pumping and the spirit ready for the hunt! Unfortunately, while I've been gone, the requests have been pilling up. Can you lend me a hand!?",
@@ -539,7 +659,10 @@
         "contract-fee": 3000,
         "time-limit": 50,
         "location": "Forest & Hills (Night)",
-        "main-monsters": "Azure Rathalos, Pink Rathian",
+        "main-monsters": [
+            "Azure Rathalos",
+            "Pink Rathian"
+        ],
         "goal-condition": "Hunt the Azure Rathalos and the Pink Rathian",
         "client": "Sharp Witted Gentleman",
         "quest-details": "The azure sky-king and the pink, earthly queen. Whoever successfully hunts them both shall be known as the King of Hunters. I await your return with a glass held high!",
@@ -552,7 +675,10 @@
         "contract-fee": 1450,
         "time-limit": 50,
         "location": "Desert (Night)",
-        "main-monsters": "Diablos, Genprey",
+        "main-monsters": [
+            "Diablos",
+            "Genprey"
+        ],
         "goal-condition": "Hunt the Diablos",
         "client": "Wounded Hunter",
         "quest-details": "An, I tried to slay it, but I was in way over my head. Still, I can't let it go, so I ask that if you have the courage to face this beast, to please step forward.",
@@ -565,7 +691,10 @@
         "contract-fee": 2700,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "2 Black Diablos",
+        "main-monsters": [
+            "Black Diablos",
+            "Black Diablos"
+        ],
         "goal-condition": "Hunt 2 Black Diablos",
         "client": "Bandaged-Wrapped Man",
         "quest-details": "I saw four black towers rising up on the dunes... I know what I saw! It was no dream, but reality! Please, save the Old Desert Town and my two dear daughters from those menaces!",
@@ -578,7 +707,10 @@
         "contract-fee": 1450,
         "time-limit": 50,
         "location": "Old Volcano",
-        "main-monsters": "Gravios, Iodrome",
+        "main-monsters": [
+            "Gravios",
+            "Iodrome"
+        ],
         "goal-condition": "Hunt the Gravios",
         "client": "Friendly Head Knight",
         "quest-details": "Even us knights can't stand up to the Gravios's mighty heat ray. I know this is a big request, but can you please go and hunt this armored beast in our stead?",
@@ -591,7 +723,10 @@
         "contract-fee": 2700,
         "time-limit": 50,
         "location": "Old Volcano",
-        "main-monsters": "2 Black Gravios",
+        "main-monsters": [
+            "Black Gravios",
+            "Black Gravios"
+        ],
         "goal-condition": "Hunt 2 Black Gravios",
         "client": "Guild Retiree",
         "quest-details": "All of the hunters who have taken on this request have fallen one by one, until there was no one left who would even consider it. 'Tis lamentable, no? Is ther no one who has the guts to try?",
@@ -604,7 +739,9 @@
         "contract-fee": 1650,
         "time-limit": 50,
         "location": "Tower",
-        "main-monsters": "Silver Rathalos",
+        "main-monsters": [
+            "Silver Rathalos"
+        ],
         "goal-condition": "Hunt the Silver Rathalos",
         "client": "Hunchbacked Old Lady",
         "quest-details": "I'll tell you about a secret hunting ground, I will. It doesn't matter if it's day or night, the silver sun always shines, giving would-be hunters a good workout... Heh, heh, heh...!",
@@ -617,7 +754,9 @@
         "contract-fee": 1550,
         "time-limit": 50,
         "location": "Tower",
-        "main-monsters": "Gold Rathian",
+        "main-monsters": [
+            "Gold Rathian"
+        ],
         "goal-condition": "Hunt the Gold Rathian",
         "client": "Well-Dressed Youth",
         "quest-details": "We were dazed and lost in a haze for days when we came upon a mysterious land. There, we spied a golden moon. If I tell you the location, will you look into the area for me in secret?",
@@ -630,7 +769,10 @@
         "contract-fee": 3250,
         "time-limit": 50,
         "location": "Old Swamp",
-        "main-monsters": "Silver Rathalos, Gold Rathian",
+        "main-monsters": [
+            "Silver Rathalos",
+            "Gold Rathian"
+        ],
         "goal-condition": "Hunt the Silver Rathalos and the Gold Rathian",
         "client": "Big-Nosed Mantle Man",
         "quest-details": "A gold- and silver-colored wyvern have taken over the area our village was going to develop. We'd like to keep this area a secret, even from hunters we know, so we're counting on you!",
@@ -643,7 +785,9 @@
         "contract-fee": 1650,
         "time-limit": 50,
         "location": "Volcano (Night)",
-        "main-monsters": "Rajang",
+        "main-monsters": [
+            "Rajang"
+        ],
         "goal-condition": "Hunt the Rajang",
         "client": "Big-Voiced Mantled Man",
         "quest-details": "Wahaha! It is I, the Mystery Man! I came here to drive the Intructor's Rajang crazy and to hinder the progress of his students! So, come on, take my job! It can be our secret. Wahaha!",
@@ -656,7 +800,10 @@
         "contract-fee": 1500,
         "time-limit": 50,
         "location": "Old Jungle",
-        "main-monsters": "Kirin, Great Hunderbug",
+        "main-monsters": [
+            "Kirin",
+            "Great Hunderbug"
+        ],
         "goal-condition": "Slay the Kirin",
         "client": "Practicality Scholar",
         "quest-details": "There's something causing lightning strikes in the heart of the Old Jungle. My theory is that this is proof that the mythical beast has come out of hiding. Isn't it absolutely fascinating?",
@@ -669,7 +816,10 @@
         "contract-fee": 2350,
         "time-limit": 50,
         "location": "Snowy Mountains (Day)",
-        "main-monsters": "Blangonga, Tigrex",
+        "main-monsters": [
+            "Blangonga",
+            "Tigrex"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Base Village Elder",
         "quest-details": "Recently, the weather around the Snowy Mountains has been bad nonstop. Further, the monsters are hungry from a lack of food, and have started to violently attack each other. Please help us!",
@@ -682,7 +832,10 @@
         "contract-fee": 2350,
         "time-limit": 50,
         "location": "Volcano (Day)",
-        "main-monsters": "Gravios, Shogun Ceanataur",
+        "main-monsters": [
+            "Gravios",
+            "Shogun Ceanataur"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Princess's Attendant",
         "quest-details": "The princess has run off by herself to dig up some jewels in the Volcano! If someone were to find out, it would cause a huge stink. We haven't a moment to lose. Please set out at once!",
@@ -695,7 +848,11 @@
         "contract-fee": 2600,
         "time-limit": 50,
         "location": "Forest & Hills (Night)",
-        "main-monsters": "Yian Kut-Ku, Hypnocatrice, Yian Garuga",
+        "main-monsters": [
+            "Yian Kut-Ku",
+            "Hypnocatrice",
+            "Yian Garuga"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Bitterly Unlucky Journey Lady",
         "quest-details": "I absolutely hate birds. I hate their voices, their beaks, their eyes -- every-thing! And just my luck, 3 brid-like monster lieve right next to my house. ARGH! Please help me!",
@@ -708,7 +865,11 @@
         "contract-fee": 2800,
         "time-limit": 50,
         "location": "Old Desert",
-        "main-monsters": "Monoblos, Daimyo Hermitaur, Rathian",
+        "main-monsters": [
+            "Monoblos",
+            "Daimyo Hermitaur",
+            "Rathian"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Half-Wild Mercenary",
         "quest-details": "The scorching sands reveal a Monoblos while a Daimyo surfaces from underground and the roar of a Rathian echoes overhead. This isn't a request, but a warning. If you head out, return safely!",
@@ -721,7 +882,9 @@
         "contract-fee": 1800,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Chameleos",
+        "main-monsters": [
+            "Chameleos"
+        ],
         "goal-condition": "Slay the Chameleos",
         "client": "Jungle Ancient",
         "quest-details": "People think it's impossible to fight an enemy you cannot see, however, if one were to focus and \"see\" with your gut instinct.. Well, if all else fails, just swing your weapon round and round!",
@@ -734,7 +897,9 @@
         "contract-fee": 1800,
         "time-limit": 50,
         "location": "Forest & Hills (Day)",
-        "main-monsters": "Chameleos",
+        "main-monsters": [
+            "Chameleos"
+        ],
         "goal-condition": "Slay the Chameleos",
         "client": "Injured Hero",
         "quest-details": "Our intuition told us to turn around, but we thought no onw was there... Yet even though no one should've been there, we were attacked from behind! Beware! It was an enemy never before seen!",
@@ -747,7 +912,9 @@
         "contract-fee": 2000,
         "time-limit": 50,
         "location": "Town",
-        "main-monsters": "Teostra",
+        "main-monsters": [
+            "Teostra"
+        ],
         "goal-condition": "Slay the Teostra",
         "client": "Ill-ReputedInformant",
         "quest-details": "The Teostra's hideaway can only be found during the darkest hour, but I have done it. Now, if you can keep a secret, I'll tell you where it is, and of course you will be well rewarded...",
@@ -760,7 +927,9 @@
         "contract-fee": 2000,
         "time-limit": 50,
         "location": "Town",
-        "main-monsters": "Teostra",
+        "main-monsters": [
+            "Teostra"
+        ],
         "goal-condition": "Slay the Teostra",
         "client": "Guild Manager",
         "quest-details": "The Town is under attack from the Teostra! Casualties are high and it's only a matter of time before the town falls. We'll pay you whatever you ask; just hurry to their aid!",
@@ -773,7 +942,10 @@
         "contract-fee": 4000,
         "time-limit": 35,
         "location": "Fortress",
-        "main-monsters": "Shen Gaoren, Ioprey",
+        "main-monsters": [
+            "Shen Gaoren",
+            "Ioprey"
+        ],
         "goal-condition": "Defend the Fortress from Shen Gaoren",
         "client": "Mantled Giant",
         "quest-details": "Hmm... This is quite serious. The fort which lies at the heart of our defenses is under siege by a giant monster. We need your strength to hold our position!",
@@ -786,7 +958,12 @@
         "contract-fee": 7000,
         "time-limit": 50,
         "location": "Great Arena",
-        "main-monsters": "Rathalos, Tigrex, Nargacuga, Rajang",
+        "main-monsters": [
+            "Rathalos",
+            "Tigrex",
+            "Nargacuga",
+            "Rajang"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Red-Clad Knight",
         "quest-details": "I'm overjoyed at the chance to see a hunter as skilled as yourself. I sense that should you complete this final quest, you will come to know the true meaning of a hunter's life!",
@@ -799,7 +976,9 @@
         "contract-fee": 6000,
         "time-limit": 50,
         "location": "Battleground",
-        "main-monsters": "Akantor",
+        "main-monsters": [
+            "Akantor"
+        ],
         "goal-condition": "Slay the Akantor",
         "client": "Popular Mantled Man",
         "quest-details": "We finally have the might Akantor cornered in the Volcano, but our forces are exhausted and there is mass confusion. Please, I humbly request that you secretly slay the beast for us!",

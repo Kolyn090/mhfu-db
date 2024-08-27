@@ -6,7 +6,10 @@
         "contract-fee": 0,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "Giadrome, Blango",
+        "main-monsters": [
+            "Giadrome",
+            "Blango"
+        ],
         "goal-condition": "Time Over or Deliver the Paw Pass Ticket",
         "client": "Pokke Village Chief",
         "quest-details": "A nighttime gathering quest in the Snowy Mountains. GAther all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Be careful Large monsters lurk nearby!",
@@ -19,7 +22,10 @@
         "contract-fee": 0,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Yian Kut-Ku, Hornetaur",
+        "main-monsters": [
+            "Yian Kut-Ku",
+            "Hornetaur"
+        ],
         "goal-condition": "Time Over or Deliver the Paw Pass Ticket",
         "client": "Pokke Village Chief",
         "quest-details": "A nighttime gathering quest in the Jungle. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Be carefull Large Monster lurk nearby!",
@@ -32,7 +38,10 @@
         "contract-fee": 0,
         "time-limit": 50,
         "location": "Desert (Night)",
-        "main-monsters": "Daimyo Hermitaur, Genprey",
+        "main-monsters": [
+            "Daimyo Hermitaur",
+            "Genprey"
+        ],
         "goal-condition": "Time Over or Deliver the Paw Pass Ticket",
         "client": "Pokke Village Chief",
         "quest-details": "A nighttime gathering quest in the Desert. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Be carefull Large monster lurk nearby!",
@@ -45,7 +54,10 @@
         "contract-fee": 350,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "Giadrome, Blango",
+        "main-monsters": [
+            "Giadrome",
+            "Blango"
+        ],
         "goal-condition": "Hunt the Giadrome",
         "client": "Spirited Boy",
         "quest-details": "Within a group of the ally carnivorous Giaprey, there is a leader. They call is the Giadrome. I need a hunter's strength to show that pack of beasts and their leader who's boss!",
@@ -58,7 +70,10 @@
         "contract-fee": 400,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "Bulldrome, Blango",
+        "main-monsters": [
+            "Bulldrome",
+            "Blango"
+        ],
         "goal-condition": "Hunt the Bulldrome",
         "client": "Troubled Father",
         "quest-details": "My son decided to become a hunter and ran off after a Bulldrome on his own! Of course, now the tables have turned and I'm worried! Hunt down the Bulldrome on the Snowy Mountains!",
@@ -71,7 +86,10 @@
         "contract-fee": 420,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "2 Velocidromes",
+        "main-monsters": [
+            "Velocidrome",
+            "Velocidrome"
+        ],
         "goal-condition": "Hunt 2 Velocidromes",
         "client": "Village Children",
         "quest-details": "All the children in the village have gatherd their allowances to pay you to get rid of two carnivores. Our parents couldn't do it, so it's up to you to defend our fields and animals!",
@@ -84,7 +102,10 @@
         "contract-fee": 420,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Daimyo Hermitaur, Hornetaur",
+        "main-monsters": [
+            "Daimyo Hermitaur",
+            "Hornetaur"
+        ],
         "goal-condition": "Hunt the Daiymo Hermitaur",
         "client": "Unvomfortable Butler",
         "quest-details": "I've always longed to go hunting in the Jungle! However, if a huge monster appeared, I'd be finished! Maybe you could take out the Daimyo Hermitaur for me?",
@@ -97,7 +118,10 @@
         "contract-fee": 420,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "2 Gendrome",
+        "main-monsters": [
+            "Gendrome",
+            "Gendrome"
+        ],
         "goal-condition": "Hunt 2 Gendromes",
         "client": "Desert Lover",
         "quest-details": "There appears to be two Gendrome among the pack of Genprey ravaging the Desert. This has caused the Genprey to become frenzied and attack humans. You must get rid of the leaders!",
@@ -110,7 +134,10 @@
         "contract-fee": 400,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Cephadrome, Genprey",
+        "main-monsters": [
+            "Cephadrome",
+            "Genprey"
+        ],
         "goal-condition": "Hunt the Cephadrome",
         "client": "Desert Millionaire",
         "quest-details": "A giant sand wyvern has appeared in the Desrt along with a pack of Genprey. Forget about the Genprey, but take care of the Cephadrome so the merchants can return to work!",
@@ -123,7 +150,10 @@
         "contract-fee": 620,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "2 Daimyo Hermitaurs",
+        "main-monsters": [
+            "Daimyo Hermitaur",
+            "Daimyo Hermitaur"
+        ],
         "goal-condition": "Hunt 2 Daimyo Hermitaurs",
         "client": "The Lady Gourmet",
         "quest-details": "I am a true connoisseur of crab cuisine, and so such a connoisseur. I suspect the Daimyo Hermitaur found in the Desert are incredibly tasty! One is never enough, so hunt down two!",
@@ -136,7 +166,10 @@
         "contract-fee": 600,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Yian Kut-Ku, Blue Yian Kut-Ku",
+        "main-monsters": [
+            "Yian Kut-Ku",
+            "Blue Yian Kut-Ku"
+        ],
         "goal-condition": "Hunt the Yian Kut-Ku and Blue Yian Kut-Ku",
         "client": "Beautiful Lady",
         "quest-details": "The Yian Kut-Ku are circling, screaming in their shrill voices. Everyone is trapped inside the town! Please do something!",
@@ -149,7 +182,10 @@
         "contract-fee": 420,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Congalala, Bulldrome",
+        "main-monsters": [
+            "Congalala",
+            "Bulldrome"
+        ],
         "goal-condition": "Hunt the Congalala",
         "client": "The Skinny Lord",
         "quest-details": "I asked some hunters to slay a Congalala for me; however, they met defeat at the hooves of a Bulldrome. I didn't think it would come to this, but I need your help!",
@@ -162,7 +198,10 @@
         "contract-fee": 380,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Vespoid Queen, Vespoid",
+        "main-monsters": [
+            "Vespoid Queen",
+            "Vespoid"
+        ],
         "goal-condition": "Hunt the Queen Vespoid",
         "client": "Jungle Researcher",
         "quest-details": "It's no use. No matter where I look, I can't seem to find the Vespoid Queen! Perhaps if you slayed a large number of vespoids to make her feel that her swam was in grave danger, she migh appear...",
@@ -175,7 +214,10 @@
         "contract-fee": 2000,
         "time-limit": 35,
         "location": "Fortress",
-        "main-monsters": "Ash Lao-Shan Lung, Ioprey",
+        "main-monsters": [
+            "Ash Lao-Shan Lung",
+            "Ioprey"
+        ],
         "goal-condition": "Defend the Fortess from Ashen Lao-Shan Lung",
         "client": "Guild Master",
         "quest-details": "It seems that once again our land is in crisis. The giant elder dragon Lao-Shan Lung is approaching the village from the Mountains. Head to the fort and defend our way of life!",
@@ -188,7 +230,10 @@
         "contract-fee": 0,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Gypceros, Hornetaur",
+        "main-monsters": [
+            "Gypceros",
+            "Hornetaur"
+        ],
         "goal-condition": "Time Over or Deliver the Paw Pass Ticket",
         "client": "Pokke Village Chief",
         "quest-details": "A nighttime gathering quest in the Swamp. Gather all the matrials you can from the field, then deliver the Paw Pass Ticket to finish up. Be carefull Larger monsters lurk nearby",
@@ -201,7 +246,10 @@
         "contract-fee": 0,
         "time-limit": 50,
         "location": "Forest and Hills (Night)",
-        "main-monsters": "Blue Yian Kut-Ku, Velociprey",
+        "main-monsters": [
+            "Blue Yian Kut-Ku",
+            "Velociprey"
+        ],
         "goal-condition": "Time Over or Deliver the Paw Pass Ticket",
         "client": "Pokke Village Chief",
         "quest-details": "A nighttime gathering quest in the Forest and Hills (Night). Gather all the matrials you can from the field, then deliver the Paw Pass Ticket to finish up. Be carfull Large monsters lurk nearby!",
@@ -214,7 +262,9 @@
         "contract-fee": 0,
         "time-limit": 50,
         "location": "Volcano (Night)",
-        "main-monsters": "Basarios",
+        "main-monsters": [
+            "Basarios"
+        ],
         "goal-condition": "Time Over or Deliver the Paw Pass Ticket",
         "client": "Pokke Village Chief",
         "quest-details": "A nighttime gathering quest in the Volcanic Zone. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Be carefull Large monsters lurk nearby!",
@@ -227,7 +277,10 @@
         "contract-fee": 1000,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "2 Blangongas",
+        "main-monsters": [
+            "Blangonga",
+            "Blangonga"
+        ],
         "goal-condition": "Hunt 2 Blangongas",
         "client": "Alpine Survivor",
         "quest-details": "It happened in an instant... Two Blangongas destroyed all the trees around my house. Now all I want to do is hunt them down so I can get my revenge. Please help me!",
@@ -240,7 +293,10 @@
         "contract-fee": 620,
         "time-limit": 50,
         "location": "Snowy Mountains (Day)",
-        "main-monsters": "Blangonga, Bulldrome",
+        "main-monsters": [
+            "Blangonga",
+            "Bulldrome"
+        ],
         "goal-condition": "Hunt the Blangonga",
         "client": "Foothills Villager",
         "quest-details": "A Blangonga has staked its claim to a piece of the Snowy Mountains. Now we can't enter the area to gather firewood. Exterminate the Blangonga!",
@@ -253,7 +309,10 @@
         "contract-fee": 520,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "Khezu, Bulldrome",
+        "main-monsters": [
+            "Khezu",
+            "Bulldrome"
+        ],
         "goal-condition": "Hunt the Khezu",
         "client": "Shocked Child",
         "quest-details": "I wanted to test myself, so I went off in seatch of spotting a Bulldrome in the Snowy Mountains. But all of a sudden, a weird wyver appeared and it shocked me! I'm still smoking!",
@@ -266,7 +325,9 @@
         "contract-fee": 620,
         "time-limit": 50,
         "location": "Swamp (Day)",
-        "main-monsters": "Red Khezu",
+        "main-monsters": [
+            "Red Khezu"
+        ],
         "goal-condition": "Hunt the Red Khezu",
         "client": "Uncomfortable Butler",
         "quest-details": "I've always longed to venture into the Swamp! I think I could hunt down a Kelbi, but I could never fight a wyvern. Maybe you'd take care of this special monster for me...",
@@ -279,7 +340,10 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Gypceros, Purple Gypceros",
+        "main-monsters": [
+            "Gypceros",
+            "Purple Gypceros"
+        ],
         "goal-condition": "Hunt the Gypceros and Purple Gypceros",
         "client": "Poisoned Soldier",
         "quest-details": "*Cough* While I was practicing in the Jungle, I was attacked by two poison wyverns! You can see their thick poison gas before your very eyes... They are tough, please defeat them! *Cough*",
@@ -292,7 +356,10 @@
         "contract-fee": 870,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Plesioth, Green Plesioth",
+        "main-monsters": [
+            "Plesioth",
+            "Green Plesioth"
+        ],
         "goal-condition": "Hunt the Plesioth and Green Plesioth",
         "client": "Lovely Princess",
         "quest-details": "The water wyvern known as Plesioth is raging in the Jungle. And not just one of them! Head off immediately to slay them!",
@@ -305,7 +372,10 @@
         "contract-fee": 620,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Rathian, Velocidrome",
+        "main-monsters": [
+            "Rathian",
+            "Velocidrome"
+        ],
         "goal-condition": "Hunt the Rathian",
         "client": "Caravan Leader",
         "quest-details": "My caravan was wiped out by the queen of the skies, the killder Rathian! I'll pay you whatever you ask if you hunt down that foul creature! Help me kind hunter, you're my only hope!",
@@ -318,7 +388,9 @@
         "contract-fee": 570,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Plesioth",
+        "main-monsters": [
+            "Plesioth"
+        ],
         "goal-condition": "Hunt the Plesioth",
         "client": "Proud Hunter",
         "quest-details": "I found a giant water wyvern in a cave in the Desert! I cna't defeat it because it stays underwater. Slay it for me and the glory is all yours!",
@@ -331,7 +403,10 @@
         "contract-fee": 620,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Green Plesioth, Gendrome",
+        "main-monsters": [
+            "Green Plesioth",
+            "Gendrome"
+        ],
         "goal-condition": "Hunt the Green Plesioth",
         "client": "The Old Misanthrope",
         "quest-details": "The lake underneath the Desert is connected to an underground river and patrolled by a green-scaled water wyvern... If you are truly a hunter, then it should pose no problem.",
@@ -344,7 +419,10 @@
         "contract-fee": 500,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Iodrome, Bulldrome",
+        "main-monsters": [
+            "Iodrome",
+            "Bulldrome"
+        ],
         "goal-condition": "Hunt the Iodrome",
         "client": "Mercenary Officer",
         "quest-details": "The Swamp's poison is mixing with the Iodrome's poison... It is a terrible scene! We need a professional hunter to assist us... Show us your skills!",
@@ -357,7 +435,10 @@
         "contract-fee": 620,
         "time-limit": 50,
         "location": "Swamp (Day)",
-        "main-monsters": "Shogun Ceanataur, Bulldrome",
+        "main-monsters": [
+            "Shogun Ceanataur",
+            "Bulldrome"
+        ],
         "goal-condition": "Hunt the Shogun Cenataur",
         "client": "Scheming Strategist",
         "quest-details": "Huntesr! It is time to hunt down the Shogun Cenataur. Let us rid the Swamp Zone of this menace and expand our strategic possibilities. This is a highly classified hunt. So don't tell a soul!",
@@ -370,7 +451,10 @@
         "contract-fee": 550,
         "time-limit": 50,
         "location": "Swamp (Day)",
-        "main-monsters": "Purple Gypceros, Bulldrome",
+        "main-monsters": [
+            "Purple Gypceros",
+            "Bulldrome"
+        ],
         "goal-condition": "Hunt the Purle Gypceros",
         "client": "Guarded Merchant",
         "quest-details": "I saw a gigantic bird-like monster deep in the swamp! It scared everyone so bad that I can't do business with a thing like that out there! Please hunt it down so I can work in peace!",
@@ -383,7 +467,10 @@
         "contract-fee": 670,
         "time-limit": 50,
         "location": "Forest and Hills (Day)",
-        "main-monsters": "Rathalos, Velociprey",
+        "main-monsters": [
+            "Rathalos",
+            "Velociprey"
+        ],
         "goal-condition": "Hunt the Rathalos",
         "client": "The Kindly Lord",
         "quest-details": "I request the assistance of only the bravest of hunters to find and hunt the Rathalos that has appeared near here. Of course, a handsome reward will be paid upon success.",
@@ -396,7 +483,10 @@
         "contract-fee": 1000,
         "time-limit": 50,
         "location": "Volcano (Day)",
-        "main-monsters": "2 Shogun Ceanataurs",
+        "main-monsters": [
+            "Shogun Ceanataur",
+            "Shogun Ceanataur"
+        ],
         "goal-condition": "Hunt 2 Shogun Ceanataurs",
         "client": "Hunter in Training",
         "quest-details": "Hey! Hey! Have you heard the news!? There's a rumor that two enormous monsters with thick shells have appeared in the Volcanic Belt! There must be a hunter somewhere who can face them!",
@@ -409,7 +499,10 @@
         "contract-fee": 570,
         "time-limit": 50,
         "location": "Volcano (Day)",
-        "main-monsters": "Basarios, Iodrome",
+        "main-monsters": [
+            "Basarios",
+            "Iodrome"
+        ],
         "goal-condition": "Hunt the Basarios",
         "client": "Survivor",
         "quest-details": "A wyvern attacked my team from out of the blue while we were on an expedition to the Volcanic Belt. Where did it come from? Please slay it!",
@@ -422,7 +515,10 @@
         "contract-fee": 500,
         "time-limit": 50,
         "location": "Volcano (Night)",
-        "main-monsters": "Basarios, Remobra",
+        "main-monsters": [
+            "Basarios",
+            "Remobra"
+        ],
         "goal-condition": "Slay 20 Remobras",
         "client": "Foreign Monk",
         "quest-details": "The volcano has erupted with a deluge of black snake-like wyverns. They are the envoys to disaster. Hunt 20 of these REmobras down and appease the Mountain gods.",
@@ -435,7 +531,10 @@
         "contract-fee": 2000,
         "time-limit": 35,
         "location": "Fortress",
-        "main-monsters": "Ash Lao-Shan Lung, Ioprey",
+        "main-monsters": [
+            "Ash Lao-Shan Lung",
+            "Ioprey"
+        ],
         "goal-condition": "Defend the Fortess from Ashen Lao-Shan Lung",
         "client": "Guild Master",
         "quest-details": "It seems that once again our land is in crisis. The giant elder dragon Lao-Shan Lung is approaching the village from the Mountains. Head to the fort and defend our way of life!",
@@ -448,7 +547,10 @@
         "contract-fee": 670,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "Multiple Blangongas, Blango",
+        "main-monsters": [
+            "Blangongas",
+            "Blango"
+        ],
         "goal-condition": "Hunt 2 Blangongas",
         "client": "Snow-Covered Boy",
         "quest-details": "It-it-it's awful!! A group of Blangongas are gathering on the mountain! With all those brutes in one spot. It means trouble for the village! Please help us!",
@@ -461,7 +563,10 @@
         "contract-fee": 670,
         "time-limit": 50,
         "location": "Snowy Mountains (Day)",
-        "main-monsters": "Kirin, Blango",
+        "main-monsters": [
+            "Kirin",
+            "Blango"
+        ],
         "goal-condition": "Slay the Kirin",
         "client": "King's Surveyors",
         "quest-details": "We cam to this land seeking the fabled Kirin, and at last we had found it! But the heavens opened and lightning struck, scattering our team. We need your help to save our co-workers!",
@@ -474,7 +579,10 @@
         "contract-fee": 320,
         "time-limit": 50,
         "location": "Great Forest (Night)",
-        "main-monsters": "King Shakalaka, Mosswine",
+        "main-monsters": [
+            "King Shakalaka",
+            "Mosswine"
+        ],
         "goal-condition": "Deliver 3 Select Mushrooms",
         "client": "Shifty Merchant",
         "quest-details": "Have you ever heard of *Select Mushrooms*? Collect just 3 of them and you'll be rich beyond belief! Although I have heard that the King Shakalaka keeps a tight watch over those things...",
@@ -487,7 +595,10 @@
         "contract-fee": 880,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Blue Yian Kut-Ku, Rathian",
+        "main-monsters": [
+            "Blue Yian Kut-Ku",
+            "Rathian"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Jungle Psychic",
         "quest-details": "Oh, the atmosphere is abuzz, and the land tells me of the monsters' fury! Great Hunter, I call upon you to put a stop to the Blue Yian Kut-Ku and the Rathian that appears after it falls!",
@@ -500,7 +611,10 @@
         "contract-fee": 900,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Daimyo Hermitaur, Green Plesioth",
+        "main-monsters": [
+            "Daimyo Hermitaur",
+            "Green Plesioth"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Desert Zone Chief",
         "quest-details": "Oh me, oh my! A Daimyo Hermitaur and a Green Plesioth have both appeared in the same area. I'm in search of a hunter who'll rid me of them one by one. Won't anyone step forward?",
@@ -513,7 +627,10 @@
         "contract-fee": 930,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Red Khezu, Shogun Ceanataur",
+        "main-monsters": [
+            "Red Khezu",
+            "Shogun Ceanataur"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Swamp Envoy",
         "quest-details": "A Khezu and a Shogun Ceanataur have descended upon the swampland and are really going at it! If we don't put an end to them quick, we may end up with a lot of casualties! Heeeeelp!",
@@ -526,7 +643,10 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "2 Tigrex",
+        "main-monsters": [
+            "Tigrex",
+            "Tigrex"
+        ],
         "goal-condition": "Hunt 2 Tigrex",
         "client": "Guild Master",
         "quest-details": "A group of highly skilled hunters went off to slay two Tigrex, but they became the hunted. Please destroy the two Tigrex and open a clear route for our rescue team.",
@@ -539,7 +659,10 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "2 Tigrex",
+        "main-monsters": [
+            "Tigrex",
+            "Tigrex"
+        ],
         "goal-condition": "Hunt 2 Tigrex",
         "client": "Guild Master",
         "quest-details": "A group of highly skilled hunters went off to slay two Tigrex, but they became the hunted. Please destroy the two Tigrex and open a clear route for our rescue team.",
@@ -552,7 +675,9 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Snowy Mountains (Day)",
-        "main-monsters": "Rajang",
+        "main-monsters": [
+            "Rajang"
+        ],
         "goal-condition": "Hunt the Rajang",
         "client": "Wounded Guard",
         "quest-details": "I had never seen the fanged beast with two horns on its head before, and I never want to again with the way it was rampaging across the snow!",
@@ -565,7 +690,9 @@
         "contract-fee": 670,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Tigrex",
+        "main-monsters": [
+            "Tigrex"
+        ],
         "goal-condition": "Hunt the Tigrex",
         "client": "Guild Messenger",
         "quest-details": "I have an urgent request from a hunter on a expedition in the Desert! It seems he has encountered the mighty Tigrex! Go to his aid and crush this beast at once!",
@@ -578,7 +705,10 @@
         "contract-fee": 670,
         "time-limit": 50,
         "location": "Jungle (Day)",
-        "main-monsters": "Pink Rathian, Velocidrome",
+        "main-monsters": [
+            "Pink Rathian",
+            "Velocidrome"
+        ],
         "goal-condition": "Hunt the Pink Rathian",
         "client": "Uncomfortable Butler",
         "quest-details": "I've always longed to be a hunter, but a meeting with a Rathian ended that! Now that I know what it takes, I'll start over, but you have the spirit to hunt down the Rathian!",
@@ -591,7 +721,10 @@
         "contract-fee": 670,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Diablos, Gendrome",
+        "main-monsters": [
+            "Diablos",
+            "Gendrome"
+        ],
         "goal-condition": "Hunt the Diablos",
         "client": "Border Captain",
         "quest-details": "A giant wyvern smashed the border-wall and ran into this area. We need to find and kill it before it causes any more trouble!",
@@ -604,7 +737,9 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Black Diablos",
+        "main-monsters": [
+            "Black Diablos"
+        ],
         "goal-condition": "Hunt the Black Diablos",
         "client": "Failed Millionaire",
         "quest-details": "?",
@@ -617,7 +752,10 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Desert (Night)",
-        "main-monsters": "Diablos, Black Diablos",
+        "main-monsters": [
+            "Diablos",
+            "Black Diablos"
+        ],
         "goal-condition": "Hunt the Diablos and Black Diablos",
         "client": "Lovely Princess",
         "quest-details": "I simply can't bear to think about the terror and pain those Diablos are causing my people. I can't sleep at niight with that worry! Hunt down those 2 Diablos for me!",
@@ -630,7 +768,9 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Volcano (Night)",
-        "main-monsters": "Rajang",
+        "main-monsters": [
+            "Rajang"
+        ],
         "goal-condition": "Hunt the Rajang",
         "client": "Selfish Princess",
         "quest-details": "I went up to the Snowy Mountains to view the aurora, but the truth is that I hate the cold! That's when it hit me! I should have a coat made from Rajang fur! Hunt one for me!",
@@ -643,7 +783,10 @@
         "contract-fee": 570,
         "time-limit": 50,
         "location": "Volcano (Day)",
-        "main-monsters": "Gravios, Iodrome",
+        "main-monsters": [
+            "Gravios",
+            "Iodrome"
+        ],
         "goal-condition": "Hunt the Gravios",
         "client": "Troubled Noble",
         "quest-details": "A fearsome Gravios has appeared amidst the magma and desolation of the Volcanic Belt. Hunt down the fire breather for us!",
@@ -656,7 +799,10 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Swamp (Night)",
-        "main-monsters": "Black Gravios, Hornetaur",
+        "main-monsters": [
+            "Black Gravios",
+            "Hornetaur"
+        ],
         "goal-condition": "Hunt the Blackm Gravios",
         "client": "Swamp Townsman",
         "quest-details": "Even in the relative calm of the Swamp Zone, something has stirred up the monster, in particular, heavily armored wyverns have been attacking us. Can you help us out?",
@@ -669,7 +815,10 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Forest and Hills (Day)",
-        "main-monsters": "Rathalos, Rathian",
+        "main-monsters": [
+            "Rathalos",
+            "Rathian"
+        ],
         "goal-condition": "Hunt the Rathalos and Rathian",
         "client": "Brave Prince",
         "quest-details": "A Rathalos and Rathian have paired up and are ravaging my country! I wanted to end their reign of terror, but my father will not allow it! Please! Defeat them for me!",
@@ -682,7 +831,10 @@
         "contract-fee": 1500,
         "time-limit": 50,
         "location": "Forest and Hills (Day)",
-        "main-monsters": "Azure Rathalos, Pink Rathian",
+        "main-monsters": [
+            "Azure Rathalos",
+            "Pink Rathian"
+        ],
         "goal-condition": "Hunt the Azure Rathalos and Pink Rathian",
         "client": "Gambling Shopkeep",
         "quest-details": "Did you see the two wyverns that appeared in the hills? An azure-shelled Rathalosand a pink-scaled Rathian... Hunting them down would surely make you a top hunter ! ...Try you luck?",
@@ -695,7 +847,10 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Forest and Hills (Day)",
-        "main-monsters": "Azure Rathalos, Velociprey",
+        "main-monsters": [
+            "Azure Rathalos",
+            "Velociprey"
+        ],
         "goal-condition": "Hunt the Azure Rathalos",
         "client": "Proud Soldier",
         "quest-details": "It cannot be... We tried so hard to kill it... But... My entire war band was wiped out by a wyvern. Now it all rests upon your shoulders monster hunter! Slay it!",
@@ -708,7 +863,9 @@
         "contract-fee": 830,
         "time-limit": 50,
         "location": "Tower",
-        "main-monsters": "Silver Rathalos",
+        "main-monsters": [
+            "Silver Rathalos"
+        ],
         "goal-condition": "Hunt the Silver Rathalos",
         "client": "Wyverian Maiden",
         "quest-details": "I have a request to all excellent hunters. I would like you to hunt down the silver wyvern that lives in the forgotten tower. OK... You don't even have to be excellent.",
@@ -721,7 +878,9 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Tower",
-        "main-monsters": "Gold Rathian",
+        "main-monsters": [
+            "Gold Rathian"
+        ],
         "goal-condition": "Hunt the Gold Rathian",
         "client": "Aloof Adventurer",
         "quest-details": "All of my rations were gone and I was fading out of consciousness when out of the corner of my eye I saw ancient ruins and a golden wyvern up above. Was it all a dream? Find the truth!",
@@ -734,7 +893,10 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Battleground",
-        "main-monsters": "2 Kirin",
+        "main-monsters": [
+            "Kirin",
+            "Kirin"
+        ],
         "goal-condition": "Slay 2 Kirin",
         "client": "Eccentric Old Man",
         "quest-details": "I saw them! I really did! The ground was bathed in sparks as two phantom beasts bathed in a lava pool! It was not a dream! You've gotta believe me! Go see for yourself!",
@@ -747,7 +909,9 @@
         "contract-fee": 870,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Kushala Daora",
+        "main-monsters": [
+            "Kushala Daora"
+        ],
         "goal-condition": "Slay the Kushala Daora",
         "client": "Jungle Psychic",
         "quest-details": "There was surely a vortex inside of that downpour. The wind wrapped around and revealed the elder dragon, Kushala Daora! There isn't a single soul who can combat it alone, so fight together!",
@@ -760,7 +924,9 @@
         "contract-fee": 870,
         "time-limit": 50,
         "location": "Snowy Mountains (Night)",
-        "main-monsters": "Kushala Daora",
+        "main-monsters": [
+            "Kushala Daora"
+        ],
         "goal-condition": "Slay the Kushala Daora",
         "client": "Fleeing Villager",
         "quest-details": "I saw it! I saw it! In the middle of a blinding snow storm, there it was; dark black wings were dancing in the sky... No mere human could stand up to it! Don't even think of hunting it!",
@@ -773,7 +939,9 @@
         "contract-fee": 870,
         "time-limit": 50,
         "location": "Forest and Hills (Day)",
-        "main-monsters": "Chameleos",
+        "main-monsters": [
+            "Chameleos"
+        ],
         "goal-condition": "Slay the Chameleos",
         "client": "Injured Hero",
         "quest-details": "Our intuition told us to turn around, but we thought no one was there... Yet even though no one should've been there, we were attacked from behind! Beware! It was an enemy never before seen!",
@@ -786,7 +954,9 @@
         "contract-fee": 870,
         "time-limit": 50,
         "location": "Swamp (Day)",
-        "main-monsters": "Chameleos",
+        "main-monsters": [
+            "Chameleos"
+        ],
         "goal-condition": "Slay the Chameleos",
         "client": "Grim Aristocrat",
         "quest-details": "It seems an unknown elder dragon has appeared in the swamp zone. However, no one truly got a clear look at it. What could the beast have been? Slay it, but proceed with caution!",
@@ -799,7 +969,9 @@
         "contract-fee": 1000,
         "time-limit": 50,
         "location": "Town",
-        "main-monsters": "Teostra",
+        "main-monsters": [
+            "Teostra"
+        ],
         "goal-condition": "Slay the Teostra",
         "client": "Guild Master",
         "quest-details": "This is truly an emergency! A red fire-breathing dragon is approaching this very town! This is no time to dilly-dally! We need the help of every skilled hunter in this land!",
@@ -812,7 +984,9 @@
         "contract-fee": 1000,
         "time-limit": 50,
         "location": "Volcano (Night)",
-        "main-monsters": "Teostra",
+        "main-monsters": [
+            "Teostra"
+        ],
         "goal-condition": "Slay the Teostra",
         "client": "Heroic General",
         "quest-details": "I have an earnest request of you... As the last of my responsibilities, I request your help. I want you to fight the elder fire dragon we cornered in the Volcanic Belt, but beware its flames!",
@@ -825,7 +999,9 @@
         "contract-fee": 3000,
         "time-limit": 50,
         "location": "Castle Schrade",
-        "main-monsters": "Fatalis",
+        "main-monsters": [
+            "Fatalis"
+        ],
         "goal-condition": "Slay the Fatalis",
         "client": "Benevolent Monarch",
         "quest-details": "The legendary black dragon... It really exists then? We've prepared all instruments of war to assist you in your quest to destroy the dragon. The fate of the nation lies in your hands.",
@@ -838,7 +1014,9 @@
         "contract-fee": 3000,
         "time-limit": 50,
         "location": "Battleground",
-        "main-monsters": "Crimson Fatalis",
+        "main-monsters": [
+            "Crimson Fatalis"
+        ],
         "goal-condition": "Slay the Crimson Fatalis",
         "client": "Scarlet Mystery Man",
         "quest-details": "It appears the time has finally come. The bloodstained scales of the red dragon have graced the earth agin in flaming glory. If you can stop this beast...",
@@ -851,7 +1029,9 @@
         "contract-fee": 3000,
         "time-limit": 50,
         "location": "Tower",
-        "main-monsters": "White Fatalis",
+        "main-monsters": [
+            "White Fatalis"
+        ],
         "goal-condition": "Slay the White Fatalis",
         "client": "Scarlet Mystery Man",
         "quest-details": "Hee hee hee... The time has come. Here is your invitation to the ball. Wear your Sunday best and bring your greatest weapon, for it is time to go to the dance with the king of disaster.",
@@ -864,7 +1044,9 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Great Forest (Day)",
-        "main-monsters": "Nargacuga",
+        "main-monsters": [
+            "Nargacuga"
+        ],
         "goal-condition": "Hunt the Nargacuga",
         "client": "Wounded Hunter",
         "quest-details": "The Nargacuga of the Great Forest... It's so fast, I could barely see it. But please, if there is one request that needs to be fulfilled, it's this one!",
@@ -877,7 +1059,9 @@
         "contract-fee": 750,
         "time-limit": 50,
         "location": "Jungle (Night)",
-        "main-monsters": "Nargacuga",
+        "main-monsters": [
+            "Nargacuga"
+        ],
         "goal-condition": "Hunt the Nargacuga",
         "client": "Dazed Traveler",
         "quest-details": "All of my friends... gone. I saw a tail swish through the air, and 2 red lights. That's all. That thing's not a monster; it's a demon! Someone exorcise it, please!",
@@ -890,7 +1074,10 @@
         "contract-fee": 1600,
         "time-limit": 50,
         "location": "Great Arena",
-        "main-monsters": "Rathian, Pink Rathian",
+        "main-monsters": [
+            "Rathian",
+            "Pink Rathian"
+        ],
         "goal-condition": "Hunt the Rathian and the Pink Rathian",
         "client": "Arena Manager",
         "quest-details": "Think you can handle two Rathian at the same time!? Then come on down to the Arena, the only place to test you might! We eagerly await you arrival, Hunter!",
@@ -903,7 +1090,10 @@
         "contract-fee": 800,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Diablos, Cephalos",
+        "main-monsters": [
+            "Diablos",
+            "Cephalos"
+        ],
         "goal-condition": "Hunt the Diablos",
         "client": "Wounded Hunter",
         "quest-details": "Ah, I tried to slay it, but I way in way over my head. Still, I can't let it go, so I ask that if you have the courage to face this beast, to please step forward.",
@@ -916,7 +1106,9 @@
         "contract-fee": 800,
         "time-limit": 50,
         "location": "Battleground",
-        "main-monsters": "Kirin",
+        "main-monsters": [
+            "Kirin"
+        ],
         "goal-condition": "Slay the Kirin",
         "client": "King's Surveyors",
         "quest-details": "I've received an urgen communique from my colleague who went to investigate deep inside the volcano, Please hurry, but be careful. The monster is a bit... unique.",
@@ -929,7 +1121,11 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Snowy Mountains (Day)",
-        "main-monsters": "Khezu, Giadrome, Tigrex",
+        "main-monsters": [
+            "Khezu",
+            "Giadrome",
+            "Tigrex"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Slashed L Cheek Hunter",
         "quest-details": "Wh-What's going on...? All of a sudden, a ton of monsters just showed up in the Snowy Mountains! Any hunter willing to lend a hand, please come help us on the hunt!",
@@ -942,7 +1138,11 @@
         "contract-fee": 1250,
         "time-limit": 50,
         "location": "Forest and Hills (Night)",
-        "main-monsters": "Yian Kut-Ku, Velocidrome, Rathalos",
+        "main-monsters": [
+            "Yian Kut-Ku",
+            "Velocidrome",
+            "Rathalos"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Maiden of Sorrows",
         "quest-details": "Help! There are some dangerous monsters lurking in the Forest and HIlls, making it impossible for me to enter the area. But if I don't gather what I need, my mother's illness will...",
@@ -955,7 +1155,11 @@
         "contract-fee": 1380,
         "time-limit": 50,
         "location": "Volcano (Night)",
-        "main-monsters": "Basarios, Iodrome, Gravios",
+        "main-monsters": [
+            "Basarios",
+            "Iodrome",
+            "Gravios"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Volcano Investigation Team",
         "quest-details": "We've received word that a Basarios and a Gravios are going wild inside due to volcanic activity. This is a very dire situation, and we require the immediate dispatch of a hunter.",
@@ -968,7 +1172,11 @@
         "contract-fee": 1380,
         "time-limit": 50,
         "location": "Desert (Day)",
-        "main-monsters": "Daimyo Hermitaur, Cephadrome, Diablos",
+        "main-monsters": [
+            "Daimyo Hermitaur",
+            "Cephadrome",
+            "Diablos"
+        ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Selfish Princess",
         "quest-details": "My sister and I are in an argument over which is the most beautiful: Daimyo shells, Cephadrome scales, or Diablos horns. Seeing is believing, so I demand you bring all three to me!",
@@ -981,7 +1189,9 @@
         "contract-fee": 2000,
         "time-limit": 30,
         "location": "Town",
-        "main-monsters": "Shen Gaoren",
+        "main-monsters": [
+            "Shen Gaoren"
+        ],
         "goal-condition": "Defend the Town from Shen Gaoren",
         "client": "Guild Master",
         "quest-details": "Our town is embroiled in an unprecedented conflict. A fortess-like shelled monster is threatening our safety. We need help immediately!",
@@ -994,7 +1204,9 @@
         "contract-fee": 3000,
         "time-limit": 50,
         "location": "Battleground",
-        "main-monsters": "Akantor",
+        "main-monsters": [
+            "Akantor"
+        ],
         "goal-condition": "Slay the Akantor",
         "client": "Guild Master",
         "quest-details": "The combined strength of the Hunter's Guild has successfully cornered an Akantor in the Volcanic Belt. Now all that is left is to slay the beast, a task for only the most valiant.",

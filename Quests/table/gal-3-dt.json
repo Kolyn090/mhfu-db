@@ -5,7 +5,7 @@
     "contract-fee": "INT",
     "time-limit": "INT",
     "location": "VARCHAR",
-    "main-monsters": "VARCHAR",
+    "main-monsters": "ARRAY(VARCHAR)",
     "goal-condition": "VARCHAR",
     "client": "VARCHAR",
     "quest-details": "VARCHAR",
