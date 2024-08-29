@@ -4735,6 +4735,966 @@
         "description": "Jewel used as a Decoration. A seldom obtained ornament."
     },
     {
+        "name": "Attack Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Attack Skill."
+    },
+    {
+        "name": "Fierce Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Attack Skill."
+    },
+    {
+        "name": "Strongest Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Attack Skill."
+    },
+    {
+        "name": "Defense Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Defense Skill."
+    },
+    {
+        "name": "Turtle Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Defense Skill."
+    },
+    {
+        "name": "Turtle Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Defense Skill."
+    },
+    {
+        "name": "Steadfast Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Faint Skill."
+    },
+    {
+        "name": "Anti-Faint Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Faint Skill."
+    },
+    {
+        "name": "Steadfast Jewel+",
+        "rare": 4,
+        "description": "Decoration that raises the Faint Skill."
+    },
+    {
+        "name": "Paralysis Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Paralysis Skill."
+    },
+    {
+        "name": "AntiParalyzJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Paralysis Skill."
+    },
+    {
+        "name": "Paralysis Jewel+",
+        "rare": 4,
+        "description": "Decoration that raises the Paralysis Skill."
+    },
+    {
+        "name": "Pep Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sleep Skill."
+    },
+    {
+        "name": "Jolt Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sleep Skill."
+    },
+    {
+        "name": "Antidote Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Poison Skill."
+    },
+    {
+        "name": "Antivenin Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Poison Skill."
+    },
+    {
+        "name": "Antidote Jewel+",
+        "rare": 4,
+        "description": "Decoration that raises the Poison Skill."
+    },
+    {
+        "name": "Retroviral Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Antiseptic Skill."
+    },
+    {
+        "name": "Antiviral Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Antiseptic Skill."
+    },
+    {
+        "name": "Antiviral Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Antiseptic Skill."
+    },
+    {
+        "name": "Tireless Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fatigue Skill."
+    },
+    {
+        "name": "Tireless Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fatigue Skill."
+    },
+    {
+        "name": "Anchor Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Quake Resist Skill."
+    },
+    {
+        "name": "Tectonic Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Quake Resist Skill."
+    },
+    {
+        "name": "Tectonic Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Quake Resist Skill."
+    },
+    {
+        "name": "Snowblower Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Snow Resist Skill."
+    },
+    {
+        "name": "Snowplow Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Snow Resist Skill."
+    },
+    {
+        "name": "SnowblowerJewel+",
+        "rare": 4,
+        "description": "Decoration that raises the Snow Resist Skill."
+    },
+    {
+        "name": "Tip Toe Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sneak Skill."
+    },
+    {
+        "name": "Ninja Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sneak Skill."
+    },
+    {
+        "name": "Strength Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Health Skill."
+    },
+    {
+        "name": "Artisan Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Artisan Skill."
+    },
+    {
+        "name": "Artisan Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Artisan Skill."
+    },
+    {
+        "name": "Master Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Artisan Skill."
+    },
+    {
+        "name": "Fencer Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fencing Skill."
+    },
+    {
+        "name": "Fencer Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fencing Skill."
+    },
+    {
+        "name": "Swordsman Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Fencing Skill."
+    },
+    {
+        "name": "Razor Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sharpness Skill."
+    },
+    {
+        "name": "Cutter Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Sharpness Skill."
+    },
+    {
+        "name": "Sword Draw Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sword Draw Skill."
+    },
+    {
+        "name": "Sword Draw Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sword Draw Skill."
+    },
+    {
+        "name": "UnsheathingJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Sword Draw Skill."
+    },
+    {
+        "name": "ShortChargeJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Short Charge Skill."
+    },
+    {
+        "name": "ShortChargeJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Short Charge Skill."
+    },
+    {
+        "name": "RapidChargeJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Short Charge Skill."
+    },
+    {
+        "name": "Expert Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Expert Skill."
+    },
+    {
+        "name": "Celebrity Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Expert Skill."
+    },
+    {
+        "name": "Celebrity Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Expert Skill."
+    },
+    {
+        "name": "Hermit Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Expert Skill."
+    },
+    {
+        "name": "Grinder Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sword Sharpener Skill."
+    },
+    {
+        "name": "Stone Wall Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Guard Skill."
+    },
+    {
+        "name": "IronCurtainJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Guard Skill."
+    },
+    {
+        "name": "IronCurtainJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Guard Skill."
+    },
+    {
+        "name": "Hard Wall Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Guard Up Skill."
+    },
+    {
+        "name": "StrongWall Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Guard Up Skill."
+    },
+    {
+        "name": "Wall Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Guard Up Skill."
+    },
+    {
+        "name": "HvnlyShieldJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Auto Guard Skill."
+    },
+    {
+        "name": "Hardball Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Throw Skill."
+    },
+    {
+        "name": "Early Bird Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Reload Skill."
+    },
+    {
+        "name": "High Speed Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Reload Skill."
+    },
+    {
+        "name": "High Speed Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Reload Skill."
+    },
+    {
+        "name": "Cont. Fire Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Auto Reload Skill."
+    },
+    {
+        "name": "Cont. Fire Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Auto Reload Skill."
+    },
+    {
+        "name": "Barrage Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Auto Reload Skill."
+    },
+    {
+        "name": "Recoilless Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Recoil Skill."
+    },
+    {
+        "name": "Recoilless Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Recoil Skill."
+    },
+    {
+        "name": "Shockless Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Recoil Skill."
+    },
+    {
+        "name": "StrongShot Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Normal S Up Skill."
+    },
+    {
+        "name": "StrongShotJewel+",
+        "rare": 5,
+        "description": "Decoration that raises the Normal S Up Skill."
+    },
+    {
+        "name": "Pierce Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Pierce S Up Skill."
+    },
+    {
+        "name": "Pierce Jewel+",
+        "rare": 5,
+        "description": "Decoration that raises the Pierce S Up Skill."
+    },
+    {
+        "name": "Pellet Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Pellet S Up Skill."
+    },
+    {
+        "name": "Pellet Jewel+",
+        "rare": 5,
+        "description": "Decoration that raises the Pellet S Up Skill."
+    },
+    {
+        "name": "Shot Bonus Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Normal S Add Skill."
+    },
+    {
+        "name": "PierceBonusJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Pierce S Add Skill."
+    },
+    {
+        "name": "PelletBonusJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Pellet S Add Skill."
+    },
+    {
+        "name": "Crag Bonus Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Crag S Add Skill."
+    },
+    {
+        "name": "ScattrBonusJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Clust S Add Skill."
+    },
+    {
+        "name": "Power Coat Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Power C Add Skill."
+    },
+    {
+        "name": "PowerCAddJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Power C Add Skill."
+    },
+    {
+        "name": "Combo Coat Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sleep C Add Skill."
+    },
+    {
+        "name": "PoisonCoatJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Poison C Add Skill."
+    },
+    {
+        "name": "ParalysCoatJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Paraly C Add Skill."
+    },
+    {
+        "name": "ParalysisCAddJwl",
+        "rare": 5,
+        "description": "Decoration that raises the Paraly C Add Skill."
+    },
+    {
+        "name": "Sleep Coat Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Sleep C Add Skill."
+    },
+    {
+        "name": "Ammo Box Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Capacity Skill."
+    },
+    {
+        "name": "Ammo Box Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Capacity Skill."
+    },
+    {
+        "name": "Magazine Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Capacity Skill."
+    },
+    {
+        "name": "Sniper Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Precision Skill."
+    },
+    {
+        "name": "SharpshootrJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Precision Skill."
+    },
+    {
+        "name": "SpecialAtk Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Spc Attack Skill."
+    },
+    {
+        "name": "SpecialAtk Jewel+",
+        "rare": 5,
+        "description": "Decoration that raises the Spc Attack Skill."
+    },
+    {
+        "name": "Element Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Element Atk Skill."
+    },
+    {
+        "name": "Element Jewel+",
+        "rare": 5,
+        "description": "Decoration that raises the Element Atk Skill."
+    },
+    {
+        "name": "Bombardier Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Bomb Strength Up Skill."
+    },
+    {
+        "name": "TrapMasterJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Speed Setup Skill."
+    },
+    {
+        "name": "PickyEater Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Hunger Skill."
+    },
+    {
+        "name": "Fasting Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Hunger Skill."
+    },
+    {
+        "name": "No Food Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Hunger Skill."
+    },
+    {
+        "name": "Fatso Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Gluttony Skill."
+    },
+    {
+        "name": "QuickEaterJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Cooking Skill."
+    },
+    {
+        "name": "Fast Food Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Cooking Skill."
+    },
+    {
+        "name": "Scarfing Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Cooking Skill."
+    },
+    {
+        "name": "BBQ Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the BBQ Skill."
+    },
+    {
+        "name": "Marathon Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Stamina Skill."
+    },
+    {
+        "name": "Sprinter Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Stamina Skill."
+    },
+    {
+        "name": "Sprinter Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Stamina Skill."
+    },
+    {
+        "name": "Constitutn Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Constitution Skill."
+    },
+    {
+        "name": "Health Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Constitution Skill."
+    },
+    {
+        "name": "Health Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Constitution Skill."
+    },
+    {
+        "name": "Protection Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Protection Skill."
+    },
+    {
+        "name": "DivineProtectJwl",
+        "rare": 4,
+        "description": "Decoration that raises the Protection Skill."
+    },
+    {
+        "name": "Earplug Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the HearProtct Skill."
+    },
+    {
+        "name": "Earplug Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the HearProtct Skill."
+    },
+    {
+        "name": "Silencer Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the HearProtct Skill."
+    },
+    {
+        "name": "Silencer Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the HearProtct Skill."
+    },
+    {
+        "name": "PaperweightJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Wind Press Skill."
+    },
+    {
+        "name": "HeavyMetal Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Wind Press Skill."
+    },
+    {
+        "name": "Solid Rock Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Wind Press Skill."
+    },
+    {
+        "name": "Melt-Proof Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Terrain Skill."
+    },
+    {
+        "name": "Anti-Thaw Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Terrain Skill."
+    },
+    {
+        "name": "Anti-Thaw Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Terrain Skill."
+    },
+    {
+        "name": "Evade Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Evade Skill."
+    },
+    {
+        "name": "Evade Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Evade Skill."
+    },
+    {
+        "name": "Dodge Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Evade Skill."
+    },
+    {
+        "name": "Jumping Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Evade Dist Skill."
+    },
+    {
+        "name": "Jumping Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Evade Dist Skill."
+    },
+    {
+        "name": "Flying Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Evade Dist Skill."
+    },
+    {
+        "name": "Danger Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Potential Skill."
+    },
+    {
+        "name": "Crisis Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Potential Skill."
+    },
+    {
+        "name": "Pinch Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Potential Skill."
+    },
+    {
+        "name": "Guts Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Guts Skill."
+    },
+    {
+        "name": "More Guts Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Guts Skill."
+    },
+    {
+        "name": "Alarm Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Anti-Theft Skill."
+    },
+    {
+        "name": "StayingPwr Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Everlastng Skill."
+    },
+    {
+        "name": "Permanence Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Everlastng Skill."
+    },
+    {
+        "name": "Eternal Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Everlastng Skill."
+    },
+    {
+        "name": "Friendship Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Wide Area Skill."
+    },
+    {
+        "name": "Beloved Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Wide Area Skill."
+    },
+    {
+        "name": "Tenderness Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Wide Area Skill."
+    },
+    {
+        "name": "Backpacker Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Backpackng Skill."
+    },
+    {
+        "name": "Impervious Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the All Resist Skill."
+    },
+    {
+        "name": "Omnipotent Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the All Resist Skill."
+    },
+    {
+        "name": "TrueResistJewel",
+        "rare": 5,
+        "description": "Decoration that raises the All Resist Skill."
+    },
+    {
+        "name": "Inferno Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fire Resist Skill."
+    },
+    {
+        "name": "Crimson Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fire Resist Skill."
+    },
+    {
+        "name": "Stream Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Water Resist Skill."
+    },
+    {
+        "name": "Torrent Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Water Resist Skill."
+    },
+    {
+        "name": "Freeze Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Ice Resist Skill."
+    },
+    {
+        "name": "Glacier Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Ice Resist Skill."
+    },
+    {
+        "name": "Lightning Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the ThunderRes Skill."
+    },
+    {
+        "name": "Thunder Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the ThunderRes Skill."
+    },
+    {
+        "name": "Slayer Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Dragon Resist Skill."
+    },
+    {
+        "name": "Extinction Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Dragon Resist Skill."
+    },
+    {
+        "name": "DragonslyrJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Dragon Resist Skill."
+    },
+    {
+        "name": "CoolBreeze Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Heat Resist Skill."
+    },
+    {
+        "name": "Cold Wind Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Heat Resist Skill."
+    },
+    {
+        "name": "ColdBreezeJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Heat Resist Skill."
+    },
+    {
+        "name": "WarmBreeze Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Cold Resist Skill."
+    },
+    {
+        "name": "Hot Wind Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Cold Resist Skill."
+    },
+    {
+        "name": "HotBreezeJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Cold Resist Skill."
+    },
+    {
+        "name": "Map Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Map Skill."
+    },
+    {
+        "name": "Gathering Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Gathering Skill."
+    },
+    {
+        "name": "Grab'n'DashJewel",
+        "rare": 4,
+        "description": "Decoration that raises the HiSpdGathr Skill."
+    },
+    {
+        "name": "Good Luck Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Whim Skill."
+    },
+    {
+        "name": "Blessing Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Whim Skill."
+    },
+    {
+        "name": "HideCutter Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Carving Skill."
+    },
+    {
+        "name": "HideCutter Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Carving Skill."
+    },
+    {
+        "name": "Carving Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Carving Skill."
+    },
+    {
+        "name": "Tranq Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Tranquilzr Skill."
+    },
+    {
+        "name": "Knockout Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Tranquilzr Skill."
+    },
+    {
+        "name": "Fate Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fate Skill."
+    },
+    {
+        "name": "Destiny Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Fate Skill."
+    },
+    {
+        "name": "Fisher Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Fishing Skill."
+    },
+    {
+        "name": "Psychic Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the PsychicVis Skill."
+    },
+    {
+        "name": "Perceive Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Perceive Skill."
+    },
+    {
+        "name": "Feel Good Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Rec Speed Skill."
+    },
+    {
+        "name": "SpeedyRecvrJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Rec Speed Skill."
+    },
+    {
+        "name": "SpeedyRecvrJewel",
+        "rare": 5,
+        "description": "Decoration that raises the Rec Speed Skill."
+    },
+    {
+        "name": "Curing Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Recovery Skill."
+    },
+    {
+        "name": "Cure All Jewel",
+        "rare": 5,
+        "description": "Decoration that raises the Recovery Skill."
+    },
+    {
+        "name": "Cure All Jewel+",
+        "rare": 5,
+        "description": "Decoration that raises the Recovery Skill."
+    },
+    {
+        "name": "Professor Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the MixSucRate Skill."
+    },
+    {
+        "name": "Armory Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Shot Mix Skill."
+    },
+    {
+        "name": "SecretArts Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Alchemy Skill."
+    },
+    {
+        "name": "Small Arms Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Gunnery Skill."
+    },
+    {
+        "name": "Howitzer Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Gunnery Skill."
+    },
+    {
+        "name": "Fife Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Horn Skill."
+    },
+    {
+        "name": "Cat Guide Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Comrade Guide Skill."
+    },
+    {
+        "name": "Cat Guide Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Comrade Guide Skill."
+    },
+    {
+        "name": "Cat Attack Jewel",
+        "rare": 4,
+        "description": "Decoration that raises the Comrade Attack Skill."
+    },
+    {
+        "name": "CatDefenseJewel",
+        "rare": 4,
+        "description": "Decoration that raises the Comrade Defense Skill."
+    },
+    {
         "name": "Wyvernshroom",
         "rare": 3,
         "description": "Loved by humans and Mosswine. Reproductive power."
