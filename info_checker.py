@@ -241,7 +241,7 @@ def test_data_info(data_info_dir, data_info_content):
         data_table = json.loads(data_table_file.read())
         # Check if the data info and data table have the same structure
         # type is not important, only the fields are
-        assert compare_json_structures_ignore_type(data_info_simplified, data_table)
+        assert compare_json_structures_ignore_type(data_info_simplified, data_table), "Table structures are different!"
 
 def test_all_data_info_under(root):
     """
