@@ -1,5 +1,6 @@
 [
     {
+        "name": "Potion",
         "type": "normal",
         "materialA": "Herb",
         "materialB": "Blue Mushroom",
@@ -8,6 +9,7 @@
         "max": 1
     },
     {
+        "name": "Mega Potion",
         "type": "normal",
         "materialA": "Potion",
         "materialB": "Honey",
@@ -16,6 +18,7 @@
         "max": 1
     },
     {
+        "name": "Nutrients",
         "type": "normal",
         "materialA": "Blue Mushroom",
         "materialB": "Godbug",
@@ -24,6 +27,7 @@
         "max": 1
     },
     {
+        "name": "Mega Nutrients",
         "type": "normal",
         "materialA": "Nutrients",
         "materialB": "Honey",
@@ -32,6 +36,7 @@
         "max": 1
     },
     {
+        "name": "Antidote",
         "type": "normal",
         "materialA": "Antidote Herb",
         "materialB": "Blue Mushroom",
@@ -40,6 +45,7 @@
         "max": 1
     },
     {
+        "name": "Herbal Medicine",
         "type": "normal",
         "materialA": "Cactus Flower",
         "materialB": "Bitterbug",
@@ -48,14 +54,16 @@
         "max": 1
     },
     {
+        "name": "Max Potion",
         "type": "normal",
         "materialA": "Mega Nutrients",
-        "materialB": "Dosbiscus",
+        "materialB": "Dragon Toadstool",
         "chance": 65,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Ancient Potion",
         "type": "normal",
         "materialA": "Immunizer",
         "materialB": "Kelbi Horn",
@@ -64,6 +72,7 @@
         "max": 1
     },
     {
+        "name": "Catalyst",
         "type": "normal",
         "materialA": "Honey",
         "materialB": "Bitterbug",
@@ -72,14 +81,16 @@
         "max": 1
     },
     {
+        "name": "Immunizer",
         "type": "normal",
         "materialA": "Catalyst",
-        "materialB": "Dosbiscus",
+        "materialB": "Dragon Toadstool",
         "chance": 75,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Power Juice",
         "type": "normal",
         "materialA": "Catalyst",
         "materialB": "Rare Steak",
@@ -88,6 +99,7 @@
         "max": 1
     },
     {
+        "name": "Mega Juice",
         "type": "normal",
         "materialA": "Well-Done Steak",
         "materialB": "Power Extract",
@@ -96,6 +108,7 @@
         "max": 1
     },
     {
+        "name": "Energy Drink",
         "type": "normal",
         "materialA": "Honey",
         "materialB": "Sunset Herb",
@@ -104,6 +117,7 @@
         "max": 1
     },
     {
+        "name": "Demondrug",
         "type": "normal",
         "materialA": "Catalyst",
         "materialB": "Power Seed",
@@ -112,6 +126,7 @@
         "max": 1
     },
     {
+        "name": "Mega Demondrug",
         "type": "normal",
         "materialA": "Demondrug",
         "materialB": "Pale Extract",
@@ -120,6 +135,7 @@
         "max": 1
     },
     {
+        "name": "Power Pill",
         "type": "normal",
         "materialA": "Immunizer",
         "materialB": "Power Seed",
@@ -128,6 +144,7 @@
         "max": 1
     },
     {
+        "name": "Armorskin",
         "type": "normal",
         "materialA": "Catalyst",
         "materialB": "Armor Seed",
@@ -136,6 +153,7 @@
         "max": 1
     },
     {
+        "name": "Mega Armorskin",
         "type": "normal",
         "materialA": "Armorskin",
         "materialB": "Pale Extract",
@@ -144,6 +162,7 @@
         "max": 1
     },
     {
+        "name": "Armor Pill",
         "type": "normal",
         "materialA": "Immunizer",
         "materialB": "Armor Seed",
@@ -152,6 +171,7 @@
         "max": 1
     },
     {
+        "name": "Hot Drink",
         "type": "normal",
         "materialA": "Hot Pepper",
         "materialB": "Bitterbug",
@@ -160,6 +180,7 @@
         "max": 1
     },
     {
+        "name": "Hot Meat",
         "type": "normal",
         "materialA": "Well-Done Steak",
         "materialB": "Hot Pepper",
@@ -168,6 +189,7 @@
         "max": 1
     },
     {
+        "name": "Cool Drink",
         "type": "normal",
         "materialA": "Ice Crystal",
         "materialB": "Bitterbug",
@@ -176,6 +198,7 @@
         "max": 1
     },
     {
+        "name": "Cool Meat",
         "type": "normal",
         "materialA": "Well-Done Steak",
         "materialB": "Ice Crystal",
@@ -184,6 +207,7 @@
         "max": 1
     },
     {
+        "name": "Spicy Mushroom",
         "type": "normal",
         "materialA": "Hot Pepper",
         "materialB": "Special Mushroom",
@@ -192,6 +216,7 @@
         "max": 1
     },
     {
+        "name": "Frozen Berry",
         "type": "normal",
         "materialA": "Tropical Berry",
         "materialB": "Ice Crystal",
@@ -200,6 +225,7 @@
         "max": 1
     },
     {
+        "name": "Thawing Agent",
         "type": "normal",
         "materialA": "Fire Herb",
         "materialB": "Rumblefish",
@@ -208,6 +234,7 @@
         "max": 1
     },
     {
+        "name": "Poisoned Meat",
         "type": "normal",
         "materialA": "Raw Meat",
         "materialB": "Toadstool",
@@ -216,6 +243,7 @@
         "max": 1
     },
     {
+        "name": "Tainted Meat",
         "type": "normal",
         "materialA": "Raw Meat",
         "materialB": "Parashroom",
@@ -224,6 +252,7 @@
         "max": 1
     },
     {
+        "name": "Drugged Meat",
         "type": "normal",
         "materialA": "Raw Meat",
         "materialB": "Sleep Herb",
@@ -232,6 +261,7 @@
         "max": 1
     },
     {
+        "name": "Bomb Material",
         "type": "normal",
         "materialA": "Ivy",
         "materialB": "Stone",
@@ -240,6 +270,7 @@
         "max": 2
     },
     {
+        "name": "Deodorant",
         "type": "normal",
         "materialA": "Bomb Material",
         "materialB": "Sunset Herb",
@@ -248,6 +279,7 @@
         "max": 1
     },
     {
+        "name": "Smoke Bomb",
         "type": "normal",
         "materialA": "Bomb Material",
         "materialB": "Sap Plant",
@@ -256,6 +288,7 @@
         "max": 1
     },
     {
+        "name": "Poison Smoke Bomb",
         "type": "normal",
         "materialA": "Bomb Material",
         "materialB": "Toadstool",
@@ -264,6 +297,7 @@
         "max": 1
     },
     {
+        "name": "Flash Bomb",
         "type": "normal",
         "materialA": "Bomb Material",
         "materialB": "Flashbug",
@@ -272,6 +306,7 @@
         "max": 1
     },
     {
+        "name": "Dung Bomb",
         "type": "normal",
         "materialA": "Bomb Material",
         "materialB": "Dung",
@@ -280,6 +315,7 @@
         "max": 1
     },
     {
+        "name": "Paintball",
         "type": "normal",
         "materialA": "Sap Plant",
         "materialB": "Paintberry",
@@ -288,6 +324,7 @@
         "max": 1
     },
     {
+        "name": "Farcaster",
         "type": "normal",
         "materialA": "Bomb Material",
         "materialB": "Exciteshroom",
@@ -296,6 +333,7 @@
         "max": 1
     },
     {
+        "name": "Gunpowder",
         "type": "normal",
         "materialA": "Fire Herb",
         "materialB": "Nitroshroom",
@@ -304,6 +342,7 @@
         "max": 1
     },
     {
+        "name": "Sm Barrel-Bomb",
         "type": "normal",
         "materialA": "Small Barrel",
         "materialB": "Fire Herb",
@@ -312,6 +351,7 @@
         "max": 1
     },
     {
+        "name": "Sm Barrel-Bomb+",
         "type": "normal",
         "materialA": "Sm Barrel-Bomb",
         "materialB": "Burst Arrowana",
@@ -320,6 +360,7 @@
         "max": 1
     },
     {
+        "name": "Lifepowder",
         "type": "normal",
         "materialA": "Lifecrystals",
         "materialB": "Wyvern Claw",
@@ -328,6 +369,7 @@
         "max": 1
     },
     {
+        "name": "Health Flute",
         "type": "normal",
         "materialA": "Lifepowder",
         "materialB": "Flute",
@@ -336,6 +378,7 @@
         "max": 1
     },
     {
+        "name": "Antidote Flute",
         "type": "normal",
         "materialA": "Flute",
         "materialB": "Antiseptic Stone",
@@ -344,6 +387,7 @@
         "max": 1
     },
     {
+        "name": "Demon Flute",
         "type": "normal",
         "materialA": "Mega Demondrug",
         "materialB": "Med Monster Bone",
@@ -352,6 +396,7 @@
         "max": 1
     },
     {
+        "name": "Armor Flute",
         "type": "normal",
         "materialA": "Mega Armorskin",
         "materialB": "Med Monster Bone",
@@ -360,6 +405,7 @@
         "max": 1
     },
     {
+        "name": "Poison Thrw Knf",
         "type": "normal",
         "materialA": "Throwing Knife",
         "materialB": "Toadstool",
@@ -368,6 +414,7 @@
         "max": 1
     },
     {
+        "name": "Sleeping Thr Knf",
         "type": "normal",
         "materialA": "Throwing Knife",
         "materialB": "Sleep Herb",
@@ -376,6 +423,7 @@
         "max": 1
     },
     {
+        "name": "Paralyze Thr Knf",
         "type": "normal",
         "materialA": "Throwing Knife",
         "materialB": "Parashroom",
@@ -384,6 +432,7 @@
         "max": 1
     },
     {
+        "name": "Boomerang",
         "type": "normal",
         "materialA": "Whetstone",
         "materialB": "Sm Monster Bone",
@@ -392,6 +441,7 @@
         "max": 1
     },
     {
+        "name": "Powertalon",
         "type": "normal",
         "materialA": "Powercharm",
         "materialB": "Lao-Shan's Claw",
@@ -400,6 +450,7 @@
         "max": 1
     },
     {
+        "name": "Armortalon",
         "type": "normal",
         "materialA": "Armorcharm",
         "materialB": "Lao-Shan's Claw",
@@ -408,6 +459,7 @@
         "max": 1
     },
     {
+        "name": "Normal S Lv2",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Needleberry",
@@ -416,6 +468,7 @@
         "max": 4
     },
     {
+        "name": "Normal S Lv3",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Rumblefish",
@@ -424,6 +477,7 @@
         "max": 4
     },
     {
+        "name": "Pierce S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Velociprey Fang",
@@ -432,6 +486,7 @@
         "max": 3
     },
     {
+        "name": "Pierce S Lv2",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Pin Tuna",
@@ -440,6 +495,7 @@
         "max": 3
     },
     {
+        "name": "Pierce S Lv3",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Pin Tuna",
@@ -448,6 +504,7 @@
         "max": 2
     },
     {
+        "name": "Pellet S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Scatternut",
@@ -456,6 +513,7 @@
         "max": 3
     },
     {
+        "name": "Pellet S Lv2",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Wyvern Fang",
@@ -464,6 +522,7 @@
         "max": 3
     },
     {
+        "name": "Pellet S Lv3",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Wyvern Fang",
@@ -472,6 +531,7 @@
         "max": 3
     },
     {
+        "name": "Crag S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Burst Arrowana",
@@ -480,6 +540,7 @@
         "max": 1
     },
     {
+        "name": "Crag S Lv2",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Burst Arrowana",
@@ -488,6 +549,7 @@
         "max": 1
     },
     {
+        "name": "Crag S Lv3",
         "type": "normal",
         "materialA": "Lg Bone Husk",
         "materialB": "Scatterfish",
@@ -496,6 +558,7 @@
         "max": 1
     },
     {
+        "name": "Clust S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Bomberry",
@@ -504,6 +567,7 @@
         "max": 1
     },
     {
+        "name": "Clust S Lv2",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Wyvern Claw",
@@ -512,6 +576,7 @@
         "max": 1
     },
     {
+        "name": "Clust S Lv3",
         "type": "normal",
         "materialA": "Lg Bone Husk",
         "materialB": "Bomb Arrowana",
@@ -520,6 +585,7 @@
         "max": 1
     },
     {
+        "name": "Flaming S",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Fire Herb",
@@ -528,6 +594,7 @@
         "max": 1
     },
     {
+        "name": "Water S",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Knife Mackerel",
@@ -536,6 +603,7 @@
         "max": 3
     },
     {
+        "name": "Thunder S",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Flashbug",
@@ -544,6 +612,7 @@
         "max": 4
     },
     {
+        "name": "Freeze S",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Ice Crystal",
@@ -552,6 +621,7 @@
         "max": 3
     },
     {
+        "name": "Dragon S",
         "type": "normal",
         "materialA": "Lg Bone Husk",
         "materialB": "Dragon Seed",
@@ -560,6 +630,7 @@
         "max": 1
     },
     {
+        "name": "Recov S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Herb",
@@ -568,6 +639,7 @@
         "max": 1
     },
     {
+        "name": "Recov S Lv2",
         "type": "normal",
         "materialA": "Potion",
         "materialB": "Huskberry",
@@ -576,6 +648,7 @@
         "max": 1
     },
     {
+        "name": "Poison S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Toadstool",
@@ -584,6 +657,7 @@
         "max": 1
     },
     {
+        "name": "Poison S Lv2",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Ioprey Fang",
@@ -592,6 +666,7 @@
         "max": 1
     },
     {
+        "name": "Para S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Parashroom",
@@ -600,6 +675,7 @@
         "max": 1
     },
     {
+        "name": "Para S Lv2",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Genprey Fang",
@@ -608,6 +684,7 @@
         "max": 1
     },
     {
+        "name": "Sleep S Lv1",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Sleep Herb",
@@ -616,6 +693,7 @@
         "max": 1
     },
     {
+        "name": "Sleep S Lv2",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Sleepyfish",
@@ -624,6 +702,7 @@
         "max": 1
     },
     {
+        "name": "Paint S",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Paintberry",
@@ -632,6 +711,7 @@
         "max": 1
     },
     {
+        "name": "Demon S",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Power Seed",
@@ -640,6 +720,7 @@
         "max": 1
     },
     {
+        "name": "Armor S",
         "type": "normal",
         "materialA": "Huskberry",
         "materialB": "Armor Seed",
@@ -648,6 +729,7 @@
         "max": 1
     },
     {
+        "name": "Empty Bottle",
         "type": "normal",
         "materialA": "Sm Bone Husk",
         "materialB": "Whetstone",
@@ -656,6 +738,7 @@
         "max": 2
     },
     {
+        "name": "Poison Coating",
         "type": "normal",
         "materialA": "Empty Bottle",
         "materialB": "Toadstool",
@@ -664,6 +747,7 @@
         "max": 2
     },
     {
+        "name": "Paralysis Coating",
         "type": "normal",
         "materialA": "Empty Bottle",
         "materialB": "Parashroom",
@@ -672,6 +756,7 @@
         "max": 2
     },
     {
+        "name": "Sleep Coating",
         "type": "normal",
         "materialA": "Empty Bottle",
         "materialB": "Sleep Herb",
@@ -680,6 +765,7 @@
         "max": 2
     },
     {
+        "name": "Power Coating",
         "type": "normal",
         "materialA": "Empty Bottle",
         "materialB": "Nitroshroom",
@@ -688,6 +774,7 @@
         "max": 2
     },
     {
+        "name": "Close Rng Coating",
         "type": "normal",
         "materialA": "Empty Bottle",
         "materialB": "Knife Mackerel",
@@ -696,6 +783,7 @@
         "max": 2
     },
     {
+        "name": "Paint Coating",
         "type": "normal",
         "materialA": "Empty Bottle",
         "materialB": "Paintberry",
@@ -704,6 +792,7 @@
         "max": 2
     },
     {
+        "name": "Tranquilizer",
         "type": "normal",
         "materialA": "Sleep Herb",
         "materialB": "Parashroom",
@@ -712,6 +801,7 @@
         "max": 1
     },
     {
+        "name": "Tranq Thr Knf",
         "type": "normal",
         "materialA": "Tranquilizer",
         "materialB": "Throwing Knife",
@@ -720,6 +810,7 @@
         "max": 1
     },
     {
+        "name": "Tranq Bomb",
         "type": "normal",
         "materialA": "Tranquilizer",
         "materialB": "Bomb Material",
@@ -728,6 +819,7 @@
         "max": 1
     },
     {
+        "name": "Tranq Shot",
         "type": "normal",
         "materialA": "Tranquilizer",
         "materialB": "Sm Bone Husk",
@@ -736,6 +828,7 @@
         "max": 1
     },
     {
+        "name": "Armor Sphere",
         "type": "normal",
         "materialA": "Machalite Ore",
         "materialB": "Armor Stone",
@@ -744,6 +837,7 @@
         "max": 1
     },
     {
+        "name": "Armor Sphere",
         "type": "normal",
         "materialA": "Armor Stone",
         "materialB": "Killer Beetle",
@@ -752,6 +846,7 @@
         "max": 1
     },
     {
+        "name": "Armor Sphere+",
         "type": "normal",
         "materialA": "Dragonite Ore",
         "materialB": "Armor Stone",
@@ -760,14 +855,16 @@
         "max": 1
     },
     {
+        "name": "Armor Sphere+",
         "type": "normal",
-        "materialA": "Armor Stone",
-        "materialB": "Hercudrome",
+        "materialA": "Hercudrome",
+        "materialB": "Armor Stone",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Hrd Armor Sphere",
         "type": "normal",
         "materialA": "Carbalite Ore",
         "materialB": "Armor Stone",
@@ -776,14 +873,16 @@
         "max": 1
     },
     {
+        "name": "Hrd Armor Sphere",
         "type": "normal",
-        "materialA": "Armor Stone",
-        "materialB": "King Scarab",
+        "materialA": "King Scarab",
+        "materialB": "Armor Stone",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Hvy Armor Sphere",
         "type": "normal",
         "materialA": "Purecrystal",
         "materialB": "Armor Stone",
@@ -792,6 +891,7 @@
         "max": 1
     },
     {
+        "name": "Ryl Armor Sphere",
         "type": "normal",
         "materialA": "Eltalite Ore",
         "materialB": "Armor Stone",
@@ -800,14 +900,16 @@
         "max": 1
     },
     {
+        "name": "Ryl Armor Sphere",
         "type": "normal",
-        "materialA": "Armor Stone",
-        "materialB": "Emperor Cricket",
+        "materialA": "Emperor Cricket",
+        "materialB": "Armor Stone",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Tru Armor Sphere",
         "type": "normal",
         "materialA": "Mellanje Ore",
         "materialB": "Armor Stone",
@@ -816,246 +918,277 @@
         "max": 1
     },
     {
+        "name": "Tru Armor Sphere",
         "type": "normal",
-        "materialA": "Armor Stone",
-        "materialB": "PhantomButterfly",
+        "materialA": "PhantomButterfly",
+        "materialB": "Armor Stone",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Disk Stone",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Disk Stone",
+        "materialA": "Disk Stone",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 5,
         "max": 5
     },
     {
+        "name": "Iron Ore",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Iron Ore",
+        "materialA": "Iron Ore",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 5,
         "max": 5
     },
     {
+        "name": "Earth Crystal",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Earth Crystal",
+        "materialA": "Earth Crystal",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 3,
         "max": 3
     },
     {
+        "name": "Machalite Ore",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Machalite Ore",
+        "materialA": "Machalite Ore",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 3,
         "max": 3
     },
     {
+        "name": "Dragonite Ore",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Dragonite Ore",
+        "materialA": "Dragonite Ore",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 3,
         "max": 3
     },
     {
+        "name": "Carbalite Ore",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Carbalite Ore",
+        "materialA": "Carbalite Ore",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Eltalite Ore",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Eltalite Ore",
+        "materialA": "Eltalite Ore",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Union Ore",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Union Ore",
+        "materialA": "Union Ore",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Mellanje Ore",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Mellanje Ore",
+        "materialA": "Mellanje Ore",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Firestone",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Firestone",
+        "materialA": "Firestone",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Firecell Stone",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Firecell Stone",
+        "materialA": "Firecell Stone",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Lightcrystal",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Lightcrystal",
+        "materialA": "Lightcrystal",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Novacrystal",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Novacrystal",
+        "materialA": "Novacrystal",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Purecrystal",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Purecrystal",
+        "materialA": "Purecrystal",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Monster Bone+",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Monster Bone+",
+        "materialA": "Monster Bone+",
+        "materialB": "Expand Pickaxe",
+        "chance": 100,
+        "min": 3,
+        "max": 3
+    },
+    {
+        "name": "Hrd Monster Bone",
+        "type": "normal",
+        "materialA": "Hrd Monster Bone",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Hvy Monster Bone",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Hrd Monster Bone",
+        "materialA": "Hvy Monster Bone",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Carpenterbug",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Hvy Monster Bone",
-        "chance": 100,
-        "min": 2,
-        "max": 2
-    },
-    {
-        "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Carpenterbug",
+        "materialA": "Carpenterbug",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 5,
         "max": 5
     },
     {
+        "name": "Killer Beetle",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Killer Beetle",
+        "materialA": "Killer Beetle",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 3,
         "max": 3
     },
     {
+        "name": "Hercudrome",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Hercudrome",
+        "materialA": "Hercudrome",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 3,
         "max": 3
     },
     {
+        "name": "Rare Scarab",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Rare Scarab",
+        "materialA": "Rare Scarab",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "King Scarab",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "King Scarab",
+        "materialA": "King Scarab",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 3,
         "max": 3
     },
     {
+        "name": "Emperor Cricket",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "Emperor Cricket",
+        "materialA": "Emperor Cricket",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "PhantomButterfly",
         "type": "normal",
-        "materialA": "Expand Pickaxe",
-        "materialB": "PhantomButterfly",
+        "materialA": "PhantomButterfly",
+        "materialB": "Expand Pickaxe",
         "chance": 100,
         "min": 2,
         "max": 2
     },
     {
+        "name": "Pokke Snowman",
         "type": "treasure",
-        "materialA": "Flurry Ball",
-        "materialB": "Blizzard Ball",
+        "materialA": "Blngo Flrry Ball",
+        "materialB": "Blngo Blzrd Ball",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Felyne Crown",
         "type": "treasure",
-        "materialA": "Crown Fragment",
-        "materialB": "Inferior Crown",
+        "materialA": "Flyn Crwn Frgmnt",
+        "materialB": "Inferior Flyn Crn",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "GoldFelynJewelSword",
         "type": "treasure",
-        "materialA": "Gold Handle",
-        "materialB": "Gold Blade",
+        "materialA": "GldBladelessHndl",
+        "materialB": "Hndlelss Gld Bld",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Dynasty Vase",
         "type": "treasure",
-        "materialA": "Vase Bottom",
-        "materialB": "Bottomless Vase",
+        "materialA": "Old Vase Bottom",
+        "materialB": "Bttmlss Old Vase",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Mysterious Mask",
         "type": "treasure",
         "materialA": "Shakalaka Stone",
-        "materialB": "Holed Shakalaka Mask",
+        "materialB": "Holed Shaka Mask",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Eldr Drgn Rfrnc",
         "type": "treasure",
         "materialA": "Old Book Scrap",
         "materialB": "Torn Old Book",
@@ -1064,14 +1197,16 @@
         "max": 1
     },
     {
+        "name": "AncntCatKingStat",
         "type": "treasure",
-        "materialA": "TaillessCatStatu",
-        "materialB": "BrokenStoneTail",
+        "materialA": "BrokenStoneTail",
+        "materialB": "TaillessCatStatu",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Honey",
         "type": "alchemy",
         "materialA": "Firefly",
         "materialB": "Special Mushroom",
@@ -1080,6 +1215,7 @@
         "max": 1
     },
     {
+        "name": "Herb",
         "type": "alchemy",
         "materialA": "Sap Plant",
         "materialB": "Insect Husk",
@@ -1088,6 +1224,7 @@
         "max": 1
     },
     {
+        "name": "Fire Herb",
         "type": "alchemy",
         "materialA": "Garbage",
         "materialB": "Hot Pepper",
@@ -1096,6 +1233,7 @@
         "max": 1
     },
     {
+        "name": "Blue Mushroom",
         "type": "alchemy",
         "materialA": "Antidote Herb",
         "materialB": "Toadstool",
@@ -1104,6 +1242,7 @@
         "max": 1
     },
     {
+        "name": "Raw Meat",
         "type": "alchemy",
         "materialA": "Burnt Meat",
         "materialB": "Insect Husk",
@@ -1112,6 +1251,7 @@
         "max": 1
     },
     {
+        "name": "Large Barrel",
         "type": "alchemy",
         "materialA": "Ivy",
         "materialB": "Med Monster Bone",
@@ -1120,6 +1260,7 @@
         "max": 1
     },
     {
+        "name": "Small Barrel",
         "type": "alchemy",
         "materialA": "Sap Plant",
         "materialB": "Sm Monster Bone",
@@ -1128,6 +1269,7 @@
         "max": 1
     },
     {
+        "name": "Huskberry",
         "type": "alchemy",
         "materialA": "Huskberry",
         "materialB": "Iron Ore",
@@ -1136,6 +1278,7 @@
         "max": 5
     },
     {
+        "name": "Needleberry",
         "type": "alchemy",
         "materialA": "Needleberry",
         "materialB": "Earth Crystal",
@@ -1144,6 +1287,7 @@
         "max": 5
     },
     {
+        "name": "Sushi Fish",
         "type": "alchemy",
         "materialA": "Antidote Herb",
         "materialB": "Sleepyfish",
@@ -1152,6 +1296,7 @@
         "max": 1
     },
     {
+        "name": "Rare Steak",
         "type": "alchemy",
         "materialA": "Thunderbug",
         "materialB": "Velociprey Hide",
@@ -1160,6 +1305,7 @@
         "max": 1
     },
     {
+        "name": "Screamer",
         "type": "alchemy",
         "materialA": "Frog",
         "materialB": "Flute",
@@ -1168,6 +1314,7 @@
         "max": 1
     },
     {
+        "name": "Monster Fluid",
         "type": "alchemy",
         "materialA": "Ice Crystal",
         "materialB": "Sleep Sac",
@@ -1176,6 +1323,7 @@
         "max": 1
     },
     {
+        "name": "Psychoserum",
         "type": "alchemy",
         "materialA": "Cactus Flower",
         "materialB": "Thunderbug",
@@ -1184,6 +1332,7 @@
         "max": 1
     },
     {
+        "name": "Power Extract",
         "type": "alchemy",
         "materialA": "Dragon Seed",
         "materialB": "Piscine Liver",
@@ -1192,22 +1341,25 @@
         "max": 1
     },
     {
+        "name": "Power Seed",
         "type": "alchemy",
         "materialA": "Bomberry",
-        "materialB": "Velociprey Hide",
+        "materialB": "Kut-Ku Scale",
         "chance": 65,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Armor Seed",
         "type": "alchemy",
-        "materialA": "Huskberry",
+        "materialA": "Needleberry",
         "materialB": "Giaprey Hide",
         "chance": 65,
         "min": 1,
         "max": 1
     },
     {
+        "name": "Rare Fish",
         "type": "alchemy",
         "materialA": "Burnt Fish",
         "materialB": "Sunset Herb",
