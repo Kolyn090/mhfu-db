@@ -1,0 +1,16 @@
+{
+    "location": null,
+    "item": [
+        {
+            "give": {
+                "REFERENCES": "./items.json",
+                "REFERENCES-FIELD": "name"
+            },
+            "gain": {
+                "REFERENCES": "./items.json",
+                "REFERENCES-FIELD": "name"
+            },
+            "chance": null
+        }
+    ]
+}
