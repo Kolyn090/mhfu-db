@@ -1,4 +1,8 @@
 {
+    "name": {
+        "REFERENCES": "./items.json",
+        "REFERENCES-FIELD": "name"
+    },
     "type": null,
     "materialA": {
         "REFERENCES": "./items.json",

@@ -193,9 +193,9 @@ def confirm_reference(json_obj, data_info_dir, parent_key=""):
                         for a in table_values:
                             result = False
                             for b in referenced_table_values:
-
                                 if a == b:
                                     result = True
+                            
                             assert result, f'{a} in {table_dir} is invalid.'
             else:
                 confirm_reference(value, data_info_dir, parent_key + '/' + key)  # Recursively read the value
