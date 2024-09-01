@@ -1,0 +1,15 @@
+{
+    "name": {
+        "REFERENCES": "./weapons.json",
+        "REFERENCES-FIELD": "name"
+    },
+    "ammo": [
+        {
+            "name": {
+                "REFERENCES": "../items.json",
+                "REFERENCES-FIELD": "name"
+            },
+            "capacity": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "VARCHAR",
+    "type": "VARCHAR",
+    "attack": "INT",
+    "rare": "INT",
+    "slots": "INT",
+    "affinity": "INT",
+    "defense": "INT",
+    "description": "VARCHAR",
+    "elements": [
+        {
+            "name": "VARCHAR",
+            "attack": "INT"
+        }
+    ]
+}

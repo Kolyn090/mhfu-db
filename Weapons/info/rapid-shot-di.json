@@ -1,0 +1,10 @@
+{
+    "name": {
+        "REFERENCES": "./weapons.json",
+        "REFERENCES-FIELD": "name"
+    },
+    "rapid-shot": {
+        "REFERENCES": "../items.json",
+        "REFERENCES-FIELD": "name"
+    }
+}

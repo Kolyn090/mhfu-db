@@ -1,0 +1,11 @@
+{
+    "name": "VARCHAR",
+    "price": "INT",
+    "upgrade-from": "UNKNOWN/VARCHAR",
+    "materials": [
+        {
+            "name": "VARCHAR",
+            "amount": "INT"
+        }
+    ]
+}
