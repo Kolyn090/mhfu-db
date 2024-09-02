@@ -46073,6 +46073,57 @@
     },
     {
         "part": "waist",
+        "name": "Ceanataur Tasset S",
+        "rare": 6,
+        "price": 10050,
+        "hunter-type": "B",
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Artisan",
+                "points": 2
+            },
+            {
+                "name": "SwdShrpner",
+                "points": 1
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Defense",
+                "points": -2
+            }
+        ],
+        "description": "The hard shell of a Shogun Ceanataur. Its blades are still intact, so beware!",
+        "slots": 2,
+        "fire-res": 1,
+        "thundr-res": -1,
+        "dragon-res": 0,
+        "water-res": 2,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Ceanataur Carpce",
+                "amount": 3
+            },
+            {
+                "name": "Ceanataur Shell",
+                "amount": 4
+            },
+            {
+                "name": "Firestone",
+                "amount": 2
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "part": "waist",
         "name": "Ceanataur Coat S",
         "rare": 6,
         "price": 10050,
