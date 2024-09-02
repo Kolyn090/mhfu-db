@@ -1,0 +1,26 @@
+{
+    "name": true,
+    "time-limit": false,
+    "location": false,
+    "main-monsters": false,
+    "goal-condition": false,
+    "quest-details": false,
+    "difficulty": false,
+    "point-multiplier": false,
+    "weapon": {
+        "name": false,
+        "decorations": false
+    },
+    "armors": [
+        {
+            "name": true,
+            "decorations": false
+        }
+    ],
+    "items": [
+        {
+            "name": true,
+            "count": false
+        }
+    ]
+}

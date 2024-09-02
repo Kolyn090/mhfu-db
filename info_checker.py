@@ -1,18 +1,41 @@
-# Check for info files validness
-# 1. All info tables must be under 'info/'
-# 2. Ensure that every referencing field in Table contains a value
-#    that exists in the Referenced Table's referenced field
-# 3. Info must have the exact same structure as its referenced table
-# Tip: Check data_info_reference_example.png for visualization
-# Tip: di stands for 'data-info'
 
 import os
 import json
 
 
+'''
+    Check for info files validness
+    1. All info tables must be under 'info/../'
+    2. Info must have the exact same structure as its Table
+
+    For reference tables:
+        3. Ensure that every referencing field in Table contains a value
+        that exists in the Referenced Table's referenced field
+    For unique tables:
+        4. Ensure every field marked true in -uni-di.json is unique
+        within its own scope
+    
+    Tip: Check data_info_reference_example.png for visualization
+    Tip: di stands for 'data-info'
+'''
+
+
+def get_Table_dir(data_info_dir):
+    """
+    | Returns the directory of Table of the given data info directory.
+    :param data_info_dir: str
+    :return: str
+    """
+    split = data_info_dir.split('/')
+    parent_dir = '/'.join(split[:-3])
+    table_name_split = split[-1].split('-')
+    table_name = '-'.join(table_name_split[:-2]) + table_name_split[-1].replace('di.json', '-dt.json')
+    return parent_dir+'/table/'+table_name
+
+
 def compare_json_structures_ignore_type(json1, json2):
     """
-    | Return True if the two given JSON objects have the same
+    | Returns True if the two given JSON objects have the same
     | field structure. The type of each value is insensitive.
     :param json1: JSON
     :param json2: JSON
@@ -127,7 +150,7 @@ def confirm_reference(json_obj, data_info_dir, parent_key=""):
     """
 
     split = data_info_dir.split('/')
-    parent_dir = '/'.join(split[:-2])
+    parent_dir = '/'.join(split[:-3])
 
     # Referenced Table (in relative path)
     stored_references_dir = ''
@@ -147,7 +170,7 @@ def confirm_reference(json_obj, data_info_dir, parent_key=""):
                     referenced_table = json.loads(referenced_table_file.read())
 
                     # Goal: Open Table
-                    table_dir = parent_dir + '/' + split[-1].replace('-di.json', '.json')
+                    table_dir = get_Table_dir(data_info_dir)
                     with open(table_dir, 'r') as table_file:
                         table = json.loads(table_file.read())
                         # 'parent_key' can lead to the referencing field in Table
@@ -195,6 +218,8 @@ def confirm_reference(json_obj, data_info_dir, parent_key=""):
                             for b in referenced_table_values:
                                 if a == b:
                                     result = True
+                                if a == None:
+                                    result = True
                             
                             assert result, f'{a} in {table_dir} is invalid.'
             else:
@@ -207,11 +232,7 @@ def confirm_reference(json_obj, data_info_dir, parent_key=""):
 
 def test_data_info(data_info_dir, data_info_content):
     """
-    | Check whether all following 3 rules are true for the given data_info
-    | 1. All info tables must be under 'info/'
-    | 2. Ensure that every referencing field in Table contains a value
-    |    that exists in the Referenced Table's referenced field
-    | 3. Info must have the exact same structure as its referenced table
+    | Check whether all 4 rules on the top of this script hold
     :param data_info_dir: str
     :param data_info_content: str
     :return: void
@@ -220,28 +241,38 @@ def test_data_info(data_info_dir, data_info_content):
     if data_info_content == "":
         return
     split = data_info_dir.split('/')
-    # 1. Data Info must be under 'info/'
-    assert split[-2] == 'info'
-    # 2. Ensure that every referencing field in Table contains a value
-    #    that exists in the Referenced Table's referenced field
+    # 1. Data Info must be under 'info/../'
+    assert split[-3] == 'info'
+    # 2. Info must have the exact same structure as its Table
+    '''
+    Replace all
+    {
+        "REFERENCES": xxx,
+        "REFERENCES-FIELD": xxx
+    }
+    with null
+    '''
     data_info = json.loads(data_info_content)
-    confirm_reference(data_info, data_info_dir)
-    # 3. Info must have the exact same structure as its referenced table
-
-    # Replace all
-    # {
-    #     "REFERENCES": xxx,
-    #     "REFERENCES-FIELD": xxx
-    # }
-    # with null
-    data_info_simplified = replace_object_with_null(data_info, ['REFERENCES', 'REFERENCES-FIELD'])
-    parent_dir = '/'.join(split[:-2])
-    # Open the data table of the referenced table
-    with open(parent_dir+'/table/'+split[-1].replace('-di.json', '-dt.json')) as data_table_file:
+    data_info_simplified = (
+        replace_object_with_null(data_info, ['REFERENCES', 'REFERENCES-FIELD'])
+        if data_info_dir.endswith('-ref-uni.json')
+        else data_info
+    )
+    # Open Table
+    with open(get_Table_dir(data_info_dir)) as data_table_file:
         data_table = json.loads(data_table_file.read())
-        # Check if the data info and data table have the same structure
-        # type is not important, only the fields are
+        # Check if Data Info and Table have the same structure
+        # note: type is not important, only the fields are
         assert compare_json_structures_ignore_type(data_info_simplified, data_table), "Table structures are different!"
+
+    # 3. Ensure that every referencing field in Table contains a value
+    #    that exists in the Referenced Table's referenced field
+    confirm_reference(data_info, data_info_dir)
+
+    # TODO
+    # 4. Ensure every field marked true in -uni-di.json is unique
+    # within its own scope
+
 
 def test_all_data_info_under(root):
     """

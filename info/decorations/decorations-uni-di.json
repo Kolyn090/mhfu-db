@@ -1,0 +1,18 @@
+{
+    "name": true,
+    "slots": false,
+    "price": false,
+    "description": false,
+    "skill-points": [
+        {
+            "name": true,
+            "points": false
+        }
+    ],
+    "materials": [
+        {
+            "name": true,
+            "amount": false
+        }
+    ]
+}
