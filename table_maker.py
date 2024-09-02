@@ -2,14 +2,68 @@ import os
 import json
 import re
 
+'''
+    Creates a data table for the provided json file (Table).
+    'Table' should be a list of objects with the same structure.
+    For example:
+    [
+        {
+            "name": "Joe"
+        },
+        {
+            "name": "Danny"
+        }
+    ]
+    is valid. While
+    [
+        {
+            "name": "Joe
+        },
+        {
+            "name": "Danny,
+            "phone-number": 123456789
+        }
+    ]
+    is invalid.
+
+    The generated data will be put under table/ directory.
+
+    The generated data tables should not be edited, as each time this script
+    is run will override the changes. Therefore, you should only treat them
+    as the place to inspect data type.
+
+    Data table example:
+    [
+        {
+            "name": "Joe",
+            "phone-number": 777777777
+        },
+        {
+            "name": "Danny",
+            "phone-number": 123456789
+        }
+    ]
+    will yield:
+    [
+        {
+            "name": VARCHAR,
+            "phone-number": INT
+        }
+    ]
+
+    TODO:
+    Note: Currently, once this script run, all json files will be subject for 
+    data table creation, regardless its validness.
+'''
+
 
 def make_leaf_list(json_obj, keys):
     """
     | Make the last key in the nested keys
     | in json_obj a list of itself.
     :param json_obj: Object
-    :param keys: String[]
-    :return: Void
+    :param keys: str[]
+    :return: void
     """
     d = json_obj
     for key in keys[:-1]:
@@ -24,9 +78,10 @@ def convert_to_nested_json(flat_json):
     | leaf in the json object is tagged
     | as an "ARRAY", it will be converted
     | to a list of itself.
-    :param flat_json: String[]
-    :return: Object
+    :param flat_json: str[]
+    :return: JSON
     """
+
     nested_json = {}
 
     arrays = []
@@ -53,6 +108,34 @@ def convert_to_nested_json(flat_json):
 
 
 def get_all_property_name_val(data, parent_key=''):
+    """
+    | Convert the given json data to a special format.
+    | This format treats primitive values in a list as
+    | an object.
+    |
+    | Example:
+    | {
+    |     "name": "Max",
+    |     "goods": [
+    |         "milk",
+    |         "apple"
+    |     ]
+    | } 
+    | Will be converted to
+    | {
+    |     "name": "Max",
+    |     "goods[0]": [
+    |         "milk"
+    |     ],
+    |     "goods[1]": [
+    |         "apple"
+    |     ], 
+    | } 
+    :param data: JSON
+    :param parent_key: str
+    :return: dict
+    """
+
     items = {}
     if isinstance(data, dict):
         for k, v in data.items():
@@ -75,7 +158,15 @@ def get_all_property_name_val(data, parent_key=''):
     return items
 
 
-def make_table_for_json(filedir, file):
+def make_table_for_json(filedir, json_obj):
+    """
+    | Make a data table for the given json file.
+    | For more details, please check the top of this script.
+    :param filedir: str
+    :param file: str
+    :return: Void
+    """
+
     def python_to_sql_type(py_type):
         type_mapping = {
             str: 'VARCHAR',
@@ -83,22 +174,20 @@ def make_table_for_json(filedir, file):
             float: 'FLOAT',
             list: 'ARRAY',
             dict: 'JSON',
+            type(None): 'NULL'
         }
         return type_mapping.get(py_type, 'UNKNOWN')
 
     def get_table_dir():
-        split = filedir.split("/");
+        split = filedir.split("/")
         os.makedirs('/'.join(split[:len(split)-1]) + "/table/", exist_ok=True)
         return '/'.join(split[:len(split)-1]) + "/table/" + split[len(split)-1].replace('.json', '-dt.json')
 
-    if file == "":
-        return
     # print(filedir)
     out = {}
-    data = json.loads(file)
 
-    for col in data:
-        all_property_name_val = get_all_property_name_val(col)
+    for element in json_obj:
+        all_property_name_val = get_all_property_name_val(element)
         for key, value in all_property_name_val.items():
             # Remove the brackets to 'join' the keys
             real_key = re.sub(r'\[.*?\]', '', key)
@@ -142,7 +231,6 @@ def make_table_for_json(filedir, file):
 
     # Write the table to -dt.json
     with open(get_table_dir(), 'w') as json_file:
-        convert_to_nested_json(out)
         json.dump(convert_to_nested_json(out), json_file, indent=4)
         # json.dump(out, json_file, indent=4)
 
@@ -155,17 +243,15 @@ def make_table_for_all_json_files_under(root):
     else:
         if not root.endswith('.json'):
             return
-        # Ignore tables
+        # Ignore special tables
         if root.endswith('-dt.json') or root.endswith('-di.json'):
             return
 
         filedir = root
         with open(filedir, 'r') as file:
-            make_table_for_json(filedir, file.read())
+            if file != '':
+                make_table_for_json(filedir, json.loads(file.read()))
 
 
 if __name__ == "__main__":
     make_table_for_all_json_files_under('.')
-    # _dir = "Weapons/Long-Swd/long-swd-create.json"
-    # with open(_dir, 'r') as _file:
-    #     make_table_for_json(_dir, _file.read())

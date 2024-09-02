@@ -4,11 +4,11 @@
     "defense-enraged": "INT/FLOAT",
     "appear": [
         {
-            "size-smallest": "INT/UNKNOWN",
-            "size-largest": "INT/UNKNOWN",
-            "health": "INT/UNKNOWN",
-            "attack": "INT/UNKNOWN",
-            "defense": "INT/UNKNOWN",
+            "size-smallest": "INT/NULL",
+            "size-largest": "INT/NULL",
+            "health": "INT/NULL",
+            "attack": "INT/NULL",
+            "defense": "INT/NULL",
             "note": "VARCHAR"
         }
     ]

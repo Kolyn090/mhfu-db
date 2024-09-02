@@ -1,0 +1,27 @@
+{
+    "name": "VARCHAR",
+    "max-party": "INT",
+    "time-limit": "INT",
+    "location": "VARCHAR",
+    "main-monsters": "ARRAY(VARCHAR)",
+    "goal-condition": "VARCHAR",
+    "quest-details": "VARCHAR",
+    "difficulty": "INT",
+    "point-multiplier": "INT",
+    "weapon": {
+        "name": "VARCHAR",
+        "decorations": "ARRAY(VARCHAR)"
+    },
+    "armors": [
+        {
+            "name": "VARCHAR",
+            "decorations": "ARRAY(VARCHAR)"
+        }
+    ],
+    "items": [
+        {
+            "name": "VARCHAR",
+            "count": "INT/VARCHAR"
+        }
+    ]
+}

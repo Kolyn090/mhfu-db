@@ -2,9 +2,9 @@
     "monster": "VARCHAR",
     "golden-largest-min": "FLOAT/INT",
     "golden-largest-max": "FLOAT/INT",
-    "silver-min": "FLOAT/UNKNOWN/INT",
-    "silver-max": "FLOAT/INT/UNKNOWN",
-    "golden-smallest-min": "FLOAT/UNKNOWN/INT",
-    "golden-smallest-max": "FLOAT/INT/UNKNOWN",
+    "silver-min": "FLOAT/NULL/INT",
+    "silver-max": "FLOAT/INT/NULL",
+    "golden-smallest-min": "FLOAT/NULL/INT",
+    "golden-smallest-max": "FLOAT/INT/NULL",
     "default": "FLOAT/INT"
 }
