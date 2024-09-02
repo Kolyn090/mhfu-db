@@ -36,8 +36,8 @@ def count_number_of_lines(root, number):
     else:
         if not root.endswith('.json'):
             return number
-        # Ignore tables
-        if root.endswith('-dt.json'):
+        # Ignore special tables
+        if root.endswith('-dt.json') or root.endswith('-di.json'):
             return number
 
         filedir = root
