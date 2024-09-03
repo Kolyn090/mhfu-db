@@ -1,0 +1,27 @@
+{
+    "part": false,
+    "name": true,
+    "rare": false,
+    "price": false,
+    "hunter-type": false,
+    "defense": false,
+    "skill-points": [
+        {
+            "name": true,
+            "points": false
+        }
+    ],
+    "description": false,
+    "slots": false,
+    "fire-res": false,
+    "thundr-res": false,
+    "dragon-res": false,
+    "water-res": false,
+    "ice-res": false,
+    "materials": [
+        {
+            "name": true,
+            "amount": false
+        }
+    ]
+}

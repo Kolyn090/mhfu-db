@@ -1,0 +1,40 @@
+{
+    "name": null,
+    "time-limit": null,
+    "location": null,
+    "main-monsters": {
+        "REFERENCES": "../Monsters/monsters.json",
+        "REFERENCES-FIELD": "name"
+    },
+    "goal-condition": null,
+    "quest-details": null,
+    "difficulty": null,
+    "point-multiplier": null,
+    "weapon": {
+        "name": {
+            "REFERENCES": "../Weapons/weapons.json",
+            "REFERENCES-FIELD": "name"
+        }
+    },
+    "armors": [
+        {
+            "name": {
+                "REFERENCES": "../armors.json",
+                "REFERENCES-FIELD": "name"
+            },
+            "decorations": {
+                "REFERENCES": "../decorations.json",
+                "REFERENCES-FIELD": "name"
+            }
+        }
+    ],
+    "items": [
+        {
+            "name": {
+                "REFERENCES": "../items.json",
+                "REFERENCES-FIELD": "name"
+            },
+            "count": null
+        }
+    ]
+}
