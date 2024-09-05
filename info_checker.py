@@ -123,6 +123,24 @@ def get_relative_path(base_path, relative_path):
     return normalized_path
 
 
+def get_nested_value(data, fields):
+    for field in fields:
+        if isinstance(data, dict):
+            # Access the dictionary value by the key
+            data = data.get(field)
+        elif isinstance(data, list):
+            result = []
+            for item in data:
+                if isinstance(item, dict) or isinstance(item, list):
+                    result.append(get_nested_value(item, [field]))
+                else: # Primitive type 
+                    result.append(item)
+            data = result
+        else:
+            return None  # Return None if the structure is not as expected
+    return data
+
+
 def confirm_reference(json_obj, data_info_dir, parent_key=""):
     """
     | Confirm that each value in Table (that is referencing field from
@@ -178,26 +196,6 @@ def confirm_reference(json_obj, data_info_dir, parent_key=""):
                         split_parent_key = [field for field in parent_key.split('/') if field != '']
                         split_value = [field for field in value.split('/') if field != '']
 
-                        def get_nested_value(data, fields):
-                            for field in fields:
-                                if isinstance(data, dict):
-                                    # Access the dictionary value by the key
-                                    data = data.get(field)
-                                elif isinstance(data, list):
-                                    # If the field is an integer, treat it as an index to access the list
-                                    if isinstance(field, int):
-                                        if 0 <= field < len(data):
-                                            data = data[field]
-                                        else:
-                                            return None  # Return None if the index is out of range
-                                    else:
-                                        # If the field is not an index, apply the function to each item in the list
-                                        data = [get_nested_value(item, [field]) for item in data if
-                                                isinstance(item, dict)]
-                                else:
-                                    return None  # Return None if the structure is not as expected
-                            return data
-
                         def flatten_list(lst):
                             flattened = []
                             for sublist in lst:
@@ -230,6 +228,100 @@ def confirm_reference(json_obj, data_info_dir, parent_key=""):
             confirm_reference(item, data_info_dir, parent_key)  # Recursively read each item in the list
 
 
+def check_uniqueness(json_obj, data_info_dir, parent_key=""):
+    """
+    | Confirm that each field marked 'unique' is unique in 
+    | the Referenced Table within its own scope.
+    | Example:
+    |
+    | -uni-di.josn
+    | {
+    |   "key": true
+    | }
+    | 
+    | Referenced Table 1
+    |  [
+    |   {
+    |    "key": "apple"
+    |   }
+    |   {
+    |    "key": "banana"
+    |   }
+    | ]
+    | >> True
+    |
+    | Referenced Table 2
+    |  [
+    |   {
+    |    "key": "apple"
+    |   }
+    |   {
+    |    "key": "apple"
+    |   }
+    | ]
+    | >> False
+    | 
+    | Referenced Table 3
+    | {
+    |   key: [
+    |       "apple"
+    |       "banana"
+    |   ]
+    | }
+    | >> True
+    | 
+    | Referenced Table 4
+    | {
+    |   key: [
+    |       "apple"
+    |       "apple"
+    |   ]
+    | }
+    | >> False
+    |
+    | Referenced Table 5
+    | {
+    |   key: [
+    |       "apple"
+    |       "apple"
+    |   ]
+    | }
+    | >> False
+    :param json_obj: JSON
+    :param data_info_dir: str
+    :param parent_key: str
+    :return: void
+    """
+
+    split = data_info_dir.split('/')
+    parent_dir = '/'.join(split[:-3])
+
+    if isinstance(json_obj, dict):
+        for key, value in json_obj.items():
+            if isinstance(value, list) or isinstance(value, dict):
+                check_uniqueness(value, data_info_dir, parent_key + '/' + key)
+            else:
+                # print(parent_key)
+                if value == True:
+                    actual_Table = parent_dir + '/' + split[-1].replace('-uni-di.json', '.json')
+                    with (open(actual_Table) as actual_file):
+                        actual_json = json.loads(actual_file.read())
+                        fields = [field for field in parent_key.split('/') if field != '']
+                        fields.append(key)
+                        nested_value = get_nested_value(actual_json, fields)
+                        if isinstance(nested_value[0], list):
+                            for smaller_list in nested_value:
+                                # There won't be any smaller list by program design
+                                 assert len(smaller_list) == len(set(smaller_list))
+                        else:
+                            assert len(nested_value) == len(set(nested_value))
+
+    elif isinstance(json_obj, list):
+        for index, item in enumerate(json_obj):
+            if isinstance(item, dict):
+                check_uniqueness(item, data_info_dir, parent_key)
+            
+
 def test_data_info(data_info_dir, data_info_content):
     """
     | Check whether all 4 rules on the top of this script hold
@@ -255,7 +347,7 @@ def test_data_info(data_info_dir, data_info_content):
     data_info = json.loads(data_info_content)
     data_info_simplified = (
         replace_object_with_null(data_info, ['REFERENCES', 'REFERENCES-FIELD'])
-        if data_info_dir.endswith('-ref-uni.json')
+        if data_info_dir.endswith('-ref-di.json')
         else data_info
     )
     # Open Table
@@ -269,9 +361,10 @@ def test_data_info(data_info_dir, data_info_content):
     #    that exists in the Referenced Table's referenced field
     confirm_reference(data_info, data_info_dir)
 
-    # TODO
     # 4. Ensure every field marked true in -uni-di.json is unique
     # within its own scope
+    if data_info_dir.endswith('-uni-di.json'):
+        check_uniqueness(data_info, data_info_dir)
 
 
 def test_all_data_info_under(root):
@@ -297,4 +390,4 @@ def test_all_data_info_under(root):
 
 
 if __name__ == "__main__":
-    test_all_data_info_under('.')
+    test_all_data_info_under('Farm/info/beehive')
