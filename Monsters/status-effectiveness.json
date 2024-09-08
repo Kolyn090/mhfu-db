@@ -468,41 +468,6 @@
         "monster": "Purple Gypceros",
         "types": [
             {
-                "type": "poison",
-                "initial-tolerance": 300,
-                "tolerance-inc": 75,
-                "tolerance-max": 750,
-                "tolerance-dec-step": 10,
-                "tolerance-dec-interval": 5,
-                "duration": 60,
-                "damage": 240
-            },
-            {
-                "type": "paralyze",
-                "initial-tolerance": 150,
-                "tolerance-inc": 50,
-                "tolerance-max": 450,
-                "tolerance-dec-step": 5,
-                "tolerance-dec-interval": 10,
-                "duration": 10,
-                "damage": 0
-            },
-            {
-                "type": "knockout",
-                "initial-tolerance": 150,
-                "tolerance-inc": 50,
-                "tolerance-max": 450,
-                "tolerance-dec-step": 5,
-                "tolerance-dec-interval": 10,
-                "duration": 10,
-                "damage": 0
-            }
-        ]
-    },
-    {
-        "monster": "Purple Gypceros",
-        "types": [
-            {
                 "type": "sleep",
                 "initial-tolerance": 150,
                 "tolerance-inc": 25,
