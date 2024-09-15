@@ -723,163 +723,163 @@
         "name": "Barrel Lid",
         "rare": 5,
         "description": "A small barrel lid. There appears to be a drawing on it.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "barrel",
+        "color": "gray",
+        "selling-price": 10
     },
     {
         "name": "Small Barrel",
         "rare": 1,
         "description": "A small, empty barrel.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "barrel",
+        "color": "yellow",
+        "selling-price": 8
     },
     {
         "name": "Large Barrel",
         "rare": 2,
         "description": "A large, empty barrel.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "boomerang",
+        "color": "red",
+        "selling-price": 21
     },
     {
         "name": "Sm Barrel-Bomb",
         "rare": 2,
         "description": "A small time-bomb.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bomb",
+        "color": "yellow",
+        "selling-price": 16
     },
     {
         "name": "Sm Barrel-Bomb+",
         "rare": 2,
         "description": "Upgraded Small Barrel Bomb. Not to be taken lightly despite its size.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 5,
+        "icon": "bomb",
+        "color": "yellow",
+        "selling-price": 52
     },
     {
         "name": "Lg Barrel-Bomb",
         "rare": 3,
         "description": "Powerful bomb triggered by external physical impact.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 3,
+        "icon": "bomb",
+        "color": "red",
+        "selling-price": 52
     },
     {
         "name": "Lg Barrel-Bomb+",
         "rare": 4,
         "description": "Upgraded Large Barrel Bomb. Effective against large monsters.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 2,
+        "icon": "bomb",
+        "color": "red",
+        "selling-price":80
     },
     {
         "name": "Bounce Bomb",
         "rare": 2,
         "description": "Bounces into the air when set. This modified bomb requires skill to use.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bomb",
+        "color": "blue",
+        "selling-price": 18
     },
     {
         "name": "Bounce Bomb+",
         "rare": 4,
         "description": "Improved version of the Bounce Bomb. Requires some skill to use.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bomb",
+        "color": "blue",
+        "selling-price": 68
     },
     {
         "name": "Anti-Dragon Bomb",
         "rare": 3,
         "description": "Small time bomb that attaches to an enemy. (Supply Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "icon": "bomb",
+        "color": "yellow",
         "selling-price": 0
     },
     {
         "name": "Huskberry",
         "rare": 1,
         "description": "An empty berry that can grow anywhere. Try planting it in the field.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "husk",
+        "color": "gray",
+        "selling-price": 1
     },
     {
         "name": "Sm Bone Husk",
         "rare": 2,
         "description": "Bone ammunition casing. Stronger than a Huskberry ammunition casing.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "husk",
+        "color": "white",
+        "selling-price": 3
     },
     {
         "name": "Lg Bone Husk",
         "rare": 3,
         "description": "Bone ammunition casing that can withstand powerful explosions.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "husk",
+        "color": "white",
+        "selling-price": 5
     },
     {
         "name": "Normal S Lv1",
         "rare": 1,
         "description": "Inexpensive ammo for novices, but don't expect much. Unlimited shots.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "carry-max": "Infinity",
+        "icon": "ammo",
+        "color": "white",
         "selling-price": 0
     },
     {
         "name": "Normal S Lv2",
         "rare": 1,
         "description": "Normal ammo that is more powerful than Normal S Lv1. Maximum of 99 shots.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "ammo",
+        "color": "white",
+        "selling-price": 1
     },
     {
         "name": "Normal S Lv3",
         "rare": 2,
         "description": "Normal ammo that causes more damage than its predecessor. Max 99 shots.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "ammo",
+        "color": "white",
+        "selling-price": 2
     },
     {
         "name": "Pierce S Lv1",
         "rare": 2,
         "description": "Piercing round that causes multiple hits to monsters. Max 60 shots.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 60,
+        "icon": "ammo",
+        "color": "white",
+        "selling-price": 1
     },
     {
         "name": "Pierce S Lv2",
         "rare": 2,
         "description": "Piercing round that causes more hits than Lv1 ammo. Max 60 shots.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 60,
+        "icon": "ammo",
+        "color": "white",
+        "selling-price": 2
     },
     {
         "name": "Pierce S Lv3",
