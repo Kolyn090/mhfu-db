@@ -461,9 +461,37 @@
             },
             {
                 "dialogue": [
+                    "This Quest seems to be about the perfect level for you. Would you like to give it a try?"
+                ],
+                "note": "taking a quest, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "When you are ready to set off, head down the path in front of you and press the [X] button when you get to the entrance of the village, Good luck!"
+                ],
+                "note": "after taking a quest",
+                "rewards": []
+            },
+            {
+                "dialogue": [
                     "Hmm... Giving up? If you change your mind, come back and visit me whenever you'd like. An old lady needs friends, ya' know!"
                 ],
                 "note": "adieu",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "What's the matter? You'd like to cancel the Quest contract you took out?"
+                ],
+                "note": "greeting with a quest, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "That's too bad... I'll cancel this contract for you."
+                ],
+                "note": "sucessfully cancel a quest",
                 "rewards": []
             }
         ]
@@ -672,6 +700,55 @@
                     "Welcome to the Hunter's Guild Outpost in Pokke Village! Please select the level of Quest you would like to initiate."
                 ],
                 "note": "greeting",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Here are the Quests available at this time."
+                ],
+                "note": "initiating a quest",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "This Quest does not require a Contract Fee. Select this Quest?"
+                ],
+                "note": "selected a quest, 0z contract fee, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "This Quest requires a Contract Fee of [contract-fee]z. OK?"
+                ],
+                "note": "selected a quest, non-zero contract fee, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Look for another Quest?"
+                ],
+                "note": "cancel selecting a quest, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "So you're heading off alone? Well, then may the light of luck shine upon you!"
+                ],
+                "note": "after taking a quest, solo",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome to the Hunter's Guild Outpost in Pokke Village. You are contracted for the following Quest. Would you like to cancel the contract?"
+                ],
+                "note": "greeting with a quest, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Contract canceled. We look forward to working with you again."
+                ],
+                "note": "sucessfully cancel a quest",
                 "rewards": []
             },
             {
