@@ -363,180 +363,180 @@
         "name": "Armortalon",
         "rare": 5,
         "description": "Amulet that raises Defense. Made from a Lao-Shan's Claw.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "claw",
+        "color": "orange",
+        "selling-price": 5040
     },
     {
         "name": "Tranquilizer",
         "rare": 4,
         "description": "Medicine that is used as an anesthetic when combined.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bottle",
+        "color": "red",
+        "selling-price": 15
     },
     {
         "name": "Raw Meat",
         "rare": 1,
         "description": "Meat obtained through carving up a monster. Has many uses.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "red",
+        "selling-price": 5
     },
     {
         "name": "Poisoned Meat",
         "rare": 1,
         "description": "Poisons if consumed. Used as bait in traps.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "purple",
+        "selling-price": 19
     },
     {
         "name": "Tainted Meat",
         "rare": 2,
         "description": "Paralyzes if consumed. Used as bait in traps.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "yellow",
+        "selling-price": 30
     },
     {
         "name": "Drugged Meat",
         "rare": 1,
         "description": "Causes sleepiness if consumed. Used as bait in traps.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "sky",
+        "selling-price": 32
     },
     {
         "name": "Rare Steak",
         "rare": 1,
         "description": "Meat cooked on the rare side. Gives a small boost to Stamina.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "orange",
+        "selling-price": 3
     },
     {
         "name": "Well-Done Steak",
         "rare": 2,
         "description": "Well-cooked meat. Gives a medium boost to Stamina.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "orange",
+        "selling-price": 48
     },
     {
         "name": "Gourmet Steak",
         "rare": 3,
         "description": "A gourmet steak cooked to perfection. Give a full boost to Stamina.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "orange",
+        "selling-price": 64
     },
     {
         "name": "Burnt Meat",
         "rare": 1,
         "description": "Meat burnt to a crisp. Boots Stamina sometimes, but can also weaken you.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "gray",
+        "selling-price": 1
     },
     {
         "name": "Hot Meat",
         "rare": 1,
         "description": "Eat to warm the body, ward off the cold, and even recover a bit of Stamina.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "red",
+        "selling-price": 25
     },
     {
         "name": "Cold Meat",
         "rare": 1,
         "description": "Eat to cool the body, ward off the heat, and even recover a bit of Stamina.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "meat",
+        "color": "sky",
+        "selling-price": 30
     },
     {
         "name": "Rare Fish",
         "rare": 1,
         "description": "A lightly brazed fish. Recovers red portion of Health Gauge when eaten.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "fish",
+        "color": "sky",
+        "selling-price": 2
     },
     {
         "name": "Gourmet Fish",
         "rare": 2,
         "description": "Recover the red portion of the Health gauge and increases natrual recovery.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "fish",
+        "color": "orange",
+        "selling-price": 40
     },
     {
         "name": "Gourmet Fish+",
         "rare": 3,
         "description": "Recovers red portion of the Health gauge and increases reilience.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "fish",
+        "color": "orange",
+        "selling-price": 58
     },
     {
         "name": "Burnt Fish",
         "rare": 1,
         "description": "A fish burnt to a crisp. Sometimes recovers Health, but can also harm you...",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "fish",
+        "color": "gray",
+        "selling-price": 1
     },
     {
         "name": "Boomerang",
         "rare": 4,
         "description": "Returns when thrown. A peculiar shaped weapon form a foreign land.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 5,
+        "icon": "boomerang",
+        "color": "yellow",
+        "selling-price": 15
     },
     {
         "name": "Throwing Knife",
         "rare": 1,
         "description": "A standard throwing knife. Goes straight to a target. (Supply Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "carry-max": 5,
+        "icon": "knife",
+        "color": "white",
         "selling-price": 0
     },
     {
         "name": "Poison Thrw Knf",
         "rare": 1,
         "description": "Throwing knift with a posion edge. Has a toxic effect (Supply Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "carry-max": 5,
+        "icon": "knife",
+        "color": "purple",
         "selling-price": 0
     },
     {
         "name": "Sleeping Thr Knf",
         "rare": 1,
         "description": "Throwing knife with an edge daubed with sleeping powder. (Supply Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "carry-max": 5,
+        "icon": "knife",
+        "color": "sky",
         "selling-price": 0
     },
     {
