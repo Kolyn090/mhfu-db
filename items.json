@@ -543,181 +543,181 @@
         "name": "Paralyze Thr Knf",
         "rare": 1,
         "description": "Throwing knife with a paralysis toxin coated edge. (Supply Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "carry-max": 5,
+        "icon": "knife",
+        "color": "yellow",
         "selling-price": 0
     },
     {
         "name": "Tranq Thrwng Knf",
         "rare": 4,
         "description": "A knife made to assist in the capture of monsters it strikes. (Supply Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "carry-max": 5,
+        "icon": "knife",
+        "color": "red",
         "selling-price": 0
     },
     {
         "name": "Bomb Material",
         "rare": 1,
         "description": "Basic ingredient for making hand-thrown bombs,",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 30,
+        "icon": "ball",
+        "color": "white",
+        "selling-price": 15
     },
     {
         "name": "Paintball",
         "rare": 1,
         "description": "Can be thrown at a monster to mark it for easy tracking.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "ball",
+        "color": "pink",
+        "selling-price": 10
     },
     {
         "name": "Flash Bomb",
         "rare": 2,
         "description": "Bomb that flashes brightly upon impact. Blinds monsters.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "ball",
+        "color": "yellow",
+        "selling-price": 57
     },
     {
         "name": "Sonic Bomb",
         "rare": 2,
         "description": "Emits a powerful high-frequency sound upon detonation.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "ball",
+        "color": "gray",
+        "selling-price": 45
     },
     {
         "name": "Dung",
         "rare": 1,
         "description": "Monster excrement. One dropping can maximize the fertility of a row.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "dung",
+        "color": "yellow",
+        "selling-price": 1
     },
     {
         "name": "Wyvern Droppings",
         "rare": 4,
         "description": "Wyvern excrement. One dropping can maximize the fertility of all rows.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "dung",
+        "color": "red",
+        "selling-price": 2
     },
     {
         "name": "Dung Bomb",
         "rare": 2,
         "description": "Creates a terrible smell upon impact, which certain wyverns dislike.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "dung",
+        "color": "yellow",
+        "selling-price": 9
     },
     {
         "name": "Smoke Bomb",
         "rare": 2,
         "description": "Creates a large cloud of smoke in the area where it lands.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "smoke",
+        "color": "white",
+        "selling-price": 44
     },
     {
         "name": "Poison Smoke Bmb",
         "rare": 2,
         "description": "Smoke bomb containing a toxic chemical. Popular as a household bug bomb.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "smoke",
+        "color": "purple",
+        "selling-price": 60
     },
     {
         "name": "Farcaster",
         "rare": 3,
         "description": "Instantly transports you back to base camp.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "smoke",
+        "color": "green",
+        "selling-price": 30
     },
     {
         "name": "Deodorant",
         "rare": 2,
         "description": "Removes item usage blocks. When thrown on the ground, its smoke deodorizes.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 5,
+        "icon": "smoke",
+        "color": "sky",
+        "selling-price": 8
     },
     {
         "name": "Tranq Bomb",
         "rare": 4,
         "description": "Use to subdue and capture a trapped monster.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 8,
+        "icon": "ball",
+        "color": "red",
+        "selling-price": 35
     },
     {
         "name": "Spiderweb",
         "rare": 1,
         "description": "A spider's web. Very sticky.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "web",
+        "color": "white",
+        "selling-price": 6
     },
     {
         "name": "Net",
         "rare": 2,
         "description": "Powerful net able to withstand a certain amount of weight.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "web",
+        "color": "white",
+        "selling-price": 54
     },
     {
         "name": "Trap Tool",
         "rare": 3,
         "description": "A tool needed to set up various types of traps, such as the Pitfall Trap.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 2,
+        "icon": "tool",
+        "color": "green",
+        "selling-price": 20
     },
     {
         "name": "Pitfall Trap",
         "rare": 3,
         "description": "Trap for catching certain large monsters. It is tripped by a heavy weight.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "trap",
+        "color": "green",
+        "selling-price": 46
     },
     {
         "name": "Shock Trap",
         "rare": 3,
         "description": "A trap taht can immobilize a monster. Used for capturing.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "trap",
+        "color": "purple",
+        "selling-price": 160
     },
     {
         "name": "Lightning Rod",
         "rare": 3,
         "description": "Will attract lightning after a while. Can be used in the rain.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "trap",
+        "color": "gray",
+        "selling-price": 28
     },
     {
         "name": "Barrel Lid",
