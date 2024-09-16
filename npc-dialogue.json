@@ -87,6 +87,26 @@
                 ],
                 "note": "after cleaning village urgent 1",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You seem to be working very hard... Don't forget, everyone has high hopes for you. The security of this village rests on your shoulders.",
+                    "When I was in your shoes, I drove off a Blangonga who tried to mark off the Snowy Mountains as its territory.",
+                    "Another thing to mention about the mountains is their topography makes escape easy. Just climb up and be free of your troubles...",
+                    "Not that I think you'll have any need to flee... However, rumor has it that people have heard a Blangonga's roar neaarby.",
+                    "The Blangonga must've caught wind of my retirement and decided to return... You just need to make sure its thugs don't pose too much of a problem.",
+                    "You are strong enough now that the Blangonga will reconginze your power and rethink its plan, knowing you are not to be trifled with."
+                ],
+                "note": "after cleaning village urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "When I was in your shoes, I drove off a Blangonga into the cliffs above the Snowy Mountains.",
+                    "I think the Blangonga may return, but I'm sure one look at you will scare it off for good."
+                ],
+                "note": "after cleaning village urgent 2",
+                "rewards": []
             }
         ]
     },
@@ -199,7 +219,31 @@
                     "The more of these you obtain the more you can improve. Why don't you try improving your favorite armor and see how it works first hand."
                 ],
                 "note": "after cleaning village urgent 1",
-                "rewards": ["Armor Sphere x 5"]
+                "rewards": [
+                    "Armor Sphere x 5"
+                ]
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! It seems like you are progressin well as a hunter.",
+                    "I have something nice for you yet again. Have you ever heard of Decorations? You can attach them to weapons and armor.",
+                    "Weapons and armor have open holes called slots. These slots can be used to attach Decorations.",
+                    "Decorations are endowed with Skill Points, so attacking them to your armor might activate the ability to use a new skill.",
+                    "Crafting a Decoration requires a material called a Jewel. There are various types of Jewels, such as the Akito Jewel and Suiko Jewel.",
+                    "Since you seem to be a little light right now, I'll give you a few Suiko Jewels. Use these to commission Decorations for your weapons and armor.",
+                    "Removing a Decoration does not break it, so try as many different ones as you'd like! Of course, I'll be charging you to make them!"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": [
+                    "Suiko Jewel x 5"
+                ]
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! To improve armor, you'll need an Armor Sphere. You can improve one part by one level by using one sphere. It's like a rule of one!"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
             }
         ]
     },
@@ -333,6 +377,23 @@
                 ],
                 "note": "after cleaning village chief urgent 1",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Good day to you! You seem to be in great spirits today. Oh, that reminds me of something...",
+                    "Are you using the bookshelf in your house? It's more than just for reading the latest \"Hunting Life\"! You can also change your hair there!",
+                    "There is also hair dye there, so you can change your haird color to whatever suits you! It's good to give yourself a makeover every now and again!"                  
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Are you using the bookshelf in your house? You can view critical information on hunting, as well as change your hair style there!",
+                    "There are also hair dye there, so you can change your hair color to whatever suits you! It's good to give yourself a makeover every now and again!"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
             }
         ]
     },
@@ -391,7 +452,25 @@
                     "You must be careful. If a monster launches a surprise attack, hold the [R] button and then press the [Y] button and [B] button to Guard.",
                     "Of course, your weapon must be capable of Guarding. If you want to know more about weapons, visit the esteemed instructor at the Training School."
                 ],
-                "note": "after cleaning village chief urgent 1after cleaning village chief urgent 1",
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh, wait until you hear this story! You should learn important lessons form others, because this girl in front of me here obviously needs to!",
+                    "Recently, even though everyone's heard the Blangonga roar in the distance, she decided that she just had to see it for herself and headed for its nest.",
+                    "She found it in one try, but the Blangonga turned her into a snow woman with its icy breath and nearly crushed her with its thick arms! *shudder*",
+                    "You must be careful. If you end up a snowman, use a Thawing Agent. As long as you've got this, you'll be able to escape in no time."
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "If you get frozen solid like a snowman, use a Thawing Agent. It will let you get the snow off your body with ease.",
+                    "How do you get Thawing Agents? Sometimes they are one of your Supply Items, but you can make them yourself with Rumblefish and Fire Herb."
+                ],
+                "note": "after cleaning village chief urgent 2",
                 "rewards": []
             }
         ]
@@ -435,6 +514,25 @@
                     "I recommend you gather the proper materials and keep making your armor stronger and stronger! Better safe than sorry, meow!"
                 ],
                 "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Meow... This is strange. I seem to be on a spree of meeting hunters today!",
+                    "There's a hunter who always watches me hidden in the shadows. I bet that hunter is hopelessly in love with me, nya!",
+                    "If that hunter ever decides to step out of the shadows, I've gathered tons of information that would prove to be useful when hunting, meow!",
+                    "For instance, you can make Decorations from various Jewels! Put these Decorations on armor at the crafting shop and you unlock new Skill Points, nya!",
+                    "There is nothing better than Decorations to unlock the purrfect skill! Use them wisely and aim to become a top-class hunter, meow!"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Decorations made from Jewels are really useful, meow! If you put them on armor at the crafting shop, you can unlock new Skill Points!",
+                    "There is nothing better than Decorations to unlock the purrfect skill! Use them wisely and aim to become a top-class hunter, meow!"
+                ],
+                "note": "after cleaning village chief urgent 2",
                 "rewards": []
             }
         ]
@@ -509,6 +607,32 @@
                     "What we do know is that they don't tend to stay in one place for long, instead perferring to reign destruction over large areas of land."
                 ],
                 "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Ho ho... It looks like you are trying your hardest out there. Today I'd like to tell you about one of the elder dragons, Kushala Daora.",
+                    "The Kushala Daora is known for the way it literally soars through the sky and for the metallic nature of its body.",
+                    "As a part of its life processes, it molts its metallic skin repeatedly. During molting season, it buries itself on the Snowy Mountains tops.",
+                    "This makes its outer skin rust as new skin grows underneath. The Daora then sheds it all in one go. You may find remnants of this process on the summit.",
+                    "If the Kushala Daora feels threatened, it will wrap its entire body with wind. This wind deflects arrows and shells and stops one from approaching.",
+                    "According to our research, there is only one way to breach this wind barrier and that is directly damaging its internal organs.",
+                    "The best way to do this is via poison. Attack the gaps in Daora's shell to get the poison into the blood stream and cause damage its organs.",
+                    "There are other ways to damage its organs, but these are extremely difficult and you already have enough to hear."
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The Kushala Daora is known for the way it literally soars through the sky and for the metallic nature of its body.",
+                    "The Daora must molt to grow, a process you can witnesss yourself as the Daora will perch upon a mountain summit to shed its rusted skin.",
+                    "If the Kushala Daora feels threatened, it will wrap its entire body with wind. This wind deflects arrows and shells and stops one from approaching.",
+                    "According to our research, there is only one way to breach this wind barrier and that is directly damaging its internal organs.",
+                    "The best way to do this is via poison. Attack the gaps in Daora's shell to get the poison into the blood stream and cause damage its organs.",
+                    "There are other ways to damage its organs, but you will learn them in due time. Keep trying various things, and you'll see soon enough."
+                ],
+                "note": "after cleaning village chief urgent 2",
                 "rewards": []
             }
         ]
@@ -689,6 +813,33 @@
                 ],
                 "note": "greeting",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You came at the right time. I've got a favor to ask of you. A strong wyvern has appeared in the Snowy Mountains, and it is coming towards us.",
+                    "Thankfully the damage so far has only been to livestock, but leaving this be would be a recipe for disaster...",
+                    "Ahh, yes. The name of the wyvern is Khezu. It is a white monster that can fire off electrical attacks.",
+                    "It is completely blind, so as with a Giadrome, you can't stop it with a Flash Bomb, but you can with a Shock Trap.",
+                    "If you are as strong as I think, you'll have no trouble defeating it... Just don't overdo it.",
+                    "If you think this is too hard for you, try some other Quests to build up your armor and weapons. That should make it OK."
+                ],
+                "note": "urgent quest 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You are just as strong as I imagined if you took care of that Khezu. Everyone is grateful for your help. I'll have a reward for you later.",
+                    "I have a harder request this time. You'll need to really give it your all. The request is in the Swamp as well as in the Forest and Hills.",
+                    "The Swamp doesn't have any major geographic features, but at night, toxic chemicals can rise up out of the ground, so you'll have to take precautions.",
+                    "The Forest and Hills have an abundance of items to gather, but powerful wyverns are known to appear there... But you should be OK!",
+                    "If you want to know more about these areas, check your bookshelf. There are books with info there, so give them a read now nad then.",
+                    "If a monster is beyond your grasp, gather materials and work on your equipment because there will be more monsters than just a Khezu in these parts.",
+                    "Last night, I heard a distant Pelagus roar... Take care of yourself. Save your strength when you can."
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": [ 
+                    "Pokke Ticket x 1" 
+                ]
             }
         ]
     },
@@ -888,6 +1039,30 @@
                 ],
                 "note": "after cleaning village chief urgent 1",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello! I hope all is well with you.",
+                    "Hmm... What should we talk about today. Oh yes, have you been using the crafting shop at all?",
+                    "The art of crafting has recently received a kick in the pants and the crafing shop is working hard to implement this new technology.",
+                    "It seems that the strengthening of melee weapons has become a shorter process and a greater number of derivations can be achieved.",
+                    "Plenty of weapons can be improved, or crafted. But the materials needed for each are different, thus I can't recommend which path is best.",
+                    "The strengthenign of armor has also seen a revolution thanks to new materials. You can now improve armor with a single special item!",
+                    "However, you cannot change how the armor looks. If you want to upgrade to S-Series or U-Series armor, the only means is via crafting.",
+                    "Hmm... That's about it. I know there are lots of hard to understand points regarding crafting... I'm confused myself!"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The art of crafting has recently benefited from changes in technology, resulting in changes to how we do business.",
+                    "Now there are melee weapons that can be made via crafting or improvement. However, there are times when the required materials are different.",
+                    "If you obtain special materials, crafting may be the easiest, but there are also times when grinding the improvement path is actually easier.",
+                    "What about armor, you ask? If you've got an Armor Sphere, it seems improvement is an option. The world has truly become a better place, hasn't it?"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
             }
         ]
     },
@@ -1052,6 +1227,25 @@
                 ],
                 "note": "after cleaning village chief urgent 1",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Heh. You're still here? I thought your legs had been frozen stiff and you were rolling around begging for mercy...",
+                    "Hey... What's that on your back!? I've been wanting that weapon for forever! But don't you think for a minute that I'm jealous for you!",
+                    "If you are going to have a nice weapon like that, you better make sure to master it or you might as well give it to me! I'm a sure shot with a Bow!",
+                    "The type of arrow and amount of charge will change a Bow's abilities. Dip an arrow in a coating to apply effects like poison on paralysis.",
+                    "You know, if you pratice with your weapons and become a popular hunter, you'll be mobbed by a flock of fans! Wonderful!"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The type of arrow and amount of charge will change a Bow's abilities. Dip an arrow in a coating to apply effects like poison on paralysis.",
+                    "You know, if you pratice with your weapons and become a popular hunter, you'll be mobbed by a flock of fans! Wonderful!"
+                ],
+                "note": "after cleaning village chief urgent 2",
+                "rewards": []
             }
         ]
     },
@@ -1169,6 +1363,17 @@
                     "My master is an excellent hunter, nya! I'm sure that no matter if it is day or night where he is, he is doing great!"
                 ],
                 "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I'm sorry, nya. I made a mistake... I thought you were someone else. My master went out on a hunt and still hashn't come back yet...",
+                    "Proving one's skill means proving yourself during a hunt... That is one of my master's favorite sayings.",
+                    "Each piece of armor has a certain amount of Skill Points. All of these points are added up and can cause a skill to activate, meow!",
+                    "If you have 10 points in the Paralysis line, that will activate the Para Duration Halved skill. Saving up more points will unlock even better skills!",
+                    "I'm glad the lecture master gave me about skills has finally come in handy, meow!"
+                ],
+                "note": "after cleaning village chief urgent 2",
                 "rewards": []
             }
         ]
@@ -1366,7 +1571,7 @@
                     "Oh! You seem to be doing well! You will be wanting to hire some more Felynes soon, huh?",
                     "I suppose I could let you have 2 Felynes or so... If you see any you want to hire, let me know."
                 ],
-                "note": "unlock purchasing the second comrade",
+                "note": "unlock purchasing the second felyne",
                 "rewards": []
             },
             {
@@ -1378,6 +1583,14 @@
                     "You can only take one Comrade with you at a time on Quests, but you can employ up to 10 Comrades. If you can, why not hire a few?"
                 ],
                 "note": "unlock purchasing a battle comrade",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh! You seem to be doing well! You will be wanting to hire some more Felynes soon, huh?",
+                    "Looking at you now, I suppose I could let you have about 3 Felynes... If you see any you want to hire, let me know."
+                ],
+                "note": "unlock purchasing the third felyne",
                 "rewards": []
             }
         ]
@@ -1399,6 +1612,23 @@
                     "The huge piece of Machalite Ore is the symbol of Pokke Village. Even if you only want a little, you can't take it from that rock, meow!"
                 ],
                 "note": "greeting"
+            },
+            {
+                "dialogue": [
+                    "This is Pokke, a quiet mountain village, nya. Riding the lift on the right will take you to Pokke Farm, nya. Huh? You knew that already?",
+                    "I guess that means you are putting Pokke Farm to good use, nya? If you save Pokke Points, you can even upgrade the farm equipment, meow!",
+                    "You can extend the pier to increase the number of fishing spots or add to the number of mining points you can reach, meow!",
+                    "Not really related, but I should mention the cave you can use as a storehouse, meow. You can't get anything from it though.",
+                    "I bet there's something nice behind the ice wall, nya... The Chief and Treshi know about it, but you need something to get through the ice, meow."
+                ],
+                "note": ""
+            },
+            {
+                "dialogue": [
+                    "If you save Pokke Points, you can use them to upgrade Pokke Farm by extending the pier or adding mining points, nya.",
+                    "There's also a cave used as a storehouse, and I bet something nice is hidden behind the ice wall. If only you could break through it, meow."
+                ],
+                "note": ""
             }
         ]
     },
