@@ -67,6 +67,26 @@
                 ],
                 "note": "",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "How have you been lately? I'm sure the old Village Chief has been giving you some hard Quests to try, right?",
+                    "Is your money holding out? Money is critical when it comes to equipment. Hah! Don't be looking at me for a handout! I'm retired and need my savings!",
+                    "When you need to save some money, it is best to gather up Account Items. They're useful to the Guild, and thus will earn you very high prices.",
+                    "The Guild values these items so greatly that they have even begun to accept them during a Quest. Just take the Account Items to your red Delivery Box.",
+                    "You can also deliver items such as Eggs or Ores. They command a high price, and can also net a plethora of Pokke Points.",
+                    "Treasures such as these are rare, and you have to deliver them properly, so it won't be easy... But it's worth the effort."
+                ],
+                "note": "after cleaning village urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The Guild values these items so greatly that they have even begun to accept them during a Quest. Just take them to the Delivery Box.",
+                    "Items like Eggs or Ores can also be delivered. Don't know how to carry an Egg? Talk to the esteemed instructor at the Training School."
+                ],
+                "note": "after cleaning village urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -119,6 +139,14 @@
                 ],
                 "note": "adieu",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Well hello there. Remember that you can use Pokke Points to trade for items. Please use them whenever you'd like.",
+                    "We've just added Armor Sphere, so now you can trade your Pokke Points for this wonderful item. Feel free to take a look!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -149,10 +177,29 @@
             },
             {
                 "dialogue": [
+                    "Yo you and hello! To improve iron weapons, you'll need all types of ore! To mine ore, use a Pickaxe at a Mining Point. Then mine away!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
                     "Ho ho, come back soon! Stop by anytime you've got some good materials!"
                 ],
                 "note": "adieu",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! Have you gotten used to the life of a hunter yet?",
+                    "I have somethign nice for you today. A new kind of revolutionary material made via the latest technology developed by the Workshop Union.",
+                    "It's called an Armor Sphere. Armor Spheres are special materials used to improve armor. One sphere can improve one piece of armor by one level.",
+                    "Any line or type of armor can be improved; however, the number of levels it can be raised by an Armor Sphere is fixed for each piece of armor.",
+                    "Armor Spheres can be obtained as a reward, or they can be combined by using Armor Stone and either a Killer Beetle or Machalite ore.",
+                    "The more of these you obtain the more you can improve. Why don't you try improving your favorite armor and see how it works first hand."
+                ],
+                "note": "after cleaning village urgent 1",
+                "rewards": ["Armor Sphere x 5"]
             }
         ]
     },
@@ -182,6 +229,15 @@
                 ],
                 "note": "adieu",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You're back, nya! Would you like some new weapons or armor? We've gotten some hunter's goods in just for you, meow!",
+                    "We've got items that are purrfect for those who aren't satisfied with just a Mafumofu! Give the Chain line, Hunter line, or Battle line of armor a try!",
+                    "But those lines of armor aren't very good at keeping out the cold, meow. If you are going to the mountains make sure to take purrcautions, meow!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -210,6 +266,15 @@
                     "Thank you. Come back soon."
                 ],
                 "note": "adieu",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome once again! You've come at just the right time too! One of our supply routes opened up and we just got in some new items!",
+                    "Look at this one! This is the Organizer Guide we just got in! It increases the space of your Item Box. Isn't that incredible?",
+                    "How about the Book of Combos 3. It's our pick for hunters who like to combine during a Quest. We've also got bowgun shells and lots of other items!"
+                ],
+                "note": "after cleaning village urgent 1",
                 "rewards": []
             }
         ]
@@ -249,6 +314,24 @@
                     "You'll find many more herbs in the upper regions of the Snowy Mountains, like ridges or the summit, than in the foothills. Look in areas with grass."
                 ],
                 "note": "",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hmm... What should I have for dinner tonight...? What do you recommend?",
+                    "Oh! That's right! Hunters don't make their own dinners! They have Felynes cook their dinners for them!",
+                    "I also hear that these Felynes have started a service where they will cook meat and fish for you.",
+                    "It seems you can place an order at the Kitchen Board in the kitchen. Interesting! It looks like they even have burnt items!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I hear that recently the cooking Felynes have started a service where they will cook meat and fish for you.",
+                    "It seems you can place an order at the Kitchen Board in the kitchen. Interesting! It looks like they even have burnt items!"                    
+                ],
+                "note": "after cleaning village chief urgent 1",
                 "rewards": []
             }
         ]
@@ -291,6 +374,25 @@
                 ],
                 "note": "",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh, wait until you hear this story! You should learn important lessons form others, because this girl in front of me here obviously needs to!",
+                    "Recently, she ran into a strange wyvern with a glittering luminescence. She was captivated by it, so she got closer.",
+                    "But if it would have attacked her, there would have been nothing she could've done about it! Kinda scary, huh!?",
+                    "You must be careful. If a monster launches a surprise attack, hold the [R] button and then press the [Y] button and [B] button to Guard.",
+                    "Of course, your weapon must be capable of Guarding. If you want to know more about weapons, visit the esteemed instructor at the Training School."
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You must be careful. If a monster launches a surprise attack, hold the [R] button and then press the [Y] button and [B] button to Guard.",
+                    "Of course, your weapon must be capable of Guarding. If you want to know more about weapons, visit the esteemed instructor at the Training School."
+                ],
+                "note": "after cleaning village chief urgent 1after cleaning village chief urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -314,6 +416,25 @@
                     "You can also end without saving, but jsut make sure you don't pick that option by mistake or you'll regret it, meow!"
                 ],
                 "note": "",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Meow? What in the world? Another hunter, nya!?",
+                    "From time to time, there are hunters who spy on me from under cover. I wonder if they think I'm purrty, nya!",
+                    "I've been hoarding all the latest gossip just in case a hunter shows up and wants to chat, nya!",
+                    "For instance, did you know that the crafting shop can strengthen your armor? They can turn even weak looking armor into master-pieces of protection!",
+                    "I recommend you gather the proper materials and keep making your armor stronger and stronger! Better safe than sorry, meow!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "As a hunter, never forget you can strengthen armor at the crafting shop! They can even turn weak armor into a real masterpiece!",
+                    "I recommend you gather the proper materials and keep making your armor stronger and stronger! Better safe than sorry, meow!"
+                ],
+                "note": "after cleaning village chief urgent 1",
                 "rewards": []
             }
         ]
@@ -367,6 +488,28 @@
                 ],
                 "note": "",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Ho ho... You've been doing quite well it seems. Pretty soon it will be time to start talking about elder dragons.",
+                    "I don't have all the answers. Just because an old man like me calls something an elder dragon doesn't maen it's a clearly defined group.",
+                    "Among monsters, those that fall well outside the bounds of the normal ecosystem are called elder dragons.",
+                    "We have no knowledge of where they are born, how long they live, or where they go to die...",
+                    "Some are said to have lived since ancient times, while others are more recently evolved animals.",
+                    "What we do know is that they don't tend to stay in one place for long, instead perferring to reign destruction over large areas of land."
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The Elder Dragon Observation Center calls all monsters that fall outside the normal ecology by the name of elder dragon.",
+                    "We have no knowledge of where they are born, how long they live, or where they go to die...",
+                    "Some are said to have lived since ancient times, while others are more recently evolved animals.",
+                    "What we do know is that they don't tend to stay in one place for long, instead perferring to reign destruction over large areas of land."
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -411,6 +554,13 @@
                 "rewards": [
                     "Piggie's Fashion"
                 ]
+            },
+            {
+                "dialogue": [
+                    "Today I got me quite a bit of cheap items, so I'm selling' em half off. If ya be wantin' anything, speak up!"
+                ],
+                "note": "greeting",
+                "rewards": []
             }
         ]
     },
@@ -492,6 +642,52 @@
                     "That's too bad... I'll cancel this contract for you."
                 ],
                 "note": "sucessfully cancel a quest",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Well it looks like you've been trying your very hardest indeed. By the way, have you ever heard of a Giadrome?",
+                    "Up in the Snowy Mountains, there is a species of monster called a Giaprey. Actually, the Guild likes to call them White Velociprey...",
+                    "The leader of the pack of Giaprey is called the Giadrome and I was hoping that you would get rid of it for me.",
+                    "And don't just think of it as an oversized Giaprey, because it is not. If you get hit with one of its ice shots, your body will be frozen stiff.",
+                    "Also, if it feels threatened, it will run off to a different part of the field to recover.",
+                    "You can try to use brute force, but if that proves too hard, try using a Flash Bomb or Shock Trap to stop the Giadrome's movements.",
+                    "This village has had enough of that Giadrome and it's a perfect opponent for you. Please finally rid us of that scourage."
+                ],
+                "note": "urgent quest 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I suppose you can handle something like that, can't you?"
+                ],
+                "note": "taking an urgent quest",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "This Quest requires a Contract Fee of [contract-fee]z. You still want to try your hand at this Quest?"
+                ],
+                "note": "selected a quest, non-zero contract fee, select [Yes] / [No]",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh thank you! Thank you very much! It seems you took care of that Giadrome without any problems!",
+                    "If you are that strong, then maybe I should give you other Quests. We got some Quests that are in the Jungle and the Desert areas!",
+                    "The Jungle has many geographic feathres like caves and cliffs, so until you get used to it, it's easy to get lost.",
+                    "The Desert is a harsh landscape with a wide barren zone and a zone of rough rocks. It has Health draining hot days and Stamina sucking cold nights.",
+                    "Depending on the Quest, it will take place either at night or during the day. When entering the Desert, check the time and prepare yourself.",
+                    "Both zones are home to powerful monsters. You can find more information in a book I left on the bookshelf at your house."
+                ],
+                "note": "after cleaning village urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Yes. Yes indeed. It seems I can leave lots of things up to you, can't I? What level of Quest would you like to take?"
+                ],
+                "note": "greeting",
                 "rewards": []
             }
         ]
@@ -666,6 +862,32 @@
                 ],
                 "note": "",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello! I hope all is well with you.",
+                    "Today I'll explain to you the differences in materials earned between Quests here at the Gathering Hall and the Village Chieft's Quests.",
+                    "Materials are generally divided into High, Low, and G-Level. High Rank materials can be found on GH Quests lvl 6 and above, and G - lvl ones are in G - lvl Questes.",              
+                    "Upper rank monster materials often have \"hard\" or \"plus\" attached to their names. I'm not sure of the naming used for ores or insects.",
+                    "Thus, crafting or strengthening items at the crafting shop which requries carapace will be restricted to the upper ranks.",
+                    "Lower rank materials can be earned on Quests from the Village Chief, levels 1 to 5.",
+                    "On the easy level 1 and level 2 Gathering Hall Quests, the materials you can acquire are limited. Don't be disappointed with the items you obtain!",
+                    "These are good to start with, but once you get some real power, it would be wise to quit taking level 1 and 2 Quests.",
+                    "The level 3 and 5 Quests from the Village Chife allow you to obtain bascially the same items.",
+                    "With Gathering Hall Quests, teh difficulty is higher and thus the rewards are a bit more rewarding. For example, you'll often obtain Monster Bone+.",
+                    "As you proceed through the Village Chief's Quests, or when you have comrades you'd like to hunt with, you'll find the Quests here quite useful.",
+                    "As for G-Level materials, as it says in its name, until you advance up to G-Level, you won't find any. I'll tell you more when the time comes."
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Materials are divided into High, Low, and G-Level. High Rank materials can be found on GH Quests lvl 6 and above, and G - lvl ones are in G - lvl Questes.",
+                    "All other Quests will earn you low rank materials. Be aware that level 1 and level 2 Gathering Hall Quests have a limit on the materials you'll earn."
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -811,6 +1033,25 @@
                 ],
                 "note": "",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hmph. You're still here, huh? I heard you ran away from a big scary Giadrome... Probably cried the entire way home...",
+                    "What? You actually beat the pulp out of that white beast yourself... Hmm, it beat the pulp out of me! But I was just having a bad day...",
+                    "You know, if someone initiates a Quest here in the Gathering Hall, it gets posted into the Quest Board.",
+                    "If you initiate a Quest on your own, you must pay the Contract Fee, but joining other Quests is absolutely free!",
+                    "Then all you have to do is keep earning and earning until you find yourself swimming in your own money bin of gold and silver. Yep! I said it! Swimming!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You know, if someone initiates a Quest here in the Gathering Hall, it gets posted into the Quest Board.",
+                    "Then all you have to do is keep earning and earning until you find yourself swimming in your own money bin of gold and silver. Yep! I said it! Swimming!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -829,6 +1070,16 @@
                     "Thanks for shopping at the Hunter's Shoppe. Please come again."
                 ],
                 "note": "adieu",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome... You really are giving it your all, huh?",
+                    "Let me tell you about one of the items we have added to our stock. It is called the Organizer Guide, and it increases your Item Box's capacity.",
+                    "For Bowgun users, we recommend the purchase of Pierce S Lv2 and Pellet S Lv 2.",
+                    "No matter what you buy, these products will make your hunting life richer and more productive. We look forward to serving you in the future!"
+                ],
+                "note": "after cleaning village urgent 1",
                 "rewards": []
             }
         ]
@@ -898,6 +1149,27 @@
                 ],
                 "note": "",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Huh!? M-Master!?",
+                    "I'm sorry, nya. I made a mistake... I thought you were someone else. I've been waiting here day and night for my master to return, nya.",
+                    "Day and night... That reminds me! Hunters can go out on Quests at either day or night!",
+                    "Daytime might be great hunting weather, while the night might bring heavy rains, and all of it can change depending on where you are and the time, nya.",
+                    "When it is raining, you can't use bombs. My master said that was really tough, meow.",
+                    "My master is an excellent hunter, nya! I'm sure that no matter if it is day or night where he is, he is doing great!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Daytime might be great hunting weather, while the night might bring heavy rains, and all of it can change depending on where you are and the time, nya.",
+                    "When it is raining, you can't use bombs. My master said that was really tough, meow.",
+                    "My master is an excellent hunter, nya! I'm sure that no matter if it is day or night where he is, he is doing great!"
+                ],
+                "note": "after cleaning village chief urgent 1",
+                "rewards": []
             }
         ]
     },
@@ -962,7 +1234,7 @@
         ]
     },
     {
-        "name": "Bug Catchign Spot Cat",
+        "name": "Bug Catching Spot Cat",
         "dialogues": [
             {
                 "dialogue": [
@@ -1088,6 +1360,45 @@
                 ],
                 "note": "adieu",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh! You seem to be doing well! You will be wanting to hire some more Felynes soon, huh?",
+                    "I suppose I could let you have 2 Felynes or so... If you see any you want to hire, let me know."
+                ],
+                "note": "unlock purchasing the second comrade",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh! We meet again! What good fortune! Remember the talk we had about Felynes that can go on Quests with you, the Felyne Comrades?",
+                    "I've brought a few of them with me today. They're all fine fighters, so feel free to look.",
+                    "Once you hire one, a Felyna Comrade will live in your kitchen, just like a Felyne Chef. You can train them there as well.",
+                    "There should be a board on the right-hand side of your Kitchen. You can assign which Felyne will come with you and much more.",
+                    "You can only take one Comrade with you at a time on Quests, but you can employ up to 10 Comrades. If you can, why not hire a few?"
+                ],
+                "note": "unlock purchasing a battle comrade",
+                "rewards": []
+            }
+        ]
+    },
+    {
+        "name": "Villager Cat 2",
+        "dialogues": [
+            {
+                "dialogue": [
+                    "This is Pokke Village. It's a purrfectly peaceful village wrapped by the Snowy Mountains, meow.",
+                    "The rock behind the Village Chief is a huge piece of Machalite Ore, nya. It's a purrfect, I mean perfect, as a symbol of the village.",
+                    "To have a piece of Machalite Ore that large is incredibly rare. You don't think they'd miss a piece if I cut one off, do nya?"
+                ],
+                "note": "introduction",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The huge piece of Machalite Ore is the symbol of Pokke Village. Even if you only want a little, you can't take it from that rock, meow!"
+                ],
+                "note": "greeting"
             }
         ]
     },
