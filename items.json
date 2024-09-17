@@ -1326,271 +1326,271 @@
         "name": "BBQ Spit",
         "rare": 1,
         "description": "A must-have item for any hunter. Allows for the cookign of meat.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "bbq-spit",
+        "color": "red",
+        "selling-price": 56
     },
     {
         "name": "Gourmet BBQ Spit",
         "rare": 4,
         "description": "A gourmet BBQ spit that allows you to make Well-Done Steaks more easily.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "bbq-spit",
+        "color": "pink",
+        "selling-price": 500
     },
     {
         "name": "Whetstone",
         "rare": 1,
         "description": "A standard whetstone. By grinding weawopns with it, Sharpness is restored.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "whetstone",
+        "color": "yellow",
+        "selling-price": 8
     },
     {
         "name": "Binoculars",
         "rare": 1,
         "description": "Lets you observe from a distance.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "binoculars",
+        "color": "gray",
+        "selling-price": 5
     },
     {
         "name": "Garbage",
         "rare": 1,
         "description": "Junk created when a combination attempt fails.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "unknown",
+        "color": "gray",
+        "selling-price": 1
     },
     {
         "name": "Flute",
         "rare": 2,
         "description": "A dangerous device used to attract certain monsters. May break when used.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "flute",
+        "color": "yellow",
+        "selling-price": 48
     },
     {
         "name": "Health Flute",
         "rare": 4,
         "description": "Restores the Health of those who hear it. May break when used.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "flute",
+        "color": "green",
+        "selling-price": 550
     },
     {
         "name": "Antidote Flute",
         "rare": 4,
         "description": "Eliminates poison in the blood of those who hear it. May break when used.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "flute",
+        "color": "blue",
+        "selling-price": 520
     },
     {
         "name": "Demon Flute",
         "rare": 5,
         "description": "Increases the strength of those who hear it. May break when used.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "flute",
+        "color": "red",
+        "selling-price": 1080
     },
     {
         "name": "Armor Flute",
         "rare": 5,
         "description": "Improves the endurance of those who hear it. May break when used.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 1,
+        "icon": "flute",
+        "color": "orange",
+        "selling-price": 986
     },
     {
         "name": "Honey",
         "rare": 2,
         "description": "Normal honey. Highly nutritious.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "honey",
+        "color": "orange",
+        "selling-price": 45
     },
     {
         "name": "Sunset Herb",
         "rare": 2,
         "description": "A strange herb with a pleasant smell. Good for combining.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "purple",
+        "selling-price": 2
     },
     {
         "name": "Herb",
         "rare": 1,
         "description": "A plant that restores a slight amount of Health.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "green",
+        "selling-price": 2
     },
     {
         "name": "Antidote Herb",
         "rare": 1,
         "description": "Field plant with antidotal qualities. Relying on it too heavily poses a risk.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "blue",
+        "selling-price": 2
     },
     {
         "name": "Fire Herb",
         "rare": 1,
         "description": "A plant that has flammable properties.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "herb",
+        "color": "red",
+        "selling-price": 4
     },
     {
         "name": "Ivy",
         "rare": 1,
         "description": "A lightweight and extremely strong plant.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "green",
+        "selling-price": 8
     },
     {
         "name": "Sleep Herb",
         "rare": 1,
         "description": "Plant with sleep-inducing qualities. Can be planted in the field.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "sky",
+        "selling-price": 5
     },
     {
         "name": "Sap Plant",
         "rare": 1,
         "description": "A plant with leaves coated in sticky sap. Difficult to remove once attached.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 30,
+        "icon": "herb",
+        "color": "white",
+        "selling-price": 2
     },
     {
         "name": "Felvine",
         "rare": 1,
         "description": "A Melynx favorite. They can't resist its charm.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "yellow",
+        "selling-price": 1
     },
     {
         "name": "Cactus Flower",
         "rare": 1,
         "description": "Contains antidotal substances, but has no effect by itself.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "pink",
+        "selling-price": 10
     },
     {
         "name": "Hot Pepper",
         "rare": 2,
         "description": "Ignites a fire after only a single bite. Warms you up, but too hot to handle.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "herb",
+        "color": "red",
+        "selling-price": 4
     },
     {
         "name": "Dosbiscus",
         "rare": 4,
         "description": "A large, beautifully colored flowering plant foreign to this land.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "herb",
+        "color": "red",
+        "selling-price": 20
     },
     {
         "name": "Mountain Herbs",
         "rare": 5,
         "description": "Highly valued natrual grass found only in the mountains. (Account Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "herb",
+        "color": "white",
+        "selling-price": 50
     },
     {
         "name": "Giant Corn",
         "rare": 5,
         "description": "Gigantic corn that's hard to grow in this region. Packed with kernels.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "herb",
+        "color": "yellow",
+        "selling-price": 500
     },
     {
         "name": "Special Mushroom",
         "rare": 5,
         "description": "Tiny, difficult to pick. A Mosswine's favorite food. (Account Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "mushroom",
+        "color": "white",
+        "selling-price": 50
     },
     {
         "name": "Select Mushroom",
         "rare": 5,
         "description": "Selected from Special Mushrooms for their size and taste (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "mushroom",
+        "color": "white",
+        "selling-price": 500
     },
     {
         "name": "Blue Mushroom",
         "rare": 2,
         "description": "Rare mushroom with a power-enhancing effect.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "mushroom",
+        "color": "blue",
+        "selling-price": 2
     },
     {
         "name": "Nitroshroom",
         "rare": 2,
         "description": "Rare mushroom with the power to generate heat.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "mushroom",
+        "color": "red",
+        "selling-price": 6
     },
     {
         "name": "Parashroom",
         "rare": 3,
         "description": "Mushroom that induces a paralysis effect.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "mushroom",
+        "color": "yellow",
+        "selling-price": 15
     },
     {
         "name": "Toadstool",
         "rare": 2,
         "description": "A poisonous fungus. Perhaps it has other effects as well...",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "mushroom",
+        "color": "purple",
+        "selling-price": 8
     },
     {
         "name": "Exciteshroom",
