@@ -1065,262 +1065,262 @@
         "name": "Para S Lv2",
         "rare": 4,
         "description": "Stronger paralysis effect, but may require several shots. Max 8 shots.",
-        "carry-max": 10,
+        "carry-max": 12,
         "icon": "shell",
-        "color": null,
-        "selling-price": 0
+        "color": "yellow",
+        "selling-price": 5
     },
     {
         "name": "Sleep S Lv1",
         "rare": 3,
         "description": "Puts target to sleep, but may require several shots. Maximum of 12 shots.",
-        "carry-max": 10,
+        "carry-max": 12,
         "icon": "shell",
-        "color": null,
-        "selling-price": 0
+        "color": "sky",
+        "selling-price": 2
     },
     {
         "name": "Sleep S Lv2",
         "rare": 4,
         "description": "Stronger sleep effect, but may require several shots. Max 8 shots.",
-        "carry-max": 10,
+        "carry-max": 12,
         "icon": "shell",
-        "color": null,
-        "selling-price": 0
+        "color": "sky",
+        "selling-price": 3
     },
     {
         "name": "Tranq S",
         "rare": 4,
         "description": "Tranquilizer for use on large trapped monsters. Max 8 shots.",
-        "carry-max": 10,
+        "carry-max": 8,
         "icon": "shell",
-        "color": null,
-        "selling-price": 0
+        "color": "red",
+        "selling-price": 4
     },
     {
         "name": "Paint S",
         "rare": 1,
         "description": "Marks a monster's position on the map for a set time period. Max 99 shots.",
-        "carry-max": 10,
+        "carry-max": 99,
         "icon": "shell",
-        "color": null,
-        "selling-price": 0
+        "color": "pink",
+        "selling-price": 6
     },
     {
         "name": "Demon S",
         "rare": 3,
         "description": "Said to bestow the strength of Asura on the target. Max 5 shots.",
-        "carry-max": 10,
+        "carry-max": 5,
         "icon": "shell",
-        "color": null,
-        "selling-price": 0
+        "color": "red",
+        "selling-price": 9
     },
     {
         "name": "Armor S",
         "rare": 3,
         "description": "Said to make the target's skin as hard as stone. Maximum of 5 shots.",
-        "carry-max": 10,
+        "carry-max": 5,
         "icon": "shell",
-        "color": null,
-        "selling-price": 0
+        "color": "orange",
+        "selling-price": 7
     },
     {
         "name": "Empty Bottle",
         "rare": 1,
         "description": "A bottle with nothign in it. Nothing more, nothing less.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "empty-bottle",
+        "color": "gray",
+        "selling-price": 1
     },
     {
         "name": "Power Coating",
         "rare": 2,
         "description": "Bows loaded with these bottles will have high attack power. Max 50.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 50,
+        "icon": "empty-bottle",
+        "color": "red",
+        "selling-price": 3
     },
     {
         "name": "Poison Coating",
         "rare": 3,
         "description": "Bows loaded with these bottles posion enemies on shaft impact. Max 20.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "empty-bottle",
+        "color": "purple",
+        "selling-price": 2
     },
     {
         "name": "ParalysisCoating",
         "rare": 3,
         "description": "Bows loaded with these bottles paralyze enemies on shaft impact. Max 20.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "empty-bottle",
+        "color": "yellow",
+        "selling-price": 3
     },
     {
         "name": "Sleep Coating",
         "rare": 3,
         "description": "Bows loaded with these bottles will put enemies to sleep. Max 20.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "empty-bottle",
+        "color": "sky",
+        "selling-price": 2
     },
     {
         "name": "CloseRngCoating",
         "rare": 3,
         "description": "Bows loaded with these get higher close-range power & melee Sharpness. Max 20.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "empty-bottle",
+        "color": "white",
+        "selling-price": 3
     },
     {
         "name": "Paint Coating",
         "rare": 1,
         "description": "Bows loaded with these can make monsters appear on the map. Max 99.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "empty-bottle",
+        "color": "pink",
+        "selling-price": 6
     },
     {
         "name": "Cricket",
         "rare": 1,
         "description": "Energetic insect that works well as fishing bait.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 5,
+        "icon": "bait",
+        "color": "green",
+        "selling-price": 1
     },
     {
         "name": "Worm",
         "rare": 1,
         "description": "Nightcrawler for fishing. Use 5 worms to raise soil fertility one level.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bait",
+        "color": "gray",
+        "selling-price": 2
     },
     {
         "name": "Firefly",
         "rare": 2,
         "description": "A firefly that's always glowing. Works well as fishing bait.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 20,
+        "icon": "bait",
+        "color": "yellow",
+        "selling-price": 4
     },
     {
         "name": "Frog",
         "rare": 2,
         "description": "A frog. Works well as fishing bait.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bait",
+        "color": "blue",
+        "selling-price": 15
     },
     {
         "name": "Tuna Bait",
         "rare": 2,
         "description": "The bait preferred by the tuna family of fish.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bait",
+        "color": "sky",
+        "selling-price": 4
     },
     {
         "name": "Arrowana Bait",
         "rare": 2,
         "description": "The bait preferred by the arrowana family of fish.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bait",
+        "color": "white",
+        "selling-price": 7
     },
     {
         "name": "Goldenfish Bait",
         "rare": 4,
         "description": "The bait preferred by Goldenfish.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 5,
+        "icon": "bait",
+        "color": "yellow",
+        "selling-price": 30
     },
     {
         "name": "Mega Fishing Fly",
         "rare": 3,
         "description": "A fly lure that causes a feeding frenz, no matter what fish is biting.",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "bait",
+        "color": "pink",
+        "selling-price": 3
     },
     {
         "name": "Old Pickaxe",
         "rare": 1,
         "description": "A cheap pickaxe with an easily chipped blade.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 3,
+        "icon": "pickaxe",
+        "color": "gray",
+        "selling-price": 6
     },
     {
         "name": "Iron Pickaxe",
         "rare": 1,
         "description": "An iron pickaxe with a strong blade.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 4,
+        "icon": "pickaxe",
+        "color": "white",
+        "selling-price": 16
     },
     {
         "name": "Mega Pickaxe",
         "rare": 3,
         "description": "A steel-reinforced pickaxe that is hard to chip.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 5,
+        "icon": "pickaxe",
+        "color": "yellow",
+        "selling-price": 24
     },
     {
         "name": "Expand Pickaxe",
         "rare": 5,
         "description": "Small pickaxe that appears unsuitable for mining. You sense a strange power...",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
+        "carry-max": 99,
+        "icon": "pickaxe",
+        "color": "purple",
         "selling-price": 0
     },
     {
         "name": "Old Bugnet",
         "rare": 1,
         "description": "Cheap and easily torn net for catching bugs.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 3,
+        "icon": "bugnet",
+        "color": "gray",
+        "selling-price": 3
     },
     {
         "name": "Bugnet",
         "rare": 1,
         "description": "Strong net for catching bugs.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 4,
+        "icon": "bugnet",
+        "color": "white",
+        "selling-price": 8
     },
     {
         "name": "Mega Bugnet",
         "rare": 3,
         "description": "Extremely durable net for catching bugs.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 5,
+        "icon": "bugnet",
+        "color": "yellow",
+        "selling-price": 12
     },
     {
         "name": "BBQ Spit",
