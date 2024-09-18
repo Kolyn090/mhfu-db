@@ -346,7 +346,7 @@
         "rare": 5,
         "description": "Amulet that raises Attack. Made from a Lao-Shan's Claw.",
         "carry-max": 1,
-        "icon": "claw",
+        "icon": "fang",
         "color": "red",
         "selling-price": 6840
     },
@@ -364,7 +364,7 @@
         "rare": 5,
         "description": "Amulet that raises Defense. Made from a Lao-Shan's Claw.",
         "carry-max": 1,
-        "icon": "claw",
+        "icon": "fang",
         "color": "orange",
         "selling-price": 5040
     },
@@ -2929,7 +2929,7 @@
         "rare": 4,
         "description": "The horns of an Anteka. Used and in weapons, armor, interior decorating.",
         "carry-max": 99,
-        "icon": "claw",
+        "icon": "fang",
         "color": "orange",
         "selling-price": 58
     },
@@ -3036,271 +3036,271 @@
         "name": "Giaprey Scale+",
         "rare": 5,
         "description": "Scale ripped from a Giaprey. Used to craft excellent equipment.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 50,
+        "icon": "scale",
+        "color": "white",
+        "selling-price": 120
     },
     {
         "name": "Giaprey Hide",
         "rare": 3,
         "description": "Hide stripped of its scales. Used to make clothing for villagers.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "white",
+        "selling-price": 28
     },
     {
         "name": "Giaprey Hide+",
         "rare": 5,
         "description": "High quality Giaprey Hide. A pathway to the creation of sturdy equipment.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "white",
+        "selling-price": 84
     },
     {
         "name": "Giadrome Hide",
         "rare": 4,
         "description": "The hide of a Giadrome. It bears the scars of a leader's battles.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "white",
+        "selling-price": 240
     },
     {
         "name": "Giadrome Claw",
         "rare": 4,
         "description": "Sharper than a Giaprey claw, touching it bare-handed is quite dangerous.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "fang",
+        "color": "white",
+        "selling-price": 200
     },
     {
         "name": "Giadrome Claw+",
         "rare": 5,
         "description": "A sharp Gladrome Claw. The deadly weapon of a Giadrome pack leader.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "fang",
+        "color": "white",
+        "selling-price": 550
     },
     {
         "name": "Giadrome Skull",
         "rare": 4,
         "description": "The large crest on this Giadrome skull denotes it as a pack leader.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "monster",
+        "color": "white",
+        "selling-price": 560
     },
     {
         "name": "Velociprey Fang",
         "rare": 2,
         "description": "Sharp (though not as sharp as a wyvern fang). Used to make Bowgun ammo.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "fang",
+        "color": "blue",
+        "selling-price": 15
     },
     {
         "name": "Velociprey Scale",
         "rare": 3,
         "description": "Scale obtained by carving up a Velociprey. Blue and black in color.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 50,
+        "icon": "scale",
+        "color": "blue",
+        "selling-price": 40
     },
     {
         "name": "Velociprey Scle+",
         "rare": 5,
         "description": "Scale stripped from a Velociprey. It can be made into Light, durable armor.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "scale",
+        "color": "blue",
+        "selling-price": 120
     },
     {
         "name": "Velociprey Hide",
         "rare": 3,
         "description": "Hide stripped of its scales. Used to join the plates in a sult of armor.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "blue",
+        "selling-price": 28
     },
     {
         "name": "Velociprey Hide+",
         "rare": 5,
         "description": "The high quality, descaled hide of a Velociprey, it has many applications.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "blue",
+        "selling-price": 84
     },
     {
         "name": "Velocidrome Hide",
         "rare": 4,
         "description": "The hide of a Velociprey leader. It bears the scars of a leadership role.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "blue",
+        "selling-price": 240
     },
     {
         "name": "Velocidrome Claw",
         "rare": 4,
         "description": "Claw from an alpha Velociprey. Sharp and blade-like.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "fang",
+        "color": "blue",
+        "selling-price": 200
     },
     {
         "name": "Velocidrome Clw+",
         "rare": 5,
         "description": "The sharp claw of a Velocidrome. It can easily slice through prey.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "fang",
+        "color": "blue",
+        "selling-price": 550
     },
     {
         "name": "Velocidrome Head",
         "rare": 4,
         "description": "Large head with a crest. You'd look pretty fierce if you put it on.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "blue",
+        "selling-price": 560
     },
     {
         "name": "Genprey Fang",
         "rare": 2,
         "description": "Poisonous fang from a Genprey. Paralyzing toxin even works on wyverns.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "fang",
+        "color": "green",
+        "selling-price": 35
     },
     {
         "name": "Genprey Scale",
         "rare": 3,
         "description": "Scale from a Genprey. Acts as camouflage in the desert zone.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 50,
+        "icon": "scale",
+        "color": "green",
+        "selling-price": 40
     },
     {
         "name": "Genprey Scale+",
         "rare": 5,
         "description": "Scale taken from a Genprey. Strong enough to repel a wyvern's fangs.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "scale",
+        "color": "green",
+        "selling-price": 180
     },
     {
         "name": "Genprey Hide",
         "rare": 5,
         "description": "A hide with all the scales removed. Can be tanned at the fort.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 50,
+        "icon": "pelt",
+        "color": "green",
+        "selling-price": 28
     },
     {
         "name": "Genprey Hide+",
         "rare": 5,
         "description": "The high quality, descaled hide of a Genprey, it can neutralize neurotoxins.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "green",
+        "selling-price": 126
     },
     {
         "name": "Gendrome Hide",
         "rare": 4,
         "description": "Sturdy green hide from a Gendrome. Perfect for making strong armor.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "green",
+        "selling-price": 560
     },
     {
         "name": "Gendrome Tail",
         "rare": 5,
         "description": "This flexible tail has adapted to the harsh conditions of the desert.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "green",
+        "selling-price": 600
     },
     {
         "name": "Gendrome Skull",
         "rare": 4,
         "description": "The skull of a Gendrome is noted for its two crests.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "monster",
+        "color": "green",
+        "selling-price": 665
     },
     {
         "name": "Ioprey Fang",
         "rare": 2,
         "description": "Fang filled with deadly poison. Care is required when handling it.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "fang",
+        "color": "red",
+        "selling-price": 25
     },
     {
         "name": "Ioprey Scale",
         "rare": 3,
         "description": "The dangerous poison normally in the scale has been removed.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 50,
+        "icon": "scale",
+        "color": "red",
+        "selling-price": 40
     },
     {
         "name": "Ioprey Scale+",
         "rare": 5,
         "description": "Scale stripped from an Ioprey. Can be used, once the polson is removed.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "scale",
+        "color": "red",
+        "selling-price": 240
     },
     {
         "name": "Ioprey Hide",
         "rare": 3,
         "description": "Descaled hide, often made into belts. Red belts are used in decorations.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 50,
+        "icon": "pelt",
+        "color": "red",
+        "selling-price": 28
     },
     {
         "name": "Ioprey Hide+",
         "rare": 5,
         "description": "High quality, descaled hide of an Ioprey, the red skin resists poison.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "red",
+        "selling-price": 168
     },
     {
         "name": "Iodrome Hide",
         "rare": 4,
         "description": "Sturdy red hide from an Iodrome. Perfect for making strong armor.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "red",
+        "selling-price": 560
     },
     {
         "name": "Iodrome Skull",
