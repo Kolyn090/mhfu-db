@@ -107,6 +107,62 @@
                 ],
                 "note": "after cleaning village urgent 2",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You drove off that Blangonga without a hitch. Now that beast knows better than to show its face in the mountains. I had faith in you the whole time.",
+                    "However, I've heard rumors that something is amiss. Something to do with the wyvern that attacked you, the Tigrex.",
+                    "It seems the Tigrex has been spotted again in the Snowy Mountains. I don't know the details, but I would get ready for a quest from the Chief.",
+                    "The Tigrex is a tough nut to crack... In fact, it drove me into retirement. Its strong jaws and claws made me vow never to grip a sword again.",
+                    "There is no place for negligence when fighting a Tigrex. Keep in mind that there is more we don't know about it than we do."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "A Tigrex has been spotted in the Snowy Mountains. I expect there to be a quest from the Village Chief soon, so prepare yourself!",
+                    "Its strong jaws and claws are all powerful weapons. Powerful enough to force me into retirement."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You... You stayed strong against that Tigrex! I can't believe you did it!",
+                    "Huh? No, I didn’t mean to doubt you. I had 100% faith in you!",
+                    "Now, thanks to you, I can enjoy my retirement without worrying about the one that got away."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Even the Chief predicted that you would be the one to get rid of the Tigrex.",
+                    "Huh? Oh yeah... The first time I laid eyes on you, you were face down in the snow because a Tigrex had attacked you.",
+                    "Now I can retire with my heart at ease. Thank you."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Working your way up the ranks as a hunter, huh? Well, perhaps you'd like to face the powerful Rathalos and Rathian as your next opponents?",
+                    "It seems that you've caught the attention of the Guild. If something happens in town, I have a feeling they will come to you for help.",
+                    "So you've made a name for yourself with the Guild...? I'm sure you know that you can take their quests from the counter in the Gathering Hall.",
+                    "Compared to the Village Chief's quests, they are much more difficult, but you are strong enough to handle them.",
+                    "If you want to try your hand at high-ranking quests, there’s no better place to go and make yourself known than the Gathering Hall."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Compared to the Village Chief's quests, the ones from the Gathering Hall are more difficult, but you should be strong enough to handle them.",
+                    "If you want to try your hand at high-ranking quests, try grabbing the attention of the Guild first."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
             }
         ]
     },
@@ -166,6 +222,14 @@
                     "We've just added Armor Sphere, so now you can trade your Pokke Points for this wonderful item. Feel free to take a look!"
                 ],
                 "note": "after cleaning village chief urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello there! How has the farm been doing lately? If you need some new equipment, don't hesitate to ask.",
+                    "I should mention that you can now trade your points for Armor Sphere+. It's an incredible innovation! But you don't have to take my word for it!"
+                ],
+                "note": "after cleaning village urgent 4",
                 "rewards": []
             }
         ]
@@ -244,6 +308,80 @@
                 ],
                 "note": "after cleaning village chief urgent 2",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! Word on the street is you rid us of a Blangonga. Mighty fine job if I do say so myself.",
+                    "I figure you deserve something to commemorate the event. Remember that Suiko Jewel I gave you? Well, this time I have an even nicer Jewel!",
+                    "It's called an Akito Jewel. You can use it to make the Expert Jewel, which raises your Affinity through the Reckless Abandon skill.",
+                    "You can also make an Early Bird Jewel, which triggers the Reloading Speed skill and allows you to quickly reload your Bowgun or Bow.",
+                    "You can obtain an Akito Jewel in the Swamp or the Forest and Hills; however, the best way to get them is mining in the Volcanic Belt.",
+                    "I'll give you a few now so you can try them out and see what they do. Of course, leave taking on and off Decorations to a professional... Me."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": [
+                    "Akito Jewel x 5"
+                ]
+            },
+            {
+                "dialogue": [
+                    "Improving a melee weapon makes it stronger. Depending on the weapon, you could even craft something with the same abilities."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! It seems you're doing quite well for yourself.",
+                    "There is something I was planning on giving you... There is no use at all in me holding on to it.",
+                    "Here you go! I suppose you've already got one, but you might as well use this one too."
+                ],
+                "note": "skipped reward",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! I hear you were able to hunt down a Tigrex! That's amazing!",
+                    "This calls for a celebration! Remember that Armor Sphere I gave you...? Well, if you want to improve armor, this is even better!",
+                    "It's called an Armor Sphere+, and it allows you to strengthen armor that can no longer be improved with a simple Armor Sphere.",
+                    "Like an Armor Sphere, it will improve one piece of armor one level, no matter the lineage or the part.",
+                    "However, an Armor Sphere+ only improves things that have already reached an Armor Sphere's limit. You can't use them from the start.",
+                    "I also hear you can make an Armor Sphere by combining an Armor Stone with Dragonite Ore or Hercudrome.",
+                    "Try improving your favorite armor with this. I think you'll be pleased with the results... Especially the results at my crafting shop!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": [
+                    "Armor Sphere+ x 3"
+                ]
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! If you improve armor, its defense will rise, but Skills and Slots are fixed, so don't fret. Your precious skills will remain untouched."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! Looks like you are hard at work these days. Everyone is quite proud of you.",
+                    "I've got a gift for you today. A Jewel much nicer than anything I've given you before.",
+                    "It's called a Battlefield Jewel. Use it to make improved versions of your current Decorations and unlock even more useful skills.",
+                    "Combining that Jewel with materials allows you to create wonderful items.",
+                    "As a key item in creating Decorations, sometimes you'll need multiple pieces. If you get new materials, come here and see what's possible.",
+                    "To get a Battlefield Jewel, your best shot is mining the Volcanic Belt. Especially the mining points in caves, the summit, or the volcano’s base.",
+                    "Now that you know what you need to know, time to head out into the field. You know... Use this to do that and get on with it! But come back soon!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": [
+                    "Battlefield Jewel x 5"
+                ]
+            },
+            {
+                "dialogue": [
+                    "Yo yo and hello! The armor-improving Armor Sphere has advanced versions too! There is the Armor Sphere+, Hard Armor Sphere, and more! Try and get ‘em!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
             }
         ]
     },
@@ -282,6 +420,25 @@
                 ],
                 "note": "after cleaning village chief urgent 1",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "It's you, meow! To celebrate you slaying that Blangonga, we've stocked some new armor!",
+                    "We've got three pairs of special boots made from special alloys. Try the Silver Metal Boots, Dark Metal Boots, or Pink Metal Boots, nya!",
+                    "They can't be crafted from materials, so they're really beautiful boots! They have high defense too. I wish I was a puss in boots, meow!",
+                    "But not the pink boots because those are only worn by women! Anyways, have yourself a look, nya!"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Ah! You're here! You're here! Meow! Meow! We've got some amazing armor set aside made from a special alloy, paws above the rest, meow!",
+                    "The Chrome Metal Coat and Chrome Metal Boots are black with a gold line that's absolutely the cat's meow... I'm purring just thinking about it, meow!",
+                    "If I was a hunter, I'd definitely wear them, nya! Sorry, I got carried away... You should still check out that armor though, meow!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
             }
         ]
     },
@@ -319,6 +476,36 @@
                     "How about the Book of Combos 3. It's our pick for hunters who like to combine during a Quest. We've also got bowgun shells and lots of other items!"
                 ],
                 "note": "after cleaning village urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome! So you got rid of the Blangonga, huh? Well, thanks to you, we've been able to stock even more items!",
+                    "Here's one of the new items we got in. It's the Book of Combos 4. If you carry it along with Books 1, 2, and 3, your success rate will skyrocket!",
+                    "We've also got some new monster info. I figured you would be interested because a hunter of your level requires the latest information!",
+                    "Finally, we received some powerful bowgun shells and a wide assortment of useful items."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome again! I've got excellent news! A new supply route has opened and it is all thanks to you!",
+                    "We've now got some excellent products to show you! I recommend the Mega Pickaxe and the Mega Bugnet. They are both very hard to break.",
+                    "Another recommendation is the Book of Combos 5. Using it with the other books will make combining failure a thing of the past.",
+                    "We've also got a great item for a hunter like yourself! In the dark about elder dragons and their ilk? Not for long with a collection of monster info!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome! Thanks to you, this little village has become famous! Our supply routes have increased to the point there's no more stock room!",
+                    "Thanks to our great stock, I can recommend some items today! How about the Backpacker Guide? It'll increase your Item Box capacity to the limit!",
+                    "We were also able to stock some shells for Gunners. Particularly the Pellet S Lv3 and Pierce S Lv3. We've also gotten in some new monster info.",
+                    "The fact that we are so well stocked is 100% thanks to you. Truly, we can't thank you enough."
+                ],
+                "note": "after cleaning village urgent 5",
                 "rewards": []
             }
         ]
@@ -373,7 +560,7 @@
             {
                 "dialogue": [
                     "I hear that recently the cooking Felynes have started a service where they will cook meat and fish for you.",
-                    "It seems you can place an order at the Kitchen Board in the kitchen. Interesting! It looks like they even have burnt items!"                    
+                    "It seems you can place an order at the Kitchen Board in the kitchen. Interesting! It looks like they even have burnt items!"
                 ],
                 "note": "after cleaning village chief urgent 1",
                 "rewards": []
@@ -382,7 +569,7 @@
                 "dialogue": [
                     "Good day to you! You seem to be in great spirits today. Oh, that reminds me of something...",
                     "Are you using the bookshelf in your house? It's more than just for reading the latest \"Hunting Life\"! You can also change your hair there!",
-                    "There is also hair dye there, so you can change your haird color to whatever suits you! It's good to give yourself a makeover every now and again!"                  
+                    "There is also hair dye there, so you can change your haird color to whatever suits you! It's good to give yourself a makeover every now and again!"
                 ],
                 "note": "after cleaning village chief urgent 2",
                 "rewards": []
@@ -393,6 +580,58 @@
                     "There are also hair dye there, so you can change your hair color to whatever suits you! It's good to give yourself a makeover every now and again!"
                 ],
                 "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello there. I was on my way to get some ingredients for dinner from the Item Box.",
+                    "You can use the Small Wyvern Trays to store items as well as retrieve them, making it a convenient box.",
+                    "You can’t use it to store equipment, but other than that, you can treat it just like the Item Box you have at home."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You can use the Small Wyvern Trays to store items as well as retrieve them, making it a convenient box.",
+                    "You can’t use it to store equipment, but other than that, you can treat it just like the Item Box you have at home."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Well, well! Good day to you! Moving on up, I see. Have you heard of Trenya? He was Treshi’s disciple.",
+                    "If you give him Pokke Points, he will head out on one of his adventures and return with a plethora of items.",
+                    "The items you receive depend entirely upon the number of Points you give and where he ventures towards, so keep trying new things."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Trenya was Treshi's first disciple. If you give him Pokke Points, he will head out on one of his adventures and return with a plethora of items.",
+                    "The items you receive will depend entirely upon the number of Points you give him and where he heads off towards, so just keep trying new things."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello to you, hunter. I'd love to get out of this village, you know... But I've got this loudmouth who won't let me go.",
+                    "The other day when I was out on a walk, I heard a horn sound in the distance. I'm pretty sure it was what they call a Hunting Horn.",
+                    "The way it is played creates different notes. The combination of these notes can trigger effects that a hunter would surely find useful.",
+                    "When it comes to weapons, the Hunting Horn is absolutely adorable."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The other day when I was out on a walk, I heard a horn sound in the distance. I'm pretty sure it was a Hunting Horn.",
+                    "It can create various notes. The combination of these notes can trigger various useful effects. I'd like to try one someday!"
+                ],
+                "note": "after cleaning village urgent 5",
                 "rewards": []
             }
         ]
@@ -472,6 +711,60 @@
                 ],
                 "note": "after cleaning village chief urgent 2",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You should learn important lessons from others before you head off and make a fool of yourself!",
+                    "The Tigrex they saw in the Snowy Mountains is a real terror. Its name alone is enough to make a child dash for cover!",
+                    "There was once a hunter who stood up to the Tigrex.",
+                    "Everyone was against him putting up a fight, and I see why. You understand, don't you? Fighting a Tigrex is a fool's errand."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "There was once a hunter who stood up to the Tigrex.",
+                    "Everyone was against him putting up a fight, and I see why. You understand, don't you? Fighting a Tigrex is a fool's errand."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh, wait until you hear this! You should learn important lessons from others before you head off and make a fool of yourself!",
+                    "Lately, the country has been host to a pair of fire wyverns! It's rare to see a breeding pair, so people actually want to visit there!",
+                    "There was once a hunter in this village who got it in his head to face off against two wyverns at once...",
+                    "Everyone told him to stop, and thankfully they were able to talk some sense into him... Fighting two fire wyverns at once is an absolute death wish!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "There was a hunter in this village who got it in his head to face off against two wyverns at once...",
+                    "Everyone told him to stop, and thankfully they were able to talk some sense into him... Fighting two fire wyverns at once is an absolute death wish!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Oh, wait until you hear this story! You should learn important lessons from others before you head off and make a fool of yourself!",
+                    "Don't even think about going to the area these days. If rumors are correct, an enormous monster has laid siege to it!",
+                    "Long ago, the same monster is said to have attacked the town, causing a single hunter to declare that he would save the town from destruction.",
+                    "Everyone pressured him to rethink it. Trying to save an entire town by oneself would be a tall order for any hero!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Long ago, when the town was under siege, there was a hunter who declared that he would save everyone from destruction.",
+                    "Everyone pressured him to rethink it. Trying to save an entire town by oneself would be a tall order for any hero!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
             }
         ]
     },
@@ -533,6 +826,63 @@
                     "There is nothing better than Decorations to unlock the purrfect skill! Use them wisely and aim to become a top-class hunter, meow!"
                 ],
                 "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Purr... What now, nya? Another hunter, I see.",
+                    "There is a hunter who keeps avoiding me, but it seems that no matter what I do, the hunter won't come over to talk about this new armor!",
+                    "I tried to catch the hunter, but they escaped in a hurry, nya. All I wanted to do was talk about some neat armor!",
+                    "Wearing the armor you crafted isn't the only way, nya! Having the crafting shop strengthen it means you'll have a purrfect protector!",
+                    "However, the skills and Decoration slots won't change, meow. Save up your money and materials, then give strengthening a try, meow meow!"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Wearing the armor you made isn't the only way, nya! Having the crafting shop strengthen it means you'll be using a purrfect protector!",
+                    "However, the skills and Decoration slots won't change, meow. Save up your money and materials, then give strengthening a try, meow meow meow!"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Meow... Where is that hunter hiding, meow!?",
+                    "The hunter that always seems to be after me isn't going to get away this time, because now I'm on the prowl, meow!",
+                    "I don't know what that hunter is planning, but just like a monster, it seems every time I catch the hunter by surprise, I get a new item, nya!",
+                    "Monsters are also known to drop items when you catch them by surprise or off-guard, meow.",
+                    "These items can be sold for a high price, so when you are fighting a monster, try lots of different surprising ideas!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Monsters are also known to drop items when you catch them by surprise or off-guard, meow.",
+                    "These items can be sold for a high price, so when you are fighting a monster, try lots of different surprising ideas!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Nyaaaa! I was so close, meow! Just one more step...",
+                    "One more step and I would've been able to give that hunter the poking of a lifetime, meow!",
+                    "The hunter I'm after is wearing S-Series armor. It is special equipment that is stronger than regular armor, meow!",
+                    "There is also another class of special armor called the U-Series. It has many slots which makes it very useful for those interested in skills.",
+                    "S and U-Series armor is only made via strengthening. Take some materials to the crafting shop and make some for yourself, meow!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "S and U-Series armor both feature the best technology, meow. The S-Series has very high strength, while the U-Series focuses on skills and slots.",
+                    "S and U-Series armor is only made via strengthening. Take some materials to the crafting shop and make some for yourself, meow!"
+                ],
+                "note": "after cleaning village urgent 5",
                 "rewards": []
             }
         ]
@@ -634,6 +984,79 @@
                 ],
                 "note": "after cleaning village chief urgent 2",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Ho ho... The hunter, huh? Doing well, I see. I'd like to talk about Lunastra and Chameleos.",
+                    "The Elder Dragon Observation Center has gathered the following information about Lunastra.",
+                    "She is related to another elder dragon called Teostra. They are a formidable pair, and anyone foolish enough to approach will face great danger.",
+                    "You must pay extreme caution to the scales that fall from her, as they could cause a 'dust explosion.'",
+                    "Finally, Lunastra is named for the moon, whose flames burn bright at night... We'll cover more on Teostra at a later date.",
+                    "Chameleos is hard to pin down due to the scarcity of reports. It seems to change its appearance at will.",
+                    "It is named for its ability to change its skin and hide, believed to be linked to its blood and the surface humidity.",
+                    "I suppose this is of little interest to a hunter like yourself, but be aware that high mountains are known to be Chameleos habitats.",
+                    "And there you have it. These elder dragons possess immense power and must be confronted with extreme caution."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The moon-like fire of Lunastra wraps her in flames, strong enough to be a threat to any who approach.",
+                    "You must pay extreme caution to the scales that fall from her, as they could cause a 'dust explosion.'",
+                    "The Chameleos can seemingly hide its own body; however, its eyes remain visible.",
+                    "We do not know the specifics of how it achieves this, but it is able to reappear.",
+                    "And there you have it. These elder dragons possess immense power and must be confronted with extreme caution."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Ho ho... You have become quite the powerful hunter! Today I would like to share with you our info on an elder dragon named Teostra.",
+                    "There are many things Teostra has in common with his partner, Lunastra, a dragon I informed you about earlier.",
+                    "Teostra is capable of breathing fire, and hazy flare-like flames emanate from its body, leading some to call it the Solar Flare Dragon.",
+                    "Teostra was named from the combination of tyrant and leo, meaning lion. Teostra is the king of flame, while Lunastra is his queen.",
+                    "Teostra's flame breath is the result of a unique gas within its body.",
+                    "Reports say this gas is caused by Teostra's consumption of coal, often found in the Volcanic Belt. It's thought this is where Teostra consumes it.",
+                    "Teostra pressurizes these purified internal gases and releases them, causing a widespread explosion of flame.",
+                    "Of course, this is all rampant speculation on our part. When dealing with elder dragons, there is quite a bit we have yet to understand."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Teostra is capable of breathing fire, and hazy flare-like flames emanate from its body, leading some to call it the Solar Flare Dragon.",
+                    "Teostra's flame breath is the result of a unique gas within its body.",
+                    "Reports say this gas is caused by Teostra's consumption of coal, often found in the Volcanic Belt. It's thought this is where Teostra consumes it.",
+                    "Teostra pressurizes these purified internal gases and releases them, causing a widespread explosion of flame."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Ho ho... It seems that your star is rising quickly, my friend. Today, I shall tell you what I know about an elder dragon called Kirin.",
+                    "Huh? A Kirin is an elder dragon, you ask? Ho ho... That problem of classification is something you need not worry about.",
+                    "As I explained earlier, we classify a monster as an elder dragon when it differs too greatly from other existing classifications.",
+                    "That is why a Kirin is considered an elder dragon. No need to be vexed by this classification.",
+                    "Continuing on, as you know, the Kirin is sometimes known as the Phantom Brute due to the rarity of its encounters with humans.",
+                    "A nomad of sorts, its small numbers are aided by its adaptability, whether in the cold of the Snowy Mountains or the heat of the Volcanic Belt.",
+                    "Even the Guild, to a certain extent, has begun to accept Quests for the Kirin; however, it rarely offers these quests itself.",
+                    "If you happen to spot one, you should take out a Quest as soon as possible... Hehe."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The Kirin is sometimes known as the Phantom Brute due to the rarity of its encounters with humans.",
+                    "A nomad of sorts, its small numbers are aided by its adaptability, whether in the cold of the Snowy Mountains or the heat of the Volcanic Belt.",
+                    "The Guild only occasionally offers Kirin Quests. So, if you happen to spot one, you should take out a Quest as quickly as possible."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
             }
         ]
     },
@@ -685,6 +1108,17 @@
                 ],
                 "note": "greeting",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Well well... Ya slayed a Rathalos, eh? That makes me think jus' a lil' bit better of ya. ",
+                    "Speaking of thinkin' better of things. Ya  ever heard of the hero that used to live Kokoto Village?",
+                    "They say he was able to slay him a Rathalos an' a Monoblos too. If ya never seen his biography, I'll b happy to give ya a copy."
+                ],
+                "note": "after slaying a Rathalos",
+                "rewards": [
+                    "Hero of Kkto Bio x 1"
+                ]
             }
         ]
     },
@@ -837,8 +1271,8 @@
                     "Last night, I heard a distant Pelagus roar... Take care of yourself. Save your strength when you can."
                 ],
                 "note": "after cleaning village chief urgent 2",
-                "rewards": [ 
-                    "Pokke Ticket x 1" 
+                "rewards": [
+                    "Pokke Ticket x 1"
                 ]
             },
             {
@@ -862,8 +1296,59 @@
                     "Oh! I forgot about your reward for defeating the Blangonga! It's something nice that I'm sure you'll find useful."
                 ],
                 "note": "after cleaning village chief urgent 3",
-                "rewards": [ 
-                    "Pokke Ticket x 2" 
+                "rewards": [
+                    "Pokke Ticket x 2"
+                ]
+            },
+            {
+                "dialogue": [
+                    "Well then, you're back. There is something I must urgently talk with you about. It's about none other than the Tigrex.",
+                    "It's the wyvern that once attacked this village before you arrived here. Now, Tigrex is back in the area.",
+                    "One of the reasons it's here is to hunt Popos, and as you know, Popos are one of the workhorses of the village.",
+                    "The Popos we have domesticated are already under attack. However, the Tigrex's appetite does not stop at just Popos...",
+                    "We'd like you to take care of this threat. Don't worry, you're more than capable of the challenge.",
+                    "Please show us all your strength. If not for the village, then just to prove something to yourself. I beg you for your help."
+                ],
+                "note": "urgent quest 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I just heard! You did it! You defeated the Tigrex! I always had faith in you!",
+                    "With you here, this village can rest easy. You've really become our star hunter. I can't thank you enough.",
+                    "By the way, we've just gotten the autopsy report back from the Guild. It seems that the Tigrex you slayed yielded incredibly rare materials.",
+                    "One of them was a large Tigrex Screamer. It's something Treshi and I have spent ages searching for. It has special properties...",
+                    "It has all the properties needed to smash the ice barrier in the farm storehouse. What an incredibly rare item indeed!",
+                    "It's something you only see once in a lifetime, and that's why it is beyond the skill of the staff at the crafting shop.",
+                    "I know it was a bit presumptuous of me, but I used this item for you. It was for the good of the village.",
+                    "I suggest you take a trip over to the farm. You should be able to see the demolition of that ice barrier.",
+                    "Oh, there is one more thing I forgot! Here's a small token of appreciation for your efforts."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": [
+                    "Pokke Ticket x 4"
+                ]
+            },
+            {
+                "dialogue": [
+                    "You're truly our star hunter! Slaying that Tigrex made you such a celebrity that we've received another difficult request for you.",
+                    "Are you aware of the Rathalos, known as the king of wyverns, and his queen, the Rathian?",
+                    "They are said to live in the Forest and Hills, so they aren't often spotted near here.",
+                    "The request we've received for you is to slay these two beasts. They are both powerful flying wyverns, there's no doubt about that. Take care, OK?"
+                ],
+                "note": "urgent quest 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You repelled the Rathalos and the Rathian... It's not too much to say that you've become a first-class hunter.",
+                    "Your fame keeps getting bigger and bigger, and we keep getting more and more requests for you!",
+                    "It seems we have the services of a first-class hunter. I should congratulate you! I'm sorry for always giving you the same kind of task.",
+                    "If you are truly as strong as you seem, you shouldn't limit yourself to my requests. Try the ones at the Gathering Hall. You should go there."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": [
+                    "Pokke Ticket x 8"
                 ]
             }
         ]
@@ -1043,7 +1528,7 @@
                 "dialogue": [
                     "Hello! I hope all is well with you.",
                     "Today I'll explain to you the differences in materials earned between Quests here at the Gathering Hall and the Village Chieft's Quests.",
-                    "Materials are generally divided into High, Low, and G-Level. High Rank materials can be found on GH Quests lvl 6 and above, and G - lvl ones are in G - lvl Questes.",              
+                    "Materials are generally divided into High, Low, and G-Level. High Rank materials can be found on GH Quests lvl 6 and above, and G - lvl ones are in G - lvl Questes.",
                     "Upper rank monster materials often have \"hard\" or \"plus\" attached to their names. I'm not sure of the naming used for ores or insects.",
                     "Thus, crafting or strengthening items at the crafting shop which requries carapace will be restricted to the upper ranks.",
                     "Lower rank materials can be earned on Quests from the Village Chief, levels 1 to 5.",
@@ -1087,6 +1572,76 @@
                     "What about armor, you ask? If you've got an Armor Sphere, it seems improvement is an option. The world has truly become a better place, hasn't it?"
                 ],
                 "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello! I hope all is well with you.",
+                    "I was wondering, have you ever heard of elder dragons? The Guild requests these monsters be slayed by hunters who have proven their mettle.",
+                    "Most elder dragons are vulnerable to weapons with Dragon element. It is quite beneficial to have elder dragon materials when making these weapons.",
+                    "Huh? Chicken or the egg problem you say? Well, don't worry! You can still make Dragon element weapons without those rare materials.",
+                    "For instance, the Lance called the Growling Wyvern or weapons made from Ruststone can carry Dragon element.",
+                    "If you want to know more about elder dragons, go have a chat with the old man outside the Gathering Hall."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Weapons with Dragon element are effective against elder dragons. These weapons are easy to make with elder dragon material, but it's not required.",
+                    "For instance, the Lance called the Growling Wyvern or weapons made from Ruststone can carry Dragon element.",
+                    "If you want to know more about elder dragons, go have a chat with the old man outside the Gathering Hall."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello! I hope all is well with you. Perhaps it is time for you to try our Quests along with those from the Village Chief, eh?",
+                    "The Guild has worked hard to make sure its hunters have the very best opportunities.",
+                    "For instance, fighting against huge monsters or using siege weapons at the fort or town, such as the Ballista, Great Cannon, or Dragonator.",
+                    "It doesn't happen in small villages like this, but large towns are often the victims of attack by gigantic monsters.",
+                    "The Guild provides hunters opportunities to take these Quests via the Guild Outposts. Even you may be requested to come into our service."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The Guild has prepared weapons for use against giant monsters. They are called the Ballista, Great Cannon, and the Dragonator.",
+                    "If the fortress or town is attacked, the Guild issues an urgent request to hunters via its Outposts. You too may be requested to join the fight."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello! I hope all is well with you.",
+                    "I've got a bit of a strange request for you today. Slaying a level 2 Rathalos and a level 2 Rathian...",
+                    "Fire wyverns are incredibly strong, so this is not your ordinary level 2 Quest.",
+                    "But since it is a level 2 Quest, the materials you get won't be that great. However, it is perfect for gathering fire wyvern materials."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Hello! I hope all is well with you. You've pretty much conquered all of the Village Chief's Quests, have you not?",
+                    "You know, I'd be extremely happy if you were to take on some of the Quests waiting here at the Gathering Hall.",
+                    "If you are able to ascend to the High Rank Quests above level 6, you should be able to craft superbly powerful equipment.",
+                    "That reminds me, if you were to also put your all into Pokke Farm, you should be able to find some high-rank items.",
+                    "Well, only ore and insect items, but if you are not ready for Gathering Hall Quests, the Farm is a good place to pour effort into."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "As you progress through the Gathering Hall Quests, you can begin to sign up for High Rank Quests.",
+                    "However, getting up to that level is difficult, so you might want to put some time and energy into Pokke Farm.",
+                    "High rank ore and insect items can be acquired there, or so I hear... Good luck!"
+                ],
+                "note": "after cleaning village urgent 5",
                 "rewards": []
             }
         ]
@@ -1271,6 +1826,63 @@
                 ],
                 "note": "after cleaning village chief urgent 2",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Huh? You again? I thought you were still buried in the snow from when the Blangonga nearly made you its breakfast!",
+                    "I decided that I'd go take care of that Blangonga myself, so I sold everything I owned and bought a new weapon! From now on, I'm a Gunlance master!",
+                    "The best part of a Gunlance is its powerful and stylish Shelling ability! I got a little bit carried away and shattered the blade...",
+                    "You know, I hope you put a bunch of Whetstones in a pouch and then the pouch wears out and they all fall on the ground and break! Haha! Hmph!"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The best part of a Gunlance is its powerful and stylish Shelling ability! I got a little bit carried away and shattered the blade...",
+                    "You know, I hope you put a bunch of Whetstones in a pouch, and then the pouch wears out and they all fall on the ground and break! Haha! Hmph!",
+                    "What!? My pouch has a hole in it!? Whoa... Thanks for letting me know!"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Jeez. You again. I would've figured you'd be a Tigrex toothpick by now...",
+                    "But I see you've gone off into hiding and come back with some nice armor. Too bad armor doesn't equal strength, because I'm still stronger!",
+                    "You know, lately I've taken to using a Long Sword. As you hit the enemy, you build up the Spirit gauge until you can unleash a killer swipe of the blade!",
+                    "It isn't a technique you can just use off the bat! You've gotta build up the gauge and then let your enemy have it!",
+                    "But knowing you, you'll just build it and build it up, and right before you unleash the attack, a little tiny monster will kill you! Haha!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You know, lately I've taken to using a Long Sword. As you hit an enemy, you build up the Spirit gauge until you can unleash a killer swipe of the blade!",
+                    "But knowing you, you'll just build it and build it up, and right before you unleash the attack, a little tiny monster will kill you! Haha!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Heh... You again, huh? I figured you'd be mashed potatoes in a Rathalos and Rathian dinner by now...",
+                    "Huh? You did what? You must have been hitting the Training School pretty hard lately, huh?",
+                    "Whatever. I'm great at this hunting business. I'll just train harder than you, and all you'll see of me then is my dust!",
+                    "I'll give you this, the Training School is quite useful for hunters. You can study weapons and cut your teeth on the arts of real battle!",
+                    "You should keep going to the Training School, become a weapons expert, and then oversleep because you studied too hard! Hah! That'd be great!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Let me tell you this, the Training School is quite useful for hunters. You can study weapons and cut your teeth on the arts of real battle!",
+                    "You should keep going to the Training School, become a weapons expert, and then oversleep because you studied too hard! Hah! That'd be great!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
             }
         ]
     },
@@ -1299,6 +1911,33 @@
                     "No matter what you buy, these products will make your hunting life richer and more productive. We look forward to serving you in the future!"
                 ],
                 "note": "after cleaning village urgent 1",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome! Word has it that you've been advancing as a hunter.",
+                    "Let me show you a special amulet that produces effects just by simply possessing it. It's a must-buy when fighting powerful monsters!",
+                    "We have also stocked new volumes of monster info sure to prove useful to a hunter like you! We look forward to serving you in the future!"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome! I heard that you slayed a Tigrex. Well done! Even the Guild must respect an act like that.",
+                    "Shall I recommend an item to quench your mining mania – a Mega Pickaxe! Or perhaps the Mega Bugnet suits you! Both are perfect for item hunters!",
+                    "We've also added monster info covering such beasts as the elder dragons or the Remobra. I’m sure you'll find them of great use!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Welcome! The Guild has provided us with new monster info just to keep you well informed! Can you believe it!?",
+                    "We've gotten books covering Shen Gaoren, Rajang, Teostra... All the beasts the Guild hopes you can slay!",
+                    "We've also been able to stock a copy of the Backpacker Guide! Perhaps this is more to your liking? Haha! We look forward to your business!"
+                ],
+                "note": "after cleaning village urgent 5",
                 "rewards": []
             }
         ]
@@ -1399,6 +2038,67 @@
                     "I'm glad the lecture master gave me about skills has finally come in handy, meow!"
                 ],
                 "note": "after cleaning village chief urgent 2",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Huh!? M-Master!?",
+                    "I'm sorry, nya. I made a mistake... I thought you were someone else. My master went to slay a giant monster and still hasn't come back yet.",
+                    "Knowing the weak points of an enemy is vital to defeating it... That's what master used to always say, meow.",
+                    "Some monsters are weak against fire while others are weak versus water. Using weapons with elemental powers is the way to exploit these weaknesses!",
+                    "My master is a hunter with an abundance of knowledge, meow. That's why he promised to come back after defeating his most powerful foe...",
+                    "Master... How long must I wait here for you, meow...?"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Some monsters are weak against fire while others are weak versus water. Using weapons with elemental powers is the way to exploit these weaknesses!",
+                    "My master is a hunter with an abundance of knowledge, meow. That's why he promised to come back after defeating his most powerful foe..."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Huh!? M-Master!?",
+                    "I'm sorry, nya. I made a mistake... I thought you were someone else. My master stood here and proclaimed he'd be victorious, and then set off to battle.",
+                    "He always used to say that you have to aim for a monster's weak point! It’s the only way to deal massive damage, meow!",
+                    "What places are weak against blows or open to shots, whether you should aim for the tail or the head, these decisions are key to a hunter, meow!",
+                    "I wonder if my master is still fighting with that monster, meow... I'm so worried, nya."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "He always used to say that you have to aim for a monster's weak point! It’s the only way to deal massive damage, meow!",
+                    "What places are weak against blows or open to shots, whether you should aim for the tail or the head, these decisions are key to a hunter, meow!",
+                    "I wonder if my master is still fighting with that monster, meow... I'm so worried, nya."
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Huh!? M-Master!?",
+                    "I'm sorry, nya. I made a mistake... I thought you were someone else. My master is a truly glorious hunter, but he left on a hunt and still hasn't returned.",
+                    "My master is so glorious that he has a collection of Titles and Awards to his credit, meow!",
+                    "The Titles and Awards you earn upon meeting special conditions are proof of your worth as a hunter, nya!",
+                    "Your Awards are recorded on the Guild Card, and you can also choose your favorite Title to be displayed there as well!",
+                    "My master's Guild Card is my most purrized possession, nya!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The Titles and Awards you earn upon meeting special conditions are proof of your worth as a hunter, nya!",
+                    "Your Awards are recorded on the Guild Card, and you can also choose your favorite Title to be displayed there as well!",
+                    "My master's Guild Card is my most purrized possession, nya!"
+                ],
+                "note": "after cleaning village urgent 5",
                 "rewards": []
             }
         ]
@@ -1555,6 +2255,49 @@
                 ],
                 "note": "",
                 "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I can't believe this is what was inside the cave, meow!",
+                    "It seems like the Village Chief and Treshi knew it all along... The Chief should have told us about this, nya!",
+                    "The Village Chief only said, 'It's an ancient Great Sword made of materials from an elder dragon.' But who in the world could use a sword this big!?",
+                    "The sword's size isn't the only weird thing. If you shave down the back edge, it grows back, meow! It's like it is alive!",
+                    "The Village Chief said that in return for breaking the ice, you could shave some materials from the sword. You must feel really special, nya.",
+                    "But you can't use regular old equipment. You'll need to find some hard Elder Dragon Bones and use those to strike the sword and get materials, meow.",
+                    "If you get two pieces of Elder Dragon Bone, you can make a special Pickaxe, I think, nya.",
+                    "Just this once, the Village Chief has given us some Elder Dragon Bones, so let's try making one. But after this, you must bring your own, meow!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "I don't think you are going to get anything, meow. It takes time for the sword to grow back... You should try again later, nya."
+                ],
+                "note": "no item available",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "If you have two pieces of Elder Dragon Bone, you can make a special Pickaxe. If you use that, you can obtain materials from this sword, meow.",
+                    "Would you like to mine?"
+                ],
+                "note": "select yes/no",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You don't have enough Elder Dragon Bone. Bring two pieces of Elder Dragon Bone with you, meow!"
+                ],
+                "note": "not enough materials",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "You don't want to mine? That's a shame, meow..."
+                ],
+                "note": "select no",
+                "rewards": []
             }
         ]
     },
@@ -1640,20 +2383,87 @@
             },
             {
                 "dialogue": [
+                    "This is Pokke, a purrfectly peaceful village in the mountains. Riding the lift on the right to the bottom will take you to Pokke Farm.",
+                    "Due to the location of the village, it is very peaceful, but nearly impossible to create fields in, nya. That's why the farm is in the foothills.",
+                    "There are also special items you can only get here, like crops, insects, or ore. Part of the fun is not knowing what you'll get, meow!"
+                ],
+                "note": "after cleaning village urgent 1"
+            },
+            {
+                "dialogue": [
+                    "If you ride the hill to the right of Pokke Farm a little further down, you will be at the waterside, nya.",
+                    "Pokke Farm is a great place to get special items, like crops, insects, or ore. Part of the fun is not knowing what you'll get, meow!"
+                ],
+                "note": "after cleaning village urgent 1"
+            },
+            {
+                "dialogue": [
                     "This is Pokke, a quiet mountain village, nya. Riding the lift on the right will take you to Pokke Farm, nya. Huh? You knew that already?",
                     "I guess that means you are putting Pokke Farm to good use, nya? If you save Pokke Points, you can even upgrade the farm equipment, meow!",
                     "You can extend the pier to increase the number of fishing spots or add to the number of mining points you can reach, meow!",
                     "Not really related, but I should mention the cave you can use as a storehouse, meow. You can't get anything from it though.",
                     "I bet there's something nice behind the ice wall, nya... The Chief and Treshi know about it, but you need something to get through the ice, meow."
                 ],
-                "note": ""
+                "note": "after cleaning village urgent 2"
             },
             {
                 "dialogue": [
                     "If you save Pokke Points, you can use them to upgrade Pokke Farm by extending the pier or adding mining points, nya.",
                     "There's also a cave used as a storehouse, and I bet something nice is hidden behind the ice wall. If only you could break through it, meow."
                 ],
-                "note": ""
+                "note": "after cleaning village urgent 2"
+            },
+            {
+                "dialogue": [
+                    "This is Pokke Village, nya. By the way, I just saw Trenya a little while ago.",
+                    "He was Treshi's Felyne disciple, but now he's on a purrsonal quest for treasure. He's that adventurous type, meow.",
+                    "That reminds me... Trenya is looking for sponsors, nya. If you sponsor him, Trenya will be very grateful.",
+                    "If you give him Pokke Points, he'll use them to head off and find you items, meow! A Felyne sponsor... That has a nice ring to it, nya."
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "Trenya was Treshi's Felyne disciple, but now he's on a purrsonal quest for treasure, meow.",
+                    "If you become Trenya's sponsor and give him Pokke Points, he'll use them to head off and find you items, meow!"
+                ],
+                "note": "after cleaning village urgent 3",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "It's the hunter, nya! Has anyone told you about the cave at the farm yet? The Village Chief said something about finally taking care of the ice wall.",
+                    "I've always heard purrings that there's something back there, but I've never seen it myself.",
+                    "I've heard my Felyne farmer friends talking excitedly about what's back there. I can't wait to find out what's behind the ice, meow!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The old lady in charge of the village said something about taking care of the ice wall, but I haven't seen what's back there yet.",
+                    "My Felyne farmer friends seem to be very excited, meow! Just thinking about it twists my whiskers!"
+                ],
+                "note": "after cleaning village urgent 4",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "This is Pokke Village, nya. It was built by the Village Chief when she was just a girl... That might even be over a hundred years ago, meow!",
+                    "The huge sword you found was hidden by the Chief's ancestors, meow. Whoever used that sword must have been a Wyverian as big as a cloud!",
+                    "The old lady must've known that sword was here, and that's why she built Pokke around it, nya. This village is known for its large Machalite Ore, meow."
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
+            },
+            {
+                "dialogue": [
+                    "The huge sword you found was hidden by the Chief's ancestors, meow. Whoever used that sword must have been a Wyverian as big as a cloud!",
+                    "I heard that there is a truly gigantic elder in some town out there, the kind you only see once every thousand years, meow!"
+                ],
+                "note": "after cleaning village urgent 5",
+                "rewards": []
             }
         ]
     },
