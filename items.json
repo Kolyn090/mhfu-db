@@ -1741,7 +1741,7 @@
         "rare": 2,
         "description": "A beautiful shell with a faint tinge of color. (Account Item)",
         "carry-max": 10,
-        "icon": "shell",
+        "icon": "scale",
         "color": "pink",
         "selling-price": 40
     },
@@ -1750,7 +1750,7 @@
         "rare": 4,
         "description": "Taken from the depths of a shell. Valued as treasure, as well as material.",
         "carry-max": 99,
-        "icon": "shell",
+        "icon": "scale",
         "color": "gray",
         "selling-price": 150
     },
@@ -1759,7 +1759,7 @@
         "rare": 5,
         "description": "Largest and most beautiful of all Black Pearls. Very valuable and hard to find.",
         "carry-max": 99,
-        "icon": "shell",
+        "icon": "scale",
         "color": "gray",
         "selling-price": 1500
     },
@@ -2676,181 +2676,181 @@
         "name": "Big Wyvern Stone",
         "rare": 5,
         "description": "A Wyvern Stone that's had years upon years to form. It has a mysterious glow.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "ball",
+        "color": "blue",
+        "selling-price": 12000
     },
     {
         "name": "BigEDragonJewel",
         "rare": 5,
         "description": "Ultra-rarely does a giant stone like this form inside an Elder Dragon.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "ball",
+        "color": "purple",
+        "selling-price": 18000
     },
     {
         "name": "White Liver",
         "rare": 2,
         "description": "A white liver, just as stated. Its texture is adored. (Account Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "meat",
+        "color": "white",
+        "selling-price": 100
     },
     {
         "name": "Popo Tongue",
         "rare": 3,
         "description": "A Popo tongue is popular, healthy, and enjoyable to eat. (Account Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "meat",
+        "color": "red",
+        "selling-price": 45
     },
     {
         "name": "Secret Pouch",
         "rare": 4,
         "description": "The pouch carried by a Melynx. The insides are a jumble. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "seed",
+        "color": "green",
+        "selling-price": 100
     },
     {
         "name": "CarapaceonBrains",
         "rare": 2,
         "description": "The brain matter of a Carapaceon. A widely known delicacy. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "carapaceon-shell",
+        "color": "orange",
+        "selling-price": 150
     },
     {
         "name": "CarapaceonBrain+",
         "rare": 4,
         "description": "First-class Carapaceon Brains. An Einsteinian delicacy. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "carapaceon-shell",
+        "color": "orange",
+        "selling-price": 750
     },
     {
         "name": "Piscine Liver",
         "rare": 3,
         "description": "Internal organ from a Piscine Wyvern. A great cure-all. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "monster",
+        "color": "yellow",
+        "selling-price": 300
     },
     {
         "name": "Wyvern Tears",
         "rare": 5,
         "description": "Precious tears wept only on special occasions. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "monster",
+        "color": "blue",
+        "selling-price": 500
     },
     {
         "name": "Wyvern Sobs",
         "rare": 5,
         "description": "Precious crocodile tears wept only on special occasions. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "monster",
+        "color": "blue",
+        "selling-price": 2500
     },
     {
         "name": "Territorial Dung",
         "rare": 5,
         "description": "Droppings used by a monster (Account to mark territory. Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "dung",
+        "color": "red",
+        "selling-price": 500
     },
     {
         "name": "TerritorialDung+",
         "rare": 5,
         "description": "Large droppings used by a monster to mark territory. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "dung",
+        "color": "red",
+        "selling-price": 2500
     },
     {
         "name": "Crab Pearl",
         "rare": 5,
         "description": "A jewel polished by time inside a monster's body. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "monster",
+        "color": "gray",
+        "selling-price": 500
     },
     {
         "name": "Crab Pearl+",
         "rare": 5,
         "description": "A treasured jewel polished by time inside a monster's body. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "monster",
+        "color": "gray",
+        "selling-price": 2500
     },
     {
         "name": "Dragon Treasure",
         "rare": 5,
         "description": "Shining stones gathered and loved by an elder dragon. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "monster",
+        "color": "purple",
+        "selling-price": 800
     },
     {
         "name": "Anc Drgn Treasre",
         "rare": 5,
         "description": "This stone's radiance grows brighter as time passes. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "monster",
+        "color": "purple",
+        "selling-price": 4000
     },
     {
         "name": "Decayed Drgn Scl",
         "rare": 5,
         "description": "Decays as time relentlessly attacks its surface. (Account Item)",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "scale",
+        "color": "gray",
+        "selling-price": 250
     },
     {
         "name": "Dragon Herb",
         "rare": 5,
         "description": "Crystallized Dragon Scale. Priceless as a natural medicine. (Account Item)",
         "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "ore",
+        "color": "gray",
+        "selling-price": 500
     },
     {
         "name": "Felyne Fur Ruby",
         "rare": 5,
         "description": "Priceless ruby formed by the rare hardening of a Felyne hairball.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "ball",
+        "color": "gray",
+        "selling-price": 1000
     },
     {
         "name": "Mosswine Hide",
         "rare": 4,
         "description": "Mosswine hide. It's covered in moss.",
-        "carry-max": 10,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "carry-max": 99,
+        "icon": "pelt",
+        "color": "pink",
+        "selling-price": 36
     },
     {
         "name": "Bullfango Pelt",
