@@ -7560,7 +7560,7 @@
         "selling-price": 0
     },
     {
-        "name": "Carapaceon Info",
+        "name": "Carapaceon Info1",
         "rare": 2,
         "description": "Monster List reference on the Carapaceon family. Habits, ecology, etc.",
         "carry-max": 1,
@@ -7569,7 +7569,7 @@
         "selling-price": 0
     },
     {
-        "name": "Carapaceon Info",
+        "name": "Carapaceon Info2",
         "rare": 2,
         "description": "Monster List reference on the Carapaceon family. Habits, ecology, etc.",
         "carry-max": 1,
@@ -8041,26 +8041,26 @@
         "rare": 5,
         "description": "Refreshing blue coin. Conferred upon completion of G-Level training.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "coin",
+        "color": "sky",
+        "selling-price": 2500
     },
     {
         "name": "Legend Coin G",
         "rare": 5,
         "description": "Enigmatic crimson coin. Conferred upon completion of G-Level training.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "coin",
+        "color": "red",
+        "selling-price": 5000
     },
     {
         "name": "Commendation",
         "rare": 5,
         "description": "Ticket awarded for a display of bravery. Try collecting them.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8068,8 +8068,8 @@
         "rare": 5,
         "description": "Ticket awarded for a display of great bravery. Try collecting them,",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8077,8 +8077,8 @@
         "rare": 5,
         "description": "Ticket awarded for a display of superb bravery. Try collecting them,",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8086,8 +8086,8 @@
         "rare": 5,
         "description": "The paper currency of the Lynian race, stamped with a Felyne paw. Unreadable.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8095,8 +8095,8 @@
         "rare": 5,
         "description": "Received for contributions to Pokke Village. If you give it to the crafter...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "sky",
         "selling-price": 0
     },
     {
@@ -8104,8 +8104,8 @@
         "rare": 5,
         "description": "Received for becoming the true Hero of Pokke. If you give it to the crafter...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "blue",
         "selling-price": 0
     },
     {
@@ -8113,8 +8113,8 @@
         "rare": 5,
         "description": "Can be traded for common pieces of equipment in place of using materials.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8122,8 +8122,8 @@
         "rare": 5,
         "description": "Can be traded for rare pleces of equipment in place of using materials.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "green",
         "selling-price": 0
     },
     {
@@ -8131,8 +8131,8 @@
         "rare": 5,
         "description": "Can be traded for ultra rare pieces of equipment in place of materials.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "blue",
         "selling-price": 0
     },
     {
@@ -8140,8 +8140,8 @@
         "rare": 5,
         "description": "Recounts Hero of Kokoto's exploits. Includes plans for the Hero's sword.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "yellow",
         "selling-price": 0
     },
     {
@@ -8149,8 +8149,8 @@
         "rare": 5,
         "description": "Recounts Hero of Jumbo's exploits. Includes plans for the Hero's sword.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "yellow",
         "selling-price": 0
     },
     {
@@ -8158,8 +8158,8 @@
         "rare": 5,
         "description": "Given to the one who saved the town from fear. A recipe is on the back.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "yellow",
         "selling-price": 0
     },
     {
@@ -8167,8 +8167,8 @@
         "rare": 5,
         "description": "Given to the one who saved the town from calamity. A recipe is on the back.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "yellow",
         "selling-price": 0
     },
     {
@@ -8176,8 +8176,8 @@
         "rare": 4,
         "description": "Ticket for a standard Felyne dinner. If traded at the crafting shop...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "pink",
         "selling-price": 0
     },
     {
@@ -8185,8 +8185,8 @@
         "rare": 5,
         "description": "Ticket for a high class Felyne dinner. If traded at the crafting shop...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "pink",
         "selling-price": 0
     },
     {
@@ -8194,8 +8194,8 @@
         "rare": 5,
         "description": "Ticket awarded for raising another hunter's Comrade. Try collecting them.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "blue",
         "selling-price": 0
     },
     {
@@ -8203,8 +8203,8 @@
         "rare": 4,
         "description": "Earned by hunting with friends. Try trading it with a Veggie Elder.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "green",
         "selling-price": 0
     },
     {
@@ -8212,8 +8212,8 @@
         "rare": 4,
         "description": "If you trade this with a Veggie Elder you may get a tare item...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "green",
         "selling-price": 0
     },
     {
@@ -8221,8 +8221,8 @@
         "rare": 4,
         "description": "Earned by hunting with friends. Try trading it with a Veggie Elder.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "gray",
         "selling-price": 0
     },
     {
@@ -8230,8 +8230,8 @@
         "rare": 4,
         "description": "If you trade this with a Veggie Elder you may get a tare item...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8239,8 +8239,8 @@
         "rare": 4,
         "description": "If you trade this with a Veggie Elder you may get a superior item...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "yellow",
         "selling-price": 0
     },
     {
@@ -8248,8 +8248,8 @@
         "rare": 5,
         "description": "If you trade this with a Veggie Elder you may get an extraordinary item...",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "sky",
         "selling-price": 0
     },
     {
@@ -8257,8 +8257,8 @@
         "rare": 5,
         "description": "Earned by overcoming difficult training. Maybe you should collect them?",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "green",
         "selling-price": 0
     },
     {
@@ -8266,8 +8266,8 @@
         "rare": 5,
         "description": "Earned by overcoming extreme training. Maybe you should collect them?",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "green",
         "selling-price": 0
     },
     {
@@ -8275,8 +8275,8 @@
         "rare": 5,
         "description": "After you hand this in, you're going home... Nya! (Supply Item)",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8284,8 +8284,8 @@
         "rare": 5,
         "description": "Meet the goals of a quest, and you can use this to go home, meow. (Supply Item)",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8293,8 +8293,8 @@
         "rare": 5,
         "description": "Written by the Hero of Kokoto and given only to full-fledged hunters.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "sky",
         "selling-price": 0
     },
     {
@@ -8302,8 +8302,8 @@
         "rare": 5,
         "description": "An honor for hunters. Symbolizes a hunter's true soul. successful",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "sky",
         "selling-price": 0
     },
     {
@@ -8311,8 +8311,8 @@
         "rare": 5,
         "description": "A ticket stamped by two Felyne paws. At your service, nya!",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8320,8 +8320,8 @@
         "rare": 5,
         "description": "A Guild-stamped, hand-made ticket. It was made with a lot of heart.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
+        "icon": "ticket",
+        "color": "white",
         "selling-price": 0
     },
     {
@@ -8329,198 +8329,36 @@
         "rare": 4,
         "description": "Material that is perfect for use as a Decoration.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "jewel",
+        "color": "sky",
+        "selling-price": 50
     },
     {
         "name": "Akito Jewel",
         "rare": 4,
         "description": "Material that is perfect for use as a Decoration.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "jewel",
+        "color": "white",
+        "selling-price": 350
     },
     {
         "name": "BattlefieldJewel",
         "rare": 5,
         "description": "Jewel used as a Decoration. High-end, but occasionally flawed.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "jewel",
+        "color": "purple",
+        "selling-price": 530
     },
     {
         "name": "LapisLazuliJewel",
         "rare": 5,
         "description": "Jewel used as a Decoration. A seldom obtained ornament.",
         "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Carapaceon Info1",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Pelagus Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Lao-Shan Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Yian Garuga Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Carapaceon Info2",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "KushalaDaoraInfo",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Shakalaka Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "GrtThundrbugInfo",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Remobra Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Kirin Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Chameleos Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Lunastra Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Shen Gaoren Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Rajang info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Teostra Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "HypnocatriceInfo",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Nargacuga Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
-    },
-    {
-        "name": "Akantor Info",
-        "rare": 5,
-        "description": "Jewel used as a Decoration. A seldom obtained ornament.",
-        "carry-max": 99,
-        "icon": null,
-        "color": null,
-        "selling-price": 0
+        "icon": "jewel",
+        "color": "yellow",
+        "selling-price": 880
     },
     {
         "name": "Attack Jewel",
