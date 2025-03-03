@@ -1,0 +1,50 @@
+[
+    {
+        "using": "Lg Barrel-Bomb+",
+        "min": 8,
+        "max": 9,
+        "failure-chance": 0,
+        "normal-chance": 60,
+        "jackpot-chance": 40
+    },
+    {
+        "using": "Lg Barrel-Bomb",
+        "min": 8,
+        "max": 9,
+        "failure-chance": 40,
+        "normal-chance": 60,
+        "jackpot-chance": 0
+    },
+    {
+        "using": "Bounce Bomb+",
+        "min": 7,
+        "max": 8,
+        "failure-chance": 0,
+        "normal-chance": 90,
+        "jackpot-chance": 10
+    },
+    {
+        "using": "Bounce Bomb",
+        "min": 3,
+        "max": 4,
+        "failure-chance": 0,
+        "normal-chance": 90,
+        "jackpot-chance": 10
+    },
+    {
+        "using": "Sm Barrel-Bomb+",
+        "min": 4,
+        "max": 5,
+        "failure-chance": 0,
+        "normal-chance": 60,
+        "jackpot-chance": 40
+    },
+    {
+        "using": "Sm Barrel-Bomb",
+        "min": 2,
+        "max": 5,
+        "failure-chance": 40,
+        "normal-chance": 50,
+        "jackpot-chance": 10
+    }
+]

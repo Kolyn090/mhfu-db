@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Flute",
+        "pt-cost": 20,
+        "effect": "The Palico becomes more likely to be targeted by monsters",
+        "unlock": "Initial",
+        "note": ""
+    },
+    {
+        "name": "Demon Flute",
+        "pt-cost": 60,
+        "effect": "Temporarily increases the attack power of the player and the Palico",
+        "unlock": "Initial",
+        "note": "Same effect as the Hunter's Demon Flute. Can stack with meal effects"
+    },
+    {
+        "name": "Armor Flute",
+        "pt-cost": 60,
+        "effect": "Temporarily increases the defense power of the player and the Palico",
+        "unlock": "Initial",
+        "note": "Same effect as the Hunter's Armor Flute"
+    },
+    {
+        "name": "Antidote Flute",
+        "pt-cost": 30,
+        "effect": "Cures the player of poison when poisoned",
+        "unlock": "Initial",
+        "note": "Same effect as the Hunter's Antidote Flute"
+    },
+    {
+        "name": "Health Flute",
+        "pt-cost": 70,
+        "effect": "Heals the player and the Palico",
+        "unlock": "Initial",
+        "note": "The amount healed is the same as Herb"
+    },
+    {
+        "name": "True Health Flute",
+        "pt-cost": 120,
+        "effect": "Greatly heals the player and the Palico",
+        "unlock": "Affinity 4 or higher",
+        "note": "The amount healed is slightly more than a Potion (40)"
+    },
+    {
+        "name": "Element Atk Fire",
+        "pt-cost": 15,
+        "effect": "Adds fire element to the Palico's weapon. Element value 280",
+        "unlock": "Initial",
+        "note": ""
+    },
+    {
+        "name": "Element Atk Water",
+        "pt-cost": 15,
+        "effect": "Adds water element to the Palico's weapon. Element value 280",
+        "unlock": "Initial",
+        "note": ""
+    },
+    {
+        "name": "Element Atk Ice",
+        "pt-cost": 15,
+        "effect": "Adds ice element to the Palico's weapon. Element value 280",
+        "unlock": "Initial",
+        "note": ""
+    },
+    {
+        "name": "Element Atk Thunder",
+        "pt-cost": 15,
+        "effect": "Adds thunder element to the Palico's weapon. Element value 280",
+        "unlock": "Initial",
+        "note": ""
+    },
+    {
+        "name": "Element Atk Dragon",
+        "pt-cost": 30,
+        "effect": "Adds dragon element to the Palico's weapon. Element value 330",
+        "unlock": "Palico Level 7. Download bonus",
+        "note": ""
+    },
+    {
+        "name": "Elemental Attack Up",
+        "pt-cost": 50,
+        "effect": "Enhances elemental attacks (fire, water, thunder, ice, dragon) by 1.125 times",
+        "unlock": "Hunt a Rathian or Rathalos",
+        "note": ""
+    },
+    {
+        "name": "Status Atk Poison",
+        "pt-cost": 60,
+        "effect": "The Palico's weapon can poison monsters(Element value 380, buildup probability 1/3)",
+        "unlock": "Hunt a Gypceros, Chameleos, Ioprey, or Iodrome",
+        "note": ""
+    },
+    {
+        "name": "Status Atk Paralysis",
+        "pt-cost": 60,
+        "effect": "The Palico's weapon can paralyze monsters(Element value 350, buildup probability 1/3)",
+        "unlock": "Hunt a Khezu, Cephadrome, Genprey, or Gendrome",
+        "note": ""
+    },
+    {
+        "name": "Status Atk Sleep",
+        "pt-cost": 60,
+        "effect": "The Palico's weapon can put monsters to sleep(Element value 350, buildup probability 1/3)",
+        "unlock": "Hunt a Hypnocatrice, Plesioth, Basarios, or Gravios",
+        "note": ""
+    },
+    {
+        "name": "Abnormal Status Attack Up",
+        "pt-cost": 120,
+        "effect": "Enhances status effect attacks (poison, paralysis, sleep) by 1.125 times",
+        "unlock": "Hunt a Plesioth, Teostra, or Lunastra",
+        "note": ""
+    },
+    {
+        "name": "Wind Negate",
+        "pt-cost": 100,
+        "effect": "Negates small and large wind pressure",
+        "unlock": "Palico Level 9",
+        "note": "Cannot negate Dragon wind pressure"
+    },
+    {
+        "name": "Earplugs",
+        "pt-cost": 140,
+        "effect": "Negates small and large roars",
+        "unlock": "Hunt a Yian Garuga or Tigrex",
+        "note": "Cannot negate damage-inducing roars"
+    },
+    {
+        "name": "Attack Up",
+        "pt-cost": 60,
+        "effect": "Increases attack power by 20",
+        "unlock": "Hunt a Yian Kut-Ku, Monoblos, Diablos, Rathalos, or Lavasioth",
+        "note": ""
+    },
+    {
+        "name": "Defense Up",
+        "pt-cost": 90,
+        "effect": "Increases defense power by 30",
+        "unlock": "Hunt a Basarios or Gravios",
+        "note": ""
+    },
+    {
+        "name": "Health Up",
+        "pt-cost": 120,
+        "effect": "Increases the Palico's health (1.2 times)",
+        "unlock": "Hunt a Congalala, Blangonga, or Rajang",
+        "note": ""
+    },
+    {
+        "name": "Guard Percentage Up",
+        "pt-cost": 70,
+        "effect": "Increases guard probability by 20%",
+        "unlock": "Hunt a Daimyo Hermitaur, Shogun Ceanataur, or Kushala Daora",
+        "note": "Can only guard against attacks with a power of 30 or less"
+    },
+    {
+        "name": "Hyperdrive",
+        "pt-cost": 100,
+        "effect": "Increases speed of movement and gathering actions",
+        "unlock": "Hunt a Kirin, Tigrex, or Nargacuga",
+        "note": "Speed is about midway between normal movement and dash speed"
+    },
+    {
+        "name": "Speedy Recovery",
+        "pt-cost": 130,
+        "effect": "Increases recovery speed while underground (1.5 times)",
+        "unlock": "Palico Level 18",
+        "note": ""
+    },
+    {
+        "name": "Affinity Attack",
+        "pt-cost": 80,
+        "effect": "Increases the likelihood of critical hits during weapon attacks (1.25 times)",
+        "unlock": "Palico Level 5",
+        "note": ""
+    },
+    {
+        "name": "Rob 'em Blind",
+        "pt-cost": 100,
+        "effect": "May steal materials from a monster when attacking",
+        "unlock": "Palico Level 10",
+        "note": "Can only steal one item from each monster, regardless of size. Steal probability is influenced by affinity. Steals one rank lower materials (High Rank → Low Rank, G Rank → High Rank). For monsters that only appear in G or High Rank, the material will be of the same rank"
+    },
+    {
+        "name": "Shock Traps",
+        "pt-cost": 160,
+        "effect": "May set up a Shock Trap when a large monster is present",
+        "unlock": "Palico Level 17",
+        "note": "Will give a signal when setting up"
+    },
+    {
+        "name": "Bomb Strength Up",
+        "pt-cost": 150,
+        "effect": "Increases the power of small and large barrel bombs (1.5 times)",
+        "unlock": "Affinity 3 or higher",
+        "note": ""
+    },
+    {
+        "name": "Bomb Dmg Reduction",
+        "pt-cost": 90,
+        "effect": "Reduces damage from bombs (including the Palico's own bombs)(Damage is halved)",
+        "unlock": "Palico Level 6",
+        "note": ""
+    },
+    {
+        "name": "Lg Barrel Bomb Skill",
+        "pt-cost": 140,
+        "effect": "May attack with large barrel bombs in addition to small barrel bombs(Power 40. Deals 11 damage to the Palico, 17 damage if enhanced)",
+        "unlock": "Palico Level 13",
+        "note": ""
+    },
+    {
+        "name": "Poison Negate",
+        "pt-cost": 30,
+        "effect": "The Palico becomes immune to poison",
+        "unlock": "Hunt an Ioprey or Iodrome",
+        "note": ""
+    },
+    {
+        "name": "Clairvoyance",
+        "pt-cost": 70,
+        "effect": "The player gains the effect of the Psychoserum at the start of the quest. The same effect may activate periodically thereafter",
+        "unlock": "Palico Level 8",
+        "note": "Activates 100% at the start of the quest. May activate every 5 minutes depending on affinity. Effect duration is 10 seconds"
+    },
+    {
+        "name": "Say No To Gathering",
+        "pt-cost": 90,
+        "effect": "Stops gathering actions and increases attack power (+30)",
+        "unlock": "Palico Level 12",
+        "note": ""
+    },
+    {
+        "name": "Workaholic",
+        "pt-cost": 80,
+        "effect": "Prevents idle actions like napping, but decreases health(0.75 times)",
+        "unlock": "Palico Level 15",
+        "note": ""
+    },
+    {
+        "name": "Fall 7x, Get Up 8x",
+        "pt-cost": 120,
+        "effect": "Increases attack power by 10 each time the Palico faints. Can increase up to 8 times",
+        "unlock": "Palico Level 14",
+        "note": "Does not increase when retreating voluntarily"
+    },
+    {
+        "name": "In a Corner",
+        "pt-cost": 150,
+        "effect": "Greatly increases attack and defense, but prevents revival upon fainting. Name flashes when health is low. Recovers the player's health when fainting and burrowing",
+        "unlock": "Palico Level 20",
+        "note": "Increases attack and defense by 50. Health recovery from burrowing is the same as a Mega Potion. Revives upon voluntary retreat"
+    }
+]

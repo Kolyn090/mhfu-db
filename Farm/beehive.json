@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Insect Husk",
+        "chances": [
+            {
+                "level": 0,
+                "chance": 10
+            },
+            {
+                "level": 1,
+                "chance": 5
+            }
+        ]
+    },
+    {
+        "name": "Honey",
+        "chances": [
+            {
+                "level": 0,
+                "chance": 88
+            },
+            {
+                "level": 1,
+                "chance": 90
+            },
+            {
+                "level": 2,
+                "chance": 95
+            }
+        ]
+    },
+    {
+        "name": "Snakebee Larva",
+        "chances": [
+            {
+                "level": 0,
+                "chance": 2
+            },
+            {
+                "level": 1,
+                "chance": 5
+            },
+            {
+                "level": 2,
+                "chance": 5
+            }
+        ]
+    }
+]
