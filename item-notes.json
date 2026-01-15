@@ -1,0 +1,697 @@
+[
+    {
+        "name": "Book of Combos 1",
+        "edible": false,
+        "notes": "Possessing it increases combination success rate by 5%."
+    },
+    {
+        "name": "Book of Combos 2",
+        "edible": false,
+        "notes": "Possessing both Book of Combos 1 and 2 increases combination success rate by 10%."
+    },
+    {
+        "name": "Book of Combos 3",
+        "edible": false,
+        "notes": "Possessing both Book of Combos 1 and 2 and 3 increases combination success rate by 20%."
+    },
+    {
+        "name": "Book of Combos 4",
+        "edible": false,
+        "notes": "Possessing both Book of Combos 1 and 2 and 3 and 4 increases combination success rate by 30%."
+    },
+    {
+        "name": "Book of Combos 5",
+        "edible": false,
+        "notes": "Possessing both Book of Combos 1 and 2 and 3 and 4 and 5 increases combination success rate by 45%."
+    },
+    {
+        "name": "Alchemy Guide",
+        "edible": false,
+        "notes": "Possessing it enables alchemy."
+    },
+    {
+        "name": "Potion",
+        "edible": true,
+        "notes": "Restores 30 HP."
+    },
+    {
+        "name": "Mega Potion",
+        "edible": true,
+        "notes": "Restores 50 HP."
+    },
+    {
+        "name": "Nutrients",
+        "edible": true,
+        "notes": "Increases max HP by 10."
+    },
+    {
+        "name": "Mega Nutrients",
+        "edible": true,
+        "notes": "Increases max HP by 20."
+    },
+    {
+        "name": "Antidote",
+        "edible": true,
+        "notes": "Cures poison."
+    },
+    {
+        "name": "Immunizer",
+        "edible": true,
+        "notes": "Doubles red gauge recovery speed for 10 minutes."
+    },
+    {
+        "name": "Power Juice",
+        "edible": true,
+        "notes": "Prevents stamina depletion for 3 minutes and increases max stamina by 25."
+    },
+    {
+        "name": "Mega Juice",
+        "edible": true,
+        "notes": "Prevents stamina depletion for 6 minutes and increases max stamina by 50."
+    },
+    {
+        "name": "Demondrug",
+        "edible": true,
+        "notes": "Increases base attack (weapon multiplier) by 3 until quest ends or fainting."
+    },
+    {
+        "name": "Mega Demondrug",
+        "edible": true,
+        "notes": "Increases base attack (weapon multiplier) by 5 until quest ends or fainting."
+    },
+    {
+        "name": "Power Pill",
+        "edible": true,
+        "notes": "Increases base attack by 25 for 20 seconds. No pose after consuming."
+    },
+    {
+        "name": "Armorskin",
+        "edible": true,
+        "notes": "Increases defense by 10 until quest ends or fainting."
+    },
+    {
+        "name": "Mega Armorskin",
+        "edible": true,
+        "notes": "Increases defense by 20 until quest ends or fainting."
+    },
+    {
+        "name": "Armor Pill",
+        "edible": true,
+        "notes": "Increases defense by 50 and grants super armor for 20 seconds. No pose after drinking."
+    },
+    {
+        "name": "Cool Drink",
+        "edible": true,
+        "notes": "Grants heat resistance (Small) for 600 seconds. Duration is reduced in Large heat areas (only 400 seconds there)."
+    },
+    {
+        "name": "Hot Drink",
+        "edible": true,
+        "notes": "Grants cold resistance (Small) for 600 seconds. Duration is reduced in Large cold areas (only 400 seconds there)."
+    },
+    {
+        "name": "Thawing Agent",
+        "edible": true,
+        "notes": "Removes snowman status."
+    },
+    {
+        "name": "Psychoserum",
+        "edible": true,
+        "notes": "Reveals large monster locations for 10 seconds."
+    },
+    {
+        "name": "Herbal Medicine",
+        "edible": true,
+        "notes": "Cures poison and restores 10 HP."
+    },
+    {
+        "name": "Max Potion",
+        "edible": true,
+        "notes": "Increases max HP to 150 (cap) and fully restores HP."
+    },
+    {
+        "name": "Ancient Potion",
+        "edible": true,
+        "notes": "Same as Max Potion effect plus max stamina increase to cap."
+    },
+    {
+        "name": "Energy Drink",
+        "edible": true,
+        "notes": "Increases max stamina by 25 and cures fatigue."
+    },
+    {
+        "name": "Lifepowder",
+        "edible": true,
+        "notes": "Restores 50 HP to all hunters and comrades in the same area."
+    },
+    {
+        "name": "Powercharm",
+        "edible": false,
+        "notes": "Increases base attack (weapon multiplier) by 6."
+    },
+    {
+        "name": "Powertalon",
+        "edible": false,
+        "notes": "Increases base attack (weapon multiplier) by 9 (15 total with the talisman)."
+    },
+    {
+        "name": "Armorcharm",
+        "edible": false,
+        "notes": "Increases defense by 15."
+    },
+    {
+        "name": "Armortalon",
+        "edible": false,
+        "notes": "Increases defense by 25 (40 total with the talisman)."
+    },
+    {
+        "name": "Raw Meat",
+        "edible": false,
+        "notes": "Can be placed as a trap."
+    },
+    {
+        "name": "Poisoned Meat",
+        "edible": false,
+        "notes": "Can be placed as a trap. Poisons monsters that eat it."
+    },
+    {
+        "name": "Tainted Meat",
+        "edible": false,
+        "notes": "Can be placed as a trap. Paralyzes monsters that eat it."
+    },
+    {
+        "name": "Drugged Meat",
+        "edible": false,
+        "notes": "Can be placed as a trap. Puts monsters to sleep when eaten."
+    },
+    {
+        "name": "Rare Steak",
+        "edible": true,
+        "notes": "Increases max stamina by 25."
+    },
+    {
+        "name": "Well-Done Steak",
+        "edible": true,
+        "notes": "Increases max stamina by 50."
+    },
+    {
+        "name": "Gourmet Steak",
+        "edible": true,
+        "notes": "Increases max stamina to the cap (150)."
+    },
+    {
+        "name": "Burnt Meat",
+        "edible": true,
+        "notes": "50% chance to increase or decrease stamina by 25."
+    },
+    {
+        "name": "Hot Meat",
+        "edible": true,
+        "notes": "Hot Drink effect + increases max stamina by 25."
+    },
+    {
+        "name": "Cold Meat",
+        "edible": true,
+        "notes": "Cool Drink effect + increases max stamina by 25."
+    },
+    {
+        "name": "Rare Fish",
+        "edible": true,
+        "notes": "Restores red portion of the HP gauge."
+    },
+    {
+        "name": "Gourmet Fish",
+        "edible": true,
+        "notes": "Restores HP and doubles natural recovery rate for 3 minutes."
+    },
+    {
+        "name": "Gourmet Fish+",
+        "edible": true,
+        "notes": "Restores HP and doubles natural recovery rate for 5 minutes."
+    },
+    {
+        "name": "Burnt Fish",
+        "edible": true,
+        "notes": "50% chance to restore or remove red portion of the HP gauge."
+    },
+    {
+        "name": "Boomerang",
+        "edible": false,
+        "notes": "Has cutting attribute."
+    },
+    {
+        "name": "Tranq Thrwng Knf",
+        "edible": false,
+        "notes": "Used for capturing monsters."
+    },
+    {
+        "name": "Paintball",
+        "edible": false,
+        "notes": "Reveals monster location for 10 minutes. Deals 0 damage on hit."
+    },
+    {
+        "name": "Flash Bomb",
+        "edible": false,
+        "notes": "Explodes in monster vision to blind them for a short period. Some monsters are immune or resistant."
+    },
+    {
+        "name": "Sonic Bomb",
+        "edible": false,
+        "notes": "Produces a sound wave when detonated."
+    },
+    {
+        "name": "Dung",
+        "edible": false,
+        "notes": "Can be spread on farm soil. Combination material for Dung Bomb."
+    },
+    {
+        "name": "Wyvern Droppings",
+        "edible": false,
+        "notes": "Can be spread on farm soil."
+    },
+    {
+        "name": "Dung Bomb",
+        "edible": false,
+        "notes": "Used before being noticed by a monster to make it flee to another area (special effect for Khezu)."
+    },
+    {
+        "name": "Smoke Bomb",
+        "edible": false,
+        "notes": "Obscures vision. Allows visibility of Chameleos beyond the smoke."
+    },
+    {
+        "name": "Poison Smoke Bmb",
+        "edible": false,
+        "notes": "Releases weak poison gas in a small area."
+    },
+    {
+        "name": "Farcaster",
+        "edible": false,
+        "notes": "Returns to base camp. Fails if hit before teleporting."
+    },
+    {
+        "name": "Deodorant",
+        "edible": false,
+        "notes": "Cures food restriction status. Affects allies in range."
+    },
+    {
+        "name": "Tranq Bomb",
+        "edible": false,
+        "notes": "Used for capturing. Throw 2 at a trapped weakened monster."
+    },
+    {
+        "name": "Spiderweb",
+        "edible": false,
+        "notes": "Combination material for Net."
+    },
+    {
+        "name": "Net",
+        "edible": false,
+        "notes": "Combination material for Pitfall Trap. Usable as a farm net."
+    },
+    {
+        "name": "Trap Tool",
+        "edible": false,
+        "notes": "Combination material for Pitfall Trap and Shock Trap."
+    },
+    {
+        "name": "Pitfall Trap",
+        "edible": false,
+        "notes": "Traps most boss monsters except underground ones."
+    },
+    {
+        "name": "Shock Trap",
+        "edible": false,
+        "notes": "Paralyzes certain boss monsters (without inflicting paralysis). Destroyed if the monster moves underground."
+    },
+    {
+        "name": "Lightning Rod",
+        "edible": false,
+        "notes": "Deals 50 damage (75 with Bombardier). Usable only in rain. Inflicts paralysis buildup."
+    },
+    {
+        "name": "Barrel Lid",
+        "edible": false,
+        "notes": "Low-tier material."
+    },
+    {
+        "name": "Small Barrel",
+        "edible": false,
+        "notes": "Combination material for Small Barrel Bomb."
+    },
+    {
+        "name": "Large Barrel",
+        "edible": false,
+        "notes": "Combination material for Large Barrel Bomb."
+    },
+    {
+        "name": "Sm Barrel-Bomb",
+        "edible": false,
+        "notes": "Timed bomb. Deals 20 damage."
+    },
+    {
+        "name": "Sm Barrel-Bomb+",
+        "edible": false,
+        "notes": "Timed bomb. Deals 30 damage."
+    },
+    {
+        "name": "Lg Barrel-Bomb",
+        "edible": false,
+        "notes": "Impact-triggered bomb. Deals 80 damage. Detonates on impact."
+    },
+    {
+        "name": "Lg Barrel-Bomb+",
+        "edible": false,
+        "notes": "Impact-triggered bomb. Deals 150 damage. Detonates on impact."
+    },
+    {
+        "name": "Bounce Bomb",
+        "edible": false,
+        "notes": "Launches straight up. Deals 20 damage."
+    },
+    {
+        "name": "Bounce Bomb+",
+        "edible": false,
+        "notes": "Launches diagonally upward. Deals 30 damage."
+    },
+    {
+        "name": "Anti-Dragon Bomb",
+        "edible": false,
+        "notes": "Can be placed on large monsters when mounted."
+    },
+    {
+        "name": "Normal S Lv1",
+        "edible": false,
+        "notes": "Infinite ammo."
+    },
+    {
+        "name": "Tranq S",
+        "edible": false,
+        "notes": "Used for capturing monsters."
+    },
+    {
+        "name": "Paint S",
+        "edible": false,
+        "notes": "Marks a monster with paint."
+    },
+    {
+        "name": "CloseRngCoating",
+        "edible": false,
+        "notes": "Improves melee attack sharpness and changes critical distance."
+    },
+    {
+        "name": "Paint Coating",
+        "edible": false,
+        "notes": "Marks a monster with paint."
+    },
+    {
+        "name": "Cricket",
+        "edible": false,
+        "notes": "Can be used for fishing."
+    },
+    {
+        "name": "Worm",
+        "edible": false,
+        "notes": "Can be used for fishing. Can also be spread on farm soil."
+    },
+    {
+        "name": "Firefly",
+        "edible": false,
+        "notes": "Can be used for fishing."
+    },
+    {
+        "name": "Frog",
+        "edible": false,
+        "notes": "Only Plesioth will bite."
+    },
+    {
+        "name": "Tuna Bait",
+        "edible": false,
+        "notes": "Only tuna species will bite."
+    },
+    {
+        "name": "Goldenfish Bait",
+        "edible": false,
+        "notes": "Only Goldenfish will bite."
+    },
+    {
+        "name": "Mega Fishing Fly",
+        "edible": false,
+        "notes": "Can catch any fish on the first strike."
+    },
+    {
+        "name": "Old Pickaxe",
+        "edible": false,
+        "notes": "Used for mining ore in the field."
+    },
+    {
+        "name": "Iron Pickaxe",
+        "edible": false,
+        "notes": "Used for mining ore in the field."
+    },
+    {
+        "name": "Mega Pickaxe",
+        "edible": false,
+        "notes": "Used for mining ore in the field."
+    },
+    {
+        "name": "Expand Pickaxe",
+        "edible": false,
+        "notes": "Combines with ores or bugs to increase the number of obtained items."
+    },
+    {
+        "name": "Old Bugnet",
+        "edible": false,
+        "notes": "Used for gathering insects in the field."
+    },
+    {
+        "name": "Bugnet",
+        "edible": false,
+        "notes": "Used for gathering insects in the field."
+    },
+    {
+        "name": "Mega Bugnet",
+        "edible": false,
+        "notes": "Used for gathering insects in the field."
+    },
+    {
+        "name": "BBQ Spit",
+        "edible": false,
+        "notes": "Cooks raw meat into different types of cooked meat."
+    },
+    {
+        "name": "Gourmet BBQ Spit",
+        "edible": false,
+        "notes": "Easier to cook well-done meat. Can also cook well-done meat G."
+    },
+    {
+        "name": "Whetstone",
+        "edible": false,
+        "notes": "Restores 150 sharpness to weapons."
+    },
+    {
+        "name": "Binoculars",
+        "edible": false,
+        "notes": "Used for zooming in on distant objects. Functions like the variable scope of a bowgun."
+    },
+    {
+        "name": "Garbage",
+        "edible": false,
+        "notes": "Junk item created from failed combinations."
+    },
+    {
+        "name": "Flute",
+        "edible": false,
+        "notes": "Attracts monster attention. Can break upon use. Break chance reduces with Horn Maestro skill or Hunting Horn equipped."
+    },
+    {
+        "name": "Health Flute",
+        "edible": false,
+        "notes": "Heals all allies in the area. Same break mechanics as Flute."
+    },
+    {
+        "name": "Antidote Flute",
+        "edible": false,
+        "notes": "Cures poison for all allies in the area. Same break mechanics as Flute."
+    },
+    {
+        "name": "Demon Flute",
+        "edible": false,
+        "notes": "Increases attack power for all allies in the area. Same break mechanics as Flute."
+    },
+    {
+        "name": "Armor Flute",
+        "edible": false,
+        "notes": "Increases defense for all allies in the area. Same break mechanics as Flute."
+    },
+    {
+        "name": "Herb",
+        "edible": true,
+        "notes": "Restores 20 HP."
+    },
+    {
+        "name": "Antidote Herb",
+        "edible": true,
+        "notes": "50% chance to cure poison or do nothing. Combination material for Antidote."
+    },
+    {
+        "name": "Felvine",
+        "edible": false,
+        "notes": "Felynes will prioritize stealing this item."
+    },
+    {
+        "name": "Toadstool",
+        "edible": true,
+        "notes": "Consuming it may poison the user. Increases or decreases max HP by 10."
+    },
+    {
+        "name": "Exciteshroom",
+        "edible": true,
+        "notes": "Consuming it causes random effects."
+    },
+    {
+        "name": "Spicy Mushroom",
+        "edible": true,
+        "notes": "Grants Hot Drink effect + increases max stamina by 25."
+    },
+    {
+        "name": "Power Seed",
+        "edible": true,
+        "notes": "Increases attack power by 10 for 3 minutes."
+    },
+    {
+        "name": "Armor Seed",
+        "edible": true,
+        "notes": "Increases defense by 40 for 3 minutes."
+    },
+    {
+        "name": "Frozen Berry",
+        "edible": true,
+        "notes": "Grants Cool Drink effect for 5 minutes + increases max stamina by 25."
+    },
+    {
+        "name": "Red Seed",
+        "edible": false,
+        "notes": "Can be planted in the farm."
+    },
+    {
+        "name": "Green Seed",
+        "edible": false,
+        "notes": "Can be planted in the farm."
+    },
+    {
+        "name": "Yellow Seed",
+        "edible": false,
+        "notes": "Can be planted in the farm."
+    },
+    {
+        "name": "Stone",
+        "edible": false,
+        "notes": "Can be thrown."
+    },
+    {
+        "name": "Knife Mackerel",
+        "edible": false,
+        "notes": "Functions as a whetstone. Combination material for Water Ammo."
+    },
+    {
+        "name": "Sushifish",
+        "edible": true,
+        "notes": "Restores 20 HP."
+    },
+    {
+        "name": "Glutton Tuna",
+        "edible": true,
+        "notes": "Restores HP or grants a random item."
+    },
+    {
+        "name": "Gastronome Tuna",
+        "edible": true,
+        "notes": "Restores HP or grants a random item."
+    },
+    {
+        "name": "Bitterbug",
+        "edible": true,
+        "notes": "Consuming it may either cure poison or cause minor damage."
+    },
+    {
+        "name": "Organizer Guide",
+        "edible": false,
+        "notes": "Increases item box capacity by 1 page (100 slots)."
+    },
+    {
+        "name": "Backpacker Guide",
+        "edible": false,
+        "notes": "creases item box capacity by 1 page (100 slots)."
+    },
+    {
+        "name": "Map",
+        "edible": false,
+        "notes": "Displays the map when carried."
+    },
+    {
+        "name": "First-Aid Med",
+        "edible": true,
+        "notes": "Restores 30 HP."
+    },
+    {
+        "name": "Ration",
+        "edible": true,
+        "notes": "Restores 25 stamina."
+    },
+    {
+        "name": "Portable Spit",
+        "edible": false,
+        "notes": "Functions like a regular BBQ set."
+    },
+    {
+        "name": "Mini Whetstone",
+        "edible": false,
+        "notes": "Restores 100 sharpness."
+    },
+    {
+        "name": "Prtbl Shock Trap",
+        "edible": false,
+        "notes": "Same as Shock Trap."
+    },
+    {
+        "name": "Supply Flash Bmb",
+        "edible": false,
+        "notes": "Same as Flash Bomb."
+    },
+    {
+        "name": "Sply Max Potion",
+        "edible": true,
+        "notes": "Increases max HP to the cap and fully restores HP."
+    },
+    {
+        "name": "Sply Pitfall Trp",
+        "edible": false,
+        "notes": "Same as Pitfall Trap."
+    },
+    {
+        "name": "Sply Lg Brrl Bmb",
+        "edible": false,
+        "notes": "Same as Large Barrel Bomb G (150 damage)."
+    },
+    {
+        "name": "Ballista S",
+        "edible": false,
+        "notes": "Used in ballistae."
+    },
+    {
+        "name": "Cannon S",
+        "edible": false,
+        "notes": "Carried and loaded into a cannon."
+    },
+    {
+        "name": "Powderstone",
+        "edible": false,
+        "notes": "Causes HP depletion while held."
+    },
+    {
+        "name": "Khezu Whelp",
+        "edible": false,
+        "notes": "Causes HP depletion while held."
+    }
+]

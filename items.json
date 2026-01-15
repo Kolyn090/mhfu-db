@@ -245,7 +245,7 @@
     {
         "name": "Thunderbug Juice",
         "rare": 5,
-        "description": "Fluids of a Thunderbug. When stockpiled, can causes an electrical discharge.",
+        "description": "Fluids of a Thunderbug. When stockpiled, can cause an electrical discharge.",
         "carry-max": 99,
         "icon": "bottle",
         "color": "yellow",
@@ -434,7 +434,7 @@
     {
         "name": "Gourmet Steak",
         "rare": 3,
-        "description": "A gourmet steak cooked to perfection. Give a full boost to Stamina.",
+        "description": "A gourmet steak cooked to perfection. Gives a full boost to Stamina.",
         "carry-max": 10,
         "icon": "meat",
         "color": "orange",
@@ -443,7 +443,7 @@
     {
         "name": "Burnt Meat",
         "rare": 1,
-        "description": "Meat burnt to a crisp. Boots Stamina sometimes, but can also weaken you.",
+        "description": "Meat burnt to a crisp. Boosts Stamina sometimes, but can also weaken you.",
         "carry-max": 10,
         "icon": "meat",
         "color": "gray",
@@ -479,7 +479,7 @@
     {
         "name": "Gourmet Fish",
         "rare": 2,
-        "description": "Recover the red portion of the Health gauge and increases natural recovery.",
+        "description": "Recover the red portion of the Health gauge and increase natural recovery.",
         "carry-max": 10,
         "icon": "fish",
         "color": "orange",
@@ -560,7 +560,7 @@
     {
         "name": "Bomb Material",
         "rare": 1,
-        "description": "Basic ingredient for making hand-thrown bombs,",
+        "description": "Basic ingredient for making hand-thrown bombs.",
         "carry-max": 30,
         "icon": "ball",
         "color": "white",
@@ -587,7 +587,7 @@
     {
         "name": "Sonic Bomb",
         "rare": 2,
-        "description": "Emits a powerful high-frequency sound upon detonation.",
+        "description": "Emits a powerful, high-frequency sound upon detonation.",
         "carry-max": 10,
         "icon": "ball",
         "color": "gray",
@@ -608,7 +608,7 @@
         "description": "Wyvern excrement. One dropping can maximize the fertility of all rows.",
         "carry-max": 99,
         "icon": "dung",
-        "color": "red",
+        "color": "orange",
         "selling-price": 2
     },
     {
@@ -742,7 +742,7 @@
         "rare": 2,
         "description": "A large, empty barrel.",
         "carry-max": 10,
-        "icon": "boomerang",
+        "icon": "barrel",
         "color": "red",
         "selling-price": 21
     },
@@ -780,7 +780,7 @@
         "carry-max": 2,
         "icon": "bomb",
         "color": "red",
-        "selling-price":80
+        "selling-price": 80
     },
     {
         "name": "Bounce Bomb",
@@ -1001,7 +1001,7 @@
     {
         "name": "Freeze S",
         "rare": 3,
-        "description": "Shot effective against monster vulnerable to ice. Max 60 shots.",
+        "description": "Shot effective against monsters vulnerable to ice. Max 60 shots.",
         "carry-max": 60,
         "icon": "shell",
         "color": "blue",
@@ -1138,7 +1138,7 @@
         "rare": 2,
         "description": "Bows loaded with these bottles will have high attack power. Max 50.",
         "carry-max": 50,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "red",
         "selling-price": 3
     },
@@ -1147,7 +1147,7 @@
         "rare": 3,
         "description": "Bows loaded with these bottles poison enemies on shaft impact. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "purple",
         "selling-price": 2
     },
@@ -1156,7 +1156,7 @@
         "rare": 3,
         "description": "Bows loaded with these bottles paralyze enemies on shaft impact. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "yellow",
         "selling-price": 3
     },
@@ -1165,7 +1165,7 @@
         "rare": 3,
         "description": "Bows loaded with these bottles will put enemies to sleep. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "sky",
         "selling-price": 2
     },
@@ -1174,7 +1174,7 @@
         "rare": 3,
         "description": "Bows loaded with these get higher close-range power & melee Sharpness. Max 20.",
         "carry-max": 20,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "white",
         "selling-price": 3
     },
@@ -1183,7 +1183,7 @@
         "rare": 1,
         "description": "Bows loaded with these can make monsters appear on the map. Max 99.",
         "carry-max": 99,
-        "icon": "empty-bottle",
+        "icon": "bottle",
         "color": "pink",
         "selling-price": 6
     },
@@ -1355,7 +1355,7 @@
         "description": "Lets you observe from a distance.",
         "carry-max": 1,
         "icon": "binoculars",
-        "color": "gray",
+        "color": "white",
         "selling-price": 5
     },
     {
@@ -2126,7 +2126,7 @@
     {
         "name": "Small Goldenfish",
         "rare": 4,
-        "description": "A curiously small, gold fish. Commands a high price.",
+        "description": "A curiously small, rare, gold fish. Commands a high price.",
         "carry-max": 99,
         "icon": "fish",
         "color": "yellow",
@@ -2180,7 +2180,7 @@
     {
         "name": "Insect Husk",
         "rare": 1,
-        "description": "The remains of a dead Insect.",
+        "description": "The remains of a dead insect.",
         "carry-max": 10,
         "icon": "insect",
         "color": "gray",
@@ -2270,7 +2270,7 @@
     {
         "name": "Emperor Cricket",
         "rare": 5,
-        "description": "Exceptionally strong shell makes it a good counter-part to soft materials.",
+        "description": "Exceptionally strong shell makes it a good counterpart to soft materials.",
         "carry-max": 99,
         "icon": "insect",
         "color": "orange",
@@ -2360,7 +2360,7 @@
     {
         "name": "Screamer",
         "rare": 4,
-        "description": "A monster's internal organ. If broken, it emits a shrill internal sound.",
+        "description": "A monster's internal organ. If broken, it emits a shrill sound.",
         "carry-max": 99,
         "icon": "bag",
         "color": "gray",
@@ -2387,7 +2387,7 @@
     {
         "name": "DeadlyPoisonSac",
         "rare": 5,
-        "description": "A monster's filled with a most lethal toxin. Use extreme care.",
+        "description": "A monster's internal organ filled with a most lethal toxin. Use extreme care.",
         "carry-max": 99,
         "icon": "bag",
         "color": "purple",
@@ -2396,7 +2396,7 @@
     {
         "name": "Paralysis Sac",
         "rare": 4,
-        "description": "A monster's internal organ filled with a paralyzing neurotoxin,",
+        "description": "A monster's internal organ filled with a paralyzing neurotoxin.",
         "carry-max": 99,
         "icon": "bag",
         "color": "yellow",
@@ -2504,9 +2504,9 @@
     {
         "name": "Med Monster Bone",
         "rare": 4,
-        "description": "Has more uses than small bone. Usually carved to make any item.",
+        "description": "Has more uses than small bone. Usually carved to make an item.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 210
     },
@@ -2515,7 +2515,7 @@
         "rare": 5,
         "description": "Indispensable for crafting one-piece items. Bone can be connected to shell.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 440
     },
@@ -2524,7 +2524,7 @@
         "rare": 5,
         "description": "Top quality monster bone. Hard to find but a nearly unbreakable material.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "orange",
         "selling-price": 560
     },
@@ -2533,7 +2533,7 @@
         "rare": 5,
         "description": "A monster's most unique bone. Priceless strength, but difficult to work.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "red",
         "selling-price": 660
     },
@@ -2542,7 +2542,7 @@
         "rare": 5,
         "description": "Strong bone from only the toughest of wyverns. It's very thick and heavy.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "gray",
         "selling-price": 1320
     },
@@ -2551,7 +2551,7 @@
         "rare": 5,
         "description": "You can sense the elder dragon's dignity from this massive bone alone.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "purple",
         "selling-price": 880
     },
@@ -2560,7 +2560,7 @@
         "rare": 5,
         "description": "Top-notch bone from a large dragon. Feels like it could last forever.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "purple",
         "selling-price": 2200
     },
@@ -2569,7 +2569,7 @@
         "rare": 1,
         "description": "A well-worn bone. Not sturdy enough to use in combination.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 1
     },
@@ -2578,7 +2578,7 @@
         "rare": 4,
         "description": "Animal skull. So worn and weathered, it's unidentifiable.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "yellow",
         "selling-price": 120
     },
@@ -2587,7 +2587,7 @@
         "rare": 5,
         "description": "The remains of a top hunter who once let his guard down.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "white",
         "selling-price": 1250
     },
@@ -2596,7 +2596,7 @@
         "rare": 1,
         "description": "Just a bone. So worn and weathered, it's unidentifiable.",
         "carry-max": 99,
-        "icon": "bomb",
+        "icon": "bone",
         "color": "white",
         "selling-price": 15
     },
@@ -2765,10 +2765,10 @@
     {
         "name": "Territorial Dung",
         "rare": 5,
-        "description": "Droppings used by a monster (Account to mark territory. (Account Item)",
+        "description": "Droppings used by a monster to mark territory. (Account Item)",
         "carry-max": 10,
         "icon": "dung",
-        "color": "red",
+        "color": "orange",
         "selling-price": 500
     },
     {
@@ -2777,7 +2777,7 @@
         "description": "Large droppings used by a monster to mark territory. (Account Item)",
         "carry-max": 10,
         "icon": "dung",
-        "color": "red",
+        "color": "orange",
         "selling-price": 2500
     },
     {
@@ -2810,7 +2810,7 @@
     {
         "name": "Anc Drgn Treasre",
         "rare": 5,
-        "description": "This stone's radiance grows brighter as time passes. (Account Item)",
+        "description": "This stone's radiance grows brighter as time passes.(Account Item)",
         "carry-max": 10,
         "icon": "monster",
         "color": "purple",
@@ -2972,7 +2972,7 @@
     {
         "name": "SpecRemobraSkin+",
         "rare": 5,
-        "description": "Superior quality Remobra skin. It shines with a Black Pearl-like luster.",
+        "description": "Superior quality Remobra skin. Its shines with a Black Pearl-like luster.",
         "carry-max": 99,
         "icon": "pelt",
         "color": "gray",
@@ -3071,7 +3071,7 @@
     {
         "name": "Giadrome Claw",
         "rare": 4,
-        "description": "Sharper than a Giaprey claw, touching it bare-handed is quite dangerous.",
+        "description": "Sharper than a Giaprey claw, touching it barehanded is quite dangerous.",
         "carry-max": 99,
         "icon": "fang",
         "color": "white",
@@ -3116,7 +3116,7 @@
     {
         "name": "Velociprey Scle+",
         "rare": 5,
-        "description": "Scale stripped from a Velociprey. It can be made into Light, durable armor.",
+        "description": "Scale stripped from a Velociprey. It can be made into light, durable armor.",
         "carry-max": 99,
         "icon": "scale",
         "color": "blue",
@@ -3125,7 +3125,7 @@
     {
         "name": "Velociprey Hide",
         "rare": 3,
-        "description": "Hide stripped of its scales. Used to join the plates in a sult of armor.",
+        "description": "Hide stripped of its scales. Used to join the plates in a suit of armor.",
         "carry-max": 99,
         "icon": "pelt",
         "color": "blue",
@@ -3269,7 +3269,7 @@
     {
         "name": "Ioprey Scale+",
         "rare": 5,
-        "description": "Scale stripped from an Ioprey. Can be used, once the polson is removed.",
+        "description": "Scale stripped from an Ioprey. Can be used, once the poison is removed.",
         "carry-max": 99,
         "icon": "scale",
         "color": "red",
@@ -3458,7 +3458,7 @@
     {
         "name": "Kut-Ku Ear",
         "rare": 5,
-        "description": "The Fire resistant ear of a Kut-Ku, Used to prevent Bowgun flash-back.",
+        "description": "The Fire resistant ear of a Kut-Ku. Used to prevent Bowgun flash-back.",
         "carry-max": 99,
         "icon": "monster",
         "color": "pink",
@@ -3512,7 +3512,7 @@
     {
         "name": "Str Kut-Ku Wing",
         "rare": 4,
-        "description": "Top-grade Kut-Ku wing. Stout, expansive, and fire resistant material",
+        "description": "Top-grade Kut-Ku wing. Stout, expansive, and fire resistant material.",
         "carry-max": 99,
         "icon": "monster",
         "color": "pink",
@@ -3530,7 +3530,7 @@
     {
         "name": "Blue Kut-Ku Scl+",
         "rare": 5,
-        "description": "Superior scale from a Blue Yian Kut-Ku. Its color complex infinitely cool.",
+        "description": "Superior scale from a Blue Yian Kut-Ku. Its complex color is infinitely cool.",
         "carry-max": 99,
         "icon": "scale",
         "color": "blue",
@@ -3557,7 +3557,7 @@
     {
         "name": "Blue Kut-Ku Cpc",
         "rare": 5,
-        "description": "Rare Blue Kut-Ku Carapace. Harder than its shell, often used in crafing.",
+        "description": "Rare Blue Kut-Ku Carapace. Harder than its shell, often used in crafting.",
         "carry-max": 99,
         "icon": "monster",
         "color": "blue",
@@ -4115,7 +4115,7 @@
     {
         "name": "Blk Rajang Pelt+",
         "rare": 5,
-        "description": "When made into armor, this leathery pelt strong and gives a sense of security.",
+        "description": "When made into armor, this strong and leathery pelt gives a sense of security.",
         "carry-max": 99,
         "icon": "pelt",
         "color": "gray",
@@ -4349,7 +4349,7 @@
     {
         "name": "ThckLavasiothScl",
         "rare": 5,
-        "description": "Thick Lavasioth scale. Under the encrusted lava lies a golden treasure,",
+        "description": "Thick Lavasioth scale. Under the encrusted lava lies a golden treasure.",
         "carry-max": 99,
         "icon": "scale",
         "color": "gray",
@@ -4385,7 +4385,7 @@
     {
         "name": "Lavasioth Ticket",
         "rare": 5,
-        "description": "Stamped proof of hunting a Lavasioth and finishing a hard quest",
+        "description": "Stamped proof of hunting a Lavasioth and finishing a hard quest.",
         "carry-max": 99,
         "icon": "ticket",
         "color": "gray",
@@ -4448,7 +4448,7 @@
     {
         "name": "Hermitaur Claw+",
         "rare": 5,
-        "description": "Sharp claw from a Daimyo Heritaur. It is said to be as hard as metal.",
+        "description": "Sharp claw from a Daimyo Hermitaur. It is said to be as hard as metal.",
         "carry-max": 99,
         "icon": "fang",
         "color": "red",
@@ -5150,7 +5150,7 @@
     {
         "name": "Khezu Hide - Tan",
         "rare": 5,
-        "description": "The tanned hide of a Khezu. Its strange properties are a mystery",
+        "description": "The tanned hide of a Khezu. Its strange properties are a mystery.",
         "carry-max": 99,
         "icon": "pelt",
         "color": "white",
@@ -5195,7 +5195,7 @@
     {
         "name": "Alluring Hide",
         "rare": 5,
-        "description": "Red Khezu hide polished to a luster, Just looking at it makes you feel strange.",
+        "description": "Red Khezu hide polished to a luster. Just looking at it makes you feel strange.",
         "carry-max": 99,
         "icon": "pelt",
         "color": "pink",
@@ -5321,7 +5321,7 @@
     {
         "name": "Tigrex Carapace",
         "rare": 5,
-        "description": "Hardened by the sands of time, Its edges indicate a Tigrex's ferocity.",
+        "description": "Hardened by the sands of time. Its edges indicate a Tigrex's ferocity.",
         "carry-max": 99,
         "icon": "monster",
         "color": "yellow",
@@ -5375,7 +5375,7 @@
     {
         "name": "Hard Tigrex Claw",
         "rare": 5,
-        "description": "Super tough Tigrex claw. It has dug Into much flesh and spilled much blood.",
+        "description": "Super tough Tigrex claw. It has dug into much flesh and spilled much blood.",
         "carry-max": 99,
         "icon": "fang",
         "color": "yellow",
@@ -6068,7 +6068,7 @@
     {
         "name": "WhtMonoblosThora",
         "rare": 5,
-        "description": "Rare White Monoblos Thoracic, Fuse with molten sand & it becomes a jewel.",
+        "description": "Rare White Monoblos Thoracic. Fuse with molten sand & it becomes a jewel.",
         "carry-max": 99,
         "icon": "monster",
         "color": "white",
@@ -6122,7 +6122,7 @@
     {
         "name": "Platinum Mane",
         "rare": 5,
-        "description": "Kirin mane that sparkles like platinum, Shimmers with the wind. Priceless.",
+        "description": "Kirin mane that sparkles like platinum. Shimmers with the wind. Priceless.",
         "carry-max": 99,
         "icon": "monster",
         "color": "white",
@@ -6230,7 +6230,7 @@
     {
         "name": "Lao-ShanCarapace",
         "rare": 5,
-        "description": "The carapace of a giant dragon, Years ago, this carapace was a shell.",
+        "description": "The carapace of a giant dragon. Years ago, this carapace was a shell.",
         "carry-max": 99,
         "icon": "monster",
         "color": "red",
@@ -6302,7 +6302,7 @@
     {
         "name": "HvnlyGaorenShell",
         "rare": 5,
-        "description": "A phantasmal shell. When crafted, sald to unify the earth and seize the sky.",
+        "description": "A phantasmal shell. When crafted, said to unify the earth and seize the sky.",
         "carry-max": 99,
         "icon": "hvnly-scale",
         "color": "gray",
@@ -6329,7 +6329,7 @@
     {
         "name": "Hvy Gaoren Spine",
         "rare": 5,
-        "description": "Heavy back shell. With this, the Gaoren becomes a mighty fortress",
+        "description": "Heavy back shell. With this, the Gaoren becomes a mighty fortress.",
         "carry-max": 99,
         "icon": "carapaceon-shell",
         "color": "gray",
@@ -6338,7 +6338,7 @@
     {
         "name": "Gaoren Pincer",
         "rare": 5,
-        "description": "Giant pincer of Gaoren. Its metal slicing power is deadly to hunters,",
+        "description": "Giant pincer of Gaoren. Its metal slicing power is deadly to hunters.",
         "carry-max": 99,
         "icon": "carapaceon-shell",
         "color": "gray",
@@ -6383,7 +6383,7 @@
     {
         "name": "Hvy Daora Shell",
         "rare": 5,
-        "description": "Repeated molting through-out its life has made this shell very tough.",
+        "description": "Repeated molting throughout its life has made this shell very tough.",
         "carry-max": 99,
         "icon": "monster",
         "color": "gray",
@@ -6392,7 +6392,7 @@
     {
         "name": "DaoraDragonScale",
         "rare": 5,
-        "description": "Shining silver scale from Kushala Daora. Hard, It is a top-class abrasive.",
+        "description": "Shining silver scale from Kushala Daora. Hard, it is a top-class abrasive.",
         "carry-max": 99,
         "icon": "scale",
         "color": "gray",
@@ -6437,7 +6437,7 @@
     {
         "name": "Daora Horn",
         "rare": 5,
-        "description": "The gallant horn of Daora. Using it requires extra-ordinary experience.",
+        "description": "The gallant horn of Daora. Using it requires extraordinary experience.",
         "carry-max": 99,
         "icon": "fang",
         "color": "gray",
@@ -6473,7 +6473,7 @@
     {
         "name": "Daora Claw",
         "rare": 5,
-        "description": "Kushala Daora's claw. As hard as ore, It cannot be used by ordinary crafters.",
+        "description": "Kushala Daora's claw. As hard as ore, it cannot be used by ordinary crafters.",
         "carry-max": 99,
         "icon": "fang",
         "color": "gray",
@@ -6887,7 +6887,7 @@
     {
         "name": "YamaTsukaFillet",
         "rare": 5,
-        "description": "Fillet of a Yama Tsukami tentacle. Slimy and Light.",
+        "description": "Fillet of a Yama Tsukami tentacle. Slimy and light.",
         "carry-max": 99,
         "icon": "monster",
         "color": "green",
@@ -7004,7 +7004,7 @@
     {
         "name": "Str Fatalis Wng",
         "rare": 5,
-        "description": "Hard as a metal, yet malleable wing. Skill is required to work it",
+        "description": "Hard as a metal, yet malleable wing. Skill is required to work it.",
         "carry-max": 99,
         "icon": "monster",
         "color": "gray",
@@ -7220,7 +7220,7 @@
     {
         "name": "HvyUkanlosShell",
         "rare": 5,
-        "description": "Minerals in this encrusted cold-infused shell make it surprisingly strong.",
+        "description": "Minerals encrusted in this cold-infused shell make it surprisingly strong.",
         "carry-max": 99,
         "icon": "monster",
         "color": "white",
@@ -7400,7 +7400,7 @@
     {
         "name": "Organizer Guide",
         "rare": 4,
-        "description": "Issue of popular \"Hunting Life” magazine that has an article on item box usage.",
+        "description": "Issue of popular \"Hunting Life\" magazine that has an article on item box usage.",
         "carry-max": 1,
         "icon": "book",
         "color": "blue",
@@ -7409,7 +7409,7 @@
     {
         "name": "Backpacker Guide",
         "rare": 5,
-        "description": "Issue of popular \"Hunting Life” magazine that has an article on carrying items.",
+        "description": "Issue of popular \"Hunting Life\" magazine that has an article on carrying items.",
         "carry-max": 1,
         "icon": "book",
         "color": "red",
@@ -7427,7 +7427,7 @@
     {
         "name": "Shakalaka Info",
         "rare": 1,
-        "description": "Book for your Monster List filled with Information about Shakalakas.",
+        "description": "Book for your Monster List filled with information about Shakalakas.",
         "carry-max": 1,
         "icon": "book",
         "color": "white",
@@ -7445,7 +7445,7 @@
     {
         "name": "GrtThundrbugInfo",
         "rare": 1,
-        "description": "Book for your Monster List filled with Information on the Great Thunderbug.",
+        "description": "Book for your Monster List filled with information on the Great Thunderbug.",
         "carry-max": 1,
         "icon": "book",
         "color": "white",
@@ -7607,7 +7607,7 @@
     {
         "name": "Kirin Info",
         "rare": 3,
-        "description": "Book for your Monster List filled with reference smaterial on Kirin.",
+        "description": "Book for your Monster List filled with reference material on Kirin.",
         "carry-max": 1,
         "icon": "book",
         "color": "white",
@@ -7652,7 +7652,7 @@
     {
         "name": "Lao-Shan Info",
         "rare": 3,
-        "description": "Book for your Monster List filled with reference-material on Lao-Shan Lung.",
+        "description": "Book for your Monster List filled with reference material on Lao-Shan Lung.",
         "carry-max": 1,
         "icon": "book",
         "color": "white",
@@ -7679,7 +7679,7 @@
     {
         "name": "Steel Egg",
         "rare": 5,
-        "description": "A glittering Steel Egg. Incredibly expensive and fare. No use to a hunter.",
+        "description": "A glittering Steel Egg. Incredibly expensive and rare. No use to a hunter.",
         "carry-max": 15,
         "icon": "egg",
         "color": "gray",
@@ -7688,7 +7688,7 @@
     {
         "name": "Silver Egg",
         "rare": 5,
-        "description": "A glittering Silver Egg. Incredibly expensive and fare. No use to a hunter.",
+        "description": "A glittering Silver Egg. Incredibly expensive and rare. No use to a hunter.",
         "carry-max": 10,
         "icon": "egg",
         "color": "white",
@@ -7697,7 +7697,7 @@
     {
         "name": "Golden Egg",
         "rare": 5,
-        "description": "A glittering Gold Egg. Incredibly expensive and fare. No use to a hunter.",
+        "description": "A glittering Gold Egg. Incredibly expensive and rare. No use to a hunter.",
         "carry-max": 5,
         "icon": "egg",
         "color": "yellow",
@@ -7751,7 +7751,7 @@
     {
         "name": "Prtbl Shock Trap",
         "rare": 3,
-        "description": "Trap that stops monsters in thelr tracks. Capture use. (Supply Item)",
+        "description": "Trap that stops monsters in their tracks. Capture use. (Supply Item)",
         "carry-max": 1,
         "icon": "trap",
         "color": "purple",
@@ -7823,7 +7823,7 @@
     {
         "name": "Herbivore Egg",
         "rare": 5,
-        "description": "Egg stolen from an Apceros Looks tasty. (Account Item)",
+        "description": "Egg stolen from an Apceros nest. Looks tasty. (Account Item)",
         "carry-max": 1,
         "icon": "egg",
         "color": "orange",
@@ -8066,7 +8066,7 @@
     {
         "name": "Commendation G",
         "rare": 5,
-        "description": "Ticket awarded for a display of great bravery. Try collecting them,",
+        "description": "Ticket awarded for a display of great bravery. Try collecting them.",
         "carry-max": 99,
         "icon": "ticket",
         "color": "white",
@@ -8075,7 +8075,7 @@
     {
         "name": "Commendation S",
         "rare": 5,
-        "description": "Ticket awarded for a display of superb bravery. Try collecting them,",
+        "description": "Ticket awarded for a display of superb bravery. Try collecting them.",
         "carry-max": 99,
         "icon": "ticket",
         "color": "white",
@@ -8534,7 +8534,7 @@
     {
         "name": "Anchor Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Quake Resist Skill.",
+        "description": "Decoration that raises the Quake Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -8543,7 +8543,7 @@
     {
         "name": "Tectonic Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Quake Resist Skill.",
+        "description": "Decoration that raises the Quake Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -8552,7 +8552,7 @@
     {
         "name": "Snowblower Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Snow Resist Skill.",
+        "description": "Decoration that raises the Snow Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8561,7 +8561,7 @@
     {
         "name": "Snowplow Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Snow Resist Skill.",
+        "description": "Decoration that raises the Snow Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8570,7 +8570,7 @@
     {
         "name": "SnowblowerJewel+",
         "rare": 4,
-        "description": "Decoration that raises the Snow Resist Skill.",
+        "description": "Decoration that raises the Snow Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8606,7 +8606,7 @@
     {
         "name": "Artisan Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Artisan Skill.",
+        "description": "Decoration that raises the Artisan Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -8615,7 +8615,7 @@
     {
         "name": "Master Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Artisan Skill.",
+        "description": "Decoration that raises the Artisan Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -8624,7 +8624,7 @@
     {
         "name": "Fencer Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Fencing Skill.",
+        "description": "Decoration that raises the Fencing Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -8633,7 +8633,7 @@
     {
         "name": "Swordsman Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Fencing Skill.",
+        "description": "Decoration that raises the Fencing Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -8642,7 +8642,7 @@
     {
         "name": "Razor Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Sharpness Skill.",
+        "description": "Decoration that raises the Sharpness Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "gray",
@@ -8651,7 +8651,7 @@
     {
         "name": "Cutter Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Sharpness Skill.",
+        "description": "Decoration that raises the Sharpness Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "gray",
@@ -8660,7 +8660,7 @@
     {
         "name": "Sword Draw Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Sword Draw Skill.",
+        "description": "Decoration that raises the Sword Draw Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "red",
@@ -8669,7 +8669,7 @@
     {
         "name": "UnsheathingJewel",
         "rare": 5,
-        "description": "Decoration that raises the Sword Draw Skill.",
+        "description": "Decoration that raises the Sword Draw Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "red",
@@ -8723,7 +8723,7 @@
     {
         "name": "Grinder Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Sword Sharpener Skill.",
+        "description": "Decoration that raises the Sword Sharpener Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "yellow",
@@ -8732,7 +8732,7 @@
     {
         "name": "Stone Wall Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Guard Skill.",
+        "description": "Decoration that raises the Guard Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "gray",
@@ -8741,7 +8741,7 @@
     {
         "name": "IronCurtainJewel",
         "rare": 5,
-        "description": "Decoration that raises the Guard Skill.",
+        "description": "Decoration that raises the Guard Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "gray",
@@ -8777,7 +8777,7 @@
     {
         "name": "HvnlyShieldJewel",
         "rare": 4,
-        "description": "Decoration that raises the Auto Guard Skill.",
+        "description": "Decoration that raises the Auto-Guard Skill. (For Blademasters)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8795,7 +8795,7 @@
     {
         "name": "Early Bird Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Reload Skill.",
+        "description": "Decoration that raises the Reload Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -8804,7 +8804,7 @@
     {
         "name": "High Speed Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Reload Skill.",
+        "description": "Decoration that raises the Reload Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -8813,7 +8813,7 @@
     {
         "name": "Cont. Fire Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Auto Reload Skill.",
+        "description": "Decoration that raises the Auto Reload Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -8822,7 +8822,7 @@
     {
         "name": "Barrage Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Auto Reload Skill.",
+        "description": "Decoration that raises the Auto Reload Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -8831,7 +8831,7 @@
     {
         "name": "Recoilless Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Recoil Skill.",
+        "description": "Decoration that raises the Recoil Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "gray",
@@ -8840,7 +8840,7 @@
     {
         "name": "Shockless Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Recoil Skill.",
+        "description": "Decoration that raises the Recoil Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "gray",
@@ -8849,7 +8849,7 @@
     {
         "name": "StrongShot Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Normal S Up Skill.",
+        "description": "Decoration that raises the Normal S Up Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8858,7 +8858,7 @@
     {
         "name": "StrongShotJewel+",
         "rare": 5,
-        "description": "Decoration that raises the Normal S Up Skill.",
+        "description": "Decoration that raises the Normal S Up Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8867,7 +8867,7 @@
     {
         "name": "Pierce Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Pierce S Up Skill.",
+        "description": "Decoration that raises the Pierce S Up Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8876,7 +8876,7 @@
     {
         "name": "Pierce Jewel+",
         "rare": 5,
-        "description": "Decoration that raises the Pierce S Up Skill.",
+        "description": "Decoration that raises the Pierce S Up Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8885,7 +8885,7 @@
     {
         "name": "Pellet Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Pellet S Up Skill.",
+        "description": "Decoration that raises the Pellet S Up Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8894,7 +8894,7 @@
     {
         "name": "Pellet Jewel+",
         "rare": 5,
-        "description": "Decoration that raises the Pellet S Up Skill.",
+        "description": "Decoration that raises the Pellet S Up Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8903,7 +8903,7 @@
     {
         "name": "Shot Bonus Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Normal S Add Skill.",
+        "description": "Decoration that raises the Normal S Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -8912,7 +8912,7 @@
     {
         "name": "PierceBonusJewel",
         "rare": 4,
-        "description": "Decoration that raises the Pierce S Add Skill.",
+        "description": "Decoration that raises the Pierce S Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -8921,7 +8921,7 @@
     {
         "name": "PelletBonusJewel",
         "rare": 4,
-        "description": "Decoration that raises the Pellet S Add Skill.",
+        "description": "Decoration that raises the Pellet S Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -8930,7 +8930,7 @@
     {
         "name": "Crag Bonus Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Crag S Add Skill.",
+        "description": "Decoration that raises the Crag S Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -8939,7 +8939,7 @@
     {
         "name": "ScattrBonusJewel",
         "rare": 4,
-        "description": "Decoration that raises the Clust S Add Skill.",
+        "description": "Decoration that raises the Clust S Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -8948,7 +8948,7 @@
     {
         "name": "Power Coat Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Power C Add Skill.",
+        "description": "Decoration that raises the Power Coating Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "red",
@@ -8957,7 +8957,7 @@
     {
         "name": "PowerCAddJewel",
         "rare": 5,
-        "description": "Decoration that raises the Power C Add Skill.",
+        "description": "Decoration that raises the Power Coating Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "red",
@@ -8966,7 +8966,7 @@
     {
         "name": "Combo Coat Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Sleep C Add Skill.",
+        "description": "Decoration that raises the Close Range Coating Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -8975,7 +8975,7 @@
     {
         "name": "PoisonCoatJewel",
         "rare": 4,
-        "description": "Decoration that raises the Poison C Add Skill.",
+        "description": "Decoration that raises the Poison Coating Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -8984,7 +8984,7 @@
     {
         "name": "ParalysCoatJewel",
         "rare": 4,
-        "description": "Decoration that raises the Paraly C Add Skill.",
+        "description": "Decoration that raises the Paralysis Coating Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "yellow",
@@ -8993,7 +8993,7 @@
     {
         "name": "ParalysisCAddJwl",
         "rare": 5,
-        "description": "Decoration that raises the Paraly C Add Skill.",
+        "description": "Decoration that raises the Paralysis Coating Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "yellow",
@@ -9002,7 +9002,7 @@
     {
         "name": "Sleep Coat Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Sleep C Add Skill.",
+        "description": "Decoration that raises the Sleep Coating Add Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -9029,7 +9029,7 @@
     {
         "name": "Sniper Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Precision Skill.",
+        "description": "Decoration that raises the Precision Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -9038,7 +9038,7 @@
     {
         "name": "SharpshootrJewel",
         "rare": 4,
-        "description": "Decoration that raises the Precision Skill.",
+        "description": "Decoration that raises the Precision Skill. (For Gunners)",
         "carry-max": 99,
         "icon": "jewel",
         "color": "white",
@@ -9047,16 +9047,16 @@
     {
         "name": "SpecialAtk Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Spc Attack Skill.",
+        "description": "Decoration that raises the Special Attack Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "pink",
         "selling-price": 40
     },
     {
-        "name": "SpecialAtk Jewel+",
+        "name": "SpecialAtkJewel+",
         "rare": 5,
-        "description": "Decoration that raises the Spc Attack Skill.",
+        "description": "Decoration that raises the Special Attack Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "pink",
@@ -9065,7 +9065,7 @@
     {
         "name": "Element Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Element Atk Skill.",
+        "description": "Decoration that raises the Element Attack Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "pink",
@@ -9074,7 +9074,7 @@
     {
         "name": "Element Jewel+",
         "rare": 5,
-        "description": "Decoration that raises the Element Atk Skill.",
+        "description": "Decoration that raises the Element Attack Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "pink",
@@ -9189,7 +9189,7 @@
         "selling-price": 40
     },
     {
-        "name": "Constitutn Jewel",
+        "name": "ConstitutnJewel",
         "rare": 4,
         "description": "Decoration that raises the Constitution Skill.",
         "carry-max": 99,
@@ -9227,7 +9227,7 @@
     {
         "name": "Earplug Jewel",
         "rare": 4,
-        "description": "Decoration that raises the HearProtct Skill.",
+        "description": "Decoration that raises the Hearing Protection Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "yellow",
@@ -9236,7 +9236,7 @@
     {
         "name": "Silencer Jewel",
         "rare": 5,
-        "description": "Decoration that raises the HearProtct Skill.",
+        "description": "Decoration that raises the Hearing Protection Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "gray",
@@ -9308,7 +9308,7 @@
     {
         "name": "Jumping Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Evade Dist Skill.",
+        "description": "Decoration that raises the Evade Distance Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "blue",
@@ -9317,7 +9317,7 @@
     {
         "name": "Flying Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Evade Dist Skill.",
+        "description": "Decoration that raises the Evade Distance Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "blue",
@@ -9380,7 +9380,7 @@
     {
         "name": "StayingPwr Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Everlastng Skill.",
+        "description": "Decoration that raises the Everlasting Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "blue",
@@ -9389,7 +9389,7 @@
     {
         "name": "Permanence Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Everlastng Skill.",
+        "description": "Decoration that raises the Everlasting Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "blue",
@@ -9398,7 +9398,7 @@
     {
         "name": "Eternal Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Everlastng Skill.",
+        "description": "Decoration that raises the Everlasting Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "blue",
@@ -9434,7 +9434,7 @@
     {
         "name": "Backpacker Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Backpackng Skill.",
+        "description": "Decoration that raises the Backpacking Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -9470,7 +9470,7 @@
     {
         "name": "Inferno Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Fire Resist Skill.",
+        "description": "Decoration that raises the Fire Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "red",
@@ -9479,7 +9479,7 @@
     {
         "name": "Crimson Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Fire Resist Skill.",
+        "description": "Decoration that raises the Fire Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "red",
@@ -9488,7 +9488,7 @@
     {
         "name": "Stream Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Water Resist Skill.",
+        "description": "Decoration that raises the Water Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -9497,7 +9497,7 @@
     {
         "name": "Torrent Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Water Resist Skill.",
+        "description": "Decoration that raises the Water Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -9506,7 +9506,7 @@
     {
         "name": "Freeze Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Ice Resist Skill.",
+        "description": "Decoration that raises the Ice Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "blue",
@@ -9515,7 +9515,7 @@
     {
         "name": "Glacier Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Ice Resist Skill.",
+        "description": "Decoration that raises the Ice Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "blue",
@@ -9524,7 +9524,7 @@
     {
         "name": "Lightning Jewel",
         "rare": 4,
-        "description": "Decoration that raises the ThunderRes Skill.",
+        "description": "Decoration that raises the Thunder Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "yellow",
@@ -9533,7 +9533,7 @@
     {
         "name": "Thunder Jewel",
         "rare": 4,
-        "description": "Decoration that raises the ThunderRes Skill.",
+        "description": "Decoration that raises the Thunder Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "yellow",
@@ -9542,7 +9542,7 @@
     {
         "name": "Slayer Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Dragon Resist Skill.",
+        "description": "Decoration that raises the Dragon Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -9551,7 +9551,7 @@
     {
         "name": "Extinction Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Dragon Resist Skill.",
+        "description": "Decoration that raises the Dragon Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -9560,7 +9560,7 @@
     {
         "name": "DragonslyrJewel",
         "rare": 5,
-        "description": "Decoration that raises the Dragon Resist Skill.",
+        "description": "Decoration that raises the Dragon Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -9569,7 +9569,7 @@
     {
         "name": "CoolBreeze Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Heat Resist Skill.",
+        "description": "Decoration that raises the Heat Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -9578,7 +9578,7 @@
     {
         "name": "Cold Wind Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Heat Resist Skill.",
+        "description": "Decoration that raises the Heat Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -9587,7 +9587,7 @@
     {
         "name": "ColdBreezeJewel",
         "rare": 4,
-        "description": "Decoration that raises the Heat Resist Skill.",
+        "description": "Decoration that raises the Heat Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "sky",
@@ -9596,7 +9596,7 @@
     {
         "name": "WarmBreeze Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Cold Resist Skill.",
+        "description": "Decoration that raises the Cold Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -9605,7 +9605,7 @@
     {
         "name": "Hot Wind Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Cold Resist Skill.",
+        "description": "Decoration that raises the Cold Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -9614,7 +9614,7 @@
     {
         "name": "HotBreezeJewel",
         "rare": 4,
-        "description": "Decoration that raises the Cold Resist Skill.",
+        "description": "Decoration that raises the Cold Res Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -9641,7 +9641,7 @@
     {
         "name": "Grab'n'DashJewel",
         "rare": 4,
-        "description": "Decoration that raises the HiSpdGathr Skill.",
+        "description": "Decoration that raises the High Speed Gathering Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "green",
@@ -9686,7 +9686,7 @@
     {
         "name": "Tranq Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Tranquilzr Skill.",
+        "description": "Decoration that raises the Tranquilizer Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "green",
@@ -9695,7 +9695,7 @@
     {
         "name": "Knockout Jewel",
         "rare": 5,
-        "description": "Decoration that raises the Tranquilzr Skill.",
+        "description": "Decoration that raises the Tranquilizer Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "green",
@@ -9731,7 +9731,7 @@
     {
         "name": "Psychic Jewel",
         "rare": 4,
-        "description": "Decoration that raises the PsychicVis Skill.",
+        "description": "Decoration that raises the Psychic Vision Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "orange",
@@ -9749,7 +9749,7 @@
     {
         "name": "Feel Good Jewel",
         "rare": 4,
-        "description": "Decoration that raises the Rec Speed Skill.",
+        "description": "Decoration that raises the Recovery Speed Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "green",
@@ -9758,7 +9758,7 @@
     {
         "name": "SpeedyRecvrJewel",
         "rare": 5,
-        "description": "Decoration that raises the Rec Speed Skill.",
+        "description": "Decoration that raises the Recovery Speed Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "green",
@@ -9794,7 +9794,7 @@
     {
         "name": "Professor Jewel",
         "rare": 4,
-        "description": "Decoration that raises the MixSucRate Skill.",
+        "description": "Decoration that raises the Mix Success Rate Skill.",
         "carry-max": 99,
         "icon": "jewel",
         "color": "purple",
@@ -9875,16 +9875,16 @@
     {
         "name": "Wyvernshroom",
         "rare": 3,
-        "description": "Loved by humans and Mosswine. Reproductive power.",
+        "description": "Loved by humans and Mosswine. Reproductive power. (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "gray",
         "selling-price": 200
     },
     {
-        "name": "Wyverngrass",
+        "name": "Wyvern Grass",
         "rare": 3,
-        "description": "A type of grass loved by herbivores. Incredibly adaptive.",
+        "description": "A type of grass loved by herbivores. Incredibly adaptive. (Treasure)",
         "carry-max": 99,
         "icon": "herb",
         "color": "white",
@@ -9893,7 +9893,7 @@
     {
         "name": "Dragonite (S)",
         "rare": 3,
-        "description": "A rarely formed small stone from inside a monster.",
+        "description": "A rarely formed small stone from inside a monster. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "yellow",
@@ -9902,7 +9902,7 @@
     {
         "name": "Dragonite (M)",
         "rare": 4,
-        "description": "A rarely formed stone from inside a monster.",
+        "description": "A rarely formed stone from inside a monster. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "yellow",
@@ -9911,7 +9911,7 @@
     {
         "name": "Dragonite (L)",
         "rare": 5,
-        "description": "A rarely formed large stone from inside a monster.",
+        "description": "A rarely formed large stone from inside a monster. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "yellow",
@@ -9920,7 +9920,7 @@
     {
         "name": "Dragonrock",
         "rare": 4,
-        "description": "A rarely formed rock from inside a monster. An ultimate item.",
+        "description": "A rarely formed rock from inside a monster. An ultimate item. (Treasure)",
         "carry-max": 1,
         "icon": "ore",
         "color": "yellow",
@@ -9929,7 +9929,7 @@
     {
         "name": "Dragonrock+",
         "rare": 5,
-        "description": "Rare even for Dragonrock. Very seldom seen.",
+        "description": "Rare even for Dragonrock. Very seldom seen. (Treasure)",
         "carry-max": 1,
         "icon": "ore",
         "color": "orange",
@@ -9938,7 +9938,7 @@
     {
         "name": "Hard Dragonrock",
         "rare": 5,
-        "description": "Hard dragonrock of high quality. Finding this is very difficult.",
+        "description": "Hard Dragonrock of high quality. Finding this is very difficult. (Treasure)",
         "carry-max": 1,
         "icon": "ore",
         "color": "red",
@@ -9947,7 +9947,7 @@
     {
         "name": "Wyvern Ore",
         "rare": 3,
-        "description": "Ore like a Wyvern's scale. Beautiful but fragile.",
+        "description": "Ore like a Wyvern's scale. Beautiful, but fragile. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "white",
@@ -9956,7 +9956,7 @@
     {
         "name": "Pure Wyvern Ore",
         "rare": 4,
-        "description": "Wyvern Ore of a high purity. Makes a great gift for a sweetheart.",
+        "description": "Wyvern Ore of high purity. Makes a great gift for a sweetheart. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "sky",
@@ -9965,16 +9965,16 @@
     {
         "name": "Small Wyvernfish",
         "rare": 3,
-        "description": "Species of rare fish said to be a living fossil. A bit of a runt.",
+        "description": "Species of rare fish said to be a living fossil. A bit of a runt. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "blue",
         "selling-price": 100
     },
     {
-        "name": "Medium Wyvernfish",
+        "name": "Med Wyvernfish",
         "rare": 4,
-        "description": "Species of rare fish said to be a living fossil. Needs growth.",
+        "description": "Species of rare fish said to be a living fossil. Needs growth. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "white",
@@ -9983,7 +9983,7 @@
     {
         "name": "Large Wyvernfish",
         "rare": 5,
-        "description": "Species of rare fish said to be a living fossil. Manly size.",
+        "description": "Species of rare fish said to be a living fossil. Manly size. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "white",
@@ -9992,7 +9992,7 @@
     {
         "name": "Pickaxe Fish",
         "rare": 3,
-        "description": "A fresh fish that can be used as a pickaxe.",
+        "description": "A fresh fish that can be used as a pickaxe. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "red",
@@ -10001,16 +10001,16 @@
     {
         "name": "Bugnet Fish",
         "rare": 3,
-        "description": "A fresh fish that can be used as a bugnet.",
+        "description": "A fresh fish that can be used as a bugnet. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "blue",
         "selling-price": 100
     },
     {
-        "name": "Pillowbug",
+        "name": "Pillow Bug",
         "rare": 5,
-        "description": "A bug with an elegant cry. Intoxicating to classical poets.",
+        "description": "A bug with an elegant cry. Intoxicating to classical poets. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "purple",
@@ -10019,16 +10019,25 @@
     {
         "name": "Rathian Fly",
         "rare": 4,
-        "description": "The unusually rare females have an awe-inspiring green body.",
+        "description": "The unusually rare females have a awe-inspiring green body. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "green",
         "selling-price": 300
     },
     {
+        "name": "Celeb Cicada",
+        "rare": 5,
+        "description": "A fabulously gorgeous cicada. Its song is legendary.",
+        "carry-max": 99,
+        "icon": "insect",
+        "color": "green",
+        "selling-price": 800
+    },
+    {
         "name": "Rathalos Fly",
         "rare": 3,
-        "description": "The red body is the defining point of this wyvern fly.",
+        "description": "The red body is the defining point of this wyvern fly. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "red",
@@ -10037,7 +10046,7 @@
     {
         "name": "Blango Bacon",
         "rare": 5,
-        "description": "The bacon of a Blango. Used in Pokke buffets.",
+        "description": "The bacon of a Blango. Used in Pokke buffets. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "white",
@@ -10046,7 +10055,7 @@
     {
         "name": "Blngo Flrry Ball",
         "rare": 3,
-        "description": "Snowball thrown by a Blango. Looks like a face...",
+        "description": "Snowball thrown by a Blango. Looks like a face... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "blue",
@@ -10055,7 +10064,7 @@
     {
         "name": "Blngo Blzrd Ball",
         "rare": 3,
-        "description": "Snowball thrown by a Blango. Looks like a pot belly...",
+        "description": "Snowball thrown by a Blango. Looks like a pot belly... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "blue",
@@ -10064,7 +10073,7 @@
     {
         "name": "Blangonga Apple",
         "rare": 6,
-        "description": "White Apple that grows in areas of heavy snowfall. Quite juicy.",
+        "description": "White apple that grows in areas of heavy snowfall. Quite juicy. (Treasure)",
         "carry-max": 99,
         "icon": "seed",
         "color": "white",
@@ -10073,7 +10082,7 @@
     {
         "name": "Chuck Mackerel",
         "rare": 5,
-        "description": "Often found near Lady Mackerel. Has a white beard.",
+        "description": "Often found near Lady Mackerel. Has a white beard. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "gray",
@@ -10082,7 +10091,7 @@
     {
         "name": "Eldr Drgn Tears",
         "rare": 6,
-        "description": "An unknown mass that is said to be Elder Dragon Tears.",
+        "description": "An unknown mass that is said to be Elder Dragon Tears. (Treasure)",
         "carry-max": 1,
         "icon": "egg",
         "color": "pink",
@@ -10091,7 +10100,7 @@
     {
         "name": "Embroidered Flag",
         "rare": 3,
-        "description": "A Guild Flag. If placed on the summit of the mountain...",
+        "description": "A Guild flag. If placed on the summit of the mountain... (Treasure)",
         "carry-max": 99,
         "icon": "map",
         "color": "yellow",
@@ -10100,7 +10109,7 @@
     {
         "name": "Frozen Meatball",
         "rare": 6,
-        "description": "Frozen meat of an ancient monster. You must try it once.",
+        "description": "Frozen meat of an ancient monster. You must try it once. (Treasure)",
         "carry-max": 1,
         "icon": "meat",
         "color": "sky",
@@ -10109,7 +10118,7 @@
     {
         "name": "Furiamond",
         "rare": 5,
-        "description": "Ore mined from the Fury Mountains. Unbreakably strong.",
+        "description": "Ore mined from the Fury Mountains. Unbreakably strong. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "sky",
@@ -10118,7 +10127,7 @@
     {
         "name": "Giadrome Jewel",
         "rare": 8,
-        "description": "A rarely formed jewel from inside a Giadrome. Truly exquisite.",
+        "description": "A rarely formed jewel from inside a Giadrome. Truly exquisite. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "blue",
@@ -10127,7 +10136,7 @@
     {
         "name": "Giadrome Thigh",
         "rare": 5,
-        "description": "The thigh meat of a Giadrome. Great boiled or baked.",
+        "description": "The thigh meat of a Giadrome. Great boiled or baked. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "white",
@@ -10136,7 +10145,7 @@
     {
         "name": "Glitter Mushroom",
         "rare": 4,
-        "description": "Beautiful, glittering mushroom. Highly prized.",
+        "description": "Beautiful, glittering mushroom. Highly prized. (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "yellow",
@@ -10145,7 +10154,7 @@
     {
         "name": "Green Fin",
         "rare": 5,
-        "description": "Crest of a Giadrome. The shade of the green determines its value.",
+        "description": "Crest of a Giadrome. The shade of green determines its value. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "green",
@@ -10154,7 +10163,7 @@
     {
         "name": "Lady Mackerel",
         "rare": 5,
-        "description": "A mackerel with elegant scales. Finicky when eating bait.",
+        "description": "A mackerel with elegant scales. Finicky when eating bait. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "pink",
@@ -10163,7 +10172,7 @@
     {
         "name": "Pokke Snowman",
         "rare": 7,
-        "description": "Made in the Pokke style. A true marvel of natural engineering.",
+        "description": "Made in the Pokke style. A true marvel of natural engineering. (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "blue",
@@ -10172,7 +10181,7 @@
     {
         "name": "Pokke Quartz",
         "rare": 6,
-        "description": "Said to bring its owner good luck. Feels cold to the touch.",
+        "description": "Said to bring its owner good luck. Feels cold to the touch. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "blue",
@@ -10181,7 +10190,7 @@
     {
         "name": "Princess Scarab",
         "rare": 5,
-        "description": "A mysterious sparkling scarab. Used by fortune tellers.",
+        "description": "A mysteriously sparkling scarab. Used by fortune-tellers. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "yellow",
@@ -10190,7 +10199,7 @@
     {
         "name": "Popo Dandelion",
         "rare": 4,
-        "description": "Brown, fluffy flower that is beloved as a snack by Popos.",
+        "description": "Brown, fluffy flower that is beloved as a snack by Popos. (Treasure)",
         "carry-max": 99,
         "icon": "herb",
         "color": "yellow",
@@ -10199,7 +10208,7 @@
     {
         "name": "Angler Snapper",
         "rare": 6,
-        "description": "A phantom fish said only to appear before a true angler.",
+        "description": "A phantom fish said only to appear before a true angler. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "red",
@@ -10208,7 +10217,7 @@
     {
         "name": "Buckshot Acorn",
         "rare": 6,
-        "description": "Resembles the shape of a bullet. Won't explode, but very heavy!",
+        "description": "Resembles the shape of a bullet. Won't explode, but very heavy! (Treasure)",
         "carry-max": 1,
         "icon": "seed",
         "color": "orange",
@@ -10217,7 +10226,7 @@
     {
         "name": "Cleopatris",
         "rare": 6,
-        "description": "A star among insects. Its antennae evoke oriental beauty.",
+        "description": "A star among insects. Its antennae evoke oriental beauty. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "purple",
@@ -10226,16 +10235,16 @@
     {
         "name": "Flyn Crwn Frgmnt",
         "rare": 3,
-        "description": "A Felyne paw shaped fragment. Looks to be a crown...",
+        "description": "A Felyne paw shaped fragment. Looks to be a crown... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "orange",
         "selling-price": 200
     },
     {
-        "name": "Inferior Flyn Crn",
+        "name": "Inferior FlynCrn",
         "rare": 3,
-        "description": "Melynx size crown. But it just isn't quite up to snuff.",
+        "description": "Melynx size crown. But it just isn't quite up to snuff. (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "orange",
@@ -10244,7 +10253,7 @@
     {
         "name": "Felyne Crown",
         "rare": 7,
-        "description": "Proof of the king of beasts. Bow before its bearer.",
+        "description": "Proof of the king of beasts. Bow before its bearer. (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "orange",
@@ -10253,7 +10262,7 @@
     {
         "name": "Jumboite",
         "rare": 5,
-        "description": "Ore mined from around Jumbo Village. Attractive shape.",
+        "description": "Ore mined from around Jumbo Village. Attractive shape. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "orange",
@@ -10262,16 +10271,16 @@
     {
         "name": "Kelbi Nuts",
         "rare": 4,
-        "description": "Highly nutritional value. Even Kelbi love these peanuts.",
+        "description": "High nutritional value. Even Kelbi love these peanuts. (Treasure)",
         "carry-max": 99,
         "icon": "seed",
         "color": "yellow",
         "selling-price": 600
     },
     {
-        "name": "Kut-ku Cartilage",
+        "name": "Kut-Ku Cartilage",
         "rare": 5,
-        "description": "Kut-Ku cartilage. A tasty snack that should never go to waste.",
+        "description": "Kut-Ku cartilage. A tasty snack that should never go to waste. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "pink",
@@ -10280,7 +10289,7 @@
     {
         "name": "Kut-Ku Gizzards",
         "rare": 5,
-        "description": "Internal organs of a Kut-Ku. A tasty treat for all to eat.",
+        "description": "Internal organs of a Kut-Ku. A tasty treat for all to eat. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "pink",
@@ -10289,7 +10298,7 @@
     {
         "name": "Kut-Ku Jewel",
         "rare": 8,
-        "description": "A rarely formed jewel from inside a Kut-Ku. An ultimate item.",
+        "description": "A rarely formed jewel from inside a Kut-Ku. An ultimate item. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "orange",
@@ -10298,16 +10307,16 @@
     {
         "name": "Kut-Ku Skin",
         "rare": 5,
-        "description": "Kut-Ku skin. Its crispy crunch is adored by all.",
+        "description": "Kut-Ku skin. Its crispy crunch is adored by all. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "pink",
         "selling-price": 3000
     },
     {
-        "name": "Marilyn Butterfly",
+        "name": "Marilyn Btterfly",
         "rare": 5,
-        "description": "Its white wings have a single black beauty mark. A sexy critter.",
+        "description": "Its white wings have a single black beauty mark. A sexy critter. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "white",
@@ -10316,16 +10325,16 @@
     {
         "name": "Lao-Shan Melon",
         "rare": 6,
-        "description": "An incredibly enormous melon. It is a high-class gift.",
+        "description": "An incredibly enormous melon. It is a high-class gift. (Treasure)",
         "carry-max": 1,
         "icon": "seed",
         "color": "green",
         "selling-price": 9000
     },
     {
-        "name": "Shining Jellyfish",
+        "name": "Shining Jellyfsh",
         "rare": 4,
-        "description": "A brightly shining type of mushroom. Said to guide travelers.",
+        "description": "A brightly shining type of mushroom. Said to guide travelers. (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "pink",
@@ -10334,16 +10343,16 @@
     {
         "name": "Telos Stone",
         "rare": 5,
-        "description": "Mineral found in the Telos Jungle. Its harmful rays fascinate man.",
+        "description": "Mineral found in the Telos Jungle. Its harmful rays fascinate man. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "purple",
         "selling-price": 800
     },
     {
-        "name": "Velociprey Lilly",
+        "name": "Velociprey Lily",
         "rare": 4,
-        "description": "A blue crest-like flower with a single red petal.",
+        "description": "A blue, crest-like flower with a single red petal. (Treasure)",
         "carry-max": 99,
         "icon": "herb",
         "color": "blue",
@@ -10352,7 +10361,7 @@
     {
         "name": "Victory Fish",
         "rare": 4,
-        "description": "An incredibly powerful fish that can cross oceans alone.",
+        "description": "A incredibly powerful fish that can cross oceans alone. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "green",
@@ -10361,7 +10370,7 @@
     {
         "name": "Bright Mushroom",
         "rare": 4,
-        "description": "Occasionally luminous mushroom. Sometimes mistaken for a jewel.",
+        "description": "Occasionally luminous mushroom. Often mistaken for a jewel. (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "orange",
@@ -10370,7 +10379,7 @@
     {
         "name": "Cephadrome Melon",
         "rare": 5,
-        "description": "The biggest of the big Cephalos Melons.",
+        "description": "The biggest of the big Cephalos watermelons. (Treasure)",
         "carry-max": 1,
         "icon": "egg",
         "color": "green",
@@ -10379,16 +10388,16 @@
     {
         "name": "Cephalos Roe",
         "rare": 5,
-        "description": "Cephalos eggs. Your tongue will be punch drunk in its tasty sweetness.",
+        "description": "Cephalos eggs. Your tongue will be punch drunk in its tasty sweetness.(Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "white",
         "selling-price": 700
     },
     {
-        "name": "Cephalos Watrmeln",
+        "name": "Cephalos Wtrmeln",
         "rare": 4,
-        "description": "Grown in the desert. Covered in sand like a cephalos.",
+        "description": "Grown in the desert. Covered in sand like a Cephalos.(Treasure)",
         "carry-max": 99,
         "icon": "seed",
         "color": "orange",
@@ -10397,7 +10406,7 @@
     {
         "name": "Cooler Fish",
         "rare": 3,
-        "description": "A fresh fish that can be eaten to ward off the heat of the day.",
+        "description": "A fresh fish that can be eaten to ward off the heat of the day. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "white",
@@ -10406,7 +10415,7 @@
     {
         "name": "Cricket of Troy",
         "rare": 5,
-        "description": "Cricket with beautiful feelers. Helps the environment.",
+        "description": "Cricket with beautiful feelers. Helps the environment. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "green",
@@ -10415,7 +10424,7 @@
     {
         "name": "Daimyo Jewel",
         "rare": 8,
-        "description": "Rarely formed jewel from inside a Diamyo Hermitaur. Peerless.",
+        "description": "Rarely formed jewel from inside a Daimyo Hermitaur. Peerless. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "white",
@@ -10424,7 +10433,7 @@
     {
         "name": "Daimyo Legs",
         "rare": 5,
-        "description": "Tasty Daimyo Hermiter legs. Usually eaten raw.",
+        "description": "Tasty Daimyo Hermitaur Legs. Usually eaten raw. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "red",
@@ -10433,16 +10442,16 @@
     {
         "name": "Dragokurium",
         "rare": 5,
-        "description": "Mined from the Dragokur Valley. Very attractive shape.",
+        "description": "Mined from the Dragokur Valley. Attractive shape. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "yellow",
         "selling-price": 500
     },
     {
-        "name": "Elder Dragon Fossil",
+        "name": "Eldr Drgn Fossil",
         "rare": 7,
-        "description": "Fossilized over many years, it retains its power.",
+        "description": "Fossilized over many years, it retains its power. (Treasure)",
         "carry-max": 1,
         "icon": "bone",
         "color": "pink",
@@ -10451,7 +10460,7 @@
     {
         "name": "GiantStagBeetle",
         "rare": 5,
-        "description": "A modest insect who only appears in front of men.",
+        "description": "A modest insect who only appears in front of men. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "pink",
@@ -10460,16 +10469,16 @@
     {
         "name": "GldBladelessHndl",
         "rare": 3,
-        "description": "Felyne shaped handle. If it had a blade maybe it'd be of use...",
+        "description": "Felyne shaped handle. If it had a blade, maybe it'd be of use... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "yellow",
         "selling-price": 200
     },
     {
-        "name": "GoldFelynJewelSword",
+        "name": "GldFlynJewelSwd",
         "rare": 7,
-        "description": "Blade used at Felyne family reunions. Flashy solid gold.",
+        "description": "Blade used at Felyne family reunions. Flashy solid gold. (Treasure)",
         "carry-max": 99,
         "icon": "knife",
         "color": "yellow",
@@ -10478,7 +10487,7 @@
     {
         "name": "Hndlelss Gld Bld",
         "rare": 3,
-        "description": "Gold Blade engraved with a cat's paw. If only you had a handle...",
+        "description": "Gold blade engraved with a cat's paw. If only you had a handle... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "yellow",
@@ -10487,7 +10496,7 @@
     {
         "name": "Hermitaur Brains",
         "rare": 5,
-        "description": "The brains of a Hermitaur. A rare delicacy.",
+        "description": "The brains of a Daimyo Hermitaur. A rare delicacy. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "red",
@@ -10496,16 +10505,16 @@
     {
         "name": "Monoblos Rose",
         "rare": 6,
-        "description": "Isolated desert rose that blooms with a single crimson thorn.",
+        "description": "Isolated desert rose that blooms with a single crimson thorn. (Treasure)",
         "carry-max": 99,
         "icon": "herb",
         "color": "red",
         "selling-price": 1000
     },
     {
-        "name": "Plump Goldenish",
+        "name": "Plump Goldenfish",
         "rare": 5,
-        "description": "Stout Goldenfish with a gaudy tail that screams high-class.",
+        "description": "Stout Goldenfish with a gaudy tail that screams high-class. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "green",
@@ -10514,7 +10523,7 @@
     {
         "name": "Sekumaeya Pearl",
         "rare": 6,
-        "description": "Ore found in the Sekumaeya Desert. Commands a high price.",
+        "description": "Ore found by searching the Sekumaeya Desert. Commands a high price. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "white",
@@ -10523,7 +10532,7 @@
     {
         "name": "Yokotuna",
         "rare": 5,
-        "description": "An incredibly fat tuna. Legend has it that it can sink a ship.",
+        "description": "An incredibly fat tuna. Legend has it that it can sink a ship. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "red",
@@ -10532,7 +10541,7 @@
     {
         "name": "Bttmlss Old Vase",
         "rare": 3,
-        "description": "A cracked vase. It has a strange power but no bottom...",
+        "description": "A cracked vase. It has a strange power, but no bottom... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "gray",
@@ -10541,16 +10550,16 @@
     {
         "name": "Chameleos' Purse",
         "rare": 4,
-        "description": "Transparent flower thanks to its special pollen. Hard to find.",
+        "description": "Transparent flower thanks to its special pollen. Hard to find. (Treasure)",
         "carry-max": 99,
         "icon": "herb",
         "color": "gray",
         "selling-price": 500
     },
     {
-        "name": "Congalala Innards",
+        "name": "Congalala Innrds",
         "rare": 5,
-        "description": "Innards of a Congalala. Eat before a hunt for extra energy.",
+        "description": "Innards of a Congalala. Eat before a hunt for extra energy. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "pink",
@@ -10559,25 +10568,25 @@
     {
         "name": "Congalala Jewel",
         "rare": 8,
-        "description": "A rarely formed jewel from inside a Congalala. Truly unrivaled.",
+        "description": "A rarely formed jewel from inside a Congalala. Truly unrivaled. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "pink",
         "selling-price": 20000
     },
     {
-        "name": "Congalala Stomach",
+        "name": "Congalala Stomch",
         "rare": 5,
-        "description": "Stomach of a Congalala, it has a strange consistency.",
+        "description": "Stomach of a Congalala. It has a strange consistency. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "pink",
         "selling-price": 3000
     },
     {
-        "name": "Nobunga Bonito",
+        "name": "Nobunaga Bonito",
         "rare": 5,
-        "description": "Aggressive fish aiming to unify all under its oppressive rule.",
+        "description": "Aggressive fish aiming to unify all under its oppressive rule.(Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "red",
@@ -10586,7 +10595,7 @@
     {
         "name": "Cutie Crawler",
         "rare": 5,
-        "description": "An incredibly beautiful earthworm. Digs like it were gliding.",
+        "description": "An incredibly beautiful earthworm. Digs like it were gliding. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "orange",
@@ -10595,7 +10604,7 @@
     {
         "name": "Dynasty Vase",
         "rare": 7,
-        "description": "A vase that is said to turn anything inside into gold.",
+        "description": "A vase that is said to turn anything inside into gold. (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "gray",
@@ -10604,7 +10613,7 @@
     {
         "name": "Ghostly Cicada",
         "rare": 6,
-        "description": "A beautiful cicada. Its romantic voice is tempting.",
+        "description": "A beautiful cicada. Its romantic voice is tempting. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "sky",
@@ -10613,7 +10622,7 @@
     {
         "name": "Golden Cocoon",
         "rare": 6,
-        "description": "Silkworm cocoon spun from golden silk. A national treasure.",
+        "description": "Silkworm cocoon spun from golden silk. A national treasure. (Treasure)",
         "carry-max": 1,
         "icon": "egg",
         "color": "orange",
@@ -10622,7 +10631,7 @@
     {
         "name": "Glittr Capshroom",
         "rare": 6,
-        "description": "A glittering cap mushroom. Bright enough to be a light.",
+        "description": "A glittering cap mushroom. Bright enough to be a light. (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "yellow",
@@ -10631,7 +10640,7 @@
     {
         "name": "Gypceros Crystal",
         "rare": 7,
-        "description": "Purple crystal. Its beauty fascinates jewel-loving Gypceros.",
+        "description": "Purple crystal. Its beauty fascinates jewel-loving Gypceros. (Treasure)",
         "carry-max": 1,
         "icon": "egg",
         "color": "purple",
@@ -10640,7 +10649,7 @@
     {
         "name": "Hideyoshi Ambrjk",
         "rare": 5,
-        "description": "A fish whose name changes as it ages. A paragon of fish warlords.",
+        "description": "A fish whose name changes as it ages. A paragon of fish warlords. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "green",
@@ -10649,7 +10658,7 @@
     {
         "name": "Khezu Seed",
         "rare": 4,
-        "description": "Those who eat these are said to have a Khezu's constitution.",
+        "description": "Those who eat this seed are said to have a Khezu's constitution. (Treasure)",
         "carry-max": 99,
         "icon": "seed",
         "color": "white",
@@ -10658,7 +10667,7 @@
     {
         "name": "Liber Ruby",
         "rare": 5,
-        "description": "A stone found in the outskirts of Liber City. A fiery red.",
+        "description": "Stone found on the outskirts of Liber City. A fiery red. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "red",
@@ -10667,7 +10676,7 @@
     {
         "name": "Old Vase Bottom",
         "rare": 3,
-        "description": "The bottom of an old vase. It has a strange power.",
+        "description": "The bottom of an old vase. It has a strange power... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "gray",
@@ -10676,7 +10685,7 @@
     {
         "name": "Schradite",
         "rare": 5,
-        "description": "Ore found in Shrade, said to have Elder Dragon-like power.",
+        "description": "Ore found in Schrade. Said to have elder dragon-like power. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "gray",
@@ -10685,7 +10694,7 @@
     {
         "name": "Twstd Bldrm Tsk",
         "rare": 5,
-        "description": "An amazing Bulldrome Tusk that resembles a Diablos horn.",
+        "description": "An amazing Bulldrome Tusk that resembles a Diablos Horn. (Treasure)",
         "carry-max": 99,
         "icon": "fang",
         "color": "white",
@@ -10694,7 +10703,7 @@
     {
         "name": "Goldendrome",
         "rare": 6,
-        "description": "The proud leader of the Goldenfish. Devours fishing lures.",
+        "description": "The proud leader of the Goldenfish. Devours fishing lures. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "red",
@@ -10703,7 +10712,7 @@
     {
         "name": "Silverdrome",
         "rare": 5,
-        "description": "The sub-leader of a group of Goldenfish. Calm, but loves bait.",
+        "description": "The sub-leader of a group of Goldenfish. Calm, but loves bait. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "white",
@@ -10712,7 +10721,7 @@
     {
         "name": "Shakalaka Stone",
         "rare": 3,
-        "description": "Superior polished Firecell Stone. Maybe it fits in a hole...",
+        "description": "Superior polished Firecell Stone. Maybe it fits in a hole... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "red",
@@ -10721,7 +10730,7 @@
     {
         "name": "Holed Shaka Mask",
         "rare": 3,
-        "description": "Old stone mask with a hole in the forehead. Something might fit...",
+        "description": "Old stone mask with a hole in the forehead. Something might fit... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "red",
@@ -10730,7 +10739,7 @@
     {
         "name": "Writhe Nut",
         "rare": 4,
-        "description": "A popular high class snack. The mouth relishes its taste.",
+        "description": "A popular high class snack. The mouth relishes its taste. (Treasure)",
         "carry-max": 99,
         "icon": "seed",
         "color": "orange",
@@ -10739,7 +10748,7 @@
     {
         "name": "Minegarde Night",
         "rare": 6,
-        "description": "Made from rare Minegarde ore. Highly desirable in making jewelry.",
+        "description": "Made from rare Minegarde ore. Highly desirable in making jewelry. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "blue",
@@ -10748,7 +10757,7 @@
     {
         "name": "Peach Clover",
         "rare": 4,
-        "description": "Finding this will increase your luck one hundredfold.",
+        "description": "Finding this will increase your luck one hundred fold. (Treasure)",
         "carry-max": 99,
         "icon": "herb",
         "color": "green",
@@ -10757,16 +10766,16 @@
     {
         "name": "Kokotoite",
         "rare": 5,
-        "description": "Ore mined near Kokoto Village. It has a healing sparkle.",
+        "description": "Ore mined near Kokoto Village. It has a healing sparkle. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "pink",
         "selling-price": 500
     },
     {
-        "name": "Skin-Care Shroom",
+        "name": "Skin Care Shroom",
         "rare": 4,
-        "description": "A mushroom rumored to prevent skin ailments when eaten.",
+        "description": "A mushroom rumored to prevent skin ailments when eaten. (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "white",
@@ -10775,7 +10784,7 @@
     {
         "name": "Lovely Locust",
         "rare": 5,
-        "description": "A gorgeous locust. Flies in a swarm, like a golden cloud.",
+        "description": "A gorgeous locust. Flies in a swarm, like a golden cloud. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "yellow",
@@ -10784,7 +10793,7 @@
     {
         "name": "Rathian Chops",
         "rare": 5,
-        "description": "Chops made of Rathian meat. Beloved by body and spirit.",
+        "description": "Chops made of Rathian meat. Beloved by body and spirit. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "green",
@@ -10793,7 +10802,7 @@
     {
         "name": "Rathian Jewel",
         "rare": 7,
-        "description": "A rarely formed jewel from inside a Rathian. Truly first-rate.",
+        "description": "A rarely formed jewel from inside a Rathian. Truly first-rate. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "green",
@@ -10802,7 +10811,7 @@
     {
         "name": "Rathalos Tongue",
         "rare": 5,
-        "description": "A Rathalos tongue. You can taste the burning coal.",
+        "description": "A Rathalos Tongue. You can taste the burning coal. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "red",
@@ -10811,7 +10820,7 @@
     {
         "name": "Rathalos Liver",
         "rare": 5,
-        "description": "A Rathalos liver. The salty aftertaste never ends.",
+        "description": "A Rathalos Liver. The salty aftertaste never ends.(Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "red",
@@ -10820,7 +10829,7 @@
     {
         "name": "Rathalos Jewel",
         "rare": 7,
-        "description": "A rarely formed jewel from inside a Rathalos. An ultimate item.",
+        "description": "A rarely formed jewel from inside a Rathalos. An ultimate item. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "red",
@@ -10829,7 +10838,7 @@
     {
         "name": "Mysterious Mask",
         "rare": 7,
-        "description": "Mask handed down by Shakalakas. Said to grant ultimate power.",
+        "description": "Mask handed down by the Shakalakas. Said to grant ultimate power. (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "red",
@@ -10838,7 +10847,7 @@
     {
         "name": "Amber Egg",
         "rare": 6,
-        "description": "Beautiful amber egg. You can sense ancient love.",
+        "description": "Beautiful amber egg. You can sense ancient love. (Treasure)",
         "carry-max": 1,
         "icon": "egg",
         "color": "orange",
@@ -10847,7 +10856,7 @@
     {
         "name": "Basarios Peach",
         "rare": 6,
-        "description": "A subterranean peach. Its above ground portion is like a rock.",
+        "description": "A subterranean peach. Its above ground portion is like a rock. (Treasure)",
         "carry-max": 99,
         "icon": "seed",
         "color": "pink",
@@ -10856,7 +10865,7 @@
     {
         "name": "Athena Beetle",
         "rare": 6,
-        "description": "Truly beautiful insect. It appears to understand you.",
+        "description": "Truly beautiful insect. It appears to understand you. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "yellow",
@@ -10865,7 +10874,7 @@
     {
         "name": "Susanofish",
         "rare": 5,
-        "description": "God-like fish. Its sword-like fin is said to be a serpent slayer.",
+        "description": "God-like fish. Its sword like fin is said to be a serpent slayer.(Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "green",
@@ -10874,7 +10883,7 @@
     {
         "name": "Torn Old Book",
         "rare": 3,
-        "description": "A book on elder dragons that is too torn to read.",
+        "description": "A book on elder dragons that is too tattered to read... (Treasure)",
         "carry-max": 99,
         "icon": "ticket",
         "color": "purple",
@@ -10883,7 +10892,7 @@
     {
         "name": "Beauty Shroom",
         "rare": 4,
-        "description": "A beautiful mushroom. Loved by beauticians.",
+        "description": "A beautiful mushroom. Loved by beauticians. (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "sky",
@@ -10892,25 +10901,34 @@
     {
         "name": "Old Book Scrap",
         "rare": 3,
-        "description": "Piece of paper that says 'Written by John Arthur'...",
+        "description": "Piece of paper that says \"Written by Jon Arthur\"... (Treasure)",
         "carry-max": 99,
         "icon": "ticket",
         "color": "purple",
         "selling-price": 300
     },
     {
-        "name": "Gravibiscus Bulb",
+        "name": "Graviscus Bulb",
         "rare": 6,
-        "description": "Enormous Gravibiscus Bulb. Hardened skin protects it from heat.",
+        "description": "Enormous Graviscus Bulb. Hardened skin protects it from heat. (Treasure)",
         "carry-max": 1,
         "icon": "seed",
         "color": "gray",
         "selling-price": 8000
     },
     {
+        "name": "Gravibiscus",
+        "rare": 4,
+        "description": "Dosbicus that grows on volcanoes. Will not wither in magma.",
+        "carry-max": 99,
+        "icon": "herb",
+        "color": "gray",
+        "selling-price": 500
+    },
+    {
         "name": "Killer Venus",
         "rare": 5,
-        "description": "Bug with looks that kill. Prey enjoy a painful ecstasy.",
+        "description": "Bug with looks that kill. Prey enjoy a painful ecstasy. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "red",
@@ -10919,7 +10937,7 @@
     {
         "name": "Dondorumin",
         "rare": 5,
-        "description": "Ore mined from the area of Dondorum. The deep blue is like the sea.",
+        "description": "Ore mined from the area of Dondorum. The deep blue is like the sea. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "blue",
@@ -10928,16 +10946,16 @@
     {
         "name": "Purple Crest",
         "rare": 5,
-        "description": "An Iodrome crest. Its value is based upon the crest's curve.",
+        "description": "An Iodrome crest. Its value is based upon the crest's curve. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "purple",
         "selling-price": 2000
     },
     {
-        "name": "Lateborium",
+        "name": "Lateobrium",
         "rare": 5,
-        "description": "Ore mined from the Lateo Volcano. A high-society metal.",
+        "description": "Ore mined from the Lateo Volcano. A high-society metal. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "green",
@@ -10946,7 +10964,7 @@
     {
         "name": "Eldr Drgn Rfrnc",
         "rare": 7,
-        "description": "Reference book with notes on Elder Dragons. Written by Jon Arthur.",
+        "description": "Reference book with notes on elder dragons. Written by Jon Arthur. (Treasure)",
         "carry-max": 99,
         "icon": "book",
         "color": "purple",
@@ -10955,7 +10973,7 @@
     {
         "name": "Teostra Meteor",
         "rare": 7,
-        "description": "Shiny stone that fell from the heavens. The interior is scorching.",
+        "description": "Shiny stone that fell from the heavens. The interior is scorching. (Treasure)",
         "carry-max": 1,
         "icon": "egg",
         "color": "red",
@@ -10964,7 +10982,7 @@
     {
         "name": "Gravios Wingtip",
         "rare": 5,
-        "description": "The wingtip of a Gravios. Enough food for 100 people.",
+        "description": "The wingtip of a Gravios. Enough food for 100 people. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "gray",
@@ -10973,7 +10991,7 @@
     {
         "name": "Gravios Giblets",
         "rare": 5,
-        "description": "The neck meat of a Gravios. Enough juicy meat for a year.",
+        "description": "The neck meat of a Gravios. Enough juicy meat for a year. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "gray",
@@ -10982,7 +11000,7 @@
     {
         "name": "Gravios Jewel",
         "rare": 8,
-        "description": "A rarely formed jewel from inside a Gravios. An ultimate item.",
+        "description": "A rarely formed jewel from inside a Gravios. An ultimate item. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "gray",
@@ -10991,7 +11009,7 @@
     {
         "name": "Amateratuna",
         "rare": 5,
-        "description": "A sungoddess fish. A sea with this fish guarantees a big catch.",
+        "description": "A sungoddess fish. A sea with this fish guarantees a big catch. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "red",
@@ -11000,7 +11018,7 @@
     {
         "name": "Brilliant Aji",
         "rare": 6,
-        "description": "Talented fish, good at figuring out how to steal your bait.",
+        "description": "Talented fish, good at figuring out how to steal your bait. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "blue",
@@ -11009,7 +11027,7 @@
     {
         "name": "Hornfly Princess",
         "rare": 6,
-        "description": "Beautiful wings makes it the Princess of the insect world.",
+        "description": "Beautiful wings makes it the Princess of the insect world. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "yellow",
@@ -11018,16 +11036,16 @@
     {
         "name": "TaillessCatStatu",
         "rare": 3,
-        "description": "The tail was cut at its base on this stone Felyne statue...",
+        "description": "The tail was cut at its base on this stone Felyne statue... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "gray",
         "selling-price": 400
     },
     {
-        "name": "CenturyWallNut",
+        "name": "Century Walnut",
         "rare": 6,
-        "description": "A mystery nut that has high points and it was carried by double hand.",
+        "description": "Born of the centuries, one bite can satisfy the malnourished. (Treasure)",
         "carry-max": 1,
         "icon": "seed",
         "color": "orange",
@@ -11036,7 +11054,7 @@
     {
         "name": "Shakalaka Ranka",
         "rare": 4,
-        "description": "Even Shakalaka become docile before this pure-white orchid.",
+        "description": "Even Shakalakas become docile before this pure-white orchid. (Treasure)",
         "carry-max": 99,
         "icon": "herb",
         "color": "white",
@@ -11045,7 +11063,7 @@
     {
         "name": "Shakalaka Squash",
         "rare": 4,
-        "description": "Squash that looks just like a Shakalaka's mask. A delicacy.",
+        "description": "Squash that looks just like a Shakalaka's mask. A delicacy. (Treasure)",
         "carry-max": 99,
         "icon": "seed",
         "color": "orange",
@@ -11054,16 +11072,16 @@
     {
         "name": "GrtForestCrystal",
         "rare": 5,
-        "description": "Ore found in the Great Forest. Its pale green is soothing.",
+        "description": "Ore found in the Great Forest. Its pale green is soothing. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "green",
         "selling-price": 600
     },
     {
-        "name": "Shimmering Shroom",
+        "name": "ShimmeringShroom",
         "rare": 4,
-        "description": "Glowing in the shade, it signals danger...",
+        "description": "Glowing in the shade, it signals danger... (Treasure)",
         "carry-max": 99,
         "icon": "mushroom",
         "color": "yellow",
@@ -11072,7 +11090,7 @@
     {
         "name": "Hornfly Prince",
         "rare": 5,
-        "description": "Masculine, large wings make it Prince of the insect world.",
+        "description": "Masculine, large wings makes it the Prince of the insect world. (Treasure)",
         "carry-max": 99,
         "icon": "insect",
         "color": "blue",
@@ -11081,7 +11099,7 @@
     {
         "name": "BrokenStoneTail",
         "rare": 3,
-        "description": "Intricate stone tail. Looks like it was cut at the base...",
+        "description": "Intricate stone tail. Looks like it was cut at the base... (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "gray",
@@ -11090,7 +11108,7 @@
     {
         "name": "AncntCatKingStat",
         "rare": 7,
-        "description": "Stone statue with a great air. A felyne ancestor, perhaps?",
+        "description": "Stone statue with a great air. A Felyne ancestor, perhaps? (Treasure)",
         "carry-max": 99,
         "icon": "unknown",
         "color": "gray",
@@ -11099,7 +11117,7 @@
     {
         "name": "ThsandYearForest",
         "rare": 7,
-        "description": "Giant Seed born during an ancient forest's near eternal life.",
+        "description": "Giant seed born during an ancient forest's near eternal life. (Treasure)",
         "carry-max": 1,
         "icon": "seed",
         "color": "green",
@@ -11108,16 +11126,16 @@
     {
         "name": "GarugaWhiteLiver",
         "rare": 5,
-        "description": "This white liver is full of nutrients. Top-class ingredient.",
+        "description": "This white liver is full of nutrients. Top-class ingredient. (Treasure)",
         "carry-max": 99,
         "icon": "meat",
         "color": "white",
         "selling-price": 3000
     },
     {
-        "name": "Garuga Clavicle Meat",
+        "name": "GarugaClavclMeat",
         "rare": 5,
-        "description": "Garuga collar meat. Hard to get, quite valuable.",
+        "description": "Garuga collar meat. Hard to get, quite valuable. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "red",
@@ -11126,7 +11144,7 @@
     {
         "name": "Garuga Drumstick",
         "rare": 5,
-        "description": "Garuga leg, it makes one super-delish soup.",
+        "description": "Garuga leg, it makes one super-delish soup. (Treasure)",
         "carry-max": 99,
         "icon": "monster",
         "color": "purple",
@@ -11135,7 +11153,7 @@
     {
         "name": "Garuga Jewel",
         "rare": 8,
-        "description": "Spectacular jewel formed inside a Yian Garuga's body. Rare.",
+        "description": "Spectacular jewel formed inside a Yian Garuga's body. Rare. (Treasure)",
         "carry-max": 1,
         "icon": "ball",
         "color": "purple",
@@ -11144,7 +11162,7 @@
     {
         "name": "Mezeporter Topaz",
         "rare": 5,
-        "description": "Ore found in Mezeporter. Popular among fashionable youth.",
+        "description": "Ore found in Mezeporter. Popular among fashionable youth. (Treasure)",
         "carry-max": 99,
         "icon": "ore",
         "color": "orange",
@@ -11153,16 +11171,34 @@
     {
         "name": "Pharr Yellowtail",
         "rare": 5,
-        "description": "Fish that preys on bugs. It seems to understand its prey.",
+        "description": "Fish that preys on bugs. It seems to understand its prey. (Treasure)",
         "carry-max": 99,
         "icon": "fish",
         "color": "green",
         "selling-price": 600
     },
     {
-        "name": "Dengeki Ticket G",
+        "name": "Gravibiscus",
+        "rare": 4,
+        "description": "Dosbiscus that grows on volcanoes. Will not wither in magma. (Treasure)",
+        "carry-max": 20,
+        "icon": "herb",
+        "color": "gray",
+        "selling-price": 0
+    },
+    {
+        "name": "Celeb Cicada",
         "rare": 5,
-        "description": "dummy.",
+        "description": "A fabulously gorgeous cicada. Its song is legendary. (Treasure)",
+        "carry-max": 20,
+        "icon": "insect",
+        "color": "green",
+        "selling-price": 0
+    },
+    {
+        "name": "Dengeki 2G Tckt",
+        "rare": 5,
+        "description": "Ticket awarded to those who successfully completed the Dengeki Trials.",
         "carry-max": 99,
         "icon": "ticket",
         "color": "yellow",
@@ -11171,52 +11207,43 @@
     {
         "name": "Famitsu Ticket",
         "rare": 5,
-        "description": "dummy.",
+        "description": "Tickets required to produce Famitsu's custom equipment. Says \"GAVAS\" in the corner.",
         "carry-max": 99,
         "icon": "ticket",
         "color": "blue",
         "selling-price": 0
     },
     {
-        "name": "Gt Amezari Shell",
+        "name": "Amezari Carapace",
         "rare": 5,
-        "description": "dummy.",
+        "description": "Crayfish usually eaten by piscine. A carapace was in the stomach. Tasty.",
         "carry-max": 99,
         "icon": "carapaceon-shell",
         "color": "red",
         "selling-price": 0
     },
     {
-        "name": "Famitsu PO",
+        "name": "Famitsu Invoice",
         "rare": 5,
-        "description": "dummy.",
+        "description": "A special order form from Famitsu. There is a sense of luxury...",
         "carry-max": 99,
         "icon": "ticket",
         "color": "red",
         "selling-price": 0
     },
     {
-        "name": "Plus Class Ticket",
-        "rare": 5,
-        "description": "dummy.",
-        "carry-max": 99,
-        "icon": "ticket",
-        "color": "blue",
-        "selling-price": 0
-    },
-    {
         "name": "Magazine Ticket",
         "rare": 5,
-        "description": "dummy.",
+        "description": "Proof of clearing magazine's quest. Strong hunter, praise your proud soul.",
         "carry-max": 99,
         "icon": "ticket",
-        "color": "white",
+        "color": "orange",
         "selling-price": 0
     },
     {
-        "name": "SpecFamitsuTckt",
+        "name": "FamitsuCustomTkt",
         "rare": 5,
-        "description": "dummy.",
+        "description": "Tickets required to produce Famitsu's custom equipment. This G rank equipment is...",
         "carry-max": 99,
         "icon": "ticket",
         "color": "sky",
@@ -11225,7 +11252,7 @@
     {
         "name": "Dengeki Ticket",
         "rare": 5,
-        "description": "dummy.",
+        "description": "You participate in the event quite a bit. Try the Dengeki magazine too. - Polytan",
         "carry-max": 99,
         "icon": "ticket",
         "color": "yellow",
@@ -11234,25 +11261,70 @@
     {
         "name": "Amezari Shell",
         "rare": 5,
-        "description": "dummy.",
+        "description": "Crayfish usually eaten by piscine. A shell was in the stomach. Tasty.",
         "carry-max": 99,
         "icon": "carapaceon-shell",
         "color": "red",
         "selling-price": 0
     },
     {
-        "name": "Dengeki Ticket+",
+        "name": "Dengeki G Ticket",
         "rare": 5,
-        "description": "dummy.",
+        "description": "How was the event? Please join us again and fight with me. - Polytan",
         "carry-max": 99,
         "icon": "ticket",
         "color": "yellow",
         "selling-price": 0
     },
     {
-        "name": "Pirate Tckt J G",
+        "name": "Pirate J Tckt G",
         "rare": 5,
-        "description": "dummy.",
+        "description": "Proof of clearing the JUMP quest. The legendary pirate armor recipe is inscribed.",
+        "carry-max": 99,
+        "icon": "ticket",
+        "color": "red",
+        "selling-price": 0
+    },
+    {
+        "name": "Polytan Bomb",
+        "rare": 5,
+        "description": "Whoa... If you get close to me you'll get burned! - Polytan",
+        "carry-max": 10,
+        "icon": "bomb",
+        "color": "yellow",
+        "selling-price": 50
+    },
+    {
+        "name": "JUMP Barrel Bomb",
+        "rare": 5,
+        "description": "This pirate bomb is only available on JUMP quest! It's a large bounce bomb.",
+        "carry-max": 5,
+        "icon": "bomb",
+        "color": "blue",
+        "selling-price": 80
+    },
+    {
+        "name": "Famitsu PT Tckt",
+        "rare": 5,
+        "description": "A shiny platinum ticket sent by Famitsu to those who love hunting.",
+        "carry-max": 99,
+        "icon": "ticket",
+        "color": "white",
+        "selling-price": 0
+    },
+    {
+        "name": "Dengeki Maoh Tkt",
+        "rare": 5,
+        "description": "Given to those who cleared the Dengeki Maoh quest. Exchangeable for...",
+        "carry-max": 99,
+        "icon": "ticket",
+        "color": "yellow",
+        "selling-price": 0
+    },
+    {
+        "name": "Pirate J Ticket",
+        "rare": 5,
+        "description": "Proof of clearing the JUMP quest. A recipe is written with the skull marking...",
         "carry-max": 99,
         "icon": "ticket",
         "color": "red",

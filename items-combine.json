@@ -360,6 +360,186 @@
         "max": 1
     },
     {
+        "name": "Lg Barrel-Bomb",
+        "type": "normal",
+        "materialA": "Gunpowder",
+        "materialB": "Large Barrel",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Lg Barrel-Bomb+",
+        "type": "normal",
+        "materialA": "Lg Barrel-Bomb",
+        "materialB": "Scatterfish",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Lightning Rod",
+        "type": "normal",
+        "materialA": "Burst Arrowana",
+        "materialB": "Thunderbug",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Bounce Bomb",
+        "type": "normal",
+        "materialA": "Sm Barrel-Bomb",
+        "materialB": "Vespoid Wing",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Bounce Bomb+",
+        "type": "normal",
+        "materialA": "Bounce Bomb",
+        "materialB": "Bomb Arrowana",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Sonic Bomb",
+        "type": "normal",
+        "materialA": "Gunpowder",
+        "materialB": "Screamer",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Net",
+        "type": "normal",
+        "materialA": "Spiderweb",
+        "materialB": "Ivy",
+        "chance": 90,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Pitfall Trap",
+        "type": "normal",
+        "materialA": "Net",
+        "materialB": "Trap Tool",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Shock Trap",
+        "type": "normal",
+        "materialA": "Trap Tool",
+        "materialB": "Genprey Fang",
+        "chance": 90,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Tuna Bait",
+        "type": "normal",
+        "materialA": "Worm",
+        "materialB": "Yambug",
+        "chance": 95,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Arrowana Bait",
+        "type": "normal",
+        "materialA": "Cricket",
+        "materialB": "Bughopper",
+        "chance": 95,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Goldenfish Bait",
+        "type": "normal",
+        "materialA": "Firefly",
+        "materialB": "Snakebee Larva",
+        "chance": 90,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Old Pickaxe",
+        "type": "normal",
+        "materialA": "Stone",
+        "materialB": "Bone",
+        "chance": 95,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Iron Pickaxe",
+        "type": "normal",
+        "materialA": "Iron Ore",
+        "materialB": "Bone",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Mega Pickaxe",
+        "type": "normal",
+        "materialA": "Machalite Ore",
+        "materialB": "Bone",
+        "chance": 95,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Old Bugnet",
+        "type": "normal",
+        "materialA": "Net",
+        "materialB": "Mystery Bone",
+        "chance": 95,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Bugnet",
+        "type": "normal",
+        "materialA": "Net",
+        "materialB": "Sm Monster Bone",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Mega Bugnet",
+        "type": "normal",
+        "materialA": "Net",
+        "materialB": "Med Monster Bone",
+        "chance": 95,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Antiseptic Stone",
+        "type": "normal",
+        "materialA": "Earth Crystal",
+        "materialB": "Bitterbug",
+        "chance": 75,
+        "min": 1,
+        "max": 1
+    },
+    {
+        "name": "Lifecrystals",
+        "type": "normal",
+        "materialA": "Godbug",
+        "materialB": "Wyvern Fang",
+        "chance": 90,
+        "min": 1,
+        "max": 1
+    },
+    {
         "name": "Lifepowder",
         "type": "normal",
         "materialA": "Lifecrystals",
@@ -1155,13 +1335,13 @@
         "name": "Felyne Crown",
         "type": "treasure",
         "materialA": "Flyn Crwn Frgmnt",
-        "materialB": "Inferior Flyn Crn",
+        "materialB": "Inferior FlynCrn",
         "chance": 100,
         "min": 1,
         "max": 1
     },
     {
-        "name": "GoldFelynJewelSword",
+        "name": "GldFlynJewelSwd",
         "type": "treasure",
         "materialA": "GldBladelessHndl",
         "materialB": "Hndlelss Gld Bld",
