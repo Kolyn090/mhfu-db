@@ -9054,7 +9054,7 @@
         "selling-price": 40
     },
     {
-        "name": "SpecialAtk Jewel+",
+        "name": "SpecialAtkJewel+",
         "rare": 5,
         "description": "Decoration that raises the Spc Attack Skill.",
         "carry-max": 99,
@@ -9189,7 +9189,7 @@
         "selling-price": 40
     },
     {
-        "name": "Constitutn Jewel",
+        "name": "ConstitutnJewel",
         "rare": 4,
         "description": "Decoration that raises the Constitution Skill.",
         "carry-max": 99,
@@ -9882,7 +9882,7 @@
         "selling-price": 200
     },
     {
-        "name": "Wyverngrass",
+        "name": "Wyvern Grass",
         "rare": 3,
         "description": "A type of grass loved by herbivores. Incredibly adaptive.",
         "carry-max": 99,
@@ -9972,7 +9972,7 @@
         "selling-price": 100
     },
     {
-        "name": "Medium Wyvernfish",
+        "name": "Med Wyvernfish",
         "rare": 4,
         "description": "Species of rare fish said to be a living fossil. Needs growth.",
         "carry-max": 99,
@@ -10008,7 +10008,7 @@
         "selling-price": 100
     },
     {
-        "name": "Pillowbug",
+        "name": "Pillow Bug",
         "rare": 5,
         "description": "A bug with an elegant cry. Intoxicating to classical poets.",
         "carry-max": 99,
@@ -10024,6 +10024,15 @@
         "icon": "insect",
         "color": "green",
         "selling-price": 300
+    },
+    {
+        "name": "Celeb Cicada",
+        "rare": 5,
+        "description": "A fabulously gorgeous cicada. Its song is legendary.",
+        "carry-max": 99,
+        "icon": "insect",
+        "color": "green",
+        "selling-price": 800
     },
     {
         "name": "Rathalos Fly",
@@ -10233,7 +10242,7 @@
         "selling-price": 200
     },
     {
-        "name": "Inferior Flyn Crn",
+        "name": "Inferior FlynCrn",
         "rare": 3,
         "description": "Melynx size crown. But it just isn't quite up to snuff.",
         "carry-max": 99,
@@ -10269,7 +10278,7 @@
         "selling-price": 600
     },
     {
-        "name": "Kut-ku Cartilage",
+        "name": "Kut-Ku Cartilage",
         "rare": 5,
         "description": "Kut-Ku cartilage. A tasty snack that should never go to waste.",
         "carry-max": 99,
@@ -10305,7 +10314,7 @@
         "selling-price": 3000
     },
     {
-        "name": "Marilyn Butterfly",
+        "name": "Marilyn Btterfly",
         "rare": 5,
         "description": "Its white wings have a single black beauty mark. A sexy critter.",
         "carry-max": 99,
@@ -10323,7 +10332,7 @@
         "selling-price": 9000
     },
     {
-        "name": "Shining Jellyfish",
+        "name": "Shining Jellyfsh",
         "rare": 4,
         "description": "A brightly shining type of mushroom. Said to guide travelers.",
         "carry-max": 99,
@@ -10341,7 +10350,7 @@
         "selling-price": 800
     },
     {
-        "name": "Velociprey Lilly",
+        "name": "Velociprey Lily",
         "rare": 4,
         "description": "A blue crest-like flower with a single red petal.",
         "carry-max": 99,
@@ -10386,7 +10395,7 @@
         "selling-price": 700
     },
     {
-        "name": "Cephalos Watrmeln",
+        "name": "Cephalos Wtrmeln",
         "rare": 4,
         "description": "Grown in the desert. Covered in sand like a cephalos.",
         "carry-max": 99,
@@ -10440,7 +10449,7 @@
         "selling-price": 500
     },
     {
-        "name": "Elder Dragon Fossil",
+        "name": "Eldr Drgn Fossil",
         "rare": 7,
         "description": "Fossilized over many years, it retains its power.",
         "carry-max": 1,
@@ -10467,7 +10476,7 @@
         "selling-price": 200
     },
     {
-        "name": "GoldFelynJewelSword",
+        "name": "GldFlynJewelSwd",
         "rare": 7,
         "description": "Blade used at Felyne family reunions. Flashy solid gold.",
         "carry-max": 99,
@@ -10503,7 +10512,7 @@
         "selling-price": 1000
     },
     {
-        "name": "Plump Goldenish",
+        "name": "Plump Goldenfish",
         "rare": 5,
         "description": "Stout Goldenfish with a gaudy tail that screams high-class.",
         "carry-max": 99,
@@ -10548,7 +10557,7 @@
         "selling-price": 500
     },
     {
-        "name": "Congalala Innards",
+        "name": "Congalala Innrds",
         "rare": 5,
         "description": "Innards of a Congalala. Eat before a hunt for extra energy.",
         "carry-max": 99,
@@ -10566,7 +10575,7 @@
         "selling-price": 20000
     },
     {
-        "name": "Congalala Stomach",
+        "name": "Congalala Stomch",
         "rare": 5,
         "description": "Stomach of a Congalala, it has a strange consistency.",
         "carry-max": 99,
@@ -10575,7 +10584,7 @@
         "selling-price": 3000
     },
     {
-        "name": "Nobunga Bonito",
+        "name": "Nobunaga Bonito",
         "rare": 5,
         "description": "Aggressive fish aiming to unify all under its oppressive rule.",
         "carry-max": 99,
@@ -10764,7 +10773,7 @@
         "selling-price": 500
     },
     {
-        "name": "Skin-Care Shroom",
+        "name": "Skin Care Shroom",
         "rare": 4,
         "description": "A mushroom rumored to prevent skin ailments when eaten.",
         "carry-max": 99,
@@ -10899,13 +10908,22 @@
         "selling-price": 300
     },
     {
-        "name": "Gravibiscus Bulb",
+        "name": "Graviscus Bulb",
         "rare": 6,
         "description": "Enormous Gravibiscus Bulb. Hardened skin protects it from heat.",
         "carry-max": 1,
         "icon": "seed",
         "color": "gray",
         "selling-price": 8000
+    },
+    {
+        "name": "Gravibiscus",
+        "rare": 4,
+        "description": "Dosbicus that grows on volcanoes. Will not wither in magma.",
+        "carry-max": 99,
+        "icon": "herb",
+        "color": "gray",
+        "selling-price": 500
     },
     {
         "name": "Killer Venus",
@@ -10935,7 +10953,7 @@
         "selling-price": 2000
     },
     {
-        "name": "Lateborium",
+        "name": "Lateobrium",
         "rare": 5,
         "description": "Ore mined from the Lateo Volcano. A high-society metal.",
         "carry-max": 99,
@@ -11025,7 +11043,7 @@
         "selling-price": 400
     },
     {
-        "name": "CenturyWallNut",
+        "name": "Century Walnut",
         "rare": 6,
         "description": "A mystery nut that has high points and it was carried by double hand.",
         "carry-max": 1,
@@ -11061,7 +11079,7 @@
         "selling-price": 600
     },
     {
-        "name": "Shimmering Shroom",
+        "name": "ShimmeringShroom",
         "rare": 4,
         "description": "Glowing in the shade, it signals danger...",
         "carry-max": 99,
@@ -11115,7 +11133,7 @@
         "selling-price": 3000
     },
     {
-        "name": "Garuga Clavicle Meat",
+        "name": "GarugaClavclMeat",
         "rare": 5,
         "description": "Garuga collar meat. Hard to get, quite valuable.",
         "carry-max": 99,
