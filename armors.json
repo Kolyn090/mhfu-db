@@ -12310,37 +12310,97 @@
     },
     {
         "part": "helmet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Amezari Head",
+        "rare": 5,
+        "price": 4150,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "defense": 32,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Armor that could make crying babies laugh. Recommended for anxious parents!",
+        "slots": 2,
+        "fire-res": 3,
+        "thundr-res": -2,
         "dragon-res": 0,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "helmet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Amezari Cap",
+        "rare": 5,
+        "price": 4150,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "defense": 15,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Wear this armor to become a skilled talker. Make people laugh with your boasting!",
+        "slots": 2,
+        "fire-res": 3,
         "thundr-res": 0,
-        "dragon-res": 0,
+        "dragon-res": 1,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "helmet",
@@ -15241,71 +15301,199 @@
     },
     {
         "part": "helmet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Diasorte Helm",
+        "rare": 8,
+        "price": 5800,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Constitutn",
+                "points": -3
+            },
+            {
+                "name": "ShortCharg",
+                "points": 3
+            }
+        ],
+        "description": "Replica feature in Dengeki Maoh's manga. The power of the Crimson Demon dwells.",
+        "slots": 1,
+        "fire-res": 3,
+        "thundr-res": 1,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": -1,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "helmet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Diasorte Cap",
+        "rare": 8,
+        "price": 5800,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -2
+            },
+            {
+                "name": "ShortCharg",
+                "points": 2
+            }
+        ],
+        "description": "Replica featured in Dengeki Maoh's manga. Is its crimson hell the color of blood?",
+        "slots": 1,
+        "fire-res": 5,
+        "thundr-res": 4,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": 2,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Rare Scarab",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "helmet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Pirate J Hat",
+        "rare": 8,
+        "price": 13500,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 48,
+        "skill-points": [
+            {
+                "name": "Protection",
+                "points": -3
+            },
+            {
+                "name": "Fate",
+                "points": 4
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Legendary pirate headwear. The crest symbolizes hard work, friendship & victory.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Small Goldenfish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "helmet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Pirate J Roger",
+        "rare": 8,
+        "price": 13500,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            },
+            {
+                "name": "Fate",
+                "points": 4
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Legendary pirate headwear. The soul of a great pirate is imbued within its folds.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Small Goldenfish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "helmet",
@@ -19553,19 +19741,53 @@
     {
         "part": "helmet",
         "name": "Obituary Caput X",
-        "rare": 999,
-        "price": 0,
+        "rare": 10,
+        "price": 13800,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "defense": 42,
+        "skill-points": [
+            {
+                "name": "PelletS Up",
+                "points": 2
+            },
+            {
+                "name": "Cold Res",
+                "points": -2
+            },
+            {
+                "name": "Gathering",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 3
+            }
+        ],
+        "description": "Made of insect. Its power allows one to go head to head with bird-like wyverns.",
+        "slots": 2,
+        "fire-res": 4,
+        "thundr-res": 5,
+        "dragon-res": 2,
+        "water-res": -4,
+        "ice-res": -3,
+        "materials": [
+            {
+                "name": "PhantomButterfly",
+                "amount": 3
+            },
+            {
+                "name": "Great Hornfly",
+                "amount": 2
+            },
+            {
+                "name": "Thunderbug Jelly",
+                "amount": 3
+            },
+            {
+                "name": "Blazing Fire Sac",
+                "amount": 4
+            }
+        ]
     },
     {
         "part": "helmet",
@@ -20950,11 +21172,16 @@
     {
         "part": "helmet",
         "name": "Ambitious Piercing",
-        "rare": 999,
+        "rare": 10,
         "price": 0,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Fate",
+                "points": 15
+            }
+        ],
         "description": "Ear piercing that goes with anything. It's said to reflect the person's heart.",
         "slots": 0,
         "fire-res": 0,
@@ -20962,7 +21189,24 @@
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "",
+                "amount": 999
+            },
+            {
+                "name": "",
+                "amount": 999
+            },
+            {
+                "name": "",
+                "amount": 999
+            },
+            {
+                "name": "",
+                "amount": 999
+            }
+        ]
     },
     {
         "part": "helmet",
@@ -24678,19 +24922,49 @@
     {
         "part": "plate",
         "name": "Chain Mail U",
-        "rare": 999,
-        "price": 0,
+        "rare": 7,
+        "price": 1650,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "Backpackng",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -1
+            },
+            {
+                "name": "Whim",
+                "points": 2
+            }
+        ],
+        "description": "Mail made from woven chain. A piece of armor that has protected many hunters.",
+        "slots": 2,
+        "fire-res": 2,
+        "thundr-res": -2,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": 2,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Rainbow Ore",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Genprey Hide+",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "plate",
@@ -32648,20 +32922,46 @@
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu T-Shirt S",
+        "rare": 8,
+        "price": 3750,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Antiseptic",
+                "points": 2
+            },
+            {
+                "name": "Protection",
+                "points": 5
+            }
+        ],
+        "description": "Wear it in your favorite color! Famitsu T-Shirt!!",
+        "slots": 1,
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "Famitsu Invoice",
+                "amount": 5
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Yian Garuga Coin",
+                "amount": 6
+            },
+            {
+                "name": "Kirin Coin",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "plate",
@@ -32963,20 +33263,42 @@
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Hunter T-Shirt",
+        "rare": 8,
+        "price": 3750,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Fate",
+                "points": 5
+            }
+        ],
+        "description": "Worn only by adult hunters and emblazoned with the logo of the Hero of Kokoto.",
+        "slots": 2,
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "Hunter's Ticket",
+                "amount": 3
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Daora Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Tigrex Scale+",
+                "amount": 4
+            }
+        ]
     },
     {
         "part": "plate",
@@ -33168,37 +33490,105 @@
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Mail",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "B",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -1
+            },
+            {
+                "name": "ShortCharg",
+                "points": 1
+            }
+        ],
+        "description": "Replica featured in Dengeki Maoh's manga. Being limited edition, it has high value.",
+        "slots": 1,
+        "fire-res": 3,
+        "thundr-res": 1,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": -1,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Vest",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "G",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -1
+            },
+            {
+                "name": "ShortCharg",
+                "points": 1
+            }
+        ],
+        "description": "Replica featured in Dengeki Maoh's manga. An imposing product for Hunters.",
+        "slots": 1,
+        "fire-res": 5,
+        "thundr-res": 4,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": 2,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "plate",
@@ -35816,71 +36206,187 @@
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Suit",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "B",
+        "defense": 48,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 1
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            },
+            {
+                "name": "Fate",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "This legendary pirate attire gives one the courage to sail into the unknown.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Fire Drgn Scl+",
+                "amount": 3
+            },
+            {
+                "name": "Ancient Fish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Jacket",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "G",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 1
+            },
+            {
+                "name": "Protection",
+                "points": -1
+            },
+            {
+                "name": "Fate",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Legendary pirate clothing. The spirit of adventure in its sleeves is tangible.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Fire Drgn Scl+",
+                "amount": 3
+            },
+            {
+                "name": "Ancient Fish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu T-Shirt X",
+        "rare": 10,
+        "price": 5600,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -5
+            },
+            {
+                "name": "Carving",
+                "points": 6
+            }
+        ],
+        "description": "Wear it in your favorite color! Famitsu T-Shirt!!",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "FamitsuCustomTkt",
+                "amount": 5
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "BlackBeltCoinG",
+                "amount": 6
+            },
+            {
+                "name": "Expert Coin G",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "HuntingSoulT-ShirtX",
+        "rare": 10,
+        "price": 5600,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "SpeedSetup",
+                "points": 10
+            }
+        ],
+        "description": "A graphic t-shirt emblazoned with \"Hunting Soul\". Worn by honored hunters.",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "SpecPuppetTicket",
+                "amount": 5
+            },
+            {
+                "name": "Hunter Soul Tkt",
+                "amount": 5
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 2
+            },
+            {
+                "name": "BlackBeltCoinG",
+                "amount": 4
+            }
+        ]
     },
     {
         "part": "plate",
@@ -41471,20 +41977,42 @@
     },
     {
         "part": "plate",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Hunter T-Shirt X",
+        "rare": 10,
+        "price": 5600,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "Perceive",
+                "points": 10
+            }
+        ],
+        "description": "Worn only by adult hunters and emblazoned with the logo of the Hero of Kokoto.",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "SpecPuppetTicket",
+                "amount": 5
+            },
+            {
+                "name": "Hunter Soul Tkt",
+                "amount": 5
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Expert Coin G",
+                "amount": 4
+            }
+        ]
     },
     {
         "part": "plate",
@@ -44889,20 +45417,50 @@
     },
     {
         "part": "gauntlet",
-        "name": "Auroros Gauntlets",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Amezari Vambraces",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "B",
+        "defense": 32,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "If worn for telling jokes, this legendary armor will eliminate any awkwardness.",
+        "slots": 2,
+        "fire-res": 3,
+        "thundr-res": -2,
         "dragon-res": 0,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -50602,20 +51160,50 @@
     },
     {
         "part": "gauntlet",
-        "name": "Auroros GauntletHaku",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "name": "Amezari Guards",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "G",
+        "defense": 15,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "If worn for retorts, you double persuaiveness and laughter. A must-have item.",
+        "slots": 2,
+        "fire-res": 3,
         "thundr-res": 0,
-        "dragon-res": 0,
+        "dragon-res": 1,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -50666,37 +51254,105 @@
     },
     {
         "part": "gauntlet",
-        "name": "BorealisGauntletHaku",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "name": "Auroros Gauntlets",
+        "rare": 5,
+        "price": 9800,
+        "hunter-type": "B",
+        "defense": 44,
+        "skill-points": [
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Guard",
+                "points": 3
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "description": "Made for men from Lao-Shan. Ultimate materials and crafting for brutal power.",
+        "slots": 2,
+        "fire-res": -2,
         "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "dragon-res": -4,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Lao-Shan's Scale",
+                "amount": 5
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "amount": 2
+            },
+            {
+                "name": "Rathalos Wing",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "gauntlet",
-        "name": "Glyph Gauntlets Haku",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "name": "Auroros GauntletHaku",
+        "rare": 8,
+        "price": 16000,
+        "hunter-type": "B",
+        "defense": 66,
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": -1
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Guard Up",
+                "points": 2
+            }
+        ],
+        "description": "Made for men from Lao-Shan. Ultimate materials and crafting for brutal power.",
+        "slots": 2,
+        "fire-res": -2,
         "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "dragon-res": -4,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Lao-Shan's Scale+",
+                "amount": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 4
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -53290,20 +53946,54 @@
     },
     {
         "part": "gauntlet",
-        "name": "BlueGuildGuardGloves",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "Part of the official Guild Knight uniform. It fills all those who see it with envy.",
-        "slots": 0,
-        "fire-res": 0,
+        "name": "BorealisGauntletHaku",
+        "rare": 8,
+        "price": 16000,
+        "hunter-type": "B",
+        "defense": 66,
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": -1
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Guard Up",
+                "points": 2
+            }
+        ],
+        "description": "Made from Lao-Shan Lung. Its extreme gallantry makes it the ultimate rare item.",
+        "slots": 2,
+        "fire-res": -2,
         "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "dragon-res": -4,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Lao-Shan's Scale+",
+                "amount": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 4
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -53354,20 +54044,50 @@
     },
     {
         "part": "gauntlet",
-        "name": "BlueGuildGuardGloves",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "Part of the official Guild Knight uniform. Worn by those in Guild service.",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "name": "Glyph Gauntlets Haku",
+        "rare": 8,
+        "price": 16000,
+        "hunter-type": "G",
+        "defense": 32,
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": -1
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Reload",
+                "points": 4
+            }
+        ],
+        "description": "Armor made from Lao-Shan Lung material. Behold the style of a true tyrant.",
+        "slots": 2,
+        "fire-res": 1,
+        "thundr-res": 2,
+        "dragon-res": -2,
+        "water-res": 3,
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "Lao-Shan's Scale+",
+                "amount": 5
+            },
+            {
+                "name": "ElderDragonBlood",
+                "amount": 4
+            },
+            {
+                "name": "FireWyvrn BrnStm",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -53418,37 +54138,97 @@
     },
     {
         "part": "gauntlet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "BlueGuildGuardGloves",
+        "rare": 8,
+        "price": 16000,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Fate",
+                "points": -3
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Part of the official Guild Knight uniform. It fills all those who see it with envy.",
+        "slots": 1,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Novacrystal",
+                "amount": 1
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            },
+            {
+                "name": "Azre Rthlos Scl+",
+                "amount": 5
+            }
+        ]
     },
     {
         "part": "gauntlet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "BlueGuildGuardGloves",
+        "rare": 8,
+        "price": 16000,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Fate",
+                "points": -3
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Part of the official Guild Knight uniform. Worn by those in Guild service.",
+        "slots": 1,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Novacrystal",
+                "amount": 1
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            },
+            {
+                "name": "Azre Rthlos Scl+",
+                "amount": 5
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -56078,71 +56858,203 @@
     },
     {
         "part": "gauntlet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Vambraces",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "B",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": 2
+            },
+            {
+                "name": "Constitutn",
+                "points": -2
+            },
+            {
+                "name": "ShortCharg",
+                "points": 2
+            }
+        ],
+        "description": "Replica feature in Dengeki Maoh's manga. Proof of ending the one-horned demon.",
+        "slots": 2,
+        "fire-res": 3,
+        "thundr-res": 1,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": -1,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 4
+            }
+        ]
     },
     {
         "part": "gauntlet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Guards",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "G",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -2
+            },
+            {
+                "name": "ShortCharg",
+                "points": 2
+            }
+        ],
+        "description": "Replica featured in Dengeki Maoh's manga. Mark of a hero that slew the Crimson Demon.",
+        "slots": 1,
+        "fire-res": 5,
+        "thundr-res": 4,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": 2,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Majestic Horn",
+                "amount": 1
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 4
+            }
+        ]
     },
     {
         "part": "gauntlet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Gloves",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "B",
+        "defense": 48,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            },
+            {
+                "name": "Fate",
+                "points": 2
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Lengendary pirate arm gear. Seizes treasure in the same hand that claims victory.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Small Goldenfish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "gauntlet",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Cuffs",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "G",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Protection",
+                "points": -3
+            },
+            {
+                "name": "Fate",
+                "points": 4
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Lengendary pirate arm gear. Perfect for embarking with friends into the unknown.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Small Goldenfish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -57507,19 +58419,49 @@
     {
         "part": "gauntlet",
         "name": "AurorosGauntletsGoku",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "rare": 10,
+        "price": 35500,
+        "hunter-type": "B",
+        "defense": 98,
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": -2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 6
+            },
+            {
+                "name": "Sword Draw",
+                "points": 1
+            }
+        ],
+        "description": "Made for men from Lao-Shan. Ultimate materials and crafting for brutal power.",
+        "slots": 2,
+        "fire-res": -2,
         "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "dragon-res": -4,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Lao-Shan'sHvyShel",
+                "amount": 4
+            },
+            {
+                "name": "Azure LaoS Claw",
+                "amount": 1
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -57571,19 +58513,49 @@
     {
         "part": "gauntlet",
         "name": "BorealsGauntletsGoku",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
+        "rare": 10,
+        "price": 35500,
+        "hunter-type": "B",
         "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "skill-points": [
+            {
+                "name": "Faint",
+                "points": -2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 6
+            },
+            {
+                "name": "Sword Draw",
+                "points": 1
+            }
+        ],
+        "description": "Made from Lao-Shan Lung. Its extreme gallantry makes it the ultimate rare item.",
+        "slots": 2,
+        "fire-res": -2,
         "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "dragon-res": -4,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Lao-Shan'sHvyShel",
+                "amount": 4
+            },
+            {
+                "name": "Azure LaoS Claw",
+                "amount": 1
+            },
+            {
+                "name": "Narga Brain Stem",
+                "amount": 1
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -59007,19 +59979,41 @@
     {
         "part": "gauntlet",
         "name": "BlackBeltVambracesX",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "rare": 10,
+        "price": 19800,
+        "hunter-type": "B",
+        "defense": 82,
+        "skill-points": [
+            {
+                "name": "Torso Inc",
+                "points": 1
+            }
+        ],
+        "description": "Filled with zeal and given upon training completion. A reminder of your instructor.",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 1,
+        "thundr-res": 1,
+        "dragon-res": 1,
+        "water-res": 1,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "SpecialKirinHide",
+                "amount": 2
+            },
+            {
+                "name": "BlackBeltCoinG",
+                "amount": 8
+            },
+            {
+                "name": "Legend Coin G",
+                "amount": 3
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "gauntlet",
@@ -72945,20 +73939,50 @@
     },
     {
         "part": "waist",
-        "name": "Plesioth Coat S",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Amezari Tasset",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "B",
+        "defense": 32,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Armor that boosts partner compatibility. With this, your jokes are maximized.",
+        "slots": 2,
+        "fire-res": 3,
+        "thundr-res": -2,
         "dragon-res": 0,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "waist",
@@ -73538,37 +74562,93 @@
     },
     {
         "part": "waist",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "name": "Amezari Coat",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "G",
+        "defense": 15,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Armor that boosts partner compatibility. With this, your retorts are maximized.",
+        "slots": 2,
+        "fire-res": 3,
         "thundr-res": 0,
-        "dragon-res": 0,
+        "dragon-res": 1,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "waist",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Mafumofu Coat S",
+        "rare": 6,
+        "price": 1150,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Heat Res",
+                "points": -2
+            },
+            {
+                "name": "Cold Res",
+                "points": 5
+            }
+        ],
+        "description": "Special product of Pokke. Its warmth and fluffiness are absolutely lovely.",
+        "slots": 1,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 1
+            },
+            {
+                "name": "Rainbow Insect",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "waist",
@@ -73693,20 +74773,54 @@
     },
     {
         "part": "waist",
-        "name": "Mafumofu Coat S",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "name": "Plesioth Coat S",
+        "rare": 6,
+        "price": 9500,
+        "hunter-type": "G",
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Hunger",
+                "points": -2
+            },
+            {
+                "name": "Heat Res",
+                "points": 2
+            },
+            {
+                "name": "Cold Res",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": 3
+            }
+        ],
+        "description": "Waist armor made of fitted Plesioth scales. Strong resistance to Water attacks.",
+        "slots": 1,
+        "fire-res": -2,
+        "thundr-res": -2,
+        "dragon-res": 1,
+        "water-res": 6,
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "Plesioth Scale+",
+                "amount": 3
+            },
+            {
+                "name": "Plesioth Fin+",
+                "amount": 1
+            },
+            {
+                "name": "Union Ore",
+                "amount": 2
+            },
+            {
+                "name": "Cephalos Scale+",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "waist",
@@ -75294,19 +76408,49 @@
     {
         "part": "waist",
         "name": "Death Stench Belly S",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
+        "rare": 8,
+        "price": 10750,
+        "hunter-type": "G",
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": -3
+            },
+            {
+                "name": "Spc Attack",
+                "points": 2
+            },
+            {
+                "name": "AutoReload",
+                "points": 2
+            }
+        ],
+        "description": "Armor cursed to bring about death. The smell of dried blood never washes away.",
+        "slots": 2,
+        "fire-res": 3,
+        "thundr-res": 2,
+        "dragon-res": 1,
+        "water-res": 2,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Sinister Cloth",
+                "amount": 2
+            },
+            {
+                "name": "Hrd Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Striped Skin",
+                "amount": 3
+            },
+            {
+                "name": "Eldr Dragon Bone",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "waist",
@@ -76074,71 +77218,207 @@
     },
     {
         "part": "waist",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Coil",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "B",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -2
+            },
+            {
+                "name": "ShortCharg",
+                "points": 2
+            }
+        ],
+        "description": "Replica feature in Dengeki Maoh's manga. Its a replica, but the performance is real.",
+        "slots": 1,
+        "fire-res": 3,
+        "thundr-res": 1,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": -1,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Diablos Thoracic",
+                "amount": 3
+            },
+            {
+                "name": "King Scarab",
+                "amount": 5
+            }
+        ]
     },
     {
         "part": "waist",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Coat",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "G",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": 2
+            },
+            {
+                "name": "Constitutn",
+                "points": -2
+            },
+            {
+                "name": "ShortCharg",
+                "points": 2
+            }
+        ],
+        "description": "Replica feature in Dengeki Maoh's manga. For actual combat, not just decoration.",
+        "slots": 2,
+        "fire-res": 5,
+        "thundr-res": 4,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": 2,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Diablos Thoracic",
+                "amount": 3
+            },
+            {
+                "name": "King Scarab",
+                "amount": 5
+            }
+        ]
     },
     {
         "part": "waist",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Coil",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "B",
+        "defense": 48,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            },
+            {
+                "name": "Fate",
+                "points": 2
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Lengendary pirate waist gear, worn from the hardships overcome with one's friends.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Fire Drgn Scl+",
+                "amount": 3
+            },
+            {
+                "name": "Ancient Fish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "waist",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Skirt",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "G",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            },
+            {
+                "name": "Fate",
+                "points": 2
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Legendary pirate waist gear worn by the strong hearted, ready to face anything.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Fire Drgn Scl+",
+                "amount": 3
+            },
+            {
+                "name": "Ancient Fish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "waist",
@@ -85195,37 +86475,97 @@
     },
     {
         "part": "legging",
-        "name": "Cream Pants",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Amezari Greaves",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "B",
+        "defense": 32,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Armor that can make angry beasts laugh. The subject of humor is universal.",
+        "slots": 2,
+        "fire-res": 3,
+        "thundr-res": -2,
         "dragon-res": 0,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "Coffee Pants",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "name": "Amezari Leggings",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "G",
+        "defense": 15,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Armor that can make wyverns laugh. Laughter transcends barriers between species.",
+        "slots": 2,
+        "fire-res": 3,
         "thundr-res": 0,
-        "dragon-res": 0,
+        "dragon-res": 1,
         "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "legging",
@@ -87278,20 +88618,54 @@
     },
     {
         "part": "legging",
-        "name": "Healer Socks U",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu Cloth Wrap",
+        "rare": 5,
+        "price": 1150,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "Official uniform of female Guild staff. Leather boots brace the feet. Super cute!",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Sleep",
+                "points": 6
+            },
+            {
+                "name": "Protection",
+                "points": 5
+            },
+            {
+                "name": "",
+                "points": 999
+            },
+            {
+                "name": "",
+                "points": 999
+            }
+        ],
+        "description": "Manly and alluring legwear. The soul of the game loving Famitsu dwells with fervor.",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 2,
+        "thundr-res": 2,
+        "dragon-res": 2,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Famitsu Ticket",
+                "amount": 5
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            },
+            {
+                "name": "ShakalakaTreasre",
+                "amount": 2
+            },
+            {
+                "name": "Blackbelt Ticket",
+                "amount": 6
+            }
+        ]
     },
     {
         "part": "legging",
@@ -93518,37 +94892,101 @@
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu Shorts",
+        "rare": 5,
+        "price": 1150,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Sleep",
+                "points": 6
+            },
+            {
+                "name": "Protection",
+                "points": 5
+            },
+            {
+                "name": "",
+                "points": 999
+            },
+            {
+                "name": "",
+                "points": 999
+            }
+        ],
+        "description": "Cute striped tights, a product of love to Famitsu's game loving women.",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 2,
+        "thundr-res": 2,
+        "dragon-res": 2,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Famitsu Ticket",
+                "amount": 5
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            },
+            {
+                "name": "ShakalakaTreasre",
+                "amount": 2
+            },
+            {
+                "name": "Blackbelt Ticket",
+                "amount": 6
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Cream Pants",
+        "rare": 7,
+        "price": 1350,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -1
+            },
+            {
+                "name": "Gathering",
+                "points": 2
+            },
+            {
+                "name": "Alchemy",
+                "points": 2
+            }
+        ],
+        "description": "The basic leggings of a hunter. Light and easy to move around in.",
+        "slots": 3,
+        "fire-res": 2,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Giaprey Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 5
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 3
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "legging",
@@ -96433,139 +97871,383 @@
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Coffee Pants",
+        "rare": 7,
+        "price": 1650,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "Backpackng",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -1
+            },
+            {
+                "name": "Whim",
+                "points": 4
+            }
+        ],
+        "description": "Durable crafted pants. Sparingly uses metal to maintain mobility.",
+        "slots": 2,
+        "fire-res": 2,
+        "thundr-res": -2,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": 2,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Rainbow Ore",
+                "amount": 3
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Genprey Hide+",
+                "amount": 4
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Healer Socks U",
+        "rare": 8,
+        "price": 16000,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
+        "defense": 28,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -1
+            },
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Wide Area",
+                "points": 2
+            }
+        ],
+        "description": "Official uniform of female Guild staff. Leather boots brace the feet. Super cute!",
+        "slots": 3,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 3
+            },
+            {
+                "name": "Great Ladybug",
+                "amount": 4
+            },
+            {
+                "name": "Expert Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Kirin Coin",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Greaves",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "B",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": 1
+            },
+            {
+                "name": "Constitutn",
+                "points": -2
+            },
+            {
+                "name": "ShortCharg",
+                "points": 2
+            }
+        ],
+        "description": "Replica feature in Dengeki Maoh's manga. The black and red fuels the battle spirit.",
+        "slots": 1,
+        "fire-res": 3,
+        "thundr-res": 1,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": -1,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Diablos Thoracic",
+                "amount": 2
+            },
+            {
+                "name": "Union Ore",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
+        "name": "Diasorte Leggings",
+        "rare": 8,
+        "price": 5800,
+        "hunter-type": "G",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Constitutn",
+                "points": -3
+            },
+            {
+                "name": "ShortCharg",
+                "points": 3
+            }
+        ],
+        "description": "Replica feature in Dengeki Maoh's manga. Crimson armor that intimidates others.",
+        "slots": 1,
+        "fire-res": 5,
+        "thundr-res": 4,
         "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "water-res": 2,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Dengeki Maoh Tkt",
+                "amount": 1
+            },
+            {
+                "name": "Diablos Carapace",
+                "amount": 3
+            },
+            {
+                "name": "Diablos Thoracic",
+                "amount": 2
+            },
+            {
+                "name": "Union Ore",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Boots",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "B",
+        "defense": 48,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            },
+            {
+                "name": "Fate",
+                "points": 2
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Legendary pirate legwear. Each step forward is another step added to the legend.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Small Goldenfish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
-        "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "name": "Pirate J Pants",
+        "rare": 8,
+        "price": 13500,
+        "hunter-type": "G",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "BombStrUp",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": -2
+            },
+            {
+                "name": "Fate",
+                "points": 2
+            },
+            {
+                "name": "Carving",
+                "points": 4
+            }
+        ],
+        "description": "Legendary pirate legwear, imbued with a spirite that challenges the ocean tides.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Pirate J Ticket",
+                "amount": 1
+            },
+            {
+                "name": "Teostra Carapace",
+                "amount": 2
+            },
+            {
+                "name": "Small Goldenfish",
+                "amount": 2
+            },
+            {
+                "name": "Remobra Skin+",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu Cloth Wrap S",
+        "rare": 8,
+        "price": 3750,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Antiseptic",
+                "points": 2
+            },
+            {
+                "name": "Protection",
+                "points": 5
+            }
+        ],
+        "description": "Manly and alluring legwear. The soul of the game loving Famitsu dwells with fervor.",
+        "slots": 2,
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "Famitsu PT Tckt",
+                "amount": 5
+            },
+            {
+                "name": "Akantor Shell",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            },
+            {
+                "name": "ShakaInheritance",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu Shorts S",
+        "rare": 8,
+        "price": 3750,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "defense": 30,
+        "skill-points": [
+            {
+                "name": "Antiseptic",
+                "points": 2
+            },
+            {
+                "name": "Protection",
+                "points": 5
+            }
+        ],
+        "description": "Cute striped tights, a product of love to Famitsu's game loving women.",
+        "slots": 2,
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "Famitsu PT Tckt",
+                "amount": 5
+            },
+            {
+                "name": "Akantor Shell",
+                "amount": 1
+            },
+            {
+                "name": "Commendation",
+                "amount": 1
+            },
+            {
+                "name": "ShakaInheritance",
+                "amount": 1
+            }
+        ]
     },
     {
         "part": "legging",
@@ -99756,19 +101438,32 @@
     {
         "part": "legging",
         "name": "Chakra Anklet",
-        "rare": 999,
-        "price": 0,
+        "rare": 10,
+        "price": 11000,
         "hunter-type": "BG",
-        "defense": 0,
+        "defense": 30,
         "skill-points": [],
         "description": "Anklet said to open the mind's eye. It can adjust to any power accordingly.",
-        "slots": 0,
+        "slots": 3,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Purecrystal",
+                "amount": 1
+            },
+            {
+                "name": "Gt Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Eltalite Ore",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "legging",
@@ -101990,37 +103685,81 @@
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu Pants X",
+        "rare": 10,
+        "price": 5600,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "Torso Inc",
+                "points": 1
+            }
+        ],
+        "description": "Cute striped tights, a product of love to Famitsu's game loving women.",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "FamitsuCustomTkt",
+                "amount": 5
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Expert Coin G",
+                "amount": 6
+            },
+            {
+                "name": "Warrior Coin G",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "legging",
-        "name": "dummy",
-        "rare": 999,
-        "price": 0,
+        "name": "Famitsu Cloth Wrap X",
+        "rare": 10,
+        "price": 5600,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
-        "description": "",
+        "defense": 40,
+        "skill-points": [
+            {
+                "name": "Torso Inc",
+                "points": 1
+            }
+        ],
+        "description": "Manly and alluring legwear. The soul of the game loving Famitsu dwells with fervor.",
         "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
-        "materials": []
+        "fire-res": 4,
+        "thundr-res": 4,
+        "dragon-res": 4,
+        "water-res": 4,
+        "ice-res": 4,
+        "materials": [
+            {
+                "name": "FamitsuCustomTkt",
+                "amount": 5
+            },
+            {
+                "name": "Commendation S",
+                "amount": 1
+            },
+            {
+                "name": "Expert Coin G",
+                "amount": 6
+            },
+            {
+                "name": "Warrior Coin G",
+                "amount": 3
+            }
+        ]
     },
     {
         "part": "legging",
