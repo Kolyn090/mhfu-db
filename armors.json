@@ -5845,19 +5845,49 @@
     {
         "part": "helmet",
         "name": "Healer Beret U",
-        "rare": 999,
-        "price": 0,
+        "rare": 8,
+        "price": 16000,
         "hunter-type": "BG",
-        "defense": 0,
-        "skill-points": [],
+        "defense": 28,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -1
+            },
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Wide Area",
+                "points": 4
+            }
+        ],
         "description": "Formal Guild staff uniform. Only worn by women who have contributed to the Guild.",
-        "slots": 0,
+        "slots": 2,
         "fire-res": 0,
         "thundr-res": 0,
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": []
+        "materials": [
+            {
+                "name": "Union Ore",
+                "amount": 3
+            },
+            {
+                "name": "Dosbiscus",
+                "amount": 4
+            },
+            {
+                "name": "Expert Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Rajang Coin",
+                "amount": 2
+            }
+        ]
     },
     {
         "part": "helmet",
