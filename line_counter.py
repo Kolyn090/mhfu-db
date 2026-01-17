@@ -41,12 +41,12 @@ def count_number_of_lines(root, number):
             return number
 
         filedir = root
-        with open(filedir, 'r') as file:
+        with open(filedir, 'r', encoding="utf-8") as file:
             return number + get_valid_nol_in(file)
 
 
 if __name__ == "__main__":
-    with open("./README.md", 'r') as readme:
+    with open("./README.md", 'r', encoding='utf-8') as readme:
         lines = readme.readlines()
 
     index_of_count_line = -1
@@ -56,6 +56,6 @@ if __name__ == "__main__":
 
     if index_of_count_line != -1:
         lines[index_of_count_line] = (f"Current valid number of lines in DB: "
-                                      f"{count_number_of_lines('.', 0)}\n")
-        with open("./README.md", 'w') as readme:
+                                        f"{count_number_of_lines('.', 0)}\n")
+        with open("./README.md", 'w', encoding='utf-8') as readme:
             readme.writelines(lines)

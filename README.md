@@ -8,13 +8,16 @@
   Monster Hunter Freedom Unite Database
 </h1>
 
-Welcome to this dedicated repo for a 15 years-old game! If you have played the MH series before, 
+Welcome to this dedicated repo for a 16 years-old game! If you have played the MH series before, 
 I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHFU! 
 (or MHP2G in Japan) 
 
 <h3 align="center">
-Current valid number of lines in DB: 197916
+Current valid number of lines in DB: 199714
 </h3>
+
+### 🖼️ Image DB
+Good news! Recently I have been working on the image database for MHFU. If you want to check it out [click here](https://github.com/Kolyn090/mhfu-image-db.git).
 
 ### ❓What is this
 This is a database repo for game Monster Hunter Freedom Unite by CAPCOM. My current plan is to 
