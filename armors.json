@@ -11431,7 +11431,7 @@
                 "amount": 1
             }
         ],
-        "sex": "male"
+        "sex": "unisex"
     },
     {
         "part": "helmet",
@@ -12646,6 +12646,102 @@
         ],
         "description": "Wear this armor to become a skilled talker. Make people laugh with your boasting!",
         "slots": 2,
+        "fire-res": 3,
+        "thundr-res": 0,
+        "dragon-res": 1,
+        "water-res": 0,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex"
+    },
+    {
+        "part": "plate",
+        "name": "Amezari Mail",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "B",
+        "defense": 32,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Armor belonging to the legendary comedian hunter loved for humor.",
+        "slots": 1,
+        "fire-res": 3,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "water-res": 0,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Amezari Shell",
+                "amount": 1
+            },
+            {
+                "name": "Sm Lobstershell",
+                "amount": 1
+            },
+            {
+                "name": "Famitsu Ticket",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex"
+    },
+    {
+        "part": "plate",
+        "name": "Amezari Skin",
+        "rare": 5,
+        "price": 4150,
+        "hunter-type": "G",
+        "defense": 15,
+        "skill-points": [
+            {
+                "name": "Sneak",
+                "points": -2
+            },
+            {
+                "name": "Fishing",
+                "points": 2
+            },
+            {
+                "name": "Evade",
+                "points": 1
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            }
+        ],
+        "description": "Armor belonging to the legendary comedian hunter loved for straight retorts.",
+        "slots": 1,
         "fire-res": 3,
         "thundr-res": 0,
         "dragon-res": 1,
@@ -33615,6 +33711,50 @@
     },
     {
         "part": "plate",
+        "name": "Famitsu T-Shirt",
+        "rare": 5,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Sleep",
+                "points": 4
+            },
+            {
+                "name": "Protection",
+                "points": 5
+            }
+        ],
+        "description": "The bright red mark! Famitsu T-Shirt!!",
+        "slots": 1,
+        "fire-res": 2,
+        "thundr-res": 2,
+        "dragon-res": 2,
+        "water-res": 2,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Famitsu Ticket",
+                "amount": 5
+            },
+            {
+                "name": "Pokke Ticket",
+                "amount": 2
+            },
+            {
+                "name": "Kut-Ku Coin",
+                "amount": 6
+            },
+            {
+                "name": "Blangonga Coin",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex"
+    },
+    {
+        "part": "plate",
         "name": "Famitsu T-Shirt S",
         "rare": 8,
         "price": 3750,
@@ -35315,7 +35455,7 @@
                 "amount": 2
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "plate",
@@ -35367,7 +35507,7 @@
                 "amount": 2
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "plate",
@@ -35519,7 +35659,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "plate",
@@ -35567,7 +35707,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "plate",
@@ -41542,7 +41682,7 @@
                 "amount": 4
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "plate",
@@ -41590,7 +41730,7 @@
                 "amount": 4
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "plate",
@@ -56409,7 +56549,7 @@
                 "amount": 2
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "gauntlet",
@@ -56461,7 +56601,7 @@
                 "amount": 2
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "gauntlet",
@@ -56613,7 +56753,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "gauntlet",
@@ -56661,7 +56801,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "gauntlet",
@@ -59781,7 +59921,7 @@
                 "amount": 1
             }
         ],
-        "sex": "unisex"
+        "sex": "female"
     },
     {
         "part": "gauntlet",
@@ -62568,7 +62708,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "gauntlet",
@@ -62616,7 +62756,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "gauntlet",
@@ -77206,7 +77346,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "waist",
@@ -77258,7 +77398,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "waist",
@@ -77410,7 +77550,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "waist",
@@ -77458,7 +77598,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "waist",
@@ -83405,7 +83545,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "waist",
@@ -83453,7 +83593,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "waist",
@@ -98271,7 +98411,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "legging",
@@ -98323,7 +98463,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "legging",
@@ -98475,7 +98615,7 @@
                 "amount": 6
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "legging",
@@ -98523,7 +98663,7 @@
                 "amount": 6
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "name": "Butterfly Gamba S",
@@ -104606,7 +104746,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "legging",
@@ -104654,7 +104794,7 @@
                 "amount": 3
             }
         ],
-        "sex": "unisex"
+        "sex": "male"
     },
     {
         "part": "legging",
