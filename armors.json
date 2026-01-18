@@ -22602,24 +22602,7 @@
         "dragon-res": 0,
         "water-res": 0,
         "ice-res": 0,
-        "materials": [
-            {
-                "name": "",
-                "amount": 999
-            },
-            {
-                "name": "",
-                "amount": 999
-            },
-            {
-                "name": "",
-                "amount": 999
-            },
-            {
-                "name": "",
-                "amount": 999
-            }
-        ],
+        "materials": [],
         "sex": "unisex",
         "image-male": "",
         "image-female": ""
@@ -26933,7 +26916,7 @@
         ],
         "sex": "unisex",
         "image-male": "armors/male_plate/82.png",
-        "image-female": ""
+        "image-female": "armors/female_plate/82.png"
     },
     {
         "part": "plate",
@@ -27236,8 +27219,8 @@
             }
         ],
         "sex": "unisex",
-        "image-male": "",
-        "image-female": ""
+        "image-male": "armors/male_plate/88.png",
+        "image-female": "armors/female_plate/88.png"
     },
     {
         "part": "plate",
@@ -31176,7 +31159,7 @@
             }
         ],
         "sex": "unisex",
-        "image-male": "",
+        "image-male": "armors/male_plate/157.png",
         "image-female": "armors/female_plate/157.png"
     },
     {
@@ -34170,7 +34153,7 @@
             }
         ],
         "sex": "unisex",
-        "image-male": "armors/male_plate/157.png",
+        "image-male": "armors/male_plate/216.png",
         "image-female": "armors/female_plate/216.png"
     },
     {
@@ -35717,7 +35700,7 @@
         ],
         "sex": "unisex",
         "image-male": "armors/male_plate/247.png",
-        "image-female": "armors/female_plate/82.png"
+        "image-female": "armors/female_plate/247.png"
     },
     {
         "part": "plate",
@@ -51042,9 +51025,9 @@
         "water-res": 2,
         "ice-res": -2,
         "materials": [],
-        "sex": "male",
+        "sex": "unisex",
         "image-male": "armors/male_gauntlets/112.png",
-        "image-female": ""
+        "image-female": "armors/female_gauntlets/112.png"
     },
     {
         "part": "gauntlet",
@@ -84898,7 +84881,7 @@
         ],
         "sex": "unisex",
         "image-male": "armors/male_waist/335.png",
-        "image-female": ""
+        "image-female": "armors/female_waist/337.png"
     },
     {
         "part": "waist",
@@ -87013,9 +86996,9 @@
                 "amount": 1
             }
         ],
-        "sex": "male",
+        "sex": "unisex",
         "image-male": "armors/male_waist/374.png",
-        "image-female": ""
+        "image-female": "armors/female_waist/376.png"
     },
     {
         "part": "waist",
@@ -92606,14 +92589,6 @@
             {
                 "name": "Protection",
                 "points": 5
-            },
-            {
-                "name": "",
-                "points": 999
-            },
-            {
-                "name": "",
-                "points": 999
             }
         ],
         "description": "Manly and alluring legwear. The soul of the game loving Famitsu dwells with fervor.",
@@ -92660,14 +92635,6 @@
             {
                 "name": "Protection",
                 "points": 5
-            },
-            {
-                "name": "",
-                "points": 999
-            },
-            {
-                "name": "",
-                "points": 999
             }
         ],
         "description": "Cute striped tights, a product of love to Famitsu's game loving women.",
@@ -94639,9 +94606,9 @@
                 "amount": 1
             }
         ],
-        "sex": "male",
+        "sex": "unisex",
         "image-male": "armors/male_leggings/114.png",
-        "image-female": ""
+        "image-female": "armors/female_leggings/115.png"
     },
     {
         "part": "legging",
