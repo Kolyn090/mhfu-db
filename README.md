@@ -13,7 +13,7 @@ I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHF
 (or MHP2G in Japan) 
 
 <h3 align="center">
-Current valid number of lines in DB: 199714
+Current valid number of lines in DB: 207705
 </h3>
 
 ### 🖼️ Image DB
