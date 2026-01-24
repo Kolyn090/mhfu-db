@@ -575,6 +575,23 @@
         "image": "weapons/weapon_1_extend/69.png"
     },
     {
+        "name": "Golden Serpentblade",
+        "type": "great-swd",
+        "attack": 816,
+        "rare": 6,
+        "slots": 2,
+        "affinity": 0,
+        "defense": 0,
+        "description": "Beautiful Great Sword made from white Giaprey scales. Lined with gold fangs.",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 400
+            }
+        ],
+        "image": "weapons/weapon_1_extend/1.png"
+    },
+    {
         "name": "Rusted Great Sword",
         "type": "great-swd",
         "attack": 432,
@@ -3710,6 +3727,23 @@
             }
         ],
         "image": "weapons/weapon_1/53.png"
+    },
+    {
+        "name": "10k Gavas LS Fan",
+        "type": "long-swd",
+        "attack": 912,
+        "rare": 9,
+        "slots": 1,
+        "affinity": 0,
+        "defense": 0,
+        "description": "Famitsu's custom-made weapon that blows a strom in the industry with this big fan!",
+        "elements": [
+            {
+                "name": "Ice",
+                "attack": 500
+            }
+        ],
+        "image": "weapons/weapon_1_extend/146.png"
     },
     {
         "name": "Guardian Sword",
