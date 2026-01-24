@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Treasure in the Mountains!",
+        "reward": 1000,
+        "contract-fee": 500,
+        "time-limit": 20,
+        "location": "SnwyMntains(Day)",
+        "main-monsters": [
+            "Giadrome"
+        ],
+        "goal-condition": "2000 Pts Before Time Over or 2000 Pts Plus Ltd Paw Pass",
+        "fail-condition": "Reward Zero or Gather Less than 2000pts, Time Over",
+        "special-conditions": "Quest for two hunters or less. No personal items.",
+        "client": "Treshi",
+        "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
+        "difficulty": 1
+    },
+    {
+        "name": "Treasure in the Jungle!",
+        "reward": 1000,
+        "contract-fee": 500,
+        "time-limit": 20,
+        "location": "Jungle(Day)",
+        "main-monsters": [
+            "Yian Kut-Ku"
+        ],
+        "goal-condition": "2000 Pts Before Time Over or 2000 Pts Plus Ltd Paw Pass",
+        "client": "Treshi",
+        "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
+        "difficulty": 2
+    },
+    {
+        "name": "Treasure in the Desert!",
+        "reward": 1000,
+        "contract-fee": 500,
+        "time-limit": 20,
+        "location": "Desert(Day)",
+        "main-monsters": [
+            "Daimyo Hermitaur"
+        ],
+        "goal-condition": "2000 Pts Before Time Over or 2000 Pts Plus Ltd Paw Pass",
+        "fail-condition": "Reward Zero or Gather Less than 2000pts, Time Over",
+        "special-conditions": "Quest for two hunters or less. No personal items.",
+        "client": "Treshi",
+        "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
+        "difficulty": 2
+    },
+    {
+        "name": "Treasure in the Swamp!",
+        "reward": 1000,
+        "contract-fee": 500,
+        "time-limit": 20,
+        "location": "Swamp(Day)",
+        "main-monsters": [
+            "Congalala",
+            "Bulldrome"
+        ],
+        "goal-condition": "2000 Pts Before Time Over or 2000 Pts Plus Ltd Paw Pass",
+        "fail-condition": "Reward Zero or Gather Less than 2000pts, Time Over",
+        "special-conditions": "Quest for two hunters or less. No personal items.",
+        "client": "Treshi",
+        "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
+        "difficulty": 3
+    },
+    {
+        "name": "Treasure in the Hills!",
+        "reward": 1000,
+        "contract-fee": 500,
+        "time-limit": 20,
+        "location": "Frst&Hills(Day)",
+        "main-monsters": [
+            "Rathalos",
+            "Rathian"
+        ],
+        "goal-condition": "2000 Pts Before Time Over or 2000 Pts Plus Ltd Paw Pass",
+        "fail-condition": "Reward Zero or Gather Less than 2000pts, Time Over",
+        "special-conditions": "Quest for two hunters or less. No personal items.",
+        "client": "Treshi",
+        "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
+        "difficulty": 3
+    },
+    {
+        "name": "Treasure in the Lava!",
+        "reward": 1000,
+        "contract-fee": 500,
+        "time-limit": 20,
+        "location": "Volcano(Day)",
+        "main-monsters": [
+            "Gravios",
+            "Iodrome"
+        ],
+        "goal-condition": "2000 Pts Before Time Over or 2000 Pts Plus Ltd Paw Pass",
+        "fail-condition": "Reward Zero or Gather Less than 2000pts, Time Over",
+        "special-conditions": "Quest for two hunters or less. No personal items.",
+        "client": "Treshi",
+        "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
+        "difficulty": 4
+    },
+    {
+        "name": "Treasure in the Grt Forest!",
+        "reward": 1000,
+        "contract-fee": 500,
+        "time-limit": 20,
+        "location": "GrtForest(Day)",
+        "main-monsters": [
+            "Yian Garuga"
+        ],
+        "goal-condition": "2000 Pts Before Time Over or 2000 Pts Plus Ltd Paw Pass",
+        "fail-condition": "Reward Zero or Gather Less than 2000pts, Time Over",
+        "special-conditions": "Quest for two hunters or less, HR 4 or above. No Items.",
+        "client": "Treshi",
+        "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
+        "difficulty": 8
+    }
+]
