@@ -12,11 +12,11 @@
         ],
         "goal-condition": "Hunt 2 Hypnocatrices",
         "client": "Brave Prince",
-        "quest-details": "The Hypnocatrice is hurtin so many people, so I tried to sneak out to the Great Forest. Unfortunately, I was spotted by a guard. Please, I ask that someone deal with that menace in my stead!",
+        "quest-details": "The Hypnocatrice is hurting so many people, so I tried to sneak out to the Great Forest. Unfortunately, I was spotted by a guard. Please, I ask that someone deal with that menace in my stead!",
         "difficulty": 9
     },
     {
-        "name": "G-Lvl Gathering - Great Forest",
+        "name": "G-Lvl Gathering - Grt Forest",
         "quest-type": "optional",
         "reward": 12,
         "contract-fee": 0,
@@ -26,7 +26,7 @@
             "King Shakalaka",
             "Shakalaka"
         ],
-        "goal-condition": "Survive until Time Over or Deliver the Paw Pass",
+        "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Guild Manager",
         "quest-details": "A daytime gathering quest in the Great Forest. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
         "difficulty": 9
@@ -42,7 +42,7 @@
             "Yian Kut-Ku",
             "Vespoid Queen"
         ],
-        "goal-condition": "Survive until Time Over or Deliver the Paw Pass",
+        "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Guild Manager",
         "quest-details": "A gathering quest in the Old Jungle. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
         "difficulty": 9
@@ -58,7 +58,7 @@
             "Green Plesioth",
             "Cephalos"
         ],
-        "goal-condition": "Survive until Time Over or Deliver the Paw Pass",
+        "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Guild Manager",
         "quest-details": "A gathering quest in the Old Desert. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
         "difficulty": 9
@@ -74,13 +74,13 @@
             "Purple Gypceros",
             "Great Thunderbug"
         ],
-        "goal-condition": "Survive until Time Over or Deliver the Paw Pass",
+        "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Guild Manager",
         "quest-details": "A gathering quest in the Old Swamp. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
         "difficulty": 9
     },
     {
-        "name": "G-Lvl Gathering - Snowy Mountains",
+        "name": "G-Lvl Gathering - Snowy Mts.",
         "quest-type": "optional",
         "reward": 12,
         "contract-fee": 0,
@@ -90,7 +90,7 @@
             "Khezu",
             "Giaprey"
         ],
-        "goal-condition": "Survive until Time Over or Deliver the Paw Pass",
+        "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Guild Manager",
         "quest-details": "A gathering quest in the Snowy Mountains. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
         "difficulty": 9
@@ -124,7 +124,7 @@
         ],
         "goal-condition": "Slay the Vespoid Queen",
         "client": "Jungle Researcher",
-        "quest-details": "It's no use. No matter where I look, I can't seem to find the Vespoid Queen! Perhaps if you slayed a large number of Vespoids to make her feel that her swam was in grave danger, she might appear...",
+        "quest-details": "It's no use. No matter where I look, I can't seem to find the Vespoid Queen! Perhaps if you slayed a large number of Vespoids to make her feel that her swarm was in grave danger, she might appear...",
         "difficulty": 9
     },
     {
@@ -156,7 +156,7 @@
         ],
         "goal-condition": "Hunt 2 Hypnocatrices",
         "client": "Brave Prince",
-        "quest-details": "The Hypnocatrice is hurtin so many people, so I tried to sneak out to the Great Forest. Unfortunately, I was spotted by a guard. Please, I ask that someone deal with that menace in my stead!",
+        "quest-details": "The Hypnocatrice is hurting so many people, so I tried to sneak out to the Great Forest. Unfortunately, I was spotted by a guard. Please, I ask that someone deal with that menace in my stead!",
         "difficulty": 9
     },
     {
@@ -172,7 +172,7 @@
         ],
         "goal-condition": "Hunt the Yian Kut-Ku and Blue Yian Kut-Ku",
         "client": "Beautiful Lady",
-        "quest-details": "The Yian Kut-Kut are circling, screaming in their shrill voices. Everyone is trapped inside the town! Please do something!",
+        "quest-details": "The Yian Kut-Ku are circling, screaming in their shrill voices. Everyone is trapped inside the town! Please do something!",
         "difficulty": 9
     },
     {
@@ -188,7 +188,7 @@
         ],
         "goal-condition": "Hunt the Daimyo Hermitaur",
         "client": "Lynian Clan Leader",
-        "quest-details": "We cam here to the Old Jungle in search of some materials when a giant crab chased us out of the area, nya! We can't make a living as long as that cretin is there. Please help us, nya!!",
+        "quest-details": "We came here to the Old Jungle in search of some materials when a giant crab chased us out of the area, nya! We can't make a living as long as that cretin is there. Please help us, nya!!",
         "difficulty": 9
     },
     {
@@ -204,7 +204,7 @@
         ],
         "goal-condition": "Hunt the Plum D.Hermitaur",
         "client": "Merchant of the East",
-        "quest-details": "I spotted an unusual variety of Daimyo Hermitaur out in the Old Desert. I don't know what it was, but I swear it was evil! Anyway, here's my proposition: HUnt the crab and make a fortune. Deal?",
+        "quest-details": "I spotted an unusual variety of Daimyo Hermitaur out in the Old Desert. I don't know what it was, but I swear it was evil! Anyway, here's my proposition: Hunt the crab and make a fortune. Deal?",
         "difficulty": 9
     },
     {
@@ -219,7 +219,7 @@
             "Plum D.Hermitaur"
         ],
         "goal-condition": "Hunt the Daimyo Hermitaur and the Plum D.Hermitaur",
-        "client": "Trinket Lover's Grand Daughter",
+        "client": "TrinketLover'sGrddtr",
         "quest-details": "My grandfather stumbled on a fight between two famous warriors. They say that it's the dream of a warrior to die on the battlefield, but not by their own hands! Please go and help them!",
         "difficulty": 9
     },
@@ -236,7 +236,7 @@
         ],
         "goal-condition": "Hunt the Khezu",
         "client": "Madam Merchant",
-        "quest-details": "Junt when I thought that maybe this time the peace would last, this happens! As long as that Khezu just sits there, we can't get out of the Old Jungle. Please, come to our rescue, hunter!",
+        "quest-details": "Just when I thought that maybe this time the peace would last, this happens! As long as that Khezu just sits there, we can't get out of the Old Jungle. Please, come to our rescue, hunter!",
         "difficulty": 9
     },
     {
@@ -256,7 +256,7 @@
         "difficulty": 9
     },
     {
-        "name": "Tales fromt the Old Swamp",
+        "name": "Tales from the Old Swamp",
         "quest-type": "optional",
         "reward": 15300,
         "contract-fee": 1270,
@@ -267,8 +267,8 @@
             "Red Khezu"
         ],
         "goal-condition": "Hunt 2 Red Khezu",
-        "client": "Horror - Loving Youth",
-        "quest-details": "Ever since a long time ago. 2 gruesome wyverns have lived in the depths of the cave in the Old Swamp, their blood-red bodies surrounded in a sharp, blue glow... *gasp!* Look, behind you!",
+        "client": "Horror-Loving Youth",
+        "quest-details": "Ever since a long time ago, 2 gruesome wyverns have lived in the depths of the cave in the Old Swamp, their blood-red bodies surrounded in a sharp, blue glow... *gasp!* Look, behind you!",
         "difficulty": 9
     },
     {
@@ -283,8 +283,8 @@
             "Cephalos"
         ],
         "goal-condition": "Hunt the Plesioth",
-        "client": "Old Desert Weapon Smiths",
-        "quest-details": "The Plesioth of the Old Desert's underground lake... We've received an SOS from the group of secret hunters who were hunting this beast. Can you keep the Plesioth at bay while we recue them?",
+        "client": "OldDesertWepnSmiths",
+        "quest-details": "The Plesioth of the Old Desert's underground lake... We've received an SOS from the group of secret hunters who were hunting this beast. Can you keep the Plesioth at bay while we rescue them?",
         "difficulty": 9
     },
     {
@@ -332,7 +332,7 @@
         ],
         "goal-condition": "Hunt the Emerald Congalala",
         "client": "Beautiful Swordsman",
-        "quest-details": "Hmph, how rude! Can you believe that awful beast spewed some nasty gunk at me three times in a row!? ... I beg your pardon? I still stink!? How dare you, you uncouth heathen!?",
+        "quest-details": "Hmph, how rude! Can you believe that awful beast spewed some nasty gunk at me three times in a row!? ...I beg your pardon? I still stink!? How dare you, you uncouth heathen!?",
         "difficulty": 9
     },
     {
@@ -352,7 +352,7 @@
         "difficulty": 9
     },
     {
-        "name": "Stealing the Jungle!",
+        "name": "Stealing in the Jungle!",
         "quest-type": "optional",
         "reward": 9000,
         "contract-fee": 750,
@@ -364,7 +364,7 @@
         ],
         "goal-condition": "Hunt the Gypceros",
         "client": "Compassionate Hunter",
-        "quest-details": "That Gypceros stole my very important Book of Combos, and then, right after that, a band of Melynx stole my BBQ Split! At this rate, I'm going to be forced into early retirement! Heeeeelp!",
+        "quest-details": "That Gypceros stole my very important Book of Combos, and then, right after that, a band of Melynx stole my BBQ Spit! At this rate, I'm going to be forced into early retirement! Heeeeelp!",
         "difficulty": 9
     },
     {
@@ -397,7 +397,7 @@
         ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Materials Old-Timer",
-        "quest-details": "Add a Blue Yian Kut-kut to a Green Plesioth and you get a Plum D.Hermitaur. Seriously, unquely-colored equipment is selling like hotcakes, especially with youg folks. Wish I could get in on that.",
+        "quest-details": "Add a Blue Yian Kut-Ku to a Green Plesioth and you get a Plum D.Hermitaur. Seriously, uniquely-colored equipment is selling like hotcakes, especially with young folks. Wish I could get in on that.",
         "difficulty": 9
     },
     {
@@ -429,12 +429,12 @@
             "King Shakalaka"
         ],
         "goal-condition": "Hunt the Nargacuga",
-        "client": "Privileged Lady Knight",
+        "client": "PrivilegedLadyKnight",
         "quest-details": "I saw a demon in the Great Forest so fast that I could barely even register its shadow as it flew by. My trusty partner is my sword, and I hate to beg, but I need some backup here!",
         "difficulty": 10
     },
     {
-        "name": "G-Lvl Gathering - Forest and Hills",
+        "name": "G-Lvl Gathering - Frst&Hills",
         "quest-type": "optional",
         "reward": 12,
         "contract-fee": 0,
@@ -446,11 +446,11 @@
         ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
         "client": "Guild Manager",
-        "quest-details": "A gathering quest in the Great Forest. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
+        "quest-details": "A daytime gathering quest in the Great Forest. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
         "difficulty": 10
     },
     {
-        "name": "G-Lvl Gathering - Old Volcano",
+        "name": "G-Lvl Gathering - OldVolcano",
         "quest-type": "optional",
         "reward": 12,
         "contract-fee": 0,
@@ -477,7 +477,7 @@
             "King Shakalaka"
         ],
         "goal-condition": "Hunt the Nargacuga",
-        "client": "Privileged Lady Knight",
+        "client": "PrivilegedLadyKnight",
         "quest-details": "I saw a demon in the Great Forest so fast that I could barely even register its shadow as it flew by. My trusty partner is my sword, and I hate to beg, but I need some backup here!",
         "difficulty": 10
     },
@@ -494,11 +494,11 @@
         ],
         "goal-condition": "Hunt the Nargacuga",
         "client": "Bearded Soldier",
-        "quest-details": "Our head drill sergeant was attacked while out on an expedition in the Old Swamp by an unkown assailant. We think it's probably a monster, but we require the assistance of a hunter!",
+        "quest-details": "Our head drill sergeant was attacked while out on an expedition in the Old Swamp by an unknown assailant. We think it's probably a monster, but we require the assistance of a hunter!",
         "difficulty": 10
     },
     {
-        "name": "Ancient Beauty. Black Beast",
+        "name": "Ancient Beauty, Black Beast",
         "quest-type": "optional",
         "reward": 23100,
         "contract-fee": 1920,
@@ -508,9 +508,9 @@
             "Nargacuga",
             "Nargacuga"
         ],
-        "goal-condition": "Hunt 2 Nargacuga",
+        "goal-condition": "Hunt 2 Nargacugas",
         "client": "Terrified Aristocrat",
-        "quest-details": "From within the midst of the Great Forest's mist. I saw two blood-red eyes! Rest assured I will pay you well, just please, someone come defeat this creature quick!",
+        "quest-details": "From within the midst of the Great Forest's mist, I saw two blood-red eyes! Rest assured I will pay you well, just please, someone come defeat this creature quick!",
         "difficulty": 10
     },
     {
@@ -526,11 +526,11 @@
         ],
         "goal-condition": "Hunt the Lavasioth",
         "client": "Selfish Princess",
-        "quest-details": "I'm in a fishin competition with my elder brother. We agreed to compare rubbings to determine the winner. Well, imagine how much I'd win by if i had a lavasioth rubbing! I'm a genius!",
+        "quest-details": "I'm in a fishing competition with my elder brother. We agreed to compare rubbings to determine the winner. Well, imagine how much I'd win by if I had a Lavasioth rubbing! I'm a genius!",
         "difficulty": 10
     },
     {
-        "name": "Rise of Fire",
+        "name": "River of Fire",
         "quest-type": "optional",
         "reward": 24000,
         "contract-fee": 2000,
@@ -540,7 +540,7 @@
             "Lavasioth",
             "Lavasioth"
         ],
-        "goal-condition": "Hunt 2 Lavasioth",
+        "goal-condition": "Hunt 2 Lavasioths",
         "client": "Mine Owner",
         "quest-details": "From out of the rivers of lava came 2 Lavasioths! I am dead serious. And right in front of a good Powderstone deposit! Please, dear hunter! Hunt these two down so we may get back to work!",
         "difficulty": 10
@@ -557,12 +557,12 @@
             "Shogun Ceanataur"
         ],
         "goal-condition": "Hunt the Daimyo Hermitaur and Shogun Ceanataur",
-        "client": "Areana Manager",
-        "quest-details": "The Arena! A place to show your skills to the world! For this event , we have released two crab-like enemies into the arena! All those ready to test their skills are welcome!",
+        "client": "Arena Manager",
+        "quest-details": "The Arena! A place to show your skills to the world! For this event, we have released two crab-like enemies into the arena! All those ready to test their skills are welcome!",
         "difficulty": 10
     },
     {
-        "name": "Commader in the Flames",
+        "name": "Commander in the Flames",
         "quest-type": "optional",
         "reward": 12000,
         "contract-fee": 1000,
@@ -574,7 +574,7 @@
         ],
         "goal-condition": "Hunt the Shogun Ceanataur",
         "client": "Chief Weapon Smith",
-        "quest-details": "Upon our trip into the cave at the Volcano, an enormous Shogun Ceanataur dropped down from the ceilling right on to pof us! Its ambush caused massive damage! rid the world of that scourge!",
+        "quest-details": "Upon our trip into the cave at the volcano, an enormous Shogun Ceanataur dropped down from the ceiling right on top of us! Its ambush caused massive damage! Rid the world of that scourge!",
         "difficulty": 10
     },
     {
@@ -604,8 +604,8 @@
             "Terra S.Ceanataur"
         ],
         "goal-condition": "Hunt the Shogun Ceanataur and the Terra S.Ceanataur",
-        "client": "Trinket Lover's Grand Daughter",
-        "quest-details": "My grandfather stumbled on a fight between two famous warriors. They say that it's the dream of a warrior to die on the battlefiled, but not by their own hands! Please go and help them!",
+        "client": "TrinketLover'sGrddtr",
+        "quest-details": "My grandfather stumbled on a fight between two famous warriors. They say that it's the dream of a warrior to die on the battlefield, but not by their own hands! Please go and help them!",
         "difficulty": 10
     },
     {
@@ -618,13 +618,13 @@
         "main-monsters": [
             "Yian Kut-Ku"
         ],
-        "goal-condition": "Hunt the Yian Kut-Ku",
-        "client": "Gaggle of MIstresses",
-        "quest-details": "We were enjoying a lovely picnic in the Forest, where even the small birds had come out of hiding to bathe in the sunlight. But then, a lick of flame came out of nowhere! What was that!?",
+        "goal-condition": "Hunt the Yian Kut-Ku?",
+        "client": "Gaggle of Mistresses",
+        "quest-details": "We were enjoying a lovely picnic in the forest, where even the small birds had come out of hiding to bathe in the sunlight. But then, a lick of flame came out of nowhere! What was that!?",
         "difficulty": 10
     },
     {
-        "name": "A King. Robed in Smoke",
+        "name": "A King, Robed in Smoke",
         "quest-type": "key",
         "reward": 12600,
         "contract-fee": 1050,
@@ -635,7 +635,7 @@
             "Ioprey"
         ],
         "goal-condition": "Hunt the Rathalos",
-        "client": "Might Mountain Monks",
+        "client": "MightyMountainMonks",
         "quest-details": "Unbelievably, the king of all wyverns has appeared in the Old Volcano belt. To protect our temple, we went to fight it, but to no avail. Please, we humbly ask for your assistance, hunter!",
         "difficulty": 10
     },
@@ -656,7 +656,7 @@
         "difficulty": 10
     },
     {
-        "name": "Her Eternal Mystery",
+        "name": "Her Eternal Majesty",
         "quest-type": "key",
         "reward": 12000,
         "contract-fee": 1000,
@@ -668,7 +668,7 @@
         ],
         "goal-condition": "Hunt the Rathian",
         "client": "Powerful Ambassador",
-        "quest-details": "In order to hunt down the ferocious Rathian in our lands, we are asking for volunteers. Hunters! Show us you strength and hunt that which is called Empress.",
+        "quest-details": "In order to hunt down the ferocious Rathian in our lands, we are asking for volunteers. Hunters! Show us your strength and hunt that which is called \"Empress\".",
         "difficulty": 10
     },
     {
@@ -684,7 +684,7 @@
         ],
         "goal-condition": "Hunt the Pink Rathian",
         "client": "Sharp Eyed Count",
-        "quest-details": "The terrible Pink Rathian it invades other monsters territory and throws them into disarray, and picks fights with them as well. We must quickly rid the world of such a dangerous monster!",
+        "quest-details": "The terrible Pink Rathian. It invades other monsters' territory and throws them into disarray, and picks fights with them as well. We must quickly rid the world of such a dangerous monster!",
         "difficulty": 10
     },
     {
@@ -699,8 +699,8 @@
             "Hornetaur"
         ],
         "goal-condition": "Hunt the Yian Garuga",
-        "client": "Lone Wold Hunter",
-        "quest-details": "Heh, at long last I have laid eyes upon my prey, the Great Forest's Yian Garuga, though never in my wildest dreams did I think it would be so strong! Hunter, I call upon you assistance now.",
+        "client": "Lone Wolf Hunter",
+        "quest-details": "Heh, at long last I have laid eyes upon my prey, the Great Forest's Yian Garuga, though never in my wildest dreams did I think it would be so strong! Hunter, I call upon your assistance now.",
         "difficulty": 10
     },
     {
@@ -716,7 +716,7 @@
         ],
         "goal-condition": "Hunt 2 Yian Garuga",
         "client": "Lovely Princess",
-        "quest-details": "Yian Garuga have appeared in the Forest areas one by one. Unending cycles of inflamed violance has caused may casualties in the area. For the sake of the people, please do something quick!",
+        "quest-details": "Yian Garuga have appeared in the forest areas one by one. Unending cycles of inflamed violence has caused many casualties in the area. For the sake of the people, please do something quick!",
         "difficulty": 10
     },
     {
@@ -732,7 +732,7 @@
         ],
         "goal-condition": "Hunt the Blangonga",
         "client": "Foothills Villager",
-        "quest-details": "A Blangonga has staked its claim to a piece of the Snowy Mountains. Now we can't enter the area to gather firewoo. Exterminate the Blangonga!",
+        "quest-details": "A Blangonga has staked its claim to a piece of the snowy mountains. Now we can't enter the area to gather firewood. Exterminate the Blangonga!",
         "difficulty": 10
     },
     {
@@ -747,7 +747,7 @@
             "Apceros"
         ],
         "goal-condition": "Hunt the Copper Blangonga",
-        "client": "Forgotten Scholar Student",
+        "client": "ForgttnScholarStudnt",
         "quest-details": "My teacher believed that a subspecies of Blangonga lives in the arid sands of a desert, and went in search of it. People have forgotten about my teacher, but I want to know what happened!",
         "difficulty": 10
     },
@@ -768,7 +768,7 @@
         "difficulty": 10
     },
     {
-        "name": "Basarios Seasons",
+        "name": "Basarios Season",
         "quest-type": "optional",
         "reward": 12000,
         "contract-fee": 1000,
@@ -778,7 +778,7 @@
             "Basarios"
         ],
         "goal-condition": "Survive until Time Over or Deliver the Paw Pass Ticket",
-        "client": "Unluck Journey Lady",
+        "client": "Unlucky Journey Lady",
         "quest-details": "I was hiding from a Basarios behind some boulders when it turned out to be another one! I thought I could hide behind some other boulders ahead of me, but it was yet another one! Somebody, help!",
         "difficulty": 10
     },
@@ -796,7 +796,7 @@
         ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Guild Messenger",
-        "quest-details": "We've received word that an airship made an emergency landing in the Jungle, but the area is home to a Daimyo Hermitaur, a Gypceros, and a Rathian. Hurry to the region and help them down!",
+        "quest-details": "We've received word that an airship made an emergency landing in the Jungle, but the area is home to a Daimyo Hermitaur, a Gypceros, and a Rathian. Hurry to the region and help hunt them down!",
         "difficulty": 10
     },
     {
@@ -830,7 +830,7 @@
         ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Uncomfortable Butler",
-        "quest-details": "The young master has gone on a most impossible hunt. I'm afraid; all of the hand of a certain beautiful lady knight. I fear it will not end well, so I ask that you please help him along!",
+        "quest-details": "The young master has gone on a most impossible hunt, I'm afraid; all for the hand of a certain beautiful lady knight. I fear it will not end well, so I ask that you please help him along!",
         "difficulty": 10
     },
     {
@@ -846,8 +846,8 @@
             "Shogun Ceanataur"
         ],
         "goal-condition": "Hunt all of the Large Monsters",
-        "client": "Deserted Arena Manager",
-        "quest-details": "I went to open up the arena that no one has used in a while. Lo and behold, it's now a den of monsters! They seem to like it htere so much they were immediately up in arms. Please help me!",
+        "client": "DesertedArenaManager",
+        "quest-details": "I went to open up the arena that no one has used in a while. Lo and behold, it's now a den of monsters! They seem to like it there so much they were immediately up in arms. Please help me!",
         "difficulty": 10
     },
     {
@@ -860,7 +860,7 @@
         "main-monsters": [
             "Lao-Shan Lung"
         ],
-        "goal-condition": "Defend the Fortess from Lao-Shan Lung",
+        "goal-condition": "Defend the Fortress from Lao-Shan Lung",
         "client": "Guild Master",
         "quest-details": "It seems that once again our land is in crisis. The giant elder dragon Lao-Shan Lung is approaching the village from the mountains. Head to the fort and defend our way of life!",
         "difficulty": 10
@@ -878,7 +878,7 @@
         ],
         "goal-condition": "Slay the Yama Tsukami",
         "client": "E. Dragon Obs Office",
-        "quest-details": "We have confirmed the Yama Tsukami's location at the old Tower! There is so much we have yet to understand about this floating dragon that we can't let his chance escape! Move out!",
+        "quest-details": "We have confirmed the Yama Tsukami's location at the old Tower! There is so much we have yet to understand about this floating dragon that we can't let this chance escape! Move out!",
         "difficulty": 11
     },
     {
@@ -894,7 +894,7 @@
         ],
         "goal-condition": "Hunt the Tigrex",
         "client": "Guild Master",
-        "quest-details": "At last, the Tigrex has appeared! It is siad the beast's origins are as a flying wyvern. It is too powerful to be allowed to run free. The village is in danger! Hunt it quickly!",
+        "quest-details": "At last, the Tigrex has appeared! It is said the beast's origins are as a flying wyvern. It is too powerful to be allowed to run free. The village is in danger! Hunt it quickly!",
         "difficulty": 11
     },
     {
@@ -910,7 +910,7 @@
         ],
         "goal-condition": "Hunt 2 Tigrex",
         "client": "Guild Master",
-        "quest-details": "A group of highly skilled hunters went off to slay two Tigrex, but they became the two Tigrex and open a clear route for our rescue team.",
+        "quest-details": "A group of highly skilled hunters went off to slay two Tigrex, but they became the hunted. Please destroy the two Tigrex and open a clear route for our rescue team.",
         "difficulty": 11
     },
     {
@@ -942,7 +942,7 @@
         ],
         "goal-condition": "Hunt the Black Diablos",
         "client": "Failed Millionaire",
-        "quest-details": "I had hired the most skilled hunters imaginable, and went on a safari for the famed Diablos... but what we found was no mere Diablos! We must slay that black horned wyvern! No matter what!",
+        "quest-details": "I had hired the most skilled hunters imaginable, and went on a safari for the famed Diablos... But what we found was no mere Diablos! We must slay that black horned wyvern! No matter what!",
         "difficulty": 11
     },
     {
@@ -958,7 +958,7 @@
         ],
         "goal-condition": "Hunt 2 Black Diablos",
         "client": "Surviving Trooper",
-        "quest-details": "SOS! Two gigantic black towers came rising out of the ground and threw us ito disarray. The pressure of tens of thousands of troops on us: so this is a wyvern's might. Please help us out!",
+        "quest-details": "SOS! Two gigantic black towers came rising out of the ground and threw us into disarray. The pressure of tens of thousands of troops on us; so this is a wyvern's might. Please help us out!",
         "difficulty": 11
     },
     {
@@ -972,7 +972,7 @@
             "Gravios",
             "Remobra"
         ],
-        "goal-condition": "Hut the Gravios",
+        "goal-condition": "Hunt the Gravios",
         "client": "Friendly Head Knight",
         "quest-details": "Even us knights can't stand up to the Gravios's mighty heat ray. I know this is a big request, but can you please go and hunt this armored beast in our stead?",
         "difficulty": 11
@@ -1021,7 +1021,7 @@
         ],
         "goal-condition": "Hunt the Silver Rathalos",
         "client": "Hunchbacked Old Lady",
-        "quest-details": "I'll tell you about a secret hunting ground, I will. It doesn't matter if it's day or night, the silver sun always shines, giving would be hunters a good workout... Heh, heh, heh...!",
+        "quest-details": "I'll tell you about a secret hunting ground, I will. It doesn't matter if it's day or night, the silver sun always shines, giving would- be hunters a good workout... Heh, heh, heh...!",
         "difficulty": 11
     },
     {
@@ -1050,8 +1050,8 @@
             "Silver Rathalos",
             "Gold Rathian"
         ],
-        "goal-condition": "Hunt the Silver Rathalos and Gold Rathian",
-        "client": "Sharp Witted Gentlement",
+        "goal-condition": "Hunt the Silver Rathalos and the Gold Rathian",
+        "client": "SharpWittedGentleman",
         "quest-details": "The silver-winged king and his gold-bodied queen. Whoever successfully hunts them both shall be known as the King of Hunters. I await your return with a glass held high!",
         "difficulty": 11
     },
@@ -1113,7 +1113,7 @@
         ],
         "goal-condition": "Slay the Kirin",
         "client": "Practicality Scholar",
-        "quest-details": "There's something causing lightning strikes in the heart of the Old Swamp. My theory is that this is proof that mythical beast has come out of hiding. Isn't is absolutely fascinating?",
+        "quest-details": "There's something causing lightning strikes in the heart of the Old Swamp. My theory is that this is proof that the mythical beast has come out of hiding. Isn't it absolutely fascinating?",
         "difficulty": 11
     },
     {
@@ -1130,11 +1130,11 @@
         ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Guild Master",
-        "quest-details": "The sprawling city in the oasis is under siege by a number of monsters. This is unprecendented! We must do what we can before something terrible befails the city!",
+        "quest-details": "The sprawling city in the oasis is under siege by a number of monsters. This is unprecedented! We must do what we can before something terrible befalls the city!",
         "difficulty": 11
     },
     {
-        "name": "Fire, Electricty, Heat Ray",
+        "name": "Fire, Electricity, Heat Ray",
         "quest-type": "optional",
         "reward": 30000,
         "contract-fee": 2500,
@@ -1164,7 +1164,7 @@
         ],
         "goal-condition": "Hunt all of the Large Monsters",
         "client": "Mantled Huntress",
-        "quest-details": "I  don't usually make requests, but today's an exception since I don't feel my best. ...What? H-How dare you!? I-I could do this job in my sleep! It's that easy! Ah, just come back safe...",
+        "quest-details": "I don't usually make requests, but today's an exception since I don't feel my best. ...What? H-How dare you!? I-I could do this job in my sleep! It's that easy! Ah, just come back safe...",
         "difficulty": 11
     },
     {
@@ -1197,7 +1197,7 @@
             "Diablos"
         ],
         "goal-condition": "Hunt all of the Large Monsters",
-        "client": "Deserted Arena Manager",
+        "client": "DesertedArenaManager",
         "quest-details": "I went to open up the arena that no one has used in a while. Lo and behold, it's now a den of monsters! They seem to like it there so much they were immediately up in arms. Please help me!",
         "difficulty": 11
     },
@@ -1214,7 +1214,7 @@
             "Nargacuga"
         ],
         "goal-condition": "Hunt all of the Large Monsters",
-        "client": "Privileged Lady Knight",
+        "client": "PrivilegedLadyKnight",
         "quest-details": "If I don't pass this exercise, my father will force me to marry. But I've already sworn to myself that my only partner in life would be my trusty sword. Please, I need your help!",
         "difficulty": 11
     },
@@ -1230,7 +1230,7 @@
         ],
         "goal-condition": "Slay the Kushala Daora",
         "client": "Old Tribe's Prince",
-        "quest-details": "If you see a giant twister at night out on the dunes, you'd best run. That is no ordinary sandstorm, but a lengendary Elder Dragon. But if you think you can defeat it, then please go ahead!",
+        "quest-details": "If you see a giant twister at night out on the dunes, you'd best run. That is no ordinary sandstorm, but a legendary Elder Dragon. But if you think you can defeat it, then please go ahead!",
         "difficulty": 11
     },
     {
@@ -1260,7 +1260,7 @@
         ],
         "goal-condition": "Slay the Teostra",
         "client": "Heroic General",
-        "quest-details": "I have an earnest request of you... As the last of my responsibilities, I request your help. I want you to fight the elder fire dragon we corned in the Volcanic Belt, but beware its flames!",
+        "quest-details": "I have an earnest request of you... As the last of my responsibilities, I request your help. I want you to fight the elder fire dragon we cornered in the Volcanic Belt, but beware its flames!",
         "difficulty": 11
     },
     {
@@ -1305,7 +1305,7 @@
         ],
         "goal-condition": "Slay the Chameleos",
         "client": "Grim Aristocrat",
-        "quest-details": "It seems an unknown elder dragon has appeared in the Sawmp Zone. However, no one truly got a clear look at it. What could the beast have been? Slay it, but proceed with caution!",
+        "quest-details": "It seems an unknown elder dragon has appeared in the swamp zone. However, no one truly got a clear look at it. What could the beast have been? Slay it, but proceed with caution!",
         "difficulty": 11
     },
     {
@@ -1321,7 +1321,7 @@
         ],
         "goal-condition": "Slay the Yama Tsukami",
         "client": "E. Dragon Obs Office",
-        "quest-details": "We have confirmed the Yama Tsukami's location at the old Tower! There is so much we have yet to understand about this floating dragon that we can't let his chance escape! Move out!",
+        "quest-details": "We have confirmed the Yama Tsukami's location at the old Tower! There is so much we have yet to understand about this floating dragon that we can't let this chance escape! Move out!",
         "difficulty": 11
     },
     {
@@ -1336,7 +1336,7 @@
         ],
         "goal-condition": "Defend the Town from Shen Gaoren",
         "client": "Guild Master",
-        "quest-details": "Our town is embroiled in an unprecendented conflict. A fortess-like shelled monster is threatening our safety. We need help immediately!",
+        "quest-details": "Our town is embroiled in an unprecedented conflict. A fortress-like shelled monster is threatening our safety. We need help immediately!",
         "difficulty": 11
     },
     {
@@ -1366,7 +1366,7 @@
         ],
         "goal-condition": "Slay the Fatalis",
         "client": "Scarlet Mystery Man",
-        "quest-details": "It appears the time has finally come. The bloodstained scales of the read dragon have graced the earth again in flaming glory. If you can stop this beast...",
+        "quest-details": "It appears the time has finally come. The bloodstained scales of the red dragon have graced the earth again in flaming glory. If you can stop this beast...",
         "difficulty": 11
     },
     {
@@ -1379,18 +1379,18 @@
         "main-monsters": [
             "White Fatalis"
         ],
-        "goal-condition": "Slay the White Fatalis",
+        "goal-condition": "Slay the Fatalis",
         "client": "Scarlet Mystery Man",
         "quest-details": "Hee hee hee... The time has come. Here is your invitation to the ball. Wear your Sunday best and bring your greatest weapon, for it is time to go to the dance with the king of disaster.",
         "difficulty": 11
     },
     {
-        "name": "Aboslute Zero",
+        "name": "Absolute Zero",
         "quest-type": "urgent",
         "reward": 60000,
         "contract-fee": 5000,
         "time-limit": 50,
-        "location": "Snowy Mountain Peak",
+        "location": "SnwyMtnsPeak",
         "main-monsters": [
             "Ukanlos"
         ],
