@@ -16,6 +16,20 @@ I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHF
 Current valid number of lines in DB: 207705
 </h3>
 
+### 🗿 BIG NEWS: model update coming!
+
+<p align="center">
+  <a href="https://github.com/Kolyn090/mhfu-db/blob/main/assets/diablos_blender.png">
+    <img alt="The 3D model of Diablos in blender" src="./assets/diablos_blender.png" width="400" />
+  </a>
+</p>
+
+Recently I have made some luck with extracting 3D models from the game and I have included a sample in the above picture. Although it requires a tremendous amount of effort to rip a model like above, I am interested in doing this in my free time. (Maybe that will make my DB the only place on the internet to find MHFU models? LOL) **That being said, if you want to upload them to places like [The Spriters Resource](https://www.spriters-resource.com/browse/), please ASK ME. It takes A LOT works to rip the models.** For other use cases like use them in your software, I'm completely OK with it.
+
+Another note, I'm going to rename Image DB to Asset DB and all ripped models will be stored there, along with the images. 
+
+💖 If you love mhfu-db, please consider give it a ⭐! Your support will make me happy. 🤗
+
 ### 🖼️ Image DB
 Good news! Recently I have been working on the image database for MHFU. If you want to check it out [click here](https://github.com/Kolyn090/mhfu-image-db.git).
 
