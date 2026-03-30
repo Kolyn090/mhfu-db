@@ -190,8 +190,8 @@
     {
         "part": "helmet",
         "name": "Hunter's Cap",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "BG",
         "defense": 6,
         "skill-points": [
@@ -278,8 +278,8 @@
     {
         "part": "helmet",
         "name": "Hunter's Cap",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "BG",
         "defense": 6,
         "skill-points": [
@@ -713,7 +713,7 @@
         "part": "helmet",
         "name": "Battle Cap",
         "rare": 2,
-        "price": 5900,
+        "price": 750,
         "hunter-type": "BG",
         "defense": 10,
         "skill-points": [
@@ -1670,7 +1670,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -3311,7 +3311,7 @@
         "part": "helmet",
         "name": "Rathian Helm",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "BG",
         "defense": 38,
         "skill-points": [
@@ -3365,7 +3365,7 @@
         "part": "helmet",
         "name": "Rathian Cap",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "BG",
         "defense": 18,
         "skill-points": [
@@ -3650,7 +3650,7 @@
         ],
         "description": "Helm that carries a Diablos' symbol - its horn. Proves one to be a desert champion.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -4162,7 +4162,7 @@
         "thundr-res": 2,
         "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Pawprint Stamp",
@@ -5497,10 +5497,10 @@
         "description": "Hat with a vaguely familiar smell. Recalls memories of a love from days gone by.",
         "slots": 1,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Dosbiscus",
@@ -7404,11 +7404,11 @@
         ],
         "description": "Cap made from Monoblos material. Incredibly thick and imposing armor.",
         "slots": 1,
-        "fire-res": 2,
-        "thundr-res": -2,
-        "dragon-res": -1,
-        "water-res": -1,
-        "ice-res": -1,
+        "fire-res": 4,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "water-res": 2,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Wht Monoblos Hrn",
@@ -8319,7 +8319,7 @@
         "part": "helmet",
         "name": "Battle Helm S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "BG",
         "defense": 46,
         "skill-points": [
@@ -8373,7 +8373,7 @@
         "part": "helmet",
         "name": "Battle Cap S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "BG",
         "defense": 26,
         "skill-points": [
@@ -8427,7 +8427,7 @@
         "part": "helmet",
         "name": "Battle Helm S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "BG",
         "defense": 46,
         "skill-points": [
@@ -8473,7 +8473,7 @@
         "part": "helmet",
         "name": "Battle Cap S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "BG",
         "defense": 26,
         "skill-points": [
@@ -8663,7 +8663,7 @@
         "rare": 6,
         "price": 7800,
         "hunter-type": "BG",
-        "defense": 50,
+        "defense": 26,
         "skill-points": [
             {
                 "name": "Paralysis",
@@ -9286,7 +9286,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -10630,7 +10630,7 @@
                 "points": -2
             }
         ],
-        "description": "Cap as dark as the night. Gives off the aura of some-thing slicing in the dark.",
+        "description": "Cap as dark as the night. Gives off the aura of something slicing in the dark.",
         "slots": 2,
         "fire-res": -2,
         "thundr-res": -1,
@@ -10890,7 +10890,7 @@
         ],
         "description": "Helm that carries a Diablos' symbol - its horn. Proves one to be a desert champion.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -11763,7 +11763,7 @@
         "part": "helmet",
         "name": "Hornet Helm U",
         "rare": 7,
-        "price": 8850,
+        "price": 8800,
         "hunter-type": "BG",
         "defense": 50,
         "skill-points": [
@@ -12234,7 +12234,7 @@
         "slots": 3,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -13082,7 +13082,7 @@
         ],
         "description": "Helm that carries a Diablos' symbol - its horn. Proves one to be a desert champion.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -13888,7 +13888,7 @@
                 "points": 3
             }
         ],
-        "description": "Replica feature in Dengeki Maoh's manga. The power of the Crimson Demon dwells.",
+        "description": "Replica featured in Dengeki Maoh's manga. The power of the Crimson Demon dwells.",
         "slots": 1,
         "fire-res": 3,
         "thundr-res": 1,
@@ -13942,7 +13942,7 @@
                 "points": 2
             }
         ],
-        "description": "Replica featured in Dengeki Maoh's manga. Is its crimson hell the color of blood?",
+        "description": "Replica featured in Dengeki Maoh's manga. Is its crimson shell the color of blood?",
         "slots": 1,
         "fire-res": 5,
         "thundr-res": 4,
@@ -14743,7 +14743,7 @@
         "rare": 8,
         "price": 16000,
         "hunter-type": "BG",
-        "defense": 31,
+        "defense": 32,
         "skill-points": [
             {
                 "name": "All Resist",
@@ -15295,7 +15295,7 @@
         "part": "helmet",
         "name": "Dark Akantor Mask",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "BG",
         "defense": 70,
         "skill-points": [
@@ -15349,7 +15349,7 @@
         "part": "helmet",
         "name": "Dark Akantor Fangs",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "BG",
         "defense": 34,
         "skill-points": [
@@ -15769,10 +15769,10 @@
         "description": "Hat with a vaguely familiar smell. Recalls memories of a love from days gone by.",
         "slots": 2,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "King Scarab",
@@ -15901,7 +15901,7 @@
         "rare": 8,
         "price": 9000,
         "hunter-type": "BG",
-        "defense": 52,
+        "defense": 26,
         "skill-points": [
             {
                 "name": "MixSucRate",
@@ -16432,9 +16432,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "Slvr Rthlos Cpc",
@@ -16511,7 +16511,7 @@
         "part": "helmet",
         "name": "Genesis HeadpieceTen",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "BG",
         "defense": 30,
         "skill-points": [
@@ -16611,7 +16611,7 @@
         "part": "helmet",
         "name": "Glyph Crown Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "BG",
         "defense": 30,
         "skill-points": [
@@ -18280,7 +18280,7 @@
                 "points": -3
             }
         ],
-        "description": "Cap as dark as the night. Gives off the aura of some-thing slicing in the dark.",
+        "description": "Cap as dark as the night. Gives off the aura of something slicing in the dark.",
         "slots": 3,
         "fire-res": -2,
         "thundr-res": -1,
@@ -18644,7 +18644,7 @@
         ],
         "description": "Helm that carries a Diablos' symbol - its horn. Proves one to be a desert champion.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -19664,7 +19664,7 @@
         ],
         "description": "Helm that carries a Diablos' symbol - its horn. Proves one to be a desert champion.",
         "slots": 3,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -20342,7 +20342,7 @@
         "rare": 10,
         "price": 21000,
         "hunter-type": "BG",
-        "defense": 50,
+        "defense": 46,
         "skill-points": [
             {
                 "name": "HearProtct",
@@ -21266,10 +21266,10 @@
         "description": "Hat with a vaguely familiar smell. Recalls memories of a love from days gone by.",
         "slots": 3,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Emperor Cricket",
@@ -21833,9 +21833,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "HvySlvrRthlsShl",
@@ -22610,7 +22610,7 @@
     {
         "part": "helmet",
         "name": "Hawkeye Piercing",
-        "rare": 5,
+        "rare": 10,
         "price": 0,
         "hunter-type": "BG",
         "defense": 30,
@@ -22827,8 +22827,8 @@
     {
         "part": "plate",
         "name": "Hunter's Vest",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -22919,8 +22919,8 @@
     {
         "part": "plate",
         "name": "Hunter's Vest",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -23316,7 +23316,7 @@
         "part": "plate",
         "name": "Battle Vest",
         "rare": 2,
-        "price": 5900,
+        "price": 750,
         "hunter-type": "G",
         "defense": 10,
         "skill-points": [
@@ -23941,7 +23941,7 @@
                 "points": -2
             }
         ],
-        "description": "Made from Genprey materials, this thick metallic breast-plate is quite noteworthy.",
+        "description": "Made from Genprey materials, this thick metallic breastplate is quite noteworthy.",
         "slots": 0,
         "fire-res": 4,
         "thundr-res": 5,
@@ -23975,7 +23975,7 @@
         "name": "Steel Mail",
         "rare": 3,
         "price": 1650,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 24,
         "skill-points": [
             {
@@ -24021,7 +24021,7 @@
         "name": "Steel Mail",
         "rare": 3,
         "price": 1650,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 24,
         "skill-points": [
             {
@@ -24345,7 +24345,7 @@
         "slots": 1,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -25945,7 +25945,7 @@
                 "points": 1
             }
         ],
-        "description": "An exquisite vest made of Shogun Ceanataur. Strong  materials, ingenious design.",
+        "description": "An exquisite vest made of Shogun Ceanataur. Strong materials, ingenious design.",
         "slots": 1,
         "fire-res": 2,
         "thundr-res": 0,
@@ -25978,7 +25978,7 @@
         "part": "plate",
         "name": "Rathian Mail",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "B",
         "defense": 38,
         "skill-points": [
@@ -26032,7 +26032,7 @@
         "part": "plate",
         "name": "Rathian Vest",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "G",
         "defense": 18,
         "skill-points": [
@@ -26325,7 +26325,7 @@
         ],
         "description": "Mail made from Diablos materials. Terrific strength that proves desert valor.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -26890,7 +26890,7 @@
             }
         ],
         "description": "The bright red mark! Famitsu T-Shirt!!",
-        "slots": 1,
+        "slots": 0,
         "fire-res": 2,
         "thundr-res": 2,
         "dragon-res": 2,
@@ -27709,7 +27709,7 @@
         "name": "Remobra Suit",
         "rare": 5,
         "price": 1650,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 24,
         "skill-points": [
             {
@@ -27736,10 +27736,10 @@
         "description": "Suit made from Remobra material. Its black is said to be secretly lusted after.",
         "slots": 0,
         "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
+        "thundr-res": -1,
+        "dragon-res": -1,
+        "water-res": -1,
+        "ice-res": -1,
         "materials": [
             {
                 "name": "Remobra Skin",
@@ -27790,10 +27790,10 @@
         "description": "Armor with a fragrant aroma. Those wrapped in its smell float in nostalgia.",
         "slots": 1,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Dosbiscus",
@@ -28373,7 +28373,7 @@
         "name": "Death Stench Muscle",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 40,
         "skill-points": [
             {
@@ -28423,7 +28423,7 @@
         "name": "Death Stench Heart",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 20,
         "skill-points": [
             {
@@ -29701,11 +29701,11 @@
         ],
         "description": "Made of Monoblos material. Boasts Defense greater than simple fencer's armor.",
         "slots": 1,
-        "fire-res": 2,
-        "thundr-res": -2,
-        "dragon-res": -1,
-        "water-res": -1,
-        "ice-res": -1,
+        "fire-res": 4,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "water-res": 2,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Wht Monoblos Hrn",
@@ -30620,7 +30620,7 @@
         "part": "plate",
         "name": "Battle Mail S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -30674,7 +30674,7 @@
         "part": "plate",
         "name": "Battle Vest S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -30728,7 +30728,7 @@
         "part": "plate",
         "name": "Battle Mail S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -30774,7 +30774,7 @@
         "part": "plate",
         "name": "Battle Vest S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -31121,7 +31121,7 @@
         "name": "Steel Mail S",
         "rare": 6,
         "price": 8950,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 52,
         "skill-points": [
             {
@@ -31333,7 +31333,7 @@
                 "points": -2
             }
         ],
-        "description": "Made from Genprey materials, this thick metallic breast-plate is quite noteworthy.",
+        "description": "Made from Genprey materials, this thick metallic breastplate is quite noteworthy.",
         "slots": 1,
         "fire-res": 4,
         "thundr-res": 5,
@@ -31637,7 +31637,7 @@
         "slots": 1,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -32612,7 +32612,7 @@
             }
         ],
         "description": "Mail made using Blangonga materials. It has a distinct Oriental feeling to it.",
-        "slots": 2,
+        "slots": 1,
         "fire-res": -4,
         "thundr-res": 0,
         "dragon-res": 1,
@@ -33229,7 +33229,7 @@
         ],
         "description": "Mail made from Diablos materials. Terrific strength that proves desert valor.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -34114,8 +34114,8 @@
         "part": "plate",
         "name": "Steel Mail U",
         "rare": 7,
-        "price": 8850,
-        "hunter-type": "BG",
+        "price": 8950,
+        "hunter-type": "B",
         "defense": 50,
         "skill-points": [
             {
@@ -34160,7 +34160,7 @@
         "part": "plate",
         "name": "Hornet Mail U",
         "rare": 7,
-        "price": 8850,
+        "price": 8800,
         "hunter-type": "B",
         "defense": 50,
         "skill-points": [
@@ -34327,7 +34327,7 @@
                 "points": -2
             }
         ],
-        "description": "Made from Genprey materials, this thick metallic breast-plate is quite noteworthy.",
+        "description": "Made from Genprey materials, this thick metallic breastplate is quite noteworthy.",
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 5,
@@ -34631,7 +34631,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -35479,7 +35479,7 @@
         ],
         "description": "Mail made from Diablos materials. Terrific strength that proves desert valor.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -35716,7 +35716,7 @@
             }
         ],
         "description": "Worn only by adult hunters and emblazoned with the logo of the Hero of Kokoto.",
-        "slots": 0,
+        "slots": 2,
         "fire-res": 4,
         "thundr-res": 4,
         "dragon-res": 4,
@@ -36839,7 +36839,7 @@
         "name": "DeathStench Muscle S",
         "rare": 8,
         "price": 10750,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 64,
         "skill-points": [
             {
@@ -36889,7 +36889,7 @@
         "name": "Death Stench Heart S",
         "rare": 8,
         "price": 10750,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 30,
         "skill-points": [
             {
@@ -37198,7 +37198,7 @@
         "rare": 8,
         "price": 16000,
         "hunter-type": "G",
-        "defense": 31,
+        "defense": 32,
         "skill-points": [
             {
                 "name": "All Resist",
@@ -37766,7 +37766,7 @@
         "part": "plate",
         "name": "Dark Akantor Aegis",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "B",
         "defense": 70,
         "skill-points": [
@@ -37820,7 +37820,7 @@
         "part": "plate",
         "name": "Dark Akantor Plate",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "G",
         "defense": 34,
         "skill-points": [
@@ -38244,10 +38244,10 @@
         "description": "Armor with a fragrant aroma. Those wrapped in its smell float in nostalgia.",
         "slots": 1,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "King Scarab",
@@ -38296,11 +38296,11 @@
             }
         ],
         "description": "Armor with a faint sweet odor. Charmingly strange color and construction.",
-        "slots": 0,
+        "slots": 1,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
-        "water-res": 0,
+        "water-res": 2,
         "ice-res": 0,
         "materials": [
             {
@@ -38376,7 +38376,7 @@
         "rare": 8,
         "price": 9000,
         "hunter-type": "G",
-        "defense": 52,
+        "defense": 26,
         "skill-points": [
             {
                 "name": "MixSucRate",
@@ -38903,9 +38903,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "Slvr Rthlos Cpc",
@@ -38982,7 +38982,7 @@
         "part": "plate",
         "name": "Genesis Torso Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -39082,7 +39082,7 @@
         "part": "plate",
         "name": "Glyph Chest Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -41111,7 +41111,7 @@
         ],
         "description": "Mail made from Diablos materials. Terrific strength that proves desert valor.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -42147,7 +42147,7 @@
         ],
         "description": "Mail made from Diablos materials. Terrific strength that proves desert valor.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -42967,7 +42967,7 @@
         "rare": 10,
         "price": 21000,
         "hunter-type": "G",
-        "defense": 50,
+        "defense": 46,
         "skill-points": [
             {
                 "name": "HearProtct",
@@ -42987,7 +42987,7 @@
             }
         ],
         "description": "Crafted from Chameleos and made to take full advantage of its rare materials.",
-        "slots": 2,
+        "slots": 1,
         "fire-res": -3,
         "thundr-res": 1,
         "dragon-res": 0,
@@ -43879,10 +43879,10 @@
         "description": "Armor with a fragrant aroma. Those wrapped in its smell float in nostalgia.",
         "slots": 3,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Emperor Cricket",
@@ -44438,9 +44438,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "HvySlvrRthlsShl",
@@ -44918,7 +44918,7 @@
         "name": "Leather Vambraces",
         "rare": 1,
         "price": 150,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 2,
         "skill-points": [
             {
@@ -44964,7 +44964,7 @@
         "name": "Chain Vambraces",
         "rare": 1,
         "price": 300,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 4,
         "skill-points": [
             {
@@ -45058,8 +45058,8 @@
     {
         "part": "gauntlet",
         "name": "Hunter's Guards",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -45150,8 +45150,8 @@
     {
         "part": "gauntlet",
         "name": "Hunter's Guards",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -45551,7 +45551,7 @@
         "part": "gauntlet",
         "name": "Battle Guards",
         "rare": 2,
-        "price": 5900,
+        "price": 750,
         "hunter-type": "G",
         "defense": 10,
         "skill-points": [
@@ -46616,7 +46616,7 @@
         "slots": 1,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -48261,7 +48261,7 @@
         "part": "gauntlet",
         "name": "Rathian Vambraces",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "B",
         "defense": 38,
         "skill-points": [
@@ -48315,7 +48315,7 @@
         "part": "gauntlet",
         "name": "Rathian Guards",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "G",
         "defense": 18,
         "skill-points": [
@@ -48608,7 +48608,7 @@
         ],
         "description": "Thick shell with unequaled hardness. Put it on and feel the weight of courage.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -49190,7 +49190,7 @@
         "name": "Black Belt Vambraces",
         "rare": 5,
         "price": 3300,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 20,
         "skill-points": [
             {
@@ -49448,7 +49448,7 @@
         "name": "Guardian Vambraces",
         "rare": 5,
         "price": 9800,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 20,
         "skill-points": [
             {
@@ -49886,10 +49886,10 @@
         "description": "This armor's faint color and smell can bring tears to an old hunter's eyes.",
         "slots": 1,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Dosbiscus",
@@ -50083,7 +50083,7 @@
         "name": "Hypno Vambraces",
         "rare": 5,
         "price": 3350,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 32,
         "skill-points": [
             {
@@ -50137,7 +50137,7 @@
         "name": "Hypno Guards",
         "rare": 5,
         "price": 3350,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 16,
         "skill-points": [
             {
@@ -50481,7 +50481,7 @@
         "name": "Death Stench Grip",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 40,
         "skill-points": [
             {
@@ -50531,7 +50531,7 @@
         "name": "Death Stench Grasp",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 20,
         "skill-points": [
             {
@@ -50601,7 +50601,7 @@
                 "points": -2
             }
         ],
-        "description": "Vambraces made of Lavasioth materials. Virtually fire-proof makes you toast-proof.",
+        "description": "Vambraces made of Lavasioth materials. Virtually fireproof makes you toast-proof.",
         "slots": 1,
         "fire-res": 4,
         "thundr-res": 0,
@@ -51034,7 +51034,7 @@
         "name": "Carnage Vambraces",
         "rare": 5,
         "price": 9800,
-        "hunter-type": "B",
+        "hunter-type": "G",
         "defense": 22,
         "skill-points": [
             {
@@ -51694,7 +51694,7 @@
                 "points": 2
             }
         ],
-        "description": "If worn for retorts, you double persuaiveness and laughter. A must-have item.",
+        "description": "If worn for retorts, you double persuasiveness and laughter. A must-have item.",
         "slots": 2,
         "fire-res": 3,
         "thundr-res": 0,
@@ -51800,11 +51800,11 @@
         ],
         "description": "Strong enough to face off versus Monoblos and withstand its charge.",
         "slots": 2,
-        "fire-res": 2,
-        "thundr-res": -2,
-        "dragon-res": -1,
-        "water-res": -1,
-        "ice-res": -1,
+        "fire-res": 4,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "water-res": 2,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Wht Monoblos Hrn",
@@ -52136,7 +52136,7 @@
         "name": "Leather Vambraces S",
         "rare": 6,
         "price": 1350,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 22,
         "skill-points": [
             {
@@ -52182,7 +52182,7 @@
         "name": "Leather Vambraces S",
         "rare": 6,
         "price": 1350,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 22,
         "skill-points": [
             {
@@ -52220,7 +52220,7 @@
         "name": "Chain Vambraces S",
         "rare": 6,
         "price": 1650,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 24,
         "skill-points": [
             {
@@ -52270,7 +52270,7 @@
         "name": "Chain Vambraces S",
         "rare": 6,
         "price": 1650,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 24,
         "skill-points": [
             {
@@ -52715,7 +52715,7 @@
         "part": "gauntlet",
         "name": "Battle Vambraces S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -52769,7 +52769,7 @@
         "part": "gauntlet",
         "name": "Battle Guards S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -52823,7 +52823,7 @@
         "part": "gauntlet",
         "name": "Battle Vambraces S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -52869,7 +52869,7 @@
         "part": "gauntlet",
         "name": "Battle Guards S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -53732,7 +53732,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -55324,7 +55324,7 @@
         ],
         "description": "Thick shell with unequaled hardness. Put it on and feel the weight of courage.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -55506,7 +55506,7 @@
         "name": "Leather Vambraces U",
         "rare": 7,
         "price": 1350,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 20,
         "skill-points": [
             {
@@ -55556,7 +55556,7 @@
         "name": "Chain Vambraces U",
         "rare": 7,
         "price": 1650,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 22,
         "skill-points": [
             {
@@ -56209,7 +56209,7 @@
         "part": "gauntlet",
         "name": "Steel Vambraces U",
         "rare": 7,
-        "price": 8850,
+        "price": 8950,
         "hunter-type": "B",
         "defense": 50,
         "skill-points": [
@@ -56259,7 +56259,7 @@
         "part": "gauntlet",
         "name": "Hornet Vambraces U",
         "rare": 7,
-        "price": 8850,
+        "price": 8800,
         "hunter-type": "B",
         "defense": 50,
         "skill-points": [
@@ -56730,7 +56730,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -57578,7 +57578,7 @@
         ],
         "description": "Thick shell with unequaled hardness. Put it on and feel the weight of courage.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -58338,7 +58338,7 @@
                 "points": 2
             }
         ],
-        "description": "Replica feature in Dengeki Maoh's manga. Proof of ending the one-horned demon.",
+        "description": "Replica featured in Dengeki Maoh's manga. Proof of ending the one-horned demon.",
         "slots": 2,
         "fire-res": 3,
         "thundr-res": 1,
@@ -58446,7 +58446,7 @@
                 "points": 4
             }
         ],
-        "description": "Lengendary pirate arm gear. Seizes treasure in the same hand that claims victory.",
+        "description": "Legendary pirate arm gear. Seizes treasure in the same hand that claims victory.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
@@ -58496,7 +58496,7 @@
                 "points": 4
             }
         ],
-        "description": "Lengendary pirate arm gear. Perfect for embarking with friends into the unknown.",
+        "description": "Legendary pirate arm gear. Perfect for embarking with friends into the unknown.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
@@ -58597,7 +58597,7 @@
             }
         ],
         "description": "Crafting technology melded with superb Rajang material. At home in the darkness.",
-        "slots": 2,
+        "slots": 1,
         "fire-res": 4,
         "thundr-res": 3,
         "dragon-res": 4,
@@ -58830,7 +58830,7 @@
         "name": "Death Stench Grip S",
         "rare": 8,
         "price": 10750,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 64,
         "skill-points": [
             {
@@ -58880,7 +58880,7 @@
         "name": "Death Stench Grasp S",
         "rare": 8,
         "price": 10750,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 30,
         "skill-points": [
             {
@@ -59001,7 +59001,7 @@
             }
         ],
         "description": "Sleeves made from Chameleos materials using the latest technology. Absorbs impacts.",
-        "slots": 2,
+        "slots": 1,
         "fire-res": -3,
         "thundr-res": 1,
         "dragon-res": 0,
@@ -59185,7 +59185,7 @@
         "rare": 8,
         "price": 16000,
         "hunter-type": "G",
-        "defense": 31,
+        "defense": 32,
         "skill-points": [
             {
                 "name": "All Resist",
@@ -59305,12 +59305,12 @@
             }
         ],
         "description": "Male armor made of Lao-Shan Lung materials. Its owner's shots can part a tsunami.",
-        "slots": 0,
-        "fire-res": 0,
-        "thundr-res": 0,
-        "dragon-res": 0,
-        "water-res": 0,
-        "ice-res": 0,
+        "slots": 2,
+        "fire-res": 1,
+        "thundr-res": 2,
+        "dragon-res": -2,
+        "water-res": 3,
+        "ice-res": 3,
         "materials": [
             {
                 "name": "Lao-Shan Scale+",
@@ -59753,7 +59753,7 @@
         "part": "gauntlet",
         "name": "Dark Akantor Claw",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "B",
         "defense": 70,
         "skill-points": [
@@ -59807,7 +59807,7 @@
         "part": "gauntlet",
         "name": "DarkAkantor Gauntlet",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "G",
         "defense": 34,
         "skill-points": [
@@ -59929,7 +59929,7 @@
             }
         ],
         "description": "Kote that can only be worn by those with compassion as limitless as the sea.",
-        "slots": 3,
+        "slots": 2,
         "fire-res": 2,
         "thundr-res": 4,
         "dragon-res": 2,
@@ -59962,7 +59962,7 @@
         "name": "Guardian Vambraces U",
         "rare": 8,
         "price": 16000,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 28,
         "skill-points": [
             {
@@ -60112,7 +60112,7 @@
         "name": "Healer Sleeves U",
         "rare": 8,
         "price": 16000,
-        "hunter-type": "B",
+        "hunter-type": "BG",
         "defense": 28,
         "skill-points": [
             {
@@ -60185,10 +60185,10 @@
         "description": "This armor's faint color and smell can bring tears to an old hunter's eyes.",
         "slots": 2,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "King Scarab",
@@ -60317,7 +60317,7 @@
         "rare": 8,
         "price": 9000,
         "hunter-type": "G",
-        "defense": 52,
+        "defense": 26,
         "skill-points": [
             {
                 "name": "MixSucRate",
@@ -60848,9 +60848,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "Slvr Rthlos Cpc",
@@ -60927,7 +60927,7 @@
         "part": "gauntlet",
         "name": "Genesis Gauntlet Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -61027,7 +61027,7 @@
         "part": "gauntlet",
         "name": "Glyph Gauntlets Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -63051,7 +63051,7 @@
         ],
         "description": "Thick shell with unequaled hardness. Put it on and feel the weight of courage.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -64083,7 +64083,7 @@
         ],
         "description": "Thick shell with unequaled hardness. Put it on and feel the weight of courage.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -64741,7 +64741,7 @@
         "rare": 10,
         "price": 21000,
         "hunter-type": "G",
-        "defense": 50,
+        "defense": 46,
         "skill-points": [
             {
                 "name": "HearProtct",
@@ -65372,7 +65372,7 @@
         "name": "CarnageVambracesShin",
         "rare": 10,
         "price": 31500,
-        "hunter-type": "B",
+        "hunter-type": "G",
         "defense": 50,
         "skill-points": [
             {
@@ -65661,10 +65661,10 @@
         "description": "This armor's faint color and smell can bring tears to an old hunter's eyes.",
         "slots": 2,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Emperor Cricket",
@@ -66212,9 +66212,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "HvySlvrRthlsShl",
@@ -66343,7 +66343,7 @@
         "rare": 10,
         "price": 35500,
         "hunter-type": "B",
-        "defense": 0,
+        "defense": 98,
         "skill-points": [
             {
                 "name": "Faint",
@@ -66693,7 +66693,7 @@
         "rare": 1,
         "price": 100,
         "hunter-type": "BG",
-        "defense": 1,
+        "defense": 2,
         "skill-points": [
             {
                 "name": "Backpackng",
@@ -66777,7 +66777,7 @@
         "rare": 1,
         "price": 200,
         "hunter-type": "BG",
-        "defense": 2,
+        "defense": 4,
         "skill-points": [
             {
                 "name": "Hunger",
@@ -66920,8 +66920,8 @@
     {
         "part": "waist",
         "name": "Hunter's Coat",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -67012,8 +67012,8 @@
     {
         "part": "waist",
         "name": "Hunter's Coat",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -67440,7 +67440,7 @@
         "name": "Hide Belt",
         "rare": 2,
         "price": 950,
-        "hunter-type": "G",
+        "hunter-type": "BG",
         "defense": 18,
         "skill-points": [
             {
@@ -67558,11 +67558,11 @@
         ],
         "description": "Made by crafting Velociprey materials. These items are easy to obtain.",
         "slots": 1,
-        "fire-res": 1,
-        "thundr-res": 1,
-        "dragon-res": -1,
-        "water-res": 1,
-        "ice-res": 0,
+        "fire-res": 3,
+        "thundr-res": 3,
+        "dragon-res": 0,
+        "water-res": 3,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "Velociprey Scale",
@@ -68140,7 +68140,7 @@
         "name": "Steel Belt",
         "rare": 3,
         "price": 1650,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 24,
         "skill-points": [
             {
@@ -68190,7 +68190,7 @@
         "name": "Steel Belt",
         "rare": 3,
         "price": 1650,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 24,
         "skill-points": [
             {
@@ -68522,7 +68522,7 @@
         "slots": 1,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -68827,7 +68827,7 @@
             }
         ],
         "description": "Guards covered in Khezu hide. The feeling of its skin creeps over you...",
-        "slots": 2,
+        "slots": 1,
         "fire-res": -1,
         "thundr-res": 6,
         "dragon-res": 0,
@@ -69919,7 +69919,7 @@
         "part": "waist",
         "name": "Rathian Tasset",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "B",
         "defense": 38,
         "skill-points": [
@@ -69973,7 +69973,7 @@
         "part": "waist",
         "name": "Rathian Coat",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "G",
         "defense": 18,
         "skill-points": [
@@ -70266,7 +70266,7 @@
         ],
         "description": "Coil made from Diablos material. Power that fears no wyvern's attack.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -71403,10 +71403,10 @@
         "description": "Strange armor with a fragrant aroma. Its hue is thanks to special materials.",
         "slots": 1,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Dosbiscus",
@@ -71998,7 +71998,7 @@
         "name": "Death Stench Bowels",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 40,
         "skill-points": [
             {
@@ -72048,7 +72048,7 @@
         "name": "Death Stench Belly",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 20,
         "skill-points": [
             {
@@ -72172,7 +72172,7 @@
                 "points": -2
             }
         ],
-        "description": "Petrified Lavasioth parts make this incredibly strong and fireproof",
+        "description": "Petrified Lavasioth parts make this incredibly strong and fireproof.",
         "slots": 1,
         "fire-res": 5,
         "thundr-res": 2,
@@ -72752,11 +72752,11 @@
         ],
         "description": "Female armor made from Lao-Shan Lung material. Gallant and absolutely fascinating.",
         "slots": 1,
-        "fire-res": 2,
+        "fire-res": -2,
         "thundr-res": 0,
         "dragon-res": -4,
-        "water-res": -2,
-        "ice-res": 0,
+        "water-res": 2,
+        "ice-res": 2,
         "materials": [
             {
                 "name": "Lao-Shan's Shell",
@@ -72797,12 +72797,12 @@
             }
         ],
         "description": "Armor made from Lao-Shan Lung material. Glittering ultimate armor of an archer.",
-        "slots": 1,
-        "fire-res": 3,
+        "slots": 2,
+        "fire-res": 1,
         "thundr-res": 2,
         "dragon-res": -2,
-        "water-res": 1,
-        "ice-res": 1,
+        "water-res": 3,
+        "ice-res": 3,
         "materials": [
             {
                 "name": "Lao-Shan's Shell",
@@ -73418,11 +73418,11 @@
         ],
         "description": "Lavishly made from Monoblos materials. Appropriate armor for a hero.",
         "slots": 1,
-        "fire-res": 2,
-        "thundr-res": -2,
-        "dragon-res": -1,
-        "water-res": -1,
-        "ice-res": -1,
+        "fire-res": 4,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "water-res": 2,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Wht Monoblos Hrn",
@@ -74333,7 +74333,7 @@
         "part": "waist",
         "name": "Battle Tasset S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -74387,7 +74387,7 @@
         "part": "waist",
         "name": "Battle Coat S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -74441,7 +74441,7 @@
         "part": "waist",
         "name": "Battle Tasset S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -74487,7 +74487,7 @@
         "part": "waist",
         "name": "Battle Coat S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -74818,7 +74818,7 @@
         "name": "Steel Belt S",
         "rare": 6,
         "price": 8950,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 52,
         "skill-points": [
             {
@@ -75330,7 +75330,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -76321,7 +76321,7 @@
             }
         ],
         "description": "Made of Blangonga materials with technology from the \"Eastern Land of the Gods\".",
-        "slots": 1,
+        "slots": 2,
         "fire-res": -4,
         "thundr-res": 0,
         "dragon-res": 1,
@@ -76409,7 +76409,7 @@
         "rare": 6,
         "price": 10050,
         "hunter-type": "B",
-        "defense": 30,
+        "defense": 61,
         "skill-points": [
             {
                 "name": "Artisan",
@@ -76938,7 +76938,7 @@
         ],
         "description": "Coil made from Diablos material. Power that fears no wyvern's attack.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -77823,7 +77823,7 @@
         "part": "waist",
         "name": "Steel Belt U",
         "rare": 7,
-        "price": 8850,
+        "price": 8950,
         "hunter-type": "B",
         "defense": 50,
         "skill-points": [
@@ -77873,7 +77873,7 @@
         "part": "waist",
         "name": "Hornet Tasset U",
         "rare": 7,
-        "price": 8850,
+        "price": 8800,
         "hunter-type": "B",
         "defense": 50,
         "skill-points": [
@@ -78344,7 +78344,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -78825,7 +78825,7 @@
         "rare": 7,
         "price": 9100,
         "hunter-type": "G",
-        "defense": 28,
+        "defense": 26,
         "skill-points": [
             {
                 "name": "Guard Up",
@@ -78842,10 +78842,10 @@
         ],
         "description": "Coat made from Gravios materials. Said to be heavy enough to crack the earth.",
         "slots": 2,
-        "fire-res": 4,
-        "thundr-res": 3,
+        "fire-res": 2,
+        "thundr-res": 4,
         "dragon-res": 0,
-        "water-res": 1,
+        "water-res": 4,
         "ice-res": 2,
         "materials": [
             {
@@ -79092,7 +79092,7 @@
         ],
         "description": "Coil made from Diablos material. Power that fears no wyvern's attack.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -79864,7 +79864,7 @@
                 "points": 2
             }
         ],
-        "description": "Replica feature in Dengeki Maoh's manga. Its a replica, but the performance is real.",
+        "description": "Replica featured in Dengeki Maoh's manga. Its a replica, but the performance is real.",
         "slots": 1,
         "fire-res": 3,
         "thundr-res": 1,
@@ -79918,7 +79918,7 @@
                 "points": 2
             }
         ],
-        "description": "Replica feature in Dengeki Maoh's manga. For actual combat, not just decoration.",
+        "description": "Replica featured in Dengeki Maoh's manga. For actual combat, not just decoration.",
         "slots": 2,
         "fire-res": 5,
         "thundr-res": 4,
@@ -79972,7 +79972,7 @@
                 "points": 4
             }
         ],
-        "description": "Lengendary pirate waist gear, worn from the hardships overcome with one's friends.",
+        "description": "Legendary pirate waist gear, worn from the hardships overcome with one's friends.",
         "slots": 0,
         "fire-res": 0,
         "thundr-res": 0,
@@ -80364,7 +80364,7 @@
         "name": "DeathStench Bowels S",
         "rare": 8,
         "price": 10750,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 64,
         "skill-points": [
             {
@@ -80715,7 +80715,7 @@
         "rare": 8,
         "price": 16000,
         "hunter-type": "G",
-        "defense": 31,
+        "defense": 32,
         "skill-points": [
             {
                 "name": "All Resist",
@@ -81283,7 +81283,7 @@
         "part": "waist",
         "name": "DarkAkantor Cincture",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "B",
         "defense": 70,
         "skill-points": [
@@ -81337,7 +81337,7 @@
         "part": "waist",
         "name": "Dark Akantor Sash",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "G",
         "defense": 34,
         "skill-points": [
@@ -81757,10 +81757,10 @@
         "description": "Strange armor with a fragrant aroma. Its hue is thanks to special materials.",
         "slots": 2,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "King Scarab",
@@ -81893,7 +81893,7 @@
         "rare": 8,
         "price": 9000,
         "hunter-type": "G",
-        "defense": 52,
+        "defense": 26,
         "skill-points": [
             {
                 "name": "MixSucRate",
@@ -82428,9 +82428,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "Slvr Rthlos Cpc",
@@ -82507,7 +82507,7 @@
         "part": "waist",
         "name": "Genesis Tasset Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -82607,7 +82607,7 @@
         "part": "waist",
         "name": "Glyph Tasset Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -84648,7 +84648,7 @@
         ],
         "description": "Coil made from Diablos material. Power that fears no wyvern's attack.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -85684,7 +85684,7 @@
         ],
         "description": "Coil made from Diablos material. Power that fears no wyvern's attack.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -86374,7 +86374,7 @@
         "rare": 10,
         "price": 21000,
         "hunter-type": "G",
-        "defense": 50,
+        "defense": 46,
         "skill-points": [
             {
                 "name": "HearProtct",
@@ -87294,10 +87294,10 @@
         "description": "Strange armor with a fragrant aroma. Its hue is thanks to special materials.",
         "slots": 2,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Emperor Cricket",
@@ -87853,9 +87853,9 @@
         "slots": 3,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "HvySlvrRthlsShl",
@@ -88259,11 +88259,11 @@
         ],
         "description": "Shining white waist armor. Its glittering appearance is perfect for the powerful.",
         "slots": 2,
-        "fire-res": 0,
-        "thundr-res": 2,
-        "dragon-res": -5,
-        "water-res": 2,
-        "ice-res": 2,
+        "fire-res": 2,
+        "thundr-res": 4,
+        "dragon-res": -2,
+        "water-res": 4,
+        "ice-res": 3,
         "materials": [
             {
                 "name": "HvyWhtFatalisShl",
@@ -88477,8 +88477,8 @@
     {
         "part": "legging",
         "name": "Hunter's Leggings",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -88569,8 +88569,8 @@
     {
         "part": "legging",
         "name": "Hunter's Leggings",
-        "rare": 2,
-        "price": 650,
+        "rare": 1,
+        "price": 450,
         "hunter-type": "G",
         "defense": 6,
         "skill-points": [
@@ -88970,7 +88970,7 @@
         "part": "legging",
         "name": "Battle Leggings",
         "rare": 2,
-        "price": 5900,
+        "price": 750,
         "hunter-type": "G",
         "defense": 10,
         "skill-points": [
@@ -89068,7 +89068,7 @@
         "rare": 2,
         "price": 2300,
         "hunter-type": "BG",
-        "defense": 18,
+        "defense": 20,
         "skill-points": [
             {
                 "name": "Sneak",
@@ -89273,11 +89273,11 @@
         ],
         "description": "Leggings covered in Vespoid material. Defends against strong physical attacks.",
         "slots": 1,
-        "fire-res": -6,
-        "thundr-res": 2,
+        "fire-res": -5,
+        "thundr-res": 5,
         "dragon-res": 2,
-        "water-res": -5,
-        "ice-res": -4,
+        "water-res": -4,
+        "ice-res": -3,
         "materials": [
             {
                 "name": "Vespoid Shell",
@@ -90051,7 +90051,7 @@
         "slots": 1,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -91680,7 +91680,7 @@
         "part": "legging",
         "name": "Rathian Greaves",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "B",
         "defense": 38,
         "skill-points": [
@@ -91734,7 +91734,7 @@
         "part": "legging",
         "name": "Rathian Leggings",
         "rare": 4,
-        "price": 5200,
+        "price": 5350,
         "hunter-type": "G",
         "defense": 18,
         "skill-points": [
@@ -92027,7 +92027,7 @@
         ],
         "description": "Greaves crafted from Diablos materials. Glorious armor with truly heroic strength.",
         "slots": 1,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -92690,7 +92690,7 @@
         "description": "Will make you as sly as a Genprey when worn, pouncing out from the darkness.",
         "slots": 2,
         "fire-res": 1,
-        "thundr-res": 1,
+        "thundr-res": 2,
         "dragon-res": 1,
         "water-res": 1,
         "ice-res": 1,
@@ -93450,10 +93450,10 @@
         "description": "Armor with a lovely aroma. Its intoxicating fragrance can make one impulsive.",
         "slots": 1,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Dosbiscus",
@@ -94045,7 +94045,7 @@
         "name": "Death Stench Heel",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 40,
         "skill-points": [
             {
@@ -94095,7 +94095,7 @@
         "name": "Death Stench March",
         "rare": 5,
         "price": 5800,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 20,
         "skill-points": [
             {
@@ -94790,12 +94790,12 @@
             }
         ],
         "description": "Made from Lao-Shan Lung. Ultimate materials. Ultimate workmanship. Ultimate armor.",
-        "slots": 1,
-        "fire-res": 2,
+        "slots": 2,
+        "fire-res": -2,
         "thundr-res": 0,
         "dragon-res": -4,
-        "water-res": -2,
-        "ice-res": 0,
+        "water-res": 2,
+        "ice-res": 2,
         "materials": [
             {
                 "name": "Lao-Shan's Scale",
@@ -94837,11 +94837,11 @@
         ],
         "description": "Made from Lao-Shan Lung materials. These materials require delicate crafting.",
         "slots": 1,
-        "fire-res": 3,
+        "fire-res": 1,
         "thundr-res": 2,
         "dragon-res": -2,
-        "water-res": 1,
-        "ice-res": 1,
+        "water-res": 3,
+        "ice-res": 3,
         "materials": [
             {
                 "name": "Lao-Shan's Scale",
@@ -94890,12 +94890,12 @@
             }
         ],
         "description": "The deep red color of this leg armor is the original hue of Lao-Shan himself.",
-        "slots": 2,
-        "fire-res": -2,
+        "slots": 1,
+        "fire-res": 2,
         "thundr-res": 0,
         "dragon-res": -4,
-        "water-res": 2,
-        "ice-res": 2,
+        "water-res": -2,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Lao-Shan's Scale",
@@ -94943,13 +94943,13 @@
                 "points": -1
             }
         ],
-        "description": "Superb men's Lao-Shan-based armor of Eastern origin with a wide range of resistance.",
+        "description": "The deep red color of this leg armor is the original hue of Lao-Shan himself.",
         "slots": 1,
-        "fire-res": 1,
+        "fire-res": 3,
         "thundr-res": 2,
         "dragon-res": -2,
-        "water-res": 3,
-        "ice-res": 3,
+        "water-res": 1,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "Lao-Shan's Scale",
@@ -95469,11 +95469,11 @@
         ],
         "description": "Greaves made from Monoblos material. High protection is proof of a powerful hunter.",
         "slots": 1,
-        "fire-res": 2,
-        "thundr-res": -2,
-        "dragon-res": -1,
-        "water-res": -1,
-        "ice-res": -1,
+        "fire-res": 4,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "water-res": 2,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Wht Monoblos Hrn",
@@ -96388,7 +96388,7 @@
         "part": "legging",
         "name": "Battle Greaves S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -96442,7 +96442,7 @@
         "part": "legging",
         "name": "Battle Leggings S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -96496,7 +96496,7 @@
         "part": "legging",
         "name": "Battle Greaves S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "B",
         "defense": 46,
         "skill-points": [
@@ -96542,7 +96542,7 @@
         "part": "legging",
         "name": "Battle Leggings S",
         "rare": 6,
-        "price": 7200,
+        "price": 7500,
         "hunter-type": "G",
         "defense": 26,
         "skill-points": [
@@ -97351,7 +97351,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -98951,7 +98951,7 @@
         ],
         "description": "Greaves crafted from Diablos materials. Glorious armor with truly heroic strength.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -99836,7 +99836,7 @@
         "part": "legging",
         "name": "Hornet Greaves U",
         "rare": 7,
-        "price": 8850,
+        "price": 8800,
         "hunter-type": "B",
         "defense": 50,
         "skill-points": [
@@ -100307,7 +100307,7 @@
         "slots": 2,
         "fire-res": -1,
         "thundr-res": -2,
-        "dragon-res": -1,
+        "dragon-res": 1,
         "water-res": 5,
         "ice-res": 3,
         "materials": [
@@ -101155,7 +101155,7 @@
         ],
         "description": "Greaves crafted from Diablos materials. Glorious armor with truly heroic strength.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -102019,7 +102019,7 @@
                 "points": 2
             }
         ],
-        "description": "Replica feature in Dengeki Maoh's manga. The black and red fuels the battle spirit.",
+        "description": "Replica featured in Dengeki Maoh's manga. The black and red fuels the battle spirit.",
         "slots": 1,
         "fire-res": 3,
         "thundr-res": 1,
@@ -102069,7 +102069,7 @@
                 "points": 3
             }
         ],
-        "description": "Replica feature in Dengeki Maoh's manga. Crimson armor that intimidates others.",
+        "description": "Replica featured in Dengeki Maoh's manga. Crimson armor that intimidates others.",
         "slots": 1,
         "fire-res": 5,
         "thundr-res": 4,
@@ -102261,7 +102261,7 @@
         "name": "Puppet Master Socks",
         "rare": 8,
         "price": 15500,
-        "hunter-type": "B",
+        "hunter-type": "G",
         "defense": 28,
         "skill-points": [
             {
@@ -102283,11 +102283,11 @@
         ],
         "description": "Armor woven of Rajang fur. It muffles the footsteps of those in love with the dark.",
         "slots": 1,
-        "fire-res": 3,
-        "thundr-res": 2,
-        "dragon-res": 3,
-        "water-res": 2,
-        "ice-res": -2,
+        "fire-res": 4,
+        "thundr-res": 3,
+        "dragon-res": 4,
+        "water-res": 3,
+        "ice-res": -1,
         "materials": [
             {
                 "name": "Rajang Horn",
@@ -102411,8 +102411,8 @@
         "image-female": ""
     },
     {
-        "name": "Butterfly Gamba S",
         "part": "legging",
+        "name": "Butterfly Gamba S",
         "rare": 8,
         "price": 9100,
         "hunter-type": "B",
@@ -102515,7 +102515,7 @@
         "name": "Death Stench Heel S",
         "rare": 8,
         "price": 10750,
-        "hunter-type": "BG",
+        "hunter-type": "B",
         "defense": 64,
         "skill-points": [
             {
@@ -102565,7 +102565,7 @@
         "name": "Death Stench March S",
         "rare": 8,
         "price": 10750,
-        "hunter-type": "BG",
+        "hunter-type": "G",
         "defense": 30,
         "skill-points": [
             {
@@ -102866,7 +102866,7 @@
         "rare": 8,
         "price": 16000,
         "hunter-type": "G",
-        "defense": 31,
+        "defense": 32,
         "skill-points": [
             {
                 "name": "All Resist",
@@ -103434,7 +103434,7 @@
         "part": "legging",
         "name": "Dark Akantor Hessian",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "B",
         "defense": 70,
         "skill-points": [
@@ -103488,7 +103488,7 @@
         "part": "legging",
         "name": "Dark Akantor Boots",
         "rare": 8,
-        "price": 21100,
+        "price": 21000,
         "hunter-type": "G",
         "defense": 34,
         "skill-points": [
@@ -103610,7 +103610,7 @@
             }
         ],
         "description": "Boots that can only be worn by those with compassion as limitless as the sea.",
-        "slots": 2,
+        "slots": 3,
         "fire-res": 2,
         "thundr-res": 4,
         "dragon-res": 2,
@@ -103866,10 +103866,10 @@
         "description": "Armor with a lovely aroma. Its intoxicating fragrance can make one impulsive.",
         "slots": 2,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "King Scarab",
@@ -103998,7 +103998,7 @@
         "rare": 8,
         "price": 9000,
         "hunter-type": "G",
-        "defense": 52,
+        "defense": 26,
         "skill-points": [
             {
                 "name": "MixSucRate",
@@ -104529,9 +104529,9 @@
         "slots": 2,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "Slvr Rthlos Cpc",
@@ -104608,7 +104608,7 @@
         "part": "legging",
         "name": "Genesis Pants Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -104708,7 +104708,7 @@
         "part": "legging",
         "name": "Glyph Pants Ten",
         "rare": 8,
-        "price": 325000,
+        "price": 32500,
         "hunter-type": "G",
         "defense": 30,
         "skill-points": [
@@ -106725,7 +106725,7 @@
         ],
         "description": "Greaves crafted from Diablos materials. Glorious armor with truly heroic strength.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -107551,7 +107551,7 @@
                 "points": -2
             }
         ],
-        "description": "Copper Blangonga-based leg-wear. Combining fur and hide makes it nigh-invincible.",
+        "description": "Copper Blangonga-based legwear. Combining fur and hide makes it nigh-invincible.",
         "slots": 2,
         "fire-res": 3,
         "thundr-res": 2,
@@ -107761,7 +107761,7 @@
         ],
         "description": "Greaves crafted from Diablos materials. Glorious armor with truly heroic strength.",
         "slots": 2,
-        "fire-res": -3,
+        "fire-res": 3,
         "thundr-res": 1,
         "dragon-res": 0,
         "water-res": -1,
@@ -108511,7 +108511,7 @@
         "rare": 10,
         "price": 21000,
         "hunter-type": "G",
-        "defense": 50,
+        "defense": 46,
         "skill-points": [
             {
                 "name": "HearProtct",
@@ -109439,10 +109439,10 @@
         "description": "Armor with a lovely aroma. Its intoxicating fragrance can make one impulsive.",
         "slots": 2,
         "fire-res": 0,
-        "thundr-res": 0,
+        "thundr-res": 1,
         "dragon-res": 0,
         "water-res": 1,
-        "ice-res": 1,
+        "ice-res": 0,
         "materials": [
             {
                 "name": "Emperor Cricket",
@@ -109986,9 +109986,9 @@
         "slots": 3,
         "fire-res": 4,
         "thundr-res": 1,
-        "dragon-res": 1,
+        "dragon-res": 2,
         "water-res": 2,
-        "ice-res": 2,
+        "ice-res": 1,
         "materials": [
             {
                 "name": "HvySlvrRthlsShl",
