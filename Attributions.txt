@@ -1,4 +1,4 @@
-Here's a list of sources that have helped me streamline the data gathering process. 
+Here is a list of sources that have helped me streamline the data gathering process. 
 Notice that if you wish to use this database, you must credit the belowing sources 
 as well as the author(s) of this repo (who have spent an extensive amount of time 
 to verify data correctness). Just mention us by names is good enough.
@@ -33,6 +33,7 @@ Monster Parts Duration
 Monster Effectiveness (element & item & status & weapon)
 Monster Size
 Monster Stats
+
 Small monsters knockout value
     - MHP2G@Wiki: https://w.atwiki.jp/mhp2g/pages/39.html#id_ec959ff0
 
@@ -52,6 +53,10 @@ Main Title Image (screenshot with a HD retexture)
 
 FUCTool
     - Patched special in-game items & quests.
+
 gaugustini
     - Added missing combinations from pages 6-8. # 13
     - Fixed some in-game items. # 14
+    - Fixed materials and chance for some recipes + material reordering in item_combine.json. # 24
+    - Corrected armor values, including rarity, price, hunter type, defense, elemental resistances, number of slots and descriptions. # 25
+      Credit: https://github.com/IncognitoMan/mhp2g-patterns
