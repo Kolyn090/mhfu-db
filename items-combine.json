@@ -263,7 +263,7 @@
     {
         "name": "Bomb Material",
         "type": "normal",
-        "materialA": "Ivy",
+        "materialA": "Sap Plant",
         "materialB": "Stone",
         "chance": 95,
         "min": 2,
@@ -274,7 +274,7 @@
         "type": "normal",
         "materialA": "Bomb Material",
         "materialB": "Sunset Herb",
-        "chance": 75,
+        "chance": 95,
         "min": 1,
         "max": 1
     },
@@ -282,7 +282,7 @@
         "name": "Smoke Bomb",
         "type": "normal",
         "materialA": "Bomb Material",
-        "materialB": "Sap Plant",
+        "materialB": "Ivy",
         "chance": 75,
         "min": 1,
         "max": 1
@@ -732,7 +732,7 @@
         "name": "Crag S Lv3",
         "type": "normal",
         "materialA": "Lg Bone Husk",
-        "materialB": "Scatterfish",
+        "materialB": "Bomb Arrowana",
         "chance": 95,
         "min": 1,
         "max": 1
@@ -759,7 +759,7 @@
         "name": "Clust S Lv3",
         "type": "normal",
         "materialA": "Lg Bone Husk",
-        "materialB": "Bomb Arrowana",
+        "materialB": "Scatterfish",
         "chance": 75,
         "min": 1,
         "max": 1
@@ -1037,8 +1037,8 @@
     {
         "name": "Armor Sphere+",
         "type": "normal",
-        "materialA": "Hercudrome",
-        "materialB": "Armor Stone",
+        "materialA": "Armor Stone",
+        "materialB": "Hercudrome",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1055,8 +1055,8 @@
     {
         "name": "Hrd Armor Sphere",
         "type": "normal",
-        "materialA": "King Scarab",
-        "materialB": "Armor Stone",
+        "materialA": "Armor Stone",
+        "materialB": "King Scarab",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1082,8 +1082,8 @@
     {
         "name": "Ryl Armor Sphere",
         "type": "normal",
-        "materialA": "Emperor Cricket",
-        "materialB": "Armor Stone",
+        "materialA": "Armor Stone",
+        "materialB": "Emperor Cricket",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1100,8 +1100,8 @@
     {
         "name": "Tru Armor Sphere",
         "type": "normal",
-        "materialA": "PhantomButterfly",
-        "materialB": "Armor Stone",
+        "materialA": "Armor Stone",
+        "materialB": "PhantomButterfly",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1109,8 +1109,8 @@
     {
         "name": "Disk Stone",
         "type": "normal",
-        "materialA": "Disk Stone",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Disk Stone",
         "chance": 100,
         "min": 5,
         "max": 5
@@ -1118,8 +1118,8 @@
     {
         "name": "Iron Ore",
         "type": "normal",
-        "materialA": "Iron Ore",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Iron Ore",
         "chance": 100,
         "min": 5,
         "max": 5
@@ -1127,8 +1127,8 @@
     {
         "name": "Earth Crystal",
         "type": "normal",
-        "materialA": "Earth Crystal",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Earth Crystal",
         "chance": 100,
         "min": 3,
         "max": 3
@@ -1136,8 +1136,8 @@
     {
         "name": "Machalite Ore",
         "type": "normal",
-        "materialA": "Machalite Ore",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Machalite Ore",
         "chance": 100,
         "min": 3,
         "max": 3
@@ -1145,8 +1145,8 @@
     {
         "name": "Dragonite Ore",
         "type": "normal",
-        "materialA": "Dragonite Ore",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Dragonite Ore",
         "chance": 100,
         "min": 3,
         "max": 3
@@ -1154,8 +1154,8 @@
     {
         "name": "Carbalite Ore",
         "type": "normal",
-        "materialA": "Carbalite Ore",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Carbalite Ore",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1163,8 +1163,8 @@
     {
         "name": "Eltalite Ore",
         "type": "normal",
-        "materialA": "Eltalite Ore",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Eltalite Ore",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1172,8 +1172,8 @@
     {
         "name": "Union Ore",
         "type": "normal",
-        "materialA": "Union Ore",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Union Ore",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1181,8 +1181,8 @@
     {
         "name": "Mellanje Ore",
         "type": "normal",
-        "materialA": "Mellanje Ore",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Mellanje Ore",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1190,8 +1190,8 @@
     {
         "name": "Firestone",
         "type": "normal",
-        "materialA": "Firestone",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Firestone",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1199,8 +1199,8 @@
     {
         "name": "Firecell Stone",
         "type": "normal",
-        "materialA": "Firecell Stone",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Firecell Stone",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1208,8 +1208,8 @@
     {
         "name": "Lightcrystal",
         "type": "normal",
-        "materialA": "Lightcrystal",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Lightcrystal",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1217,8 +1217,8 @@
     {
         "name": "Novacrystal",
         "type": "normal",
-        "materialA": "Novacrystal",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Novacrystal",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1226,8 +1226,8 @@
     {
         "name": "Purecrystal",
         "type": "normal",
-        "materialA": "Purecrystal",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Purecrystal",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1235,8 +1235,8 @@
     {
         "name": "Monster Bone+",
         "type": "normal",
-        "materialA": "Monster Bone+",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Monster Bone+",
         "chance": 100,
         "min": 3,
         "max": 3
@@ -1244,8 +1244,8 @@
     {
         "name": "Hrd Monster Bone",
         "type": "normal",
-        "materialA": "Hrd Monster Bone",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Hrd Monster Bone",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1253,8 +1253,8 @@
     {
         "name": "Hvy Monster Bone",
         "type": "normal",
-        "materialA": "Hvy Monster Bone",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Hvy Monster Bone",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1262,8 +1262,8 @@
     {
         "name": "Carpenterbug",
         "type": "normal",
-        "materialA": "Carpenterbug",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Carpenterbug",
         "chance": 100,
         "min": 5,
         "max": 5
@@ -1271,8 +1271,8 @@
     {
         "name": "Killer Beetle",
         "type": "normal",
-        "materialA": "Killer Beetle",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Killer Beetle",
         "chance": 100,
         "min": 3,
         "max": 3
@@ -1280,8 +1280,8 @@
     {
         "name": "Hercudrome",
         "type": "normal",
-        "materialA": "Hercudrome",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Hercudrome",
         "chance": 100,
         "min": 3,
         "max": 3
@@ -1289,8 +1289,8 @@
     {
         "name": "Rare Scarab",
         "type": "normal",
-        "materialA": "Rare Scarab",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Rare Scarab",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1298,8 +1298,8 @@
     {
         "name": "King Scarab",
         "type": "normal",
-        "materialA": "King Scarab",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "King Scarab",
         "chance": 100,
         "min": 3,
         "max": 3
@@ -1307,8 +1307,8 @@
     {
         "name": "Emperor Cricket",
         "type": "normal",
-        "materialA": "Emperor Cricket",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "Emperor Cricket",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1316,8 +1316,8 @@
     {
         "name": "PhantomButterfly",
         "type": "normal",
-        "materialA": "PhantomButterfly",
-        "materialB": "Expand Pickaxe",
+        "materialA": "Expand Pickaxe",
+        "materialB": "PhantomButterfly",
         "chance": 100,
         "min": 2,
         "max": 2
@@ -1325,8 +1325,8 @@
     {
         "name": "Pokke Snowman",
         "type": "treasure",
-        "materialA": "Blngo Flrry Ball",
-        "materialB": "Blngo Blzrd Ball",
+        "materialA": "Blngo Blzrd Ball",
+        "materialB": "Blngo Flrry Ball",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1334,8 +1334,8 @@
     {
         "name": "Felyne Crown",
         "type": "treasure",
-        "materialA": "Flyn Crwn Frgmnt",
-        "materialB": "Inferior FlynCrn",
+        "materialA": "Inferior FlynCrn",
+        "materialB": "Flyn Crwn Frgmnt",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1343,8 +1343,8 @@
     {
         "name": "GldFlynJewelSwd",
         "type": "treasure",
-        "materialA": "GldBladelessHndl",
-        "materialB": "Hndlelss Gld Bld",
+        "materialA": "Hndlelss Gld Bld",
+        "materialB": "GldBladelessHndl",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1352,8 +1352,8 @@
     {
         "name": "Dynasty Vase",
         "type": "treasure",
-        "materialA": "Old Vase Bottom",
-        "materialB": "Bttmlss Old Vase",
+        "materialA": "Bttmlss Old Vase",
+        "materialB": "Old Vase Bottom",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1361,8 +1361,8 @@
     {
         "name": "Mysterious Mask",
         "type": "treasure",
-        "materialA": "Shakalaka Stone",
-        "materialB": "Holed Shaka Mask",
+        "materialA": "Holed Shaka Mask",
+        "materialB": "Shakalaka Stone",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1370,8 +1370,8 @@
     {
         "name": "Eldr Drgn Rfrnc",
         "type": "treasure",
-        "materialA": "Old Book Scrap",
-        "materialB": "Torn Old Book",
+        "materialA": "Torn Old Book",
+        "materialB": "Old Book Scrap",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1379,8 +1379,8 @@
     {
         "name": "AncntCatKingStat",
         "type": "treasure",
-        "materialA": "BrokenStoneTail",
-        "materialB": "TaillessCatStatu",
+        "materialA": "TaillessCatStatu",
+        "materialB": "BrokenStoneTail",
         "chance": 100,
         "min": 1,
         "max": 1
@@ -1524,7 +1524,7 @@
         "name": "Power Seed",
         "type": "alchemy",
         "materialA": "Bomberry",
-        "materialB": "Kut-Ku Scale",
+        "materialB": "Velociprey Hide",
         "chance": 65,
         "min": 1,
         "max": 1
