@@ -16,53 +16,40 @@ I shall remind you that this is not about MHGU, MHW, MHR, or MH Wild... It's MHF
 Current valid number of lines in DB: 207705
 </h3>
 
-### 🗿 BIG NEWS: model update coming!
 
-<p align="center">
-  <a href="https://github.com/Kolyn090/mhfu-db/blob/main/assets/diablos_blender.png">
-    <img alt="The 3D model of Diablos in blender" src="./assets/diablos_blender.png" width="400" />
-  </a>
-</p>
-
-Recently I have made some luck with extracting 3D models from the game and I have included a sample in the above picture. Although it requires a tremendous amount of effort to rip a model like above, I am interested in doing this in my free time. (Maybe that will make my DB the only place on the internet to find MHFU models? LOL) **That being said, if you want to upload them to places like [The Spriters Resource](https://www.spriters-resource.com/browse/), please ASK ME. It takes A LOT works to rip the models.** For other use cases like use them in your software, I'm completely OK with it.
-
-Another note, I'm going to rename Image DB to Asset DB and all ripped models will be stored there, along with the images. 
-
-💖 If you love mhfu-db, please consider give it a ⭐! Your support will make me happy. 🤗
-
-### 🖼️ Image DB
-Good news! Recently I have been working on the image database for MHFU. If you want to check it out [click here](https://github.com/Kolyn090/mhfu-image-db.git).
+### 💎MHFU-Asset-DB
+You can find the extracted game assets in [mhfu-asset-db](https://github.com/Kolyn090/mhfu-asset-db.git). All assets there are extracted by me, and I add references to them in the JSON files here. This project is still in progress, so a lot of things are missing for now.
 
 ### ❓What is this
-This is a database repo for game Monster Hunter Freedom Unite by CAPCOM. My current plan is to 
-store data in JSON format. I try to make sure that the data are organized in a way that it is 
-easy to read and understand (at least by someone who has played the game before). Each JSON file
-will store an array of objects, and each object has the *same* properties, so a JSON file is really 
-a table. 
+This repository is a database project for Monster Hunter Freedom Unite by CAPCOM.
+
+My goal is to store structured game data in JSON format. Each JSON file represents a table:
+
+It contains an array of objects
+Each object shares the same set of properties
+
+I aim to keep the data well-organized, readable, and easy to understand—especially for players familiar with the game.
 
 ### 🔅Contributing
-Feel free to send an issue if you spot any typo/mistake. Of course, you are free to fork this repo 
-and contribute as well! ❗️Please note that your contribution must be from a crediable source and 
-it's not violating any copyright.
+If you spot any typos or mistakes, feel free to open an issue. You’re also welcome to fork the repository and contribute!
+
+❗ Please ensure that all contributions:
+
+Come from credible sources (ideally from the game)
+Do not violate copyright or licensing rules
 
 ### ❓Why am I creating a database for MHFU
-First of all, I have played this particular MH version for a long time - probably the longest 
-time I have spent on a game. It all started on the iOS version ($15 USD but definitely worth it).
-I had continued to play this game at my leisure since then! Until the game was taken down from
-App Store. It was sad to see it go! However, recently, with PPSSPP being introduced to iOS, I
-was able to revive this game on my phone! It really brightened my mood and I decided to do something
-I have been thinking for a long time - to create a DB for this game.
+First, this game means a lot to me. It’s probably the game I’ve spent the most time playing. I originally played it on iOS (worth every dollar), and continued playing it casually over the years—until it was removed from the App Store.
 
-Secondly, it's hard to find accurate information about this game because it's old (and thus less
-people care) and there isn't a complete decrypted game file available online (to my knowledge). 
-Most information available online were manually gathered by the community, and data obtained in this 
-way might contain errors if not done carefully. Thus we need someone willing to verify and maintain
-all those data! That's why this repo will be for providing complete, accurate data about MHFU. 
+Recently, with PPSSPP becoming available on iOS, I was able to revisit the game again. That experience motivated me to finally start something I’ve been thinking about for a long time: building a proper database for MHFU.
+
+Second, reliable information about this game is surprisingly hard to find. Because it’s older, fewer people maintain resources for it, and there isn’t (to my knowledge) a fully accessible, decrypted dataset available online. Most existing data has been manually collected by the community, which can lead to inconsistencies or errors.
+
+This project aims to provide a more complete, verified, and structured source of information.
 
 ### 🧶Attributions
-To gather everything from scratch is extremely time-consuming. That's why I decided to borrow some
-help from online communities. Yes, I know it is not perfect but I will manually verify them. Also,
-I cite all sources I used in the 
-[Attributions.txt](https://github.com/Kolyn090/mhfu-db/blob/main/Attributions.txt) file. Here, I
-also want to say Thank you🤗 to those selfless authors for making them available!
+Building everything from scratch would be extremely time-consuming, so I’ve referenced data from various online communities. While not all sources are perfect, I am working to verify everything manually.
 
+All sources are credited in Attributions.txt file.
+
+A big thank you 🤗 to the contributors and creators who made their work publicly available!
