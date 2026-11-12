@@ -39,6 +39,10 @@ Expanded item records using data extracted from the original English MHFU game b
 
 `name`, `description`, `rare`, `carry-max`, `icon`, `color`, `selling-price`
 
+⚠️ `description` now includes special characters such as new line and color code that are exactly used in game. 
+- `\n` is new line character
+- `~C05(Word)` means to paint the words in the parenthesis yellow.
+
 **Other changes:**
 
 - `rare` now uses the extracted game's `raw_rarity` value.
@@ -82,3 +86,26 @@ Expanded combination recipes using data extracted from the original English MHFU
 - Included source offsets for traceability and future reverse engineering.
 
 **Compatibility:** This is an additive schema change. Existing consumers that ignore unknown fields should continue working without modification.
+
+### Skills — Added Internal Identifiers
+
+**Status:** Completed  
+**Affected file:** `Skills/skills.json`
+
+Expanded skill activation records using identifiers extracted from the original English MHFU game binaries.
+
+**New fields:**
+
+| Field | Type | Description |
+|---|---|---|
+| `id` | Integer | Internal identifier of the activated skill effect |
+| `category-id` | Integer | Internal identifier of the skill-point category |
+
+**Existing fields retained:**
+
+- `name` — Activated skill name
+- `skill-point` — Skill-point category name
+- `points` — Required activation threshold
+
+**Compatibility:** This is an additive schema change. Existing fields and their meanings remain unchanged. Consumers that ignore additional JSON properties should continue working normally.
+
