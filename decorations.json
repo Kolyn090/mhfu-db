@@ -56,7 +56,7 @@
     {
         "name": "Strongest Jewel",
         "slots": 3,
-        "price": 375,
+        "price": 450,
         "skill-points": [
             {
                 "name": "Attack",
@@ -217,7 +217,7 @@
     },
     {
         "name": "Steadfast Jewel+",
-        "slots": 0,
+        "slots": 1,
         "price": 200,
         "skill-points": [
             {
@@ -386,7 +386,7 @@
             },
             {
                 "name": "Ioprey Fang",
-                "amount": 1
+                "amount": 2
             }
         ]
     },
@@ -709,7 +709,7 @@
         "skill-points": [
             {
                 "name": "Snow Res",
-                "points": 4
+                "points": 2
             }
         ],
         "materials": [
@@ -881,7 +881,7 @@
             },
             {
                 "name": "Basarios Wing",
-                "amount": 2
+                "amount": 1
             }
         ]
     },
@@ -1631,7 +1631,7 @@
             },
             {
                 "name": "TwstBlkBlosHrn",
-                "amount": 1
+                "amount": 2
             }
         ]
     },
@@ -1659,7 +1659,7 @@
                 "amount": 1
             },
             {
-                "name": "Blk Blos Thracic",
+                "name": "Black Blos Cpc",
                 "amount": 1
             }
         ]
@@ -2109,7 +2109,7 @@
         "price": 200,
         "skill-points": [
             {
-                "name": "CragSAdd",
+                "name": "Crag S Add",
                 "points": 2
             }
         ],
@@ -2134,7 +2134,7 @@
         "price": 200,
         "skill-points": [
             {
-                "name": "ClustSAdd",
+                "name": "ClustS Add",
                 "points": 2
             }
         ],
@@ -2225,7 +2225,7 @@
         "price": 200,
         "skill-points": [
             {
-                "name": "SleepCAdd",
+                "name": "ClsRngCAdd",
                 "points": 2
             }
         ],
@@ -2339,7 +2339,7 @@
             },
             {
                 "name": "ParalysisCoating",
-                "amount": 1
+                "amount": 20
             }
         ]
     },
@@ -2459,7 +2459,7 @@
             },
             {
                 "name": "Thunderbug Juice",
-                "amount": 1
+                "amount": 5
             }
         ]
     },
@@ -2541,7 +2541,7 @@
                 "amount": 1
             },
             {
-                "name": "Chameleos Horn",
+                "name": "Chameleos Claw",
                 "amount": 1
             },
             {
@@ -2551,7 +2551,7 @@
         ]
     },
     {
-        "name": "SpecialAtk Jewel+",
+        "name": "SpecialAtkJewel+",
         "slots": 2,
         "price": 375,
         "skill-points": [
@@ -2561,7 +2561,7 @@
             },
             {
                 "name": "Rec Speed",
-                "points": 1
+                "points": -1
             }
         ],
         "materials": [
@@ -2672,7 +2672,7 @@
     },
     {
         "name": "TrapMasterJewel",
-        "slots": 2,
+        "slots": 1,
         "price": 200,
         "skill-points": [
             {
@@ -2875,8 +2875,8 @@
     },
     {
         "name": "Scarfing Jewel",
-        "slots": 2,
-        "price": 375,
+        "slots": 3,
+        "price": 450,
         "skill-points": [
             {
                 "name": "Cooking",
@@ -2988,7 +2988,7 @@
                 "amount": 3
             },
             {
-                "name": "Plesioth Fin",
+                "name": "Plesioth Fin+",
                 "amount": 1
             },
             {
@@ -3027,7 +3027,7 @@
         ]
     },
     {
-        "name": "Constitutn Jewel",
+        "name": "ConstitutnJewel",
         "slots": 1,
         "price": 200,
         "skill-points": [
@@ -3289,7 +3289,7 @@
         "price": 200,
         "skill-points": [
             {
-                "name": "Wind Press",
+                "name": "WindPress",
                 "points": 1
             },
             {
@@ -3307,8 +3307,8 @@
                 "amount": 1
             },
             {
-                "name": "Lightcrystal",
-                "amount": 1
+                "name": "Iron Ore",
+                "amount": 2
             }
         ]
     },
@@ -3318,7 +3318,7 @@
         "price": 375,
         "skill-points": [
             {
-                "name": "Wind Press",
+                "name": "WindPress",
                 "points": 3
             },
             {
@@ -3347,7 +3347,7 @@
         "price": 450,
         "skill-points": [
             {
-                "name": "Wind Press",
+                "name": "WindPress",
                 "points": 5
             },
             {
@@ -3384,7 +3384,7 @@
                 "points": 1
             },
             {
-                "name": "Fate",
+                "name": "Faint",
                 "points": -1
             }
         ],
@@ -3413,7 +3413,7 @@
                 "points": 3
             },
             {
-                "name": "Fate",
+                "name": "Faint",
                 "points": -1
             }
         ],
@@ -3423,16 +3423,16 @@
                 "amount": 1
             },
             {
-                "name": "Fire Dragon Scl",
-                "amount": 2
+                "name": "DaoraDragonScale",
+                "amount": 3
             },
             {
-                "name": "Teostra Tail",
+                "name": "Daora Tail",
                 "amount": 1
             },
             {
                 "name": "Gourmet Fish+",
-                "amount": 3
+                "amount": 2
             }
         ]
     },
@@ -3446,7 +3446,7 @@
                 "points": 3
             },
             {
-                "name": "Fate",
+                "name": "Faint",
                 "points": -1
             }
         ],
@@ -3514,15 +3514,15 @@
         ],
         "materials": [
             {
-                "name": "LapisLazuliJewel",
+                "name": "BattlefieldJewel",
                 "amount": 1
             },
             {
-                "name": "Lg Lobstershell",
+                "name": "Narga Scale+",
                 "amount": 1
             },
             {
-                "name": "Gendrome Tail",
+                "name": "Great Hornfly",
                 "amount": 1
             }
         ]
@@ -3711,8 +3711,8 @@
     },
     {
         "name": "Pinch Jewel",
-        "slots": 3,
-        "price": 450,
+        "slots": 2,
+        "price": 375,
         "skill-points": [
             {
                 "name": "Potential",
@@ -3882,7 +3882,7 @@
                 "amount": 1
             },
             {
-                "name": "Vespoid Wing",
+                "name": "Vespoid InnrWng",
                 "amount": 1
             }
         ]
@@ -4047,7 +4047,7 @@
         "skill-points": [
             {
                 "name": "All Resist",
-                "points": 3
+                "points": 1
             },
             {
                 "name": "Everlastng",
@@ -4361,18 +4361,18 @@
             },
             {
                 "name": "HornetaurInnrWng",
-                "amount": 1
+                "amount": 2
             },
             {
-                "name": "ElderDragonBlood",
-                "amount": 1
+                "name": "Dragon S",
+                "amount": 3
             }
         ]
     },
     {
         "name": "DragonslyrJewel",
-        "slots": 2,
-        "price": 375,
+        "slots": 1,
+        "price": 200,
         "skill-points": [
             {
                 "name": "Dragon Res",
@@ -4430,7 +4430,7 @@
             },
             {
                 "name": "Cold Res",
-                "points": 1
+                "points": -1
             }
         ],
         "materials": [
@@ -5012,16 +5012,20 @@
         ],
         "materials": [
             {
-                "name": "LapisLazuliJewel",
+                "name": "BattlefieldJewel",
                 "amount": 1
             },
             {
-                "name": "Pale Khezu Steak",
+                "name": "Pale Bone",
                 "amount": 1
             },
             {
-                "name": "Lifepowder",
-                "amount": 2
+                "name": "Lao-Shan's Shell",
+                "amount": 3
+            },
+            {
+                "name": "Lifecrystals",
+                "amount": 10
             }
         ]
     },
@@ -5041,20 +5045,16 @@
         ],
         "materials": [
             {
-                "name": "BattlefieldJewel",
+                "name": "LapisLazuliJewel",
                 "amount": 1
             },
             {
-                "name": "Pale Bone",
+                "name": "Pale Khezu Steak",
                 "amount": 1
             },
             {
-                "name": "Lao-Shan's Shell",
-                "amount": 3
-            },
-            {
-                "name": "Lifecrystals",
-                "amount": 10
+                "name": "Lifepowder",
+                "amount": 2
             }
         ]
     },
@@ -5083,7 +5083,7 @@
             },
             {
                 "name": "Kelbi Horn",
-                "amount": 1
+                "amount": 2
             }
         ]
     },
