@@ -109,3 +109,62 @@ Expanded skill activation records using identifiers extracted from the original 
 
 **Compatibility:** This is an additive schema change. Existing fields and their meanings remain unchanged. Consumers that ignore additional JSON properties should continue working normally.
 
+### Armors — Expanded Armor Definitions and Image Separation
+
+**Status:** Completed  
+**Affected files:**
+- `Armors/armors.json`
+- `Armors/armors-image.json`
+
+Expanded armor records using information extracted from the original English MHFU game binaries, and separated project-maintained armor images from the main dataset.
+
+**New fields in `armors.json`:**
+
+| Field | Type | Description |
+|---|---|---|
+| `armor-id` | Integer | Internal armor identifier |
+| `forge-id` | Integer | Internal forging identifier |
+| `raw-flags` | Integer | Raw armor definition flags |
+| `raw-recipe-flags` | Integer | Raw armor forging recipe flags |
+| `raw-menu-index` | Integer | Internal forging menu index |
+| `blacksmith-page` | Integer or null | Page number in the blacksmith's armor forging menu |
+| `blacksmith-index` | Integer or null | Position within the blacksmith menu page |
+| `felyne-vendor-page` | Integer or null | Page number in the Felyne armor vendor's shop menu |
+| `felyne-vendor-index` | Integer or null | Position within the Felyne vendor menu page |
+
+For the four menu-position fields, `null` indicates that the armor is not listed in the corresponding vendor's menu.
+
+**Removed fields from `armors.json`:**
+
+- `image-male`
+- `image-female`
+
+**New image dataset:**
+
+`Armors/armors-image.json` stores:
+- `part` — Armor equipment slot
+- `name` — Armor name
+- `image-male` — Project-maintained male armor image path
+- `image-female` — Project-maintained female armor image path
+
+**Existing fields retained:**
+
+`part`, `name`, `rare`, `price`, `hunter-type`, `defense`, `skill-points`, `description`, `slots`, `fire-res`, `water-res`, `thundr-res`, `dragon-res`, `ice-res`, `materials`, `sex`
+
+**Description formatting:**
+
+`description` now preserves special characters from the original game text, including `\n` for line breaks.
+
+**Other changes:**
+
+- Armor descriptions preserve original in-game line breaks.
+- Game-derived armor properties and forging metadata are stored independently of project-maintained images.
+- Internal identifiers allow future links to armor crafting and upgrade information.
+- Blacksmith and Felyne vendor menu positions are stored separately.
+- Armor pieces unavailable through a particular vendor have `null` for both corresponding menu-position fields.
+
+**Compatibility:**
+
+- Removing `image-male` and `image-female` from `armors.json` is an intentional breaking change. Consumers must now read `armors-image.json`.
+- The four vendor-position fields are additive. Consumers can use them to locate armor in the corresponding in-game menus.
+- Applications displaying armor descriptions should support embedded newline characters.
