@@ -49,3 +49,36 @@ Expanded item records using data extracted from the original English MHFU game b
 - Item records now include internal metadata useful for further research and development.
 
 **Compatibility:** Additive fields are generally backward-compatible, but existing field values, description formatting, and nullable icon/color values may affect consumers. The change from previous rarity values to extracted values should be reviewed by dependent applications.
+
+### Item Combinations — Expanded Recipe Definitions
+
+**Status:** Completed  
+**Affected file:** `Items/items-combine.json`
+
+Expanded combination recipes using data extracted from the original English MHFU game binaries.
+
+**New fields:**
+
+| Field | Type | Description |
+|---|---|---|
+| `recipe-id` | Integer | Internal combination recipe identifier |
+| `weights` | Array of integers | Stored weights associated with the recipe's output quantities |
+| `definition-offset` | Integer | Binary offset of the recipe definition |
+| `rate-id` | Integer | Internal combination success-rate identifier |
+| `quantity-id` | Integer | Internal output-quantity table identifier |
+| `quantity-offset` | Integer | Binary offset of the output-quantity definition |
+| `flags` | Integer | Internal recipe flags |
+| `alternate-index` | Integer | Internal alternate recipe index |
+
+**Existing fields retained:**
+
+`name`, `type`, `materialA`, `materialB`, `chance`, `min`, `max`
+
+**Other changes:**
+
+- Preserved the existing player-friendly recipe information.
+- Added internal identifiers for linking recipes to game definitions.
+- Added quantity weights for representing output-quantity distributions.
+- Included source offsets for traceability and future reverse engineering.
+
+**Compatibility:** This is an additive schema change. Existing consumers that ignore unknown fields should continue working without modification.
