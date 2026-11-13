@@ -187,8 +187,6 @@ Unlike the existing map-based gathering dataset, which records observed collecti
 | `z` | Number | Gathering spot Z coordinate |
 | `interaction-radius` | Number or null | Interaction radius, when available |
 | `stored-uses` | Integer | Raw number of uses stored in the gathering node data |
-| `raw-node-parameter-0x16` | Integer | Uninterpreted node parameter at offset `0x16` |
-| `quest-node-offset` | Integer | Source offset of the quest gathering node |
 | `outcomes` | Array | Possible collectible items and their probabilities |
 
 **Outcome structure:**
