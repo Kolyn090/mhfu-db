@@ -47,25 +47,23 @@ Expanded item records using data extracted from the original English MHFU game b
 
 **Compatibility:** Additive fields are generally backward-compatible, but existing field values, description formatting, and nullable icon/color values may affect consumers. The change from previous rarity values to extracted values should be reviewed by dependent applications.
 
-### Item Combinations — Expanded Recipe Definitions
+### Item Combinations — Expanded Recipe Definitions and Menu Positions
 
 **Status:** Completed  
 **Affected file:** `Items/items-combine.json`
 
 Expanded combination recipes using data extracted from the original English MHFU game binaries.
 
+The dataset now includes internal recipe identifiers, output quantity weights, and page positions corresponding to the in-game combination list.
+
 **New fields:**
 
 | Field | Type | Description |
 |---|---|---|
 | `recipe-id` | Integer | Internal combination recipe identifier |
-| `weights` | Array of integers | Stored weights associated with the recipe's output quantities |
-| `definition-offset` | Integer | Binary offset of the recipe definition |
-| `rate-id` | Integer | Internal combination success-rate identifier |
-| `quantity-id` | Integer | Internal output-quantity table identifier |
-| `quantity-offset` | Integer | Binary offset of the output-quantity definition |
-| `flags` | Integer | Internal recipe flags |
-| `alternate-index` | Integer | Internal alternate recipe index |
+| `weights` | Array of integers | Probability weights associated with the recipe's output quantities |
+| `page` | Integer | Page number in the in-game combination list |
+| `page-index` | Integer | Recipe position within its combination list page |
 
 **Existing fields retained:**
 
@@ -73,12 +71,14 @@ Expanded combination recipes using data extracted from the original English MHFU
 
 **Other changes:**
 
-- Preserved the existing player-friendly recipe information.
-- Added internal identifiers for linking recipes to game definitions.
+- Preserved existing recipe names, types, ingredients, success rates, and output quantity ranges.
+- Added internal recipe IDs for linking combinations to game definitions.
 - Added quantity weights for representing output-quantity distributions.
-- Included source offsets for traceability and future reverse engineering.
+- Included page numbers and indices to identify recipes within the in-game combination list.
 
-**Compatibility:** This is an additive schema change. Existing consumers that ignore unknown fields should continue working without modification.
+**Compatibility:**
+
+The documented additions extend the existing recipe structure. Consumers using the original recipe fields can continue accessing those fields without modification.
 
 ### Skills — Added Internal Identifiers
 
