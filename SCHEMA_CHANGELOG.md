@@ -17,12 +17,7 @@ Expanded item records using data extracted from the original English MHFU game b
 | `buy-price` | Integer | Item purchase price in zenny |
 | `pt` | Integer | Treasure points associated with the item |
 | `pickup-sound` | Integer | Internal pickup sound identifier |
-| `definition-offset` | Integer | Binary offset of the item definition |
-| `name-offset` | Integer | Offset of the localized item name |
-| `description-offset` | Integer | Offset of the localized item description |
 | `item-type` | Integer | Internal item classification |
-| `toolbelt-flags` | Integer | Internal toolbelt behavior flags |
-| `flags` | Integer | Additional internal item flags |
 | `icon-id` | Integer | Internal icon identifier |
 | `color-id` | Integer | Internal color identifier |
 | `ammo-bits` | Integer | Internal ammunition-related bit flags |
