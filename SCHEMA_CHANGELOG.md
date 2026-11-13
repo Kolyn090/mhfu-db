@@ -117,8 +117,6 @@ Expanded armor records using information extracted from the original English MHF
 |---|---|---|
 | `armor-id` | Integer | Internal armor identifier |
 | `forge-id` | Integer | Internal forging identifier |
-| `raw-flags` | Integer | Raw armor definition flags |
-| `raw-recipe-flags` | Integer | Raw armor forging recipe flags |
 | `raw-menu-index` | Integer | Internal forging menu index |
 | `blacksmith-page` | Integer or null | Page number in the blacksmith's armor forging menu |
 | `blacksmith-index` | Integer or null | Position within the blacksmith menu page |
