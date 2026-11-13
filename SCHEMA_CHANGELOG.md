@@ -2,13 +2,6 @@
 
 Record structural changes only. For each change, include its status (Planned or Completed), affected files, fields added, removed or modified, field types and meanings, compatibility implications, and implementation date when known.
 
-## Completed — Weapon image separation
-
-- Files affected include `Weapons/weapons.json` and the new `Weapons/weapon-images.json`.
-- The `image` field was removed from all 1,500 weapon records. The new file preserves all 1,500 mappings in their original order.
-- Each image mapping contains three strings. `name` is the weapon name, `type` is the weapon class, and `image` is the existing image path.
-- This is an intentional breaking change for consumers that previously read `image` directly from `Weapons/weapons.json`.
-
 ### Items — Expanded Item Definitions
 
 **Status:** Completed  
@@ -168,3 +161,66 @@ For the four menu-position fields, `null` indicates that the armor is not listed
 - Removing `image-male` and `image-female` from `armors.json` is an intentional breaking change. Consumers must now read `armors-image.json`.
 - The four vendor-position fields are additive. Consumers can use them to locate armor in the corresponding in-game menus.
 - Applications displaying armor descriptions should support embedded newline characters.
+
+### Gathering — Quest-Specific Gathering Spots and Loot Probabilities
+
+**Status:** Completed  
+**Affected file:** `gathering_spots.json`
+
+Introduced a new quest-specific gathering dataset extracted from the original MHFU game files.
+
+Unlike the existing map-based gathering dataset, which records observed collectible items, the new dataset provides individual gathering spot definitions for each quest, including coordinates, interaction properties, internal game metadata, and exact collectible outcome probabilities.
+
+**The existing map-based gathering dataset remains available and unchanged.** Both datasets are maintained independently because they serve different purposes.
+
+**New record structure:**
+
+| Field | Type | Description |
+|---|---|---|
+| `quest-id` | Integer | Identifier of the quest associated with the gathering spot |
+| `quest-title` | String | English quest title |
+| `map` | String | Map and environment variant |
+| `area-index` | Integer | Area identifier within the map |
+| `stage-index` | Integer | Internal stage identifier |
+| `spot-index` | Integer | Gathering spot index |
+| `method` | String | Gathering method, such as `mine` |
+| `x` | Number | Gathering spot X coordinate |
+| `y` | Number | Gathering spot Y coordinate |
+| `z` | Number | Gathering spot Z coordinate |
+| `interaction-radius` | Number or null | Interaction radius, when available |
+| `stored-uses` | Integer | Raw number of uses stored in the gathering node data |
+| `raw-node-parameter-0x16` | Integer | Uninterpreted node parameter at offset `0x16` |
+| `quest-node-offset` | Integer | Source offset of the quest gathering node |
+| `outcomes` | Array | Possible collectible items and their probabilities |
+
+**Outcome structure:**
+
+| Field | Type | Description |
+|---|---|---|
+| `name` | String | Collectible item name |
+| `chance` | Number | Probability weight expressed as a percentage |
+
+**Key features:**
+
+- Gathering spots are associated with specific quests rather than only maps.
+- Each spot includes its location coordinates and gathering method.
+- Every spot contains its own collectible outcome table with exact probabilities.
+- Gathering outcomes may differ between quests sharing the same map or area.
+- Internal node parameters and source offsets are retained for future reverse engineering.
+- Optional interaction-radius values may be `null` when unavailable.
+- The original map-based gathering dataset remains available for simpler collectible lookups.
+
+**Dataset differences:**
+
+- **Existing gathering dataset:** Provides map-based gathering information derived from observed collectibles.
+- **`gathering_spots.json`:** Provides detailed, quest-specific gathering spot definitions and their collectible outcome probabilities.
+
+Although the original dataset may theoretically be derived from the new data, reproducing it accurately would require additional processing and reconciliation across quests. Both datasets are therefore retained.
+
+**Compatibility:**
+
+This is an **additive dataset change**, not a breaking change.
+
+Existing consumers can continue using the original gathering dataset without modification.
+
+Applications requiring quest-specific gathering locations, interaction metadata, or exact collectible probabilities can use `gathering_spots.json` independently.
