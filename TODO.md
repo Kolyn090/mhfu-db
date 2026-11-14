@@ -22,11 +22,12 @@ I'm reworking mhfu-db to make it better.
 - [ ] Farm/seeds.json
 - [x] gathering-spots.json
 - [ ] item-notes.json
-- [X] items.json
-- [X] items-combine.json
+- [x] items.json
+- [x] items-combine.json
 - [ ] Kitchen/meal-effects.json
 - [ ] Kitchen/meals.json
 - ~~[ ] maps.json~~ (Better version: gathering-spots.json)
+- [x] magazines.json
 - [ ] Merchants/merchant.json
 - [ ] Merchants/merchant-gal.json
 - [ ] Merchants/peddling-granny.json

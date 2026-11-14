@@ -86,3 +86,5 @@ REA & Codex (decode MHFU ULUS10391 v1.01 DATA.BIN)
 - items.json
 - items-combine.json
 - skills.json
+- npc-dialogue.json
+- magazines.json
