@@ -1,0 +1,68 @@
+I'm reworking mhfu-db to make it better.
+
+- [x] armors.json
+- [x] armors-image.json
+- [ ] awards.json
+- [ ] Comrade/skills.json
+- [ ] Comrade/stats.json
+- [ ] Comrade/temperament.json
+- [ ] decorations.json
+- [ ] Farm/beehive.json
+- [ ] Farm/bug-catch.json
+- [ ] Farm/bug-tree.json
+- [ ] Farm/casting-machine.json
+- [ ] Farm/cave.json
+- [ ] Farm/farmfield.json
+- [ ] Farm/farm-renovate.json
+- [ ] Farm/fishing-spot.json
+- [ ] Farm/mining-bomb.json
+- [ ] Farm/mining-spot.json
+- [ ] Farm/mushroom-tree.json
+- [ ] Farm/plants-addition.json
+- [ ] Farm/seeds.json
+- [x] gathering-spots.json
+- [ ] item-notes.json
+- [X] items.json
+- [X] items-combine.json
+- [ ] Kitchen/meal-effects.json
+- [ ] Kitchen/meals.json
+- ~~[ ] maps.json~~ (Better version: gathering-spots.json)
+- [ ] Merchants/merchant.json
+- [ ] Merchants/merchant-gal.json
+- [ ] Merchants/peddling-granny.json
+- [ ] Merchants/peddling-granny-discount.json
+- [ ] Merchants/treshi-disciple.json
+- [ ] Monsters/basic-parts-duration.json
+- [ ] Monsters/element-effectiveness.json
+- [ ] Monsters/item-effectiveness.json
+- [ ] Monsters/knockout-small-monsters.json
+- [ ] Monsters/monsters.json
+- [ ] Monsters/monsters-material.json
+- [x] Monsters/monsters-spawn.json
+- [x] Monsters/monsters-spawn-condition.json
+- [ ] Monsters/size.json
+- [ ] Monsters/stats.json
+- [ ] Monsters/status-effectiveness.json
+- [ ] Monsters/weapon-effectiveness.json
+- [ ] npc-dialogue.json
+- [ ] Quests/elder.json
+- [ ] Quests/gal-1.json
+- [ ] Quests/gal-2.json
+- [ ] Quests/gal-3.json
+- [ ] Quests/nekoht.json
+- [ ] Quests/training-1.json
+- [ ] Quests/training-2.json
+- [ ] Quests/training-3.json
+- [ ] Quests/training-group.json
+- [ ] Quests/treasure-hunt.json
+- [x] skills.json
+- [ ] trenya.json
+- [ ] veggie-elder.json
+- [ ] Weapons/ammo.json
+- [ ] Weapons/bows.json
+- [ ] Weapons/rapid-shot.json
+- [ ] Weapons/sharpness.json
+- [ ] Weapons/shelling.json
+- [ ] Weapons/weapons.json
+- [ ] Weapons/weapons-craft.json
+- [ ] Weapons/weapons-image.json

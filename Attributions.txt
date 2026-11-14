@@ -60,3 +60,18 @@ gaugustini
     - Fixed materials and chance for some recipes + material reordering in item_combine.json. # 24
     - Corrected armor values, including rarity, price, hunter type, defense, elemental resistances, number of slots and descriptions. # 25
       Credit: https://github.com/IncognitoMan/mhp2g-patterns
+
+Luciano Elias Santilli
+    - Corrected mistake in skills.json (commit #03b3fe3)
+
+ZYMCao
+    - Corrected mistake in skills.json (issue #28)
+
+REA & Codex (decode MHFU ULUS10391 v1.01 DATA.BIN)
+    - Monsters/monsters-spawn-condition.json
+    - Monsters/monsters-spawn.json
+    - armors.json
+    - gathering-spots.json
+    - items.json
+    - items-combine.json
+    - skills.json
