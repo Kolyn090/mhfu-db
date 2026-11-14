@@ -258,3 +258,30 @@ Expanded quest-specific monster spawn records with raw power codes, spawn setup 
 - Large-monster spawns are independent of small-monster setup switching.
 
 **Compatibility:** The updated spawn data includes `power-code` and uses `setup-slots` for individual spawn membership. Consumers should use the condition dataset to determine when the active small-monster setup changes.
+
+## NPC Dialogue — Schema Changelog
+
+### Added
+- Stable NPC IDs and verified English names or role labels.
+- Dialogue choices and their verified outcomes.
+- Verified dialogue availability and progression conditions.
+- Item and currency rewards, including conditional grants and shared reward references.
+
+### Changed
+- Rebuilt `npc-dialogue.json` using Python extractors reading the original English `DATA.BIN`.
+- Expanded coverage to **33 NPCs and 754 dialogue sequences**.
+- Standardized dialogue formatting while preserving original wording, punctuation, and meaningful formatting.
+- Replaced manually written progression notes with source-verified conditions where available.
+- Distinguished guaranteed rewards from possible rewards.
+
+### Removed
+- Redundant reward `timing` field.
+- Unverified handwritten metadata from the generated dataset.
+- Extraction-only metadata from the published schema.
+
+### Known limitations
+- 26 NPC dialogue slots remain unresolved.
+- Four system-interface slots are intentionally excluded.
+- Some upstream selection conditions and reward behavior remain unverified.
+
+**Validation:** 2,507 of 2,537 non-placeholder message slots covered (98.8%). Generated outputs are reproducible.

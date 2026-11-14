@@ -44,7 +44,7 @@ I'm reworking mhfu-db to make it better.
 - [ ] Monsters/stats.json
 - [ ] Monsters/status-effectiveness.json
 - [ ] Monsters/weapon-effectiveness.json
-- [ ] npc-dialogue.json
+- [x] npc-dialogue.json
 - [ ] Quests/elder.json
 - [ ] Quests/gal-1.json
 - [ ] Quests/gal-2.json
