@@ -3269,6 +3269,23 @@
     ]
   },
   {
+    "id": 233,
+    "name": "Polytan",
+    "type": "hammer",
+    "attack": 520,
+    "rare": 4,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "The foul-mouthed game loving mascot from Dengeki has become an awesome weaopn.",
+    "elements": [
+      {
+        "name": "Thunder",
+        "attack": 280
+      }
+    ]
+  },
+  {
     "id": 234,
     "name": "Twin Dagger",
     "type": "dual-blades",
@@ -3723,6 +3740,18 @@
     "affinity": 0,
     "defense": 0,
     "description": "A powerful one-handed Sword\ncrafted from newly developed\ntechniques and materials.",
+    "elements": []
+  },
+  {
+    "id": 265,
+    "name": "Gavas Twin Iron Fans",
+    "type": "dual-blades",
+    "attack": 168,
+    "rare": 4,
+    "slots": 1,
+    "affinity": 20,
+    "defense": 10,
+    "description": "Famitsu's custom weapon. Not just sharp, but also convenient for banquets.",
     "elements": []
   },
   {
@@ -5337,6 +5366,23 @@
     "elements": []
   },
   {
+    "id": 374,
+    "name": "Polytan G",
+    "type": "hammer",
+    "attack": 780,
+    "rare": 6,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Dengeki's mascot has taken on a small beast and became an even more amazing weapon!",
+    "elements": [
+      {
+        "name": "Thunder",
+        "attack": 420
+      }
+    ]
+  },
+  {
     "id": 375,
     "name": "Chick Decapitator",
     "type": "great-swd",
@@ -6779,6 +6825,23 @@
     "defense": 0,
     "description": "Made from legendary Gold\nRathian and Silver Rathalos\nmaterials. Incredible power.",
     "elements": []
+  },
+  {
+    "id": 472,
+    "name": "Gavas LS Fan",
+    "type": "long-swd",
+    "attack": 624,
+    "rare": 6,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Famitsu's custom-made weapon that blows a strom in the industry with this big fan!",
+    "elements": [
+      {
+        "name": "Ice",
+        "attack": 420
+      }
+    ]
   },
   {
     "id": 473,
@@ -8487,6 +8550,23 @@
     "elements": []
   },
   {
+    "id": 591,
+    "name": "Amezari Hammer",
+    "type": "hammer",
+    "attack": 520,
+    "rare": 4,
+    "slots": 3,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Legenday comedians' beloved weapon. When swung, a flurry of jokes and laughter ensue.",
+    "elements": [
+      {
+        "name": "Water",
+        "attack": 400
+      }
+    ]
+  },
+  {
     "id": 592,
     "name": "Akantor Blades",
     "type": "dual-blades",
@@ -9632,6 +9712,23 @@
     ]
   },
   {
+    "id": 667,
+    "name": "10k Gavas LS Fan",
+    "type": "long-swd",
+    "attack": 912,
+    "rare": 9,
+    "slots": 1,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Famitsu's custom-made weapon that blows a strom in the industry with this big fan!",
+    "elements": [
+      {
+        "name": "Ice",
+        "attack": 500
+      }
+    ]
+  },
+  {
     "id": 668,
     "name": "Tigrex Supreme Sword",
     "type": "great-swd",
@@ -10545,6 +10642,47 @@
         "attack": 100
       }
     ]
+  },
+  {
+    "id": 733,
+    "name": "Amezari Sword",
+    "type": "long-swd",
+    "attack": 1104,
+    "rare": 9,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Sword used by one who lived to make people laugh. The shape is proof of novelty.",
+    "elements": [
+      {
+        "name": "Water",
+        "attack": 500
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "name": "Pirate J Sword",
+    "type": "long-swd",
+    "attack": 1296,
+    "rare": 9,
+    "slots": 1,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Legendary pirate sword. It's said the golden skull's eye shine in front of treasure.",
+    "elements": []
+  },
+  {
+    "id": 735,
+    "name": "Severed Roar",
+    "type": "great-swd",
+    "attack": 1152,
+    "rare": 9,
+    "slots": 1,
+    "affinity": 0,
+    "defense": 50,
+    "description": "Unique great sword made for the strong who emphasize practicality over elegance.",
+    "elements": []
   },
   {
     "id": 736,
@@ -12414,6 +12552,18 @@
     "elements": []
   },
   {
+    "id": 862,
+    "name": "EldrDrgnGLanceEmblem",
+    "type": "gunlance",
+    "attack": 598,
+    "rare": 9,
+    "slots": 1,
+    "affinity": 0,
+    "defense": 0,
+    "description": "A GL that can only be used by those full of passion. EBStudio design ~C03Shelling Lv5~C00",
+    "elements": []
+  },
+  {
     "id": 863,
     "name": "Crow Blade",
     "type": "sword",
@@ -13478,6 +13628,35 @@
     ]
   },
   {
+    "id": 935,
+    "name": "100GavasTwinIronFans",
+    "type": "dual-blades",
+    "attack": 224,
+    "rare": 6,
+    "slots": 1,
+    "affinity": 20,
+    "defense": 15,
+    "description": "Famitsu's custom weapon. Not just sharp, but also convenient for banquets.",
+    "elements": []
+  },
+  {
+    "id": 936,
+    "name": "10kGavasTwinIronFans",
+    "type": "dual-blades",
+    "attack": 280,
+    "rare": 9,
+    "slots": 1,
+    "affinity": 20,
+    "defense": 15,
+    "description": "Famitsu's custom weapon. Not just sharp, but also convenient for banquets.",
+    "elements": [
+      {
+        "name": "Sleep",
+        "attack": 20
+      }
+    ]
+  },
+  {
     "id": 937,
     "name": "Tigrex Sword+",
     "type": "sword",
@@ -14455,6 +14634,23 @@
     "defense": 0,
     "description": "Sword made with the newest\ncrafting methods. It looks\nthe same, but it's G-Level.",
     "elements": []
+  },
+  {
+    "id": 1004,
+    "name": "Amezari Claws",
+    "type": "dual-blades",
+    "attack": 322,
+    "rare": 9,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Swords of a comedian who weaponized his retorts. The essence of endless attacks.",
+    "elements": [
+      {
+        "name": "Water",
+        "attack": 500
+      }
+    ]
   },
   {
     "id": 1005,
@@ -15672,6 +15868,57 @@
     ]
   },
   {
+    "id": 1085,
+    "name": "True Polytan G",
+    "type": "hammer",
+    "attack": 1144,
+    "rare": 9,
+    "slots": 2,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Dengeki's mascot has taken on a small beast and became an even more amazing weapon!",
+    "elements": [
+      {
+        "name": "Thunder",
+        "attack": 600
+      }
+    ]
+  },
+  {
+    "id": 1086,
+    "name": "Amezari Hammer+",
+    "type": "hammer",
+    "attack": 728,
+    "rare": 6,
+    "slots": 3,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Legenday comedians' beloved weapon. When swung, a flurry of jokes and laughter ensue.",
+    "elements": [
+      {
+        "name": "Water",
+        "attack": 450
+      }
+    ]
+  },
+  {
+    "id": 1087,
+    "name": "Amezari Impact",
+    "type": "hammer",
+    "attack": 1040,
+    "rare": 9,
+    "slots": 3,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Legenday comedians' beloved weapon. When swung, a flurry of jokes and laughter ensue.",
+    "elements": [
+      {
+        "name": "Water",
+        "attack": 600
+      }
+    ]
+  },
+  {
     "id": 1088,
     "name": "Tigrex Hammer+",
     "type": "hammer",
@@ -16463,6 +16710,23 @@
     "elements": []
   },
   {
+    "id": 1146,
+    "name": "Original Polytan G",
+    "type": "hammer",
+    "attack": 1196,
+    "rare": 9,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "The foul-mouthed game loving mascot from Dengeki has become an awesome weaopn.",
+    "elements": [
+      {
+        "name": "Thunder",
+        "attack": 280
+      }
+    ]
+  },
+  {
     "id": 1147,
     "name": "Felyne and Melynx+",
     "type": "dual-blades",
@@ -16638,6 +16902,18 @@
     "affinity": 0,
     "defense": 0,
     "description": "Bowgun made from the shell\nof a King Lobster. Capable\nof Rapid Fire with Water S.",
+    "elements": []
+  },
+  {
+    "id": 12,
+    "name": "Amezari Crossbow",
+    "type": "light-bowgun",
+    "attack": 156,
+    "rare": 5,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Red crayfish bowgun favored by comedians. ~C03Rapid Fires~C00 both ~C03Water S~C00 and ~C03Retorts~C00.",
     "elements": []
   },
   {
@@ -19313,6 +19589,18 @@
     "elements": []
   },
   {
+    "id": 224,
+    "name": "Amezari Crossbow G",
+    "type": "light-bowgun",
+    "attack": 312,
+    "rare": 10,
+    "slots": 0,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Red crayfish bowgun favored by comedians. ~C03Rapid Fires~C00 both ~C03Water S~C00 and ~C03Retorts~C00.",
+    "elements": []
+  },
+  {
     "id": 225,
     "name": "Hexed Shaka Bow G",
     "type": "light-bowgun",
@@ -21003,6 +21291,35 @@
       {
         "name": "Ice",
         "attack": 180
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Pirate J Cannon",
+    "type": "heavy-bowgun",
+    "attack": 420,
+    "rare": 9,
+    "slots": 1,
+    "affinity": 0,
+    "defense": 0,
+    "description": "Legendary pirate bowgun. Trusty ally that blows away rivals and brings treasure.",
+    "elements": []
+  },
+  {
+    "id": 353,
+    "name": "Diasorte Arrow",
+    "type": "bow",
+    "attack": 324,
+    "rare": 9,
+    "slots": 1,
+    "affinity": 10,
+    "defense": 10,
+    "description": "Dengeki Maoh themed bow. The heartbeat of the Crimson Demon pulses from the arrow.",
+    "elements": [
+      {
+        "name": "Fire",
+        "attack": 150
       }
     ]
   }

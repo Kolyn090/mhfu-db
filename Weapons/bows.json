@@ -2651,5 +2651,28 @@
         "requires": "Capacity Up"
       }
     ]
+  },
+  {
+    "id": 353,
+    "name": "Diasorte Arrow",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
   }
 ]

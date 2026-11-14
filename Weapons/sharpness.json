@@ -5336,6 +5336,29 @@
     ]
   },
   {
+    "id": 233,
+    "name": "Polytan",
+    "type": "hammer",
+    "sharpness": [
+      50,
+      40,
+      110,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      50,
+      40,
+      140,
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "id": 234,
     "name": "Twin Dagger",
     "type": "dual-blades",
@@ -6044,6 +6067,29 @@
       30,
       160,
       20,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Gavas Twin Iron Fans",
+    "type": "dual-blades",
+    "sharpness": [
+      90,
+      80,
+      80,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      90,
+      80,
+      80,
+      50,
+      0,
       0,
       0
     ]
@@ -8533,6 +8579,29 @@
     ]
   },
   {
+    "id": 374,
+    "name": "Polytan G",
+    "type": "hammer",
+    "sharpness": [
+      50,
+      40,
+      140,
+      20,
+      0,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      50,
+      40,
+      140,
+      70,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "id": 375,
     "name": "Chick Decapitator",
     "type": "great-swd",
@@ -10760,6 +10829,29 @@
       50,
       70,
       30,
+      0
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Gavas LS Fan",
+    "type": "long-swd",
+    "sharpness": [
+      160,
+      30,
+      20,
+      90,
+      0,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      160,
+      30,
+      20,
+      90,
+      50,
+      0,
       0
     ]
   },
@@ -13478,6 +13570,29 @@
     ]
   },
   {
+    "id": 591,
+    "name": "Amezari Hammer",
+    "type": "hammer",
+    "sharpness": [
+      60,
+      40,
+      80,
+      70,
+      0,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      60,
+      40,
+      80,
+      120,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "id": 592,
     "name": "Akantor Blades",
     "type": "dual-blades",
@@ -15203,6 +15318,29 @@
     ]
   },
   {
+    "id": 667,
+    "name": "10k Gavas LS Fan",
+    "type": "long-swd",
+    "sharpness": [
+      160,
+      30,
+      20,
+      90,
+      70,
+      60,
+      20
+    ],
+    "sharpness-artisan": [
+      160,
+      30,
+      20,
+      90,
+      70,
+      60,
+      20
+    ]
+  },
+  {
     "id": 668,
     "name": "Tigrex Supreme Sword",
     "type": "great-swd",
@@ -16695,6 +16833,75 @@
       70,
       60,
       20
+    ]
+  },
+  {
+    "id": 733,
+    "name": "Amezari Sword",
+    "type": "long-swd",
+    "sharpness": [
+      80,
+      30,
+      110,
+      100,
+      60,
+      20,
+      0
+    ],
+    "sharpness-artisan": [
+      80,
+      30,
+      110,
+      100,
+      60,
+      50,
+      20
+    ]
+  },
+  {
+    "id": 734,
+    "name": "Pirate J Sword",
+    "type": "long-swd",
+    "sharpness": [
+      30,
+      70,
+      180,
+      40,
+      40,
+      40,
+      0
+    ],
+    "sharpness-artisan": [
+      30,
+      70,
+      180,
+      40,
+      40,
+      40,
+      50
+    ]
+  },
+  {
+    "id": 735,
+    "name": "Severed Roar",
+    "type": "great-swd",
+    "sharpness": [
+      180,
+      20,
+      70,
+      70,
+      40,
+      20,
+      0
+    ],
+    "sharpness-artisan": [
+      180,
+      20,
+      70,
+      70,
+      40,
+      40,
+      30
     ]
   },
   {
@@ -19596,6 +19803,29 @@
     ]
   },
   {
+    "id": 862,
+    "name": "EldrDrgnGLanceEmblem",
+    "type": "gunlance",
+    "sharpness": [
+      50,
+      70,
+      50,
+      160,
+      50,
+      20,
+      0
+    ],
+    "sharpness-artisan": [
+      50,
+      70,
+      50,
+      160,
+      50,
+      50,
+      20
+    ]
+  },
+  {
     "id": 863,
     "name": "Crow Blade",
     "type": "sword",
@@ -21252,6 +21482,52 @@
     ]
   },
   {
+    "id": 935,
+    "name": "100GavasTwinIronFans",
+    "type": "dual-blades",
+    "sharpness": [
+      90,
+      80,
+      80,
+      50,
+      0,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      90,
+      80,
+      80,
+      70,
+      30,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 936,
+    "name": "10kGavasTwinIronFans",
+    "type": "dual-blades",
+    "sharpness": [
+      80,
+      130,
+      60,
+      40,
+      30,
+      10,
+      0
+    ],
+    "sharpness-artisan": [
+      80,
+      130,
+      60,
+      40,
+      30,
+      60,
+      0
+    ]
+  },
+  {
     "id": 937,
     "name": "Tigrex Sword+",
     "type": "sword",
@@ -22790,6 +23066,29 @@
       70,
       40,
       40
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Amezari Claws",
+    "type": "dual-blades",
+    "sharpness": [
+      90,
+      80,
+      80,
+      70,
+      40,
+      40,
+      0
+    ],
+    "sharpness-artisan": [
+      90,
+      80,
+      80,
+      70,
+      40,
+      60,
+      30
     ]
   },
   {
@@ -24633,6 +24932,75 @@
     ]
   },
   {
+    "id": 1085,
+    "name": "True Polytan G",
+    "type": "hammer",
+    "sharpness": [
+      50,
+      40,
+      140,
+      100,
+      40,
+      30,
+      0
+    ],
+    "sharpness-artisan": [
+      50,
+      40,
+      140,
+      100,
+      40,
+      60,
+      20
+    ]
+  },
+  {
+    "id": 1086,
+    "name": "Amezari Hammer+",
+    "type": "hammer",
+    "sharpness": [
+      100,
+      10,
+      30,
+      110,
+      0,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      100,
+      10,
+      30,
+      160,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 1087,
+    "name": "Amezari Impact",
+    "type": "hammer",
+    "sharpness": [
+      60,
+      40,
+      80,
+      120,
+      50,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      60,
+      40,
+      80,
+      120,
+      60,
+      40,
+      0
+    ]
+  },
+  {
     "id": 1088,
     "name": "Tigrex Hammer+",
     "type": "hammer",
@@ -25964,6 +26332,29 @@
       40,
       50,
       30
+    ]
+  },
+  {
+    "id": 1146,
+    "name": "Original Polytan G",
+    "type": "hammer",
+    "sharpness": [
+      50,
+      40,
+      140,
+      100,
+      20,
+      0,
+      0
+    ],
+    "sharpness-artisan": [
+      50,
+      40,
+      140,
+      100,
+      40,
+      30,
+      0
     ]
   },
   {

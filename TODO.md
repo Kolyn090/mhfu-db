@@ -69,4 +69,4 @@ I'm reworking mhfu-db to make it better.
 - [x] Weapons/shelling.json
 - [x] Weapons/weapons.json
 - [ ] Weapons/weapons-craft.json
-- [ ] Weapons/weapons-image.json
+- [x] Weapons/weapons-image.json
