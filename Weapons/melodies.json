@@ -1,0 +1,513 @@
+[
+  {
+    "id": 0,
+    "notes": [
+      "white",
+      "white",
+      {
+        "except": "white"
+      }
+    ],
+    "effect-id": 0,
+    "effect": "Movement Speed Up",
+    "repeat-effect": "Attacks Harder To Break"
+  },
+  {
+    "id": 1,
+    "notes": [
+      "purple",
+      "purple",
+      {
+        "except": "purple"
+      }
+    ],
+    "effect-id": 0,
+    "effect": "Movement Speed Up",
+    "repeat-effect": "Attacks Harder To Break"
+  },
+  {
+    "id": 2,
+    "notes": [
+      "red",
+      "white"
+    ],
+    "effect-id": 1,
+    "effect": "Attack Up [Lo]",
+    "repeat-effect": "Attack More Powerful"
+  },
+  {
+    "id": 3,
+    "notes": [
+      "red",
+      "red",
+      "purple"
+    ],
+    "effect-id": 2,
+    "effect": "Attack Up [Hi]",
+    "repeat-effect": "Attack More Powerful"
+  },
+  {
+    "id": 4,
+    "notes": [
+      "yellow",
+      "red"
+    ],
+    "effect-id": 3,
+    "effect": "Defense Up [Lo]",
+    "repeat-effect": "Defense More Powerful"
+  },
+  {
+    "id": 5,
+    "notes": [
+      "red",
+      "green",
+      "red"
+    ],
+    "effect-id": 4,
+    "effect": "Defense Up [Hi]",
+    "repeat-effect": "Defense More Powerful"
+  },
+  {
+    "id": 6,
+    "notes": [
+      "purple",
+      "light-blue",
+      "light-blue",
+      "red"
+    ],
+    "effect-id": 4,
+    "effect": "Defense Up [Hi]",
+    "repeat-effect": "Defense More Powerful"
+  },
+  {
+    "id": 7,
+    "notes": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "effect-id": 5,
+    "effect": "Health Inc [Lo]"
+  },
+  {
+    "id": 8,
+    "notes": [
+      "light-blue",
+      "red",
+      "red"
+    ],
+    "effect-id": 6,
+    "effect": "Health Inc [Mid]"
+  },
+  {
+    "id": 9,
+    "notes": [
+      "purple",
+      "red",
+      "blue",
+      "red"
+    ],
+    "effect-id": 7,
+    "effect": "Health Inc [Hi]"
+  },
+  {
+    "id": 10,
+    "notes": [
+      "red",
+      "blue",
+      "blue"
+    ],
+    "effect-id": 8,
+    "effect": "Wind Reduce",
+    "repeat-effect": "Wind Cancel"
+  },
+  {
+    "id": 11,
+    "notes": [
+      "green",
+      "blue",
+      "blue"
+    ],
+    "effect-id": 9,
+    "effect": "Wind Cancel",
+    "repeat-effect": "Wind All Cancel"
+  },
+  {
+    "id": 12,
+    "notes": [
+      "blue",
+      "light-blue",
+      "blue"
+    ],
+    "effect-id": 9,
+    "effect": "Wind Cancel",
+    "repeat-effect": "Wind All Cancel"
+  },
+  {
+    "id": 13,
+    "notes": [
+      "purple",
+      "yellow",
+      "blue",
+      "blue"
+    ],
+    "effect-id": 10,
+    "effect": "Wind All Cancel"
+  },
+  {
+    "id": 14,
+    "notes": [
+      "blue",
+      "white"
+    ],
+    "effect-id": 11,
+    "effect": "No Stamina Loss [Lo]",
+    "repeat-effect": "No Stamina Loss Extnd"
+  },
+  {
+    "id": 15,
+    "notes": [
+      "blue",
+      "blue",
+      "purple"
+    ],
+    "effect-id": 12,
+    "effect": "No Stamina Loss [Hi]",
+    "repeat-effect": "No Stamina Loss Extnd"
+  },
+  {
+    "id": 16,
+    "notes": [
+      "light-blue",
+      "blue",
+      "blue"
+    ],
+    "effect-id": 13,
+    "effect": "Clairvoyance"
+  },
+  {
+    "id": 17,
+    "notes": [
+      "green",
+      "purple"
+    ],
+    "effect-id": 14,
+    "effect": "Health Rec [Weak]",
+    "alternate-effect": "Health Rec [Lo]"
+  },
+  {
+    "id": 18,
+    "notes": [
+      "yellow",
+      "purple",
+      "green"
+    ],
+    "effect-id": 15,
+    "effect": "Health Rec [Mid]",
+    "alternate-effect": "Health Rec [High]"
+  },
+  {
+    "id": 19,
+    "notes": [
+      "light-blue",
+      "purple",
+      "green",
+      "green"
+    ],
+    "effect-id": 16,
+    "effect": "Health Rec [Lo]",
+    "alternate-effect": "Health Rec [Mid]"
+  },
+  {
+    "id": 20,
+    "notes": [
+      "light-blue",
+      "white",
+      "green"
+    ],
+    "effect-id": 17,
+    "effect": "HealthRec[Lo]&Deodorant",
+    "alternate-effect": "HealthRec[Mid]&Deodorant"
+  },
+  {
+    "id": 21,
+    "notes": [
+      "green",
+      "white"
+    ],
+    "effect-id": 18,
+    "effect": "HealthRec[Weak]&Antidote",
+    "alternate-effect": "HealthRec[Lo]&Antidote"
+  },
+  {
+    "id": 22,
+    "notes": [
+      "blue",
+      "purple",
+      "blue",
+      "green"
+    ],
+    "effect-id": 19,
+    "effect": "HealthRec[Lo]&Antidote",
+    "alternate-effect": "HealthRec[Mid]&Antidote"
+  },
+  {
+    "id": 23,
+    "notes": [
+      "yellow",
+      "green",
+      "green"
+    ],
+    "effect-id": 20,
+    "effect": "Recover Spd Up [Lo]"
+  },
+  {
+    "id": 24,
+    "notes": [
+      "purple",
+      "green",
+      "red",
+      "green"
+    ],
+    "effect-id": 21,
+    "effect": "Recover Spd Up [Hi]"
+  },
+  {
+    "id": 25,
+    "notes": [
+      "yellow",
+      "purple",
+      "yellow",
+      "green"
+    ],
+    "effect-id": 22,
+    "effect": "Heavenly Protection"
+  },
+  {
+    "id": 26,
+    "notes": [
+      "yellow",
+      "light-blue",
+      "light-blue"
+    ],
+    "effect-id": 23,
+    "effect": "No Cold & Snow Res"
+  },
+  {
+    "id": 27,
+    "notes": [
+      "light-blue",
+      "green",
+      "light-blue"
+    ],
+    "effect-id": 24,
+    "effect": "No Heat"
+  },
+  {
+    "id": 28,
+    "notes": [
+      "red",
+      "light-blue",
+      "light-blue"
+    ],
+    "effect-id": 25,
+    "effect": "Hear Protect [Lo]"
+  },
+  {
+    "id": 29,
+    "notes": [
+      "purple",
+      "green",
+      "light-blue",
+      "light-blue"
+    ],
+    "effect-id": 26,
+    "effect": "Hear Protect [Hi]"
+  },
+  {
+    "id": 30,
+    "notes": [
+      "purple",
+      "blue",
+      "light-blue"
+    ],
+    "effect-id": 27,
+    "effect": "No Faint"
+  },
+  {
+    "id": 31,
+    "notes": [
+      "yellow",
+      "yellow",
+      "light-blue"
+    ],
+    "effect-id": 28,
+    "effect": "No Paralysis"
+  },
+  {
+    "id": 32,
+    "notes": [
+      "light-blue",
+      "yellow",
+      "light-blue"
+    ],
+    "effect-id": 29,
+    "effect": "No Quakes"
+  },
+  {
+    "id": 33,
+    "notes": [
+      "white",
+      "yellow",
+      "blue",
+      "yellow"
+    ],
+    "effect-id": 30,
+    "effect": "Element Attack Up",
+    "repeat-effect": "Element Attack Up+"
+  },
+  {
+    "id": 34,
+    "notes": [
+      "red",
+      "yellow"
+    ],
+    "effect-id": 31,
+    "effect": "Fire Res Up [Lo]",
+    "repeat-effect": "Fire Res Increased"
+  },
+  {
+    "id": 35,
+    "notes": [
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "effect-id": 32,
+    "effect": "Fire Res Up [Hi]",
+    "repeat-effect": "Fire Res Increased"
+  },
+  {
+    "id": 36,
+    "notes": [
+      "purple",
+      "blue",
+      "yellow"
+    ],
+    "effect-id": 33,
+    "effect": "Water Res Up [Lo]",
+    "repeat-effect": "Water Res Increased"
+  },
+  {
+    "id": 37,
+    "notes": [
+      "white",
+      "blue",
+      "blue",
+      "yellow"
+    ],
+    "effect-id": 34,
+    "effect": "Water Res Up [Hi]",
+    "repeat-effect": "Water Res Increased"
+  },
+  {
+    "id": 38,
+    "notes": [
+      "purple",
+      "light-blue",
+      "yellow"
+    ],
+    "effect-id": 35,
+    "effect": "Thunder Res Up [Lo]",
+    "repeat-effect": "Thunder Res Increased"
+  },
+  {
+    "id": 39,
+    "notes": [
+      "blue",
+      "yellow",
+      "yellow"
+    ],
+    "effect-id": 36,
+    "effect": "Thunder Res Up [Hi]",
+    "repeat-effect": "Thunder Res Increased"
+  },
+  {
+    "id": 40,
+    "notes": [
+      "light-blue",
+      "white",
+      "yellow"
+    ],
+    "effect-id": 37,
+    "effect": "Ice Res Up [Lo]",
+    "repeat-effect": "Ice Res Increased"
+  },
+  {
+    "id": 41,
+    "notes": [
+      "white",
+      "green",
+      "yellow"
+    ],
+    "effect-id": 37,
+    "effect": "Ice Res Up [Lo]",
+    "repeat-effect": "Ice Res Increased"
+  },
+  {
+    "id": 42,
+    "notes": [
+      "light-blue",
+      "purple",
+      "yellow"
+    ],
+    "effect-id": 38,
+    "effect": "Ice Res Up [Hi]",
+    "repeat-effect": "Ice Res Increased"
+  },
+  {
+    "id": 43,
+    "notes": [
+      "purple",
+      "green",
+      "yellow"
+    ],
+    "effect-id": 38,
+    "effect": "Ice Res Up [Hi]",
+    "repeat-effect": "Ice Res Increased"
+  },
+  {
+    "id": 44,
+    "notes": [
+      "yellow",
+      "white"
+    ],
+    "effect-id": 39,
+    "effect": "Dragon Res Up [Lo]",
+    "repeat-effect": "Dragon Res Increased"
+  },
+  {
+    "id": 45,
+    "notes": [
+      "yellow",
+      "yellow",
+      "purple"
+    ],
+    "effect-id": 40,
+    "effect": "Dragon Res Up [Hi]",
+    "repeat-effect": "Dragon Res Increased"
+  },
+  {
+    "id": 46,
+    "notes": [
+      "yellow",
+      "yellow",
+      "yellow",
+      {
+        "except": "yellow"
+      }
+    ],
+    "effect-id": 41,
+    "effect": "Supersonic Waves"
+  }
+]

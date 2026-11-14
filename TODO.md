@@ -59,11 +59,14 @@ I'm reworking mhfu-db to make it better.
 - [x] skills.json
 - [ ] trenya.json
 - [ ] veggie-elder.json
-- [ ] Weapons/ammo.json
-- [ ] Weapons/bows.json
-- [ ] Weapons/rapid-shot.json
-- [ ] Weapons/sharpness.json
-- [ ] Weapons/shelling.json
-- [ ] Weapons/weapons.json
+- [x] Weapons/ammo.json
+- [x] Weapons/bows.json
+- [x] Weapons/coatings.json
+- [x] Weapons/horns.json
+- [x] Weapons/melodies.json
+- [x] Weapons/rapid-shot.json
+- [x] Weapons/sharpness.json
+- [x] Weapons/shelling.json
+- [x] Weapons/weapons.json
 - [ ] Weapons/weapons-craft.json
 - [ ] Weapons/weapons-image.json

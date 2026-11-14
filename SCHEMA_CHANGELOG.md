@@ -285,3 +285,46 @@ Expanded quest-specific monster spawn records with raw power codes, spawn setup 
 - Some upstream selection conditions and reward behavior remain unverified.
 
 **Validation:** 2,507 of 2,537 non-placeholder message slots covered (98.8%). Generated outputs are reproducible.
+
+# Weapon Schema Changelog
+
+## Weapon Data Extraction and Schema Normalization
+
+### Added
+- Extracted 1,481 weapons across all 11 weapon classes from the original English MHFU game binaries.
+- Introduced stable, game-derived weapon IDs for reliable cross-dataset references.
+- Organized weapon data into ten dedicated JSON datasets:
+  - `weapons.json` — Shared weapon statistics and descriptions.
+  - `ammo.json` — Bowgun ammunition capacities.
+  - `bows.json` — Bow charge attacks and Capacity Up requirements.
+  - `rapid-shot.json` — Light Bowgun rapid-fire properties.
+  - `sharpness.json` — Normal and Artisan sharpness.
+  - `shelling.json` — Gunlance shelling properties.
+  - `horns.json` — Hunting Horn notes and melody IDs.
+  - `bowguns.json` — Bowgun reload and recoil properties.
+  - `coatings.json` — Bow coating compatibility and boosts.
+  - `melodies.json` — Hunting Horn melody definitions, note sequences, effects, and repeat-effect messages.
+
+### Improved
+- Unified `weapons.json` with ten consistent fields across all weapon classes.
+- Organized specialized weapon mechanics into dedicated datasets.
+- Standardized weapon references using original weapon IDs and class identifiers.
+- Preserved verified weapon statistics, elemental attributes, descriptions, and gameplay properties.
+- Standardized Bow charge terminology and seven-segment sharpness representation.
+- Enhanced Light Bowgun rapid-fire information with verified ammunition IDs, burst counts, and damage multipliers.
+- Resolved Hunting Horn melody IDs to verified note patterns and English effect names.
+- Added support for repeat-effect messages and alternate recovery messages where applicable.
+- Updated Python extraction scripts, automated tests, and technical documentation.
+
+### Validation
+- Verified 1,481 weapons across all 11 weapon classes.
+- Accounted for all 1,504 source weapon slots.
+- Validated cross-file weapon relationships, including overlapping melee and ranged IDs.
+- Confirmed complete reconstruction of decoded weapon records from specialized datasets.
+- Verified 47 Hunting Horn melody definitions and 42 distinct effect IDs.
+- Successfully resolved all 534 melody references across 95 Hunting Horns.
+- Verified that every Hunting Horn's note colors reproduce its referenced melody list.
+- Verified deterministic JSON generation across consecutive extraction runs.
+- Confirmed all nine framework tests passed.
+- Confirmed the existing nine weapon datasets remained byte-identical following melody extraction.
+- Expanded automated validation coverage for weapon and melody schema consistency.

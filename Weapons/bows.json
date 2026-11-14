@@ -1,2472 +1,2655 @@
 [
-    {
-        "name": "Hunter's Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Hunter's Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Hunter's Bow III",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Sctr",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Hunter's Bow IV",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Hunter's Power BowI",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Hunter's Power BowII",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Hunter's PowerBowIII",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Hunter's PowerBowIV",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Wild Bow I",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Wild Bow II",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Wild Bow III",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Wild Bow IV",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Wild Power Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Wild Power Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Blango Fur Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Sctr",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Blango Fur Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 1
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Blango Fur Bow III",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Blango Fur Bow IV",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Abominable Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Kut-Ku Stave I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 1
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Kut-Ku Stave II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Kut-Ku Stave III",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Blue Kut-Ku Stave I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Daimyo's Warbow I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Daimyo's Warbow II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Daimyo's Warbow III",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Daimyo's Warbow IV",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Sonic Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Sonic Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Sonic Bow III",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Queen Blaster I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Queen Blaster II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Queen Blaster III",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Heartshot Bow I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Heartshot Bow II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Prominence Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Prominence Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Prominence Bow III",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Courageous Hope",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Courageous Wish",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Diablos Horn Bow I",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Diablos Horn Bow II",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Tiger Arrow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Tiger Arrow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Tigrex Whisker",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Dragonhead Harp I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Dragon Bow Halo",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Dragon Bow Solar",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Dragon Bow Earth",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Dragon Bow Mountain",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Akantor Bow",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Exterminator Bow I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Glorious Victory I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Hunter's Bow G",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Hunter's Power BowIV",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Icicle Bow I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Icicle Bow II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Blango Fur Bow G",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Abominable Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Wild Bow G",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Wild Power Bow G",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Jungle Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Jungle Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Kut-Ku Stave G",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Blue Kut-Ku Stave II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "BlueKut-KuStave III",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Wolf Bow",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Crow Bow",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Defect Swordfish Bow",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            }
-        ]
-    },
-    {
-        "name": "Whole Swordfish Bow",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "PerfectSwordfishBow",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Swordfish Bow G",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Sonic Bow IV",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Sonic Bow G",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Daimyo's Warbow G",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Grt Purple Emperor I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "GrtPurpleEmperor II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Blue Blade Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Blue Blade Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Blue Blade Bow III",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Showroom Model",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Carmine Bow",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Eraser",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Tigrex Whisker+",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Hidden Bow",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Midnight Bow",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Black Bow I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Black Bow II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Black Bow G",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Exterminator Bow II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Glorious Victory II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Dragon Bow Chaos",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Dragon Bow Solar G",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "AncientDragonwoodBow",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Prominence Bow IV",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Prominence Bow V",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Queen Blaster IV",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Queen Blaster V",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Heartshot Bow III",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Wing Bow I",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Wing Bow II",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            }
-        ]
-    },
-    {
-        "name": "Wing Bow III",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Wing Bow IV",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Dragonhead Harp II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Dragonhead Harp III",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 1
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Diablos Horn Bow G",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Gale Horn Bow",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "DiablosKingHornBow",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Courageous Dream",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Akantor Chaos Bow",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Ukanlos Bow",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 2
-            },
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Khezu Bow I",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Khezu Bow II",
-        "charge": [
-            {
-                "name": "Sctr",
-                "level": 2
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Beast Thunderbow",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 2
-            },
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "BeastKingThunderbow",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Icy Steel Bow",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Rapd",
-                "level": 4
-            }
-        ]
-    },
-    {
-        "name": "Daora's Sagittarii",
-        "charge": [
-            {
-                "name": "Rapd",
-                "level": 3
-            },
-            {
-                "name": "Sctr",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            },
-            {
-                "name": "Rapd",
-                "level": 5
-            }
-        ]
-    },
-    {
-        "name": "Diasorte Arrow",
-        "charge": [
-            {
-                "name": "Prce",
-                "level": 3
-            },
-            {
-                "name": "Prce",
-                "level": 4
-            },
-            {
-                "name": "Prce",
-                "level": 5
-            },
-            {
-                "name": "Sctr",
-                "level": 5
-            }
-        ]
-    }
+  {
+    "id": 116,
+    "name": "Hunter's Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Hunter's Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Hunter's Bow III",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Scatter",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Hunter's Bow IV",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Hunter's Power BowI",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Hunter's Power BowII",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Hunter's PowerBowIII",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Wild Bow I",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Wild Bow II",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Wild Bow III",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Wild Bow IV",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Wild Power Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Wild Power Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Blango Fur Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Scatter",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Blango Fur Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 1
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Blango Fur Bow III",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Blango Fur Bow IV",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Abominable Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Kut-Ku Stave I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 1
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Kut-Ku Stave II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Kut-Ku Stave III",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Blue Kut-Ku Stave I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Daimyo's Warbow I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Daimyo's Warbow II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Daimyo's Warbow III",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Daimyo's Warbow IV",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Sonic Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Sonic Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Sonic Bow III",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Queen Blaster I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Queen Blaster II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Queen Blaster III",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Heartshot Bow I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Heartshot Bow II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Prominence Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Prominence Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Prominence Bow III",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Courageous Hope",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Courageous Wish",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Diablos Horn Bow I",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Diablos Horn Bow II",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Tiger Arrow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Tiger Arrow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Tigrex Whisker",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Dragonhead Harp I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Dragon Bow Halo",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Dragon Bow Solar",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Dragon Bow Earth",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Dragon Bow Mountain",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Akantor Bow",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Exterminator Bow I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Glorious Victory I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Hunter's Bow G",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Hunter's Power BowIV",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Icicle Bow I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Icicle Bow II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Blango Fur Bow G",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Abominable Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Wild Bow G",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Wild Power Bow G",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Jungle Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Jungle Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Kut-Ku Stave G",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Blue Kut-Ku Stave II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "BlueKut-KuStave III",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Wolf Bow",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Crow Bow",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Defect Swordfish Bow",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 2,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Whole Swordfish Bow",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "name": "PerfectSwordfishBow",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Swordfish Bow G",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Sonic Bow IV",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Sonic Bow G",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Daimyo's Warbow G",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Grt Purple Emperor I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "name": "GrtPurpleEmperor II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Blue Blade Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Blue Blade Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Blue Blade Bow III",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Showroom Model",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Carmine Bow",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Eraser",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Tigrex Whisker+",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Hidden Bow",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Midnight Bow",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Black Bow I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Black Bow II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Black Bow G",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Exterminator Bow II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Glorious Victory II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Dragon Bow Chaos",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Dragon Bow Solar G",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "name": "AncientDragonwoodBow",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Prominence Bow IV",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Prominence Bow V",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Queen Blaster IV",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Queen Blaster V",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Heartshot Bow III",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Wing Bow I",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Wing Bow II",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 3,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Wing Bow III",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Wing Bow IV",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Dragonhead Harp II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Dragonhead Harp III",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 1
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Diablos Horn Bow G",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      },
+      {
+        "name": "Scatter",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Gale Horn Bow",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "name": "DiablosKingHornBow",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Courageous Dream",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Akantor Chaos Bow",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Ukanlos Bow",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 2
+      },
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Khezu Bow I",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Khezu Bow II",
+    "charge": [
+      {
+        "name": "Scatter",
+        "level": 2
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Scatter",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Beast Thunderbow",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 2
+      },
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "name": "BeastKingThunderbow",
+    "charge": [
+      {
+        "name": "Pierce",
+        "level": 3
+      },
+      {
+        "name": "Rapid",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 5
+      },
+      {
+        "name": "Pierce",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Icy Steel Bow",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 4
+      },
+      {
+        "name": "Rapid",
+        "level": 4,
+        "requires": "Capacity Up"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Daora's Sagittarii",
+    "charge": [
+      {
+        "name": "Rapid",
+        "level": 3
+      },
+      {
+        "name": "Scatter",
+        "level": 4
+      },
+      {
+        "name": "Pierce",
+        "level": 5
+      },
+      {
+        "name": "Rapid",
+        "level": 5,
+        "requires": "Capacity Up"
+      }
+    ]
+  }
 ]
