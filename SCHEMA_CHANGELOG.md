@@ -328,3 +328,23 @@ Expanded quest-specific monster spawn records with raw power codes, spawn setup 
 - Confirmed all nine framework tests passed.
 - Confirmed the existing nine weapon datasets remained byte-identical following melody extraction.
 - Expanded automated validation coverage for weapon and melody schema consistency.
+
+### Breaking Change: Weapon Crafting Recipe Schema
+
+Updated `weapons-craft.json` to provide canonical identifiers, explicit crafting methods, and reliable recipe references.
+
+**Changes**
+- Added `id` — canonical weapon ID.
+- Added `type` — weapon class identifier (e.g., `bow`).
+- Added `method` — crafting method (`forge` or `upgrade`).
+- Added `recipe-ref` — unique integer reference linking each crafting route to `weapons-craft-availability.json`.
+- Added `id` to each material entry for reliable item identification.
+- Added canonical source weapon names to `upgrade-from` objects for upgrade recipes.
+- Preserved `name`, `price`, `upgrade-from`, and `materials` as existing fields.
+
+**Data correction**
+- Hunter's Bow I (`bow`, ID `116`): corrected Anteka Pelt (ID `330`) quantity from **5 to 2**.
+
+**Migration impact**
+
+Consumers must update their parsing logic to support the new fields and should use `(type, id)` for weapon identification, material `id` for item identification, and `recipe-ref` for identifying individual crafting routes. Existing name-based lookups remain possible but are not recommended as primary identifiers.
