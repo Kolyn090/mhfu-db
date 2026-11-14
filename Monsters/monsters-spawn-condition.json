@@ -1,0 +1,4403 @@
+[
+  {
+    "quest-id": 1,
+    "quest-title": "A True Foe - The Giadrome!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2,
+    "quest-title": "Reckless Bulldrome Hunter",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3,
+    "quest-title": "A Pack of Blangos",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 61,
+        "monster-name": "Blango",
+        "minimum-matching-defeats": 9
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4,
+    "quest-title": "Mountain Herb Picking",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 5,
+    "quest-title": "Rarest of the Rare Beasts",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 6,
+    "quest-title": "Hunt the Rare Forest Congas!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 62,
+        "monster-name": "Conga",
+        "minimum-matching-defeats": 8
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 7,
+    "quest-title": "A Mushroom Goldrush!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 8,
+    "quest-title": "The Land Shark",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 9,
+    "quest-title": "The Giant Enemy Crab",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10,
+    "quest-title": "The Lady Gourmet",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 34,
+        "monster-name": "Cephalos",
+        "minimum-matching-defeats": 6
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 101,
+    "quest-title": "The Shadow in the Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 102,
+    "quest-title": "The King of the Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 103,
+    "quest-title": "A Swarm of Hermitaurs",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 66,
+        "monster-name": "Hermitaur",
+        "minimum-matching-defeats": 7
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 104,
+    "quest-title": "Water Wyvern in the Desert",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 105,
+    "quest-title": "Gypceros: Venomous Terror",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 106,
+    "quest-title": "Supreme Ruler of the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 107,
+    "quest-title": "Slay the Great Kut-Ku!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 108,
+    "quest-title": "Eliminate the Rathalos!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 109,
+    "quest-title": "Attack of the Rathian",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1001,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 1002,
+    "quest-title": "Gathering - Jungle Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 876,
+        "item-name": "Wyvern Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 1003,
+    "quest-title": "Gathering - Desert Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 877,
+        "item-name": "Herbivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 1004,
+    "quest-title": "Giadrome Assault",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1005,
+    "quest-title": "The Mountain Roughrider",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1006,
+    "quest-title": "Slay the Giaprey!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 35,
+        "monster-name": "Giaprey",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1007,
+    "quest-title": "Find the Mountain Herbs!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1008,
+    "quest-title": "Hunt Down the Velocidrome!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1009,
+    "quest-title": "Blue Menace of the Jungle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1010,
+    "quest-title": "Cunning Raiders",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 16,
+        "monster-name": "Velociprey",
+        "minimum-matching-defeats": 10
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1011,
+    "quest-title": "Attack of the Giant Bugs!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1012,
+    "quest-title": "The Mushroom Hunt!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1013,
+    "quest-title": "Panning for Goldenfish",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1014,
+    "quest-title": "Hunt the Gendrome!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1015,
+    "quest-title": "The Land Shark",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1016,
+    "quest-title": "The Lurking Desert Giant",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1017,
+    "quest-title": "Slay the Genprey!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 13,
+        "monster-name": "Genprey",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1018,
+    "quest-title": "Liver of Legend!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 34,
+        "monster-name": "Cephalos",
+        "minimum-matching-defeats": 8
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1019,
+    "quest-title": "Gone Fishin'",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1020,
+    "quest-title": "Attack of the Yian Kut-Ku",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1021,
+    "quest-title": "Charge... Charge... Charge!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1022,
+    "quest-title": "The Mischief-maker",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1101,
+    "quest-title": "Gathering - Swamp Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 879,
+        "item-name": "Sootstone Ore",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 1102,
+    "quest-title": "Gathering - Forest and Hills",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 876,
+        "item-name": "Wyvern Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 1103,
+    "quest-title": "Gathering - Volcanic Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 881,
+        "item-name": "Powderstone",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 1104,
+    "quest-title": "The Ruler of the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1105,
+    "quest-title": "The Shadow in the Cave",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1106,
+    "quest-title": "Red Shadow in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1107,
+    "quest-title": "Blango Slaying Tactics",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 61,
+        "monster-name": "Blango",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1108,
+    "quest-title": "The Subterranean Glutton",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1109,
+    "quest-title": "Master of the Giant Lake",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1110,
+    "quest-title": "The Pink Fur Party",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 62,
+        "monster-name": "Conga",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1111,
+    "quest-title": "The Hidden Jungle Clouds",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1112,
+    "quest-title": "The Underwater Terror",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1113,
+    "quest-title": "Evening Hermitaur Sonata",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 66,
+        "monster-name": "Hermitaur",
+        "minimum-matching-defeats": 10
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1114,
+    "quest-title": "The Purple Poison Menace",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1115,
+    "quest-title": "Pincer through the Sky",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1116,
+    "quest-title": "Chase the Poison Gypceros!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1117,
+    "quest-title": "Trouble in the Forest",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 5,
+        "monster-name": "Bullfango",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1118,
+    "quest-title": "Seeking the Strange Mask",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 57,
+        "monster-name": "Shakalaka",
+        "minimum-matching-defeats": 9
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1119,
+    "quest-title": "The Ioprey Leader",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1120,
+    "quest-title": "Commander in the Flames",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1121,
+    "quest-title": "Basarios: Unseen Peril",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1122,
+    "quest-title": "A Band of Ceanataurs",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 73,
+        "monster-name": "Ceanataur",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1123,
+    "quest-title": "Great Ore Discovery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1124,
+    "quest-title": "A Giant Dragon Invades!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1125,
+    "quest-title": "The Meeting of Daimyo",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1126,
+    "quest-title": "Go Fish Goldenfish!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1201,
+    "quest-title": "Absolute Power",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1202,
+    "quest-title": "The Tigrex's Roar",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1203,
+    "quest-title": "The Runaway Diablos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1204,
+    "quest-title": "The Fierce Black Horn",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1205,
+    "quest-title": "Valor in the Swamp Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1206,
+    "quest-title": "Terror of the Gravios",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1207,
+    "quest-title": "The King's Domain",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1208,
+    "quest-title": "Attack of the Rathalos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1209,
+    "quest-title": "The Queen's Descent",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1210,
+    "quest-title": "The Cherry Blossom Rathian",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1211,
+    "quest-title": "The Legendary Kirin",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1212,
+    "quest-title": "The Red and Green Wyverns",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1213,
+    "quest-title": "Attack of the Wind Dragon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1214,
+    "quest-title": "A Sun with Fangs",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1215,
+    "quest-title": "Emperor of Flame",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1216,
+    "quest-title": "The Elder Dragon of Mist",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1217,
+    "quest-title": "Towards the Silence",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1218,
+    "quest-title": "The Approaching Gaoren",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1219,
+    "quest-title": "Two Little Shadows",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 1220,
+    "quest-title": "A Horde of Congalalas",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2001,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 879,
+        "item-name": "Sootstone Ore",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 2002,
+    "quest-title": "Gathering - Jungle Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 876,
+        "item-name": "Wyvern Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 2003,
+    "quest-title": "Gathering - Desert Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 877,
+        "item-name": "Herbivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 2004,
+    "quest-title": "A True Foe - The Giadrome!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2005,
+    "quest-title": "Reckless Bulldrome Hunter",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2006,
+    "quest-title": "Flanked by Velocidrome",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2007,
+    "quest-title": "Aim for the Jungle Crab",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2008,
+    "quest-title": "The Poison Fanged Duo",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2009,
+    "quest-title": "Pursuit of the Sand Wyvern",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2010,
+    "quest-title": "Ultimate Crab Dinner",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2011,
+    "quest-title": "Trapped by Yian Kut-Ku ",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2012,
+    "quest-title": "Conga Counterattack!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2013,
+    "quest-title": "The Beating of Royal Wings",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 19,
+        "monster-name": "Vespoid",
+        "minimum-matching-defeats": 20
+      },
+      {
+        "target-setup-slot": 2,
+        "monster-id": 19,
+        "monster-name": "Vespoid",
+        "minimum-matching-defeats": 30
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2101,
+    "quest-title": "Gathering - Swamp Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 880,
+        "item-name": "Quartz Ore",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 2102,
+    "quest-title": "Gathering - Forest and Hills",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 876,
+        "item-name": "Wyvern Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 2103,
+    "quest-title": "Gathering - Volcanic Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 881,
+        "item-name": "Powderstone",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 2104,
+    "quest-title": "Two Roars in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2105,
+    "quest-title": "The King of the Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2106,
+    "quest-title": "The Electrified Wyvern",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2107,
+    "quest-title": "Red Shadow in the Swampland",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2108,
+    "quest-title": "The Poison Gas",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2109,
+    "quest-title": "Dual Plesioth",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2110,
+    "quest-title": "Attack of the Rathian",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2111,
+    "quest-title": "Water Wyvern in the Desert",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2112,
+    "quest-title": "The Underwater Terror",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2113,
+    "quest-title": "An Evening Soaked in Poison",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2114,
+    "quest-title": "Supreme Ruler of the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2115,
+    "quest-title": "The Purple Poison Menace",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2116,
+    "quest-title": "Eliminate the Rathalos!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2117,
+    "quest-title": "The Shogun's Encampment",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2118,
+    "quest-title": "Basarios: Unseen Peril",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2119,
+    "quest-title": "Envoy to Disaster",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 63,
+        "monster-name": "Remobra",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2120,
+    "quest-title": "Lao-Shan Lung Draws Near!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2121,
+    "quest-title": "Meeting of the Blangongas",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2122,
+    "quest-title": "The White Brute",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2123,
+    "quest-title": "Pricy Mushrooms, Shaka!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2124,
+    "quest-title": "The Big Dirt Nap",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2125,
+    "quest-title": "Twin Walls of the Jungle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2126,
+    "quest-title": "The Meeting of Sea and Air",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2127,
+    "quest-title": "Red Lightning, Violet Blade",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2201,
+    "quest-title": "Land of the Tremors",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2202,
+    "quest-title": "The Rajang in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2203,
+    "quest-title": "The Tigrex's Roar",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2204,
+    "quest-title": "Pink Dance in the Jungle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2205,
+    "quest-title": "The Runaway Diablos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2206,
+    "quest-title": "The Fierce Black Horn",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2207,
+    "quest-title": "Four Horns",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2208,
+    "quest-title": "Rajang of Mountain Flames",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2209,
+    "quest-title": "Terror of the Gravios",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2210,
+    "quest-title": "Black Rock in the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2211,
+    "quest-title": "A Troublesome Pair",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2212,
+    "quest-title": "Blue Sky, Pink Earth",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2213,
+    "quest-title": "Attack of the Rathalos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2214,
+    "quest-title": "Deny the Silver Rathalos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2215,
+    "quest-title": "Find the Golden Phantom",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2216,
+    "quest-title": "The Fleeting Shadow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2217,
+    "quest-title": "The Frozen Dictator",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2218,
+    "quest-title": "The Elder Dragon of Wind",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2219,
+    "quest-title": "The War of Immolation",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2220,
+    "quest-title": "Emperor of Flame",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2221,
+    "quest-title": "The Elder Dragon of Mist",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2222,
+    "quest-title": "Towards the Silence",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 57,
+        "monster-name": "Shakalaka",
+        "minimum-matching-defeats": 3
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2223,
+    "quest-title": "Legendary Black Dragon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2224,
+    "quest-title": "The End Times",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2225,
+    "quest-title": "The Approaching Gaoren",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2226,
+    "quest-title": "Rise to the Summit",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2227,
+    "quest-title": "Ancestral Dragon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2228,
+    "quest-title": "Wyvern of the Wind",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2229,
+    "quest-title": "Born of Darkness",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2230,
+    "quest-title": "Two Queens",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2231,
+    "quest-title": "One-Horned Demon King",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2232,
+    "quest-title": "Phantasmic Battle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2233,
+    "quest-title": "Furious Beauties",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 77,
+        "monster-name": "Giadrome",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2234,
+    "quest-title": "Fight for the Throne",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 27,
+        "monster-name": "Velocidrome",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2235,
+    "quest-title": "Hotter than Hell Itself",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 31,
+        "monster-name": "Iodrome",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 2236,
+    "quest-title": "Desert Unifier",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3001,
+    "quest-title": "G-Lvl Gathering - Grt Forest",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 79,
+        "monster-name": "King Shakalaka",
+        "minimum-matching-defeats": 1,
+        "initial-defeat-counter": 0
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3002,
+    "quest-title": "G-Lvl Gathering - Old Jungle",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 80,
+        "monster-name": "Vespoid Queen",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3003,
+    "quest-title": "G-Lvl Gathering - Old Desert",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3004,
+    "quest-title": "G-Lvl Gathering - Old Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 880,
+        "item-name": "Quartz Ore",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 3005,
+    "quest-title": "G-Lvl Gathering - Snowy Mts.",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 3006,
+    "quest-title": "Shakalaka Showdown!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 57,
+        "monster-name": "Shakalaka",
+        "minimum-matching-defeats": 10
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3007,
+    "quest-title": "The Beating of Royal Wings",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 19,
+        "monster-name": "Vespoid",
+        "minimum-matching-defeats": 20
+      },
+      {
+        "target-setup-slot": 2,
+        "monster-id": 19,
+        "monster-name": "Vespoid",
+        "minimum-matching-defeats": 30
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3008,
+    "quest-title": "The Big Dirt Nap",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3009,
+    "quest-title": "Hypno, Hypno!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3010,
+    "quest-title": "Trapped by Yian Kut-Ku ",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3011,
+    "quest-title": "Giant Crab of the Old Jungle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3012,
+    "quest-title": "Daimyo of Sengoku Fame",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3013,
+    "quest-title": "Wag the Dog!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3014,
+    "quest-title": "Old Jungle Lightning",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3015,
+    "quest-title": "Red Shadow in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3016,
+    "quest-title": "Tales from the Old Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3017,
+    "quest-title": "Eyes in the Underground Lake",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3018,
+    "quest-title": "Giant Green Waves of Verdure",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3019,
+    "quest-title": "Prodigal Pack Attack!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 62,
+        "monster-name": "Conga",
+        "minimum-matching-defeats": 5
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3020,
+    "quest-title": "Pelagus Pride",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3021,
+    "quest-title": "Trickster!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3022,
+    "quest-title": "Stealing in the Jungle!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3023,
+    "quest-title": "Old Swamp, Shrouded in Mist",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3024,
+    "quest-title": "Subspecies Three!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3025,
+    "quest-title": "Predators of the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3101,
+    "quest-title": "G-Lvl Gathering - Frst&Hills",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 79,
+        "monster-name": "King Shakalaka",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3102,
+    "quest-title": "G-Lvl Gathering - OldVolcano",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 22,
+        "monster-name": "Basarios",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3103,
+    "quest-title": "Ever-Present Shadow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3104,
+    "quest-title": "Assassin of the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3105,
+    "quest-title": "Ancient Beauty, Black Beast",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3106,
+    "quest-title": "Lavasioth Sighting!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3107,
+    "quest-title": "River of Fire",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3108,
+    "quest-title": "Strong Sword, Strong Shield",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3109,
+    "quest-title": "Commander in the Flames",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 73,
+        "monster-name": "Ceanataur",
+        "minimum-matching-defeats": 6
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3110,
+    "quest-title": "Dark-Shelled Ceanataur",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3111,
+    "quest-title": "Under the Gaze of Heaven",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3112,
+    "quest-title": "At Birds' Hill...",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3113,
+    "quest-title": "A King, Robed in Smoke",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3114,
+    "quest-title": "The King's Domain",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3115,
+    "quest-title": "Her Eternal Majesty",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3116,
+    "quest-title": "The Cherry Blossom Rathian",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3117,
+    "quest-title": "Howling at the Moon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3118,
+    "quest-title": "The Yian Garuga Twins",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3119,
+    "quest-title": "The King of the Mountains",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 61,
+        "monster-name": "Blango",
+        "minimum-matching-defeats": 5
+      },
+      {
+        "target-setup-slot": 2,
+        "monster-id": 61,
+        "monster-name": "Blango",
+        "minimum-matching-defeats": 10
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3120,
+    "quest-title": "Copper Sands",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3121,
+    "quest-title": "Wild Monk of the Dunes",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3122,
+    "quest-title": "Basarios Season",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3123,
+    "quest-title": "Operation Tropical Storm",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3124,
+    "quest-title": "Save the Great Forest Town!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 85,
+        "monster-name": "Emerald Congalala",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3125,
+    "quest-title": "Three Walls",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3126,
+    "quest-title": "A Hunter's Feast",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3127,
+    "quest-title": "Lao-Shan Lung Draws Near!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3201,
+    "quest-title": "Absolute Power",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 35,
+        "monster-name": "Giaprey",
+        "minimum-matching-defeats": 10
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3202,
+    "quest-title": "Land of the Tremors",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3203,
+    "quest-title": "Sandstorm Summoner",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3204,
+    "quest-title": "The Fierce Black Horn",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3205,
+    "quest-title": "Black Phalanges",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3206,
+    "quest-title": "Armored Supremacy",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3207,
+    "quest-title": "Terror of the Gravios",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3208,
+    "quest-title": "The Dark Cataphracts",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3209,
+    "quest-title": "Explore the Unexplored",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3210,
+    "quest-title": "A Single Beam of Moonlight",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3211,
+    "quest-title": "Descendants of the King",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3212,
+    "quest-title": "Child of Destruction",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3213,
+    "quest-title": "The Final Invitation",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3214,
+    "quest-title": "A Scenic Locale",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3215,
+    "quest-title": "It's Electric",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3216,
+    "quest-title": "Deathmatch on the Dunes!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3217,
+    "quest-title": "Fire, Electricity, Heat Ray",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3218,
+    "quest-title": "The 3 Masters of the Volcano",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3219,
+    "quest-title": "Diamond Dust",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3220,
+    "quest-title": "Hunter's Funeral",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3221,
+    "quest-title": "Pride on the Line",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3222,
+    "quest-title": "The Dragon of Steel",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3223,
+    "quest-title": "The Elder Dragon of Wind",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3224,
+    "quest-title": "A Midnight Audience",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3225,
+    "quest-title": "Emperor of Flame",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3226,
+    "quest-title": "Evaporate into the Night",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3227,
+    "quest-title": "Towards the Silence",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3228,
+    "quest-title": "The Floating Dragon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3229,
+    "quest-title": "The Approaching Gaoren",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3230,
+    "quest-title": "Legendary Black Dragon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3231,
+    "quest-title": "The End Times",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3232,
+    "quest-title": "Ancestral Dragon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 3233,
+    "quest-title": "Absolute Zero",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4001,
+    "quest-title": "Treasure in the Mountains!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4002,
+    "quest-title": "Treasure in the Jungle!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4003,
+    "quest-title": "Treasure in the Desert!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4004,
+    "quest-title": "Treasure in the Swamp!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4005,
+    "quest-title": "Treasure in the Hills!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4006,
+    "quest-title": "Treasure in the Lava!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 4007,
+    "quest-title": "Treasure in the Grt Forest!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10001,
+    "quest-title": "Mountain Herb Picking",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10002,
+    "quest-title": "An Anteka in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10003,
+    "quest-title": "Hunt the Carnivore!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10004,
+    "quest-title": "Sinking Feeling",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10005,
+    "quest-title": "Slay the Blangos!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10101,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 10102,
+    "quest-title": "Gathering - Jungle Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 876,
+        "item-name": "Wyvern Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 10103,
+    "quest-title": "Gathering - Desert Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 877,
+        "item-name": "Herbivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 10104,
+    "quest-title": "The Carnivorous Leader",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10105,
+    "quest-title": "Reckless Bulldrome Hunter",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10106,
+    "quest-title": "Slay the Giaprey!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 35,
+        "monster-name": "Giaprey",
+        "minimum-matching-defeats": 16
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10107,
+    "quest-title": "The Pack of Blangos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10108,
+    "quest-title": "The Taboo of Negligence!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10109,
+    "quest-title": "Hunt Down the Velocidrome!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10110,
+    "quest-title": "Jungle Menace",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10111,
+    "quest-title": "Rarest of the Rare Beasts",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10112,
+    "quest-title": "Hunt the Rare Forest Congas!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10113,
+    "quest-title": "Attack of the Giant Bugs!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10114,
+    "quest-title": "Collect to Combine",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10115,
+    "quest-title": "Hunt the Gendrome!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10116,
+    "quest-title": "The Land Shark",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10117,
+    "quest-title": "Liver of Legend!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10118,
+    "quest-title": "Gone Fishin'",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10201,
+    "quest-title": "Gathering - Swamp Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 879,
+        "item-name": "Sootstone Ore",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 10202,
+    "quest-title": "Gathering - Forest and Hills",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 876,
+        "item-name": "Wyvern Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 10203,
+    "quest-title": "Shadow in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10204,
+    "quest-title": "The Subterranean Glutton",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10205,
+    "quest-title": "Blango Slaying Tactics",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10206,
+    "quest-title": "Aim for the Jungle Crab",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10207,
+    "quest-title": "Master of the Giant Lake",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10208,
+    "quest-title": "A Swarm of Hermitaurs",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10209,
+    "quest-title": "The Purple Poison Menace",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10210,
+    "quest-title": "The Lurking Desert Giant",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10211,
+    "quest-title": "Water Wyvern in the Desert",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10212,
+    "quest-title": "Slay the Genprey!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 13,
+        "monster-name": "Genprey",
+        "minimum-matching-defeats": 10
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10213,
+    "quest-title": "Gypceros: Venomous Terror",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10214,
+    "quest-title": "Attack of the Blue Kut-Ku",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10215,
+    "quest-title": "The Mischief-maker",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10216,
+    "quest-title": "Fang of the Iodrome!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10217,
+    "quest-title": "Slay the Great Kut-Ku!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10218,
+    "quest-title": "A Killing from Mushrooms",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10301,
+    "quest-title": "Gathering - Volcanic Zone",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 881,
+        "item-name": "Powderstone",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 10302,
+    "quest-title": "The Ruler of the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10303,
+    "quest-title": "Red Shadow in the Swampland",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10304,
+    "quest-title": "The Lone Black Garuga",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10305,
+    "quest-title": "Twin Velocidrome",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10306,
+    "quest-title": "Attack of the Giant Bugs!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10307,
+    "quest-title": "Battle of the Blos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10308,
+    "quest-title": "The Silver Horn",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10309,
+    "quest-title": "Supreme Ruler of the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10310,
+    "quest-title": "Trapped by Yian Kut-Ku ",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10311,
+    "quest-title": "The Ioprey Leader",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10312,
+    "quest-title": "Basarios: Unseen Peril",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10313,
+    "quest-title": "Commander in the Flames",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10314,
+    "quest-title": "Ioprey Hunting",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 30,
+        "monster-name": "Ioprey",
+        "minimum-matching-defeats": 12
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10315,
+    "quest-title": "A Band of Ceanataurs",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 73,
+        "monster-name": "Ceanataur",
+        "minimum-matching-defeats": 7
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10316,
+    "quest-title": "More Coal Please",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10317,
+    "quest-title": "The Frozen Dictator",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10318,
+    "quest-title": "The Elder Dragon of Wind",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10319,
+    "quest-title": "Hermitaur Buffet",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 66,
+        "monster-name": "Hermitaur",
+        "minimum-matching-defeats": 15
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10401,
+    "quest-title": "Absolute Power",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10402,
+    "quest-title": "The Legendary Kirin",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10403,
+    "quest-title": "Two Roars in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10404,
+    "quest-title": "The Poison Siege",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10405,
+    "quest-title": "The Tigrex's Roar",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10406,
+    "quest-title": "The Runaway Diablos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10407,
+    "quest-title": "The Fierce Black Horn",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10408,
+    "quest-title": "Ultimate Crab Dinner",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10409,
+    "quest-title": "Black Rock in the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10410,
+    "quest-title": "Seeking the Strange Mask",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10411,
+    "quest-title": "Terror of the Gravios",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10412,
+    "quest-title": "Check the Ancient Tower",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10413,
+    "quest-title": "The Empress's Blazing Throne",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10414,
+    "quest-title": "Overseer of the Ancients",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10415,
+    "quest-title": "The Elder Dragon of Mist",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10416,
+    "quest-title": "Towards the Silence",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10417,
+    "quest-title": "Small Shadow over the Swamp",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10418,
+    "quest-title": "Congalala Territorial Fight",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10501,
+    "quest-title": "A Troublesome Pair",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10502,
+    "quest-title": "Dual Plesioth",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10503,
+    "quest-title": "Pink Dance in the Jungle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10504,
+    "quest-title": "Four Horns",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10505,
+    "quest-title": "A Sun with Fangs",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10506,
+    "quest-title": "Emperor of Flame",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10507,
+    "quest-title": "The Shogun's Encampment",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10508,
+    "quest-title": "Attack of the Rathalos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10509,
+    "quest-title": "A State of Crisis!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10510,
+    "quest-title": "The Final Invitation",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 10511,
+    "quest-title": "A Giant Dragon Invades!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11001,
+    "quest-title": "Bullfangos in the Night",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 5,
+        "monster-name": "Bullfango",
+        "minimum-matching-defeats": 10
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11002,
+    "quest-title": "Whack a Shakalaka",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11003,
+    "quest-title": "Carnivore Carnival",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 16,
+        "monster-name": "Velociprey",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11004,
+    "quest-title": "The Beating of Royal Wings",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 19,
+        "monster-name": "Vespoid",
+        "minimum-matching-defeats": 20
+      },
+      {
+        "target-setup-slot": 2,
+        "monster-id": 19,
+        "monster-name": "Vespoid",
+        "minimum-matching-defeats": 30
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11005,
+    "quest-title": "Secret Request: Hypnocatrice",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11006,
+    "quest-title": "The Burning Dunes",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11007,
+    "quest-title": "Stealing in the Old Swamp!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11008,
+    "quest-title": "The Purple Poison Menace",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11009,
+    "quest-title": "Target: Basarios",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11010,
+    "quest-title": "Old Jungle Lightning",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11011,
+    "quest-title": "Red Shadow in the Snow",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11012,
+    "quest-title": "Congalalas' Assault",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11013,
+    "quest-title": "The Meeting of Daimyo",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11014,
+    "quest-title": "Epic Hunt in the Jungle!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11101,
+    "quest-title": "The Remobra Den",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11102,
+    "quest-title": "The Sleepy Great Forest",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11103,
+    "quest-title": "Eyes in the Underground Lake",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11104,
+    "quest-title": "Green Waves of Verdure",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11105,
+    "quest-title": "Elegy for a Lone Wolf",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11106,
+    "quest-title": "Battle with the Monoblos",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11107,
+    "quest-title": "Secret Request: 2 Monoblos!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11108,
+    "quest-title": "Kut-Ku Calamity!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11109,
+    "quest-title": "Basarios Season",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11110,
+    "quest-title": "A Shogun Tastes Like...?",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 67,
+        "monster-name": "Shogun Ceanataur",
+        "minimum-matching-defeats": 4
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11111,
+    "quest-title": "Bl-Bl-Blangongas!",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 51,
+        "monster-name": "Blangonga",
+        "minimum-matching-defeats": 2
+      },
+      {
+        "target-setup-slot": 2,
+        "monster-id": 51,
+        "monster-name": "Blangonga",
+        "minimum-matching-defeats": 6
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11112,
+    "quest-title": "Operation Desert Winds",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11113,
+    "quest-title": "Congalala in a Crab Shell",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11114,
+    "quest-title": "Sleepy Miasma, Poison Mist",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11115,
+    "quest-title": "Carnivores of the Old Jungle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11116,
+    "quest-title": "Attack of the Wind Dragon",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11117,
+    "quest-title": "The Empress's Blazing Throne",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11118,
+    "quest-title": "Indigo Meteor",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11119,
+    "quest-title": "Lao-Shan Lung Draws Near!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11201,
+    "quest-title": "Secret Request: Nargacuga!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11202,
+    "quest-title": "Assassin of the Jungle",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11203,
+    "quest-title": "Land of the Tremors",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11204,
+    "quest-title": "A King, Robed in Smoke",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11205,
+    "quest-title": "Dancing Desert Queen",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11206,
+    "quest-title": "Descendants of the King",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11207,
+    "quest-title": "Diablos, the Demon King",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11208,
+    "quest-title": "The Four Spires",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11209,
+    "quest-title": "Armored Supremacy",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11210,
+    "quest-title": "Two Black Suits of Armor",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11211,
+    "quest-title": "Explore the Unexplored",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11212,
+    "quest-title": "A Single Beam of Moonlight",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11213,
+    "quest-title": "Fire Ring, Lunar Ring",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11214,
+    "quest-title": "Attack of the Rajang",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11215,
+    "quest-title": "It's Electric",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11216,
+    "quest-title": "Diamond Dust",
+    "defeat-count-triggers": [
+      {
+        "target-setup-slot": 1,
+        "monster-id": 51,
+        "monster-name": "Blangonga",
+        "minimum-matching-defeats": 1
+      }
+    ],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11217,
+    "quest-title": "Hard-Shelled Terrors",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11218,
+    "quest-title": "Bird Wyvern All-Stars",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11219,
+    "quest-title": "Sand Dune's Might",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11220,
+    "quest-title": "The Elder Dragon of Mist",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11221,
+    "quest-title": "Evaporate into the Night",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11222,
+    "quest-title": "Fight for Your Life!",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11223,
+    "quest-title": "A Midnight Audience",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11224,
+    "quest-title": "The Approaching Gaoren",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11225,
+    "quest-title": "Rise to the Summit",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 11226,
+    "quest-title": "Monster Hunter",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20001,
+    "quest-title": "Basic Training - Basics",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20002,
+    "quest-title": "Basic Training - BBQ",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20003,
+    "quest-title": "Basic Training - Gathering",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20004,
+    "quest-title": "Basic Training - Combining",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20005,
+    "quest-title": "Basic Training - Fishing",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20006,
+    "quest-title": "Basic Training - Transport",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20007,
+    "quest-title": "Basic Training - Hunting",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20008,
+    "quest-title": "Sword Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20009,
+    "quest-title": "Dual Blade Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20010,
+    "quest-title": "Great Sword Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20011,
+    "quest-title": "Long Sword Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20012,
+    "quest-title": "Hammer Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20013,
+    "quest-title": "Hunting Horn Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20014,
+    "quest-title": "Lance Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20015,
+    "quest-title": "Gunlance Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20016,
+    "quest-title": "Light Bowgun Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20017,
+    "quest-title": "Heavy Bowgun Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 20018,
+    "quest-title": "Bow Mastery",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21001,
+    "quest-title": "Yian Kut-Ku Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21002,
+    "quest-title": "Congalala Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21003,
+    "quest-title": "Khezu Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21004,
+    "quest-title": "Daimyo Hermitaur Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21005,
+    "quest-title": "Blangonga Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21006,
+    "quest-title": "Yian Garuga Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21007,
+    "quest-title": "Tigrex Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21008,
+    "quest-title": "Diablos Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21009,
+    "quest-title": "Gravios Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21010,
+    "quest-title": "Kirin Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21011,
+    "quest-title": "Cephadrome Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21012,
+    "quest-title": "Plesioth Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21013,
+    "quest-title": "Shogun Ceanataur Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21014,
+    "quest-title": "Rathalos Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21015,
+    "quest-title": "Rajang Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21016,
+    "quest-title": "Hypnocatrice Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21017,
+    "quest-title": "Emerald Congalala Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21018,
+    "quest-title": "Plum D.Hermitaur Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21019,
+    "quest-title": "Nargacuga Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21020,
+    "quest-title": "Copper Blangonga Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21021,
+    "quest-title": "Lavasioth Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21022,
+    "quest-title": "Terra S.Ceanataur Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 21023,
+    "quest-title": "Rajang Training",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 22001,
+    "quest-title": "Blue Yian Kut-Ku Exercises",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 22002,
+    "quest-title": "Cephadrome Exercises",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 22003,
+    "quest-title": "Rathian Exercises",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 22004,
+    "quest-title": "Congalala Exercises",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 22005,
+    "quest-title": "Shogun Ceanataur Exercises",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 22006,
+    "quest-title": "Tigrex Exercises",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 30001,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30002,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30003,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30004,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30005,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30006,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30007,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30008,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30009,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30010,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30011,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30012,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30013,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30014,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30015,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30016,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30017,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30018,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30019,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30020,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30021,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30022,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30023,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30024,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30025,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30026,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30027,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30028,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30029,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30030,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30031,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30032,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30033,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30034,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30035,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30036,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30037,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30038,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30039,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30040,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30041,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30042,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30043,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30044,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30045,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30046,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30047,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30048,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30049,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30050,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30051,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30052,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30053,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30054,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30055,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30056,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30057,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30058,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30059,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30060,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30061,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30062,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30063,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30064,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30065,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30066,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30067,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30068,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30069,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30070,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30071,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30072,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30073,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30074,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30075,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30076,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30077,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30078,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30079,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30080,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30081,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30082,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30083,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30084,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30085,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30086,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30087,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30088,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30089,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 30090,
+    "quest-title": "Gathering - Snowy Mountains",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": [
+      {
+        "target-setup-slot": 1,
+        "item-id": 878,
+        "item-name": "Carnivore Egg",
+        "minimum-carried-quantity": 1
+      }
+    ]
+  },
+  {
+    "quest-id": 40001,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 40002,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 40003,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 40004,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 40005,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 40006,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 40007,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 40008,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 50001,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 50002,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  },
+  {
+    "quest-id": 50003,
+    "quest-title": "none",
+    "defeat-count-triggers": [],
+    "carried-item-triggers": []
+  }
+]

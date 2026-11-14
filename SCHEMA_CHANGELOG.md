@@ -215,3 +215,46 @@ This is an **additive dataset change**, not a breaking change.
 Existing consumers can continue using the original gathering dataset without modification.
 
 Applications requiring quest-specific gathering locations, interaction metadata, or exact collectible probabilities can use `gathering_spots.json` independently.
+
+### Monster Spawns — Expanded Spawn Data and Setup Conditions
+
+**Status:** Completed  
+**Affected files:**
+- `monster-spawns-flat.json`
+- `monster-spawn-conditions.json`
+
+Expanded quest-specific monster spawn records with raw power codes, spawn setup memberships, movement information, and conditions governing small-monster setup changes.
+
+**Spawn data fields:**
+
+| Field | Type | Description |
+|---|---|---|
+| `power-code` | Integer | Raw monster power code |
+| `setup-slots` | Array of integers or null | Small-monster setup configurations containing the spawn |
+| `possible-areas` | Array of integers or null | Possible large-monster movement areas |
+| `areas-complete` | Boolean or null | Whether movement-area data is complete |
+| `areas-source` | Array of strings, optional | Sources of movement-area information |
+| `size` | Object or null | Monster size-roll eligibility and possible size percentages |
+
+**Spawn condition fields:**
+
+| Field | Type | Description |
+|---|---|---|
+| `defeat-count-triggers` | Array of objects | Monster defeat conditions for changing setups |
+| `carried-item-triggers` | Array of objects | Carried-item conditions for changing setups |
+| `target-setup-slot` | Integer | Setup activated when a condition is satisfied |
+| `minimum-matching-defeats` | Integer | Required cumulative monster defeats |
+| `minimum-carried-quantity` | Integer | Required item quantity |
+
+**Existing fields retained:**
+
+`quest-id`, `quest-title`, `map-id`, `map`, `monster-id`, `monster`, `type`, `area-index`, `stage-id`, `initial-xyz`, `facing-raw`, `defeat-budget`
+
+**Other changes:**
+
+- Covers 551 quests and 16,750 monster spawn records.
+- Includes 47 defeat-count triggers and 110 carried-item triggers.
+- Small-monster configurations start at slot `0` and progress to higher slots.
+- Large-monster spawns are independent of small-monster setup switching.
+
+**Compatibility:** The updated spawn data includes `power-code` and uses `setup-slots` for individual spawn membership. Consumers should use the condition dataset to determine when the active small-monster setup changes.
