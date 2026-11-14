@@ -303,7 +303,7 @@ Expanded quest-specific monster spawn records with raw power codes, spawn setup 
   - `horns.json` — Hunting Horn notes and melody IDs.
   - `bowguns.json` — Bowgun reload and recoil properties.
   - `coatings.json` — Bow coating compatibility and boosts.
-  - `melodies.json` — Hunting Horn melody definitions, note sequences, effects, and repeat-effect messages.
+  - `melodies.json` — Hunting Horn melody definitions, note sequences, effects, and repeat-effect, alternate-effect messages.
 
 ### Improved
 - Unified `weapons.json` with ten consistent fields across all weapon classes.

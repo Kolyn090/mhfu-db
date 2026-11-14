@@ -8,9 +8,10 @@
         "except": "white"
       }
     ],
-    "effect-id": 0,
     "effect": "Movement Speed Up",
-    "repeat-effect": "Attacks Harder To Break"
+    "effect-id": 0,
+    "repeat-effect": "Attacks Harder To Break",
+    "alternate-effect": null
   },
   {
     "id": 1,
@@ -21,9 +22,10 @@
         "except": "purple"
       }
     ],
-    "effect-id": 0,
     "effect": "Movement Speed Up",
-    "repeat-effect": "Attacks Harder To Break"
+    "effect-id": 0,
+    "repeat-effect": "Attacks Harder To Break",
+    "alternate-effect": null
   },
   {
     "id": 2,
@@ -31,9 +33,10 @@
       "red",
       "white"
     ],
-    "effect-id": 1,
     "effect": "Attack Up [Lo]",
-    "repeat-effect": "Attack More Powerful"
+    "effect-id": 1,
+    "repeat-effect": "Attack More Powerful",
+    "alternate-effect": null
   },
   {
     "id": 3,
@@ -42,9 +45,10 @@
       "red",
       "purple"
     ],
-    "effect-id": 2,
     "effect": "Attack Up [Hi]",
-    "repeat-effect": "Attack More Powerful"
+    "effect-id": 2,
+    "repeat-effect": "Attack More Powerful",
+    "alternate-effect": null
   },
   {
     "id": 4,
@@ -52,9 +56,10 @@
       "yellow",
       "red"
     ],
-    "effect-id": 3,
     "effect": "Defense Up [Lo]",
-    "repeat-effect": "Defense More Powerful"
+    "effect-id": 3,
+    "repeat-effect": "Defense More Powerful",
+    "alternate-effect": null
   },
   {
     "id": 5,
@@ -63,9 +68,10 @@
       "green",
       "red"
     ],
-    "effect-id": 4,
     "effect": "Defense Up [Hi]",
-    "repeat-effect": "Defense More Powerful"
+    "effect-id": 4,
+    "repeat-effect": "Defense More Powerful",
+    "alternate-effect": null
   },
   {
     "id": 6,
@@ -75,9 +81,10 @@
       "light-blue",
       "red"
     ],
-    "effect-id": 4,
     "effect": "Defense Up [Hi]",
-    "repeat-effect": "Defense More Powerful"
+    "effect-id": 4,
+    "repeat-effect": "Defense More Powerful",
+    "alternate-effect": null
   },
   {
     "id": 7,
@@ -86,8 +93,10 @@
       "blue",
       "red"
     ],
+    "effect": "Health Inc [Lo]",
     "effect-id": 5,
-    "effect": "Health Inc [Lo]"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 8,
@@ -96,8 +105,10 @@
       "red",
       "red"
     ],
+    "effect": "Health Inc [Mid]",
     "effect-id": 6,
-    "effect": "Health Inc [Mid]"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 9,
@@ -107,8 +118,10 @@
       "blue",
       "red"
     ],
+    "effect": "Health Inc [Hi]",
     "effect-id": 7,
-    "effect": "Health Inc [Hi]"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 10,
@@ -117,9 +130,10 @@
       "blue",
       "blue"
     ],
-    "effect-id": 8,
     "effect": "Wind Reduce",
-    "repeat-effect": "Wind Cancel"
+    "effect-id": 8,
+    "repeat-effect": "Wind Cancel",
+    "alternate-effect": null
   },
   {
     "id": 11,
@@ -128,9 +142,10 @@
       "blue",
       "blue"
     ],
-    "effect-id": 9,
     "effect": "Wind Cancel",
-    "repeat-effect": "Wind All Cancel"
+    "effect-id": 9,
+    "repeat-effect": "Wind All Cancel",
+    "alternate-effect": null
   },
   {
     "id": 12,
@@ -139,9 +154,10 @@
       "light-blue",
       "blue"
     ],
-    "effect-id": 9,
     "effect": "Wind Cancel",
-    "repeat-effect": "Wind All Cancel"
+    "effect-id": 9,
+    "repeat-effect": "Wind All Cancel",
+    "alternate-effect": null
   },
   {
     "id": 13,
@@ -151,8 +167,10 @@
       "blue",
       "blue"
     ],
+    "effect": "Wind All Cancel",
     "effect-id": 10,
-    "effect": "Wind All Cancel"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 14,
@@ -160,9 +178,10 @@
       "blue",
       "white"
     ],
-    "effect-id": 11,
     "effect": "No Stamina Loss [Lo]",
-    "repeat-effect": "No Stamina Loss Extnd"
+    "effect-id": 11,
+    "repeat-effect": "No Stamina Loss Extnd",
+    "alternate-effect": null
   },
   {
     "id": 15,
@@ -171,9 +190,10 @@
       "blue",
       "purple"
     ],
-    "effect-id": 12,
     "effect": "No Stamina Loss [Hi]",
-    "repeat-effect": "No Stamina Loss Extnd"
+    "effect-id": 12,
+    "repeat-effect": "No Stamina Loss Extnd",
+    "alternate-effect": null
   },
   {
     "id": 16,
@@ -182,8 +202,10 @@
       "blue",
       "blue"
     ],
+    "effect": "Clairvoyance",
     "effect-id": 13,
-    "effect": "Clairvoyance"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 17,
@@ -191,8 +213,9 @@
       "green",
       "purple"
     ],
-    "effect-id": 14,
     "effect": "Health Rec [Weak]",
+    "effect-id": 14,
+    "repeat-effect": null,
     "alternate-effect": "Health Rec [Lo]"
   },
   {
@@ -202,8 +225,9 @@
       "purple",
       "green"
     ],
-    "effect-id": 15,
     "effect": "Health Rec [Mid]",
+    "effect-id": 15,
+    "repeat-effect": null,
     "alternate-effect": "Health Rec [High]"
   },
   {
@@ -214,8 +238,9 @@
       "green",
       "green"
     ],
-    "effect-id": 16,
     "effect": "Health Rec [Lo]",
+    "effect-id": 16,
+    "repeat-effect": null,
     "alternate-effect": "Health Rec [Mid]"
   },
   {
@@ -225,8 +250,9 @@
       "white",
       "green"
     ],
-    "effect-id": 17,
     "effect": "HealthRec[Lo]&Deodorant",
+    "effect-id": 17,
+    "repeat-effect": null,
     "alternate-effect": "HealthRec[Mid]&Deodorant"
   },
   {
@@ -235,8 +261,9 @@
       "green",
       "white"
     ],
-    "effect-id": 18,
     "effect": "HealthRec[Weak]&Antidote",
+    "effect-id": 18,
+    "repeat-effect": null,
     "alternate-effect": "HealthRec[Lo]&Antidote"
   },
   {
@@ -247,8 +274,9 @@
       "blue",
       "green"
     ],
-    "effect-id": 19,
     "effect": "HealthRec[Lo]&Antidote",
+    "effect-id": 19,
+    "repeat-effect": null,
     "alternate-effect": "HealthRec[Mid]&Antidote"
   },
   {
@@ -258,8 +286,10 @@
       "green",
       "green"
     ],
+    "effect": "Recover Spd Up [Lo]",
     "effect-id": 20,
-    "effect": "Recover Spd Up [Lo]"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 24,
@@ -269,8 +299,10 @@
       "red",
       "green"
     ],
+    "effect": "Recover Spd Up [Hi]",
     "effect-id": 21,
-    "effect": "Recover Spd Up [Hi]"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 25,
@@ -280,8 +312,10 @@
       "yellow",
       "green"
     ],
+    "effect": "Heavenly Protection",
     "effect-id": 22,
-    "effect": "Heavenly Protection"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 26,
@@ -290,8 +324,10 @@
       "light-blue",
       "light-blue"
     ],
+    "effect": "No Cold & Snow Res",
     "effect-id": 23,
-    "effect": "No Cold & Snow Res"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 27,
@@ -300,8 +336,10 @@
       "green",
       "light-blue"
     ],
+    "effect": "No Heat",
     "effect-id": 24,
-    "effect": "No Heat"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 28,
@@ -310,8 +348,10 @@
       "light-blue",
       "light-blue"
     ],
+    "effect": "Hear Protect [Lo]",
     "effect-id": 25,
-    "effect": "Hear Protect [Lo]"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 29,
@@ -321,8 +361,10 @@
       "light-blue",
       "light-blue"
     ],
+    "effect": "Hear Protect [Hi]",
     "effect-id": 26,
-    "effect": "Hear Protect [Hi]"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 30,
@@ -331,8 +373,10 @@
       "blue",
       "light-blue"
     ],
+    "effect": "No Faint",
     "effect-id": 27,
-    "effect": "No Faint"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 31,
@@ -341,8 +385,10 @@
       "yellow",
       "light-blue"
     ],
+    "effect": "No Paralysis",
     "effect-id": 28,
-    "effect": "No Paralysis"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 32,
@@ -351,8 +397,10 @@
       "yellow",
       "light-blue"
     ],
+    "effect": "No Quakes",
     "effect-id": 29,
-    "effect": "No Quakes"
+    "repeat-effect": null,
+    "alternate-effect": null
   },
   {
     "id": 33,
@@ -362,9 +410,10 @@
       "blue",
       "yellow"
     ],
-    "effect-id": 30,
     "effect": "Element Attack Up",
-    "repeat-effect": "Element Attack Up+"
+    "effect-id": 30,
+    "repeat-effect": "Element Attack Up+",
+    "alternate-effect": null
   },
   {
     "id": 34,
@@ -372,9 +421,10 @@
       "red",
       "yellow"
     ],
-    "effect-id": 31,
     "effect": "Fire Res Up [Lo]",
-    "repeat-effect": "Fire Res Increased"
+    "effect-id": 31,
+    "repeat-effect": "Fire Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 35,
@@ -383,9 +433,10 @@
       "blue",
       "yellow"
     ],
-    "effect-id": 32,
     "effect": "Fire Res Up [Hi]",
-    "repeat-effect": "Fire Res Increased"
+    "effect-id": 32,
+    "repeat-effect": "Fire Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 36,
@@ -394,9 +445,10 @@
       "blue",
       "yellow"
     ],
-    "effect-id": 33,
     "effect": "Water Res Up [Lo]",
-    "repeat-effect": "Water Res Increased"
+    "effect-id": 33,
+    "repeat-effect": "Water Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 37,
@@ -406,9 +458,10 @@
       "blue",
       "yellow"
     ],
-    "effect-id": 34,
     "effect": "Water Res Up [Hi]",
-    "repeat-effect": "Water Res Increased"
+    "effect-id": 34,
+    "repeat-effect": "Water Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 38,
@@ -417,9 +470,10 @@
       "light-blue",
       "yellow"
     ],
-    "effect-id": 35,
     "effect": "Thunder Res Up [Lo]",
-    "repeat-effect": "Thunder Res Increased"
+    "effect-id": 35,
+    "repeat-effect": "Thunder Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 39,
@@ -428,9 +482,10 @@
       "yellow",
       "yellow"
     ],
-    "effect-id": 36,
     "effect": "Thunder Res Up [Hi]",
-    "repeat-effect": "Thunder Res Increased"
+    "effect-id": 36,
+    "repeat-effect": "Thunder Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 40,
@@ -439,9 +494,10 @@
       "white",
       "yellow"
     ],
-    "effect-id": 37,
     "effect": "Ice Res Up [Lo]",
-    "repeat-effect": "Ice Res Increased"
+    "effect-id": 37,
+    "repeat-effect": "Ice Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 41,
@@ -450,9 +506,10 @@
       "green",
       "yellow"
     ],
-    "effect-id": 37,
     "effect": "Ice Res Up [Lo]",
-    "repeat-effect": "Ice Res Increased"
+    "effect-id": 37,
+    "repeat-effect": "Ice Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 42,
@@ -461,9 +518,10 @@
       "purple",
       "yellow"
     ],
-    "effect-id": 38,
     "effect": "Ice Res Up [Hi]",
-    "repeat-effect": "Ice Res Increased"
+    "effect-id": 38,
+    "repeat-effect": "Ice Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 43,
@@ -472,9 +530,10 @@
       "green",
       "yellow"
     ],
-    "effect-id": 38,
     "effect": "Ice Res Up [Hi]",
-    "repeat-effect": "Ice Res Increased"
+    "effect-id": 38,
+    "repeat-effect": "Ice Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 44,
@@ -482,9 +541,10 @@
       "yellow",
       "white"
     ],
-    "effect-id": 39,
     "effect": "Dragon Res Up [Lo]",
-    "repeat-effect": "Dragon Res Increased"
+    "effect-id": 39,
+    "repeat-effect": "Dragon Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 45,
@@ -493,9 +553,10 @@
       "yellow",
       "purple"
     ],
-    "effect-id": 40,
     "effect": "Dragon Res Up [Hi]",
-    "repeat-effect": "Dragon Res Increased"
+    "effect-id": 40,
+    "repeat-effect": "Dragon Res Increased",
+    "alternate-effect": null
   },
   {
     "id": 46,
@@ -507,7 +568,9 @@
         "except": "yellow"
       }
     ],
+    "effect": "Supersonic Waves",
     "effect-id": 41,
-    "effect": "Supersonic Waves"
+    "repeat-effect": null,
+    "alternate-effect": null
   }
 ]
