@@ -67,6 +67,7 @@ I'm reworking mhfu-db to make it better.
 - [x] Weapons/rapid-shot.json
 - [x] Weapons/sharpness.json
 - [x] Weapons/shelling.json
+- [x] Weapons/stone-crafting.json
 - [x] Weapons/weapons.json
 - [ ] Weapons/weapons-craft.json
 - [x] Weapons/weapons-image.json

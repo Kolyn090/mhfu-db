@@ -1,0 +1,372 @@
+[
+  {
+    "operation-id": 1501,
+    "stone-id": 820,
+    "stone-name": "Flat Ruststone",
+    "stone-family": "ruststone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 820,
+        "name": "Flat Ruststone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 44,
+        "name": "Rusted Great Sword",
+        "type": "great-swd",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 18,
+        "name": "Defender",
+        "type": "great-swd",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 3,
+        "name": "Buster Sword",
+        "type": "great-swd",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1502,
+    "stone-id": 823,
+    "stone-name": "Ruststone Rod",
+    "stone-family": "ruststone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 823,
+        "name": "Ruststone Rod",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 150,
+        "name": "Rusted Lance",
+        "type": "lance",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 120,
+        "name": "Bone Javelin",
+        "type": "lance",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 103,
+        "name": "Iron Lance",
+        "type": "lance",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1503,
+    "stone-id": 822,
+    "stone-name": "Small Ruststone",
+    "stone-family": "ruststone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 822,
+        "name": "Small Ruststone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 197,
+        "name": "Rusted Sword",
+        "type": "sword",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 544,
+        "name": "Snake Bite",
+        "type": "sword",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 158,
+        "name": "Hunter's Dagger",
+        "type": "sword",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1504,
+    "stone-id": 821,
+    "stone-name": "Large Ruststone",
+    "stone-family": "ruststone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 821,
+        "name": "Large Ruststone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 95,
+        "name": "Rusted Hammer",
+        "type": "hammer",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 64,
+        "name": "Spiked Hammer",
+        "type": "hammer",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 57,
+        "name": "War Hammer",
+        "type": "hammer",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1505,
+    "stone-id": 825,
+    "stone-name": "AncientFlatstone",
+    "stone-family": "ancientstone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 825,
+        "name": "AncientFlatstone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 290,
+        "name": "Worn Great Sword",
+        "type": "great-swd",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 1,
+        "name": "Carbalite Sword",
+        "type": "great-swd",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 8,
+        "name": "Ravager Blade",
+        "type": "great-swd",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1506,
+    "stone-id": 828,
+    "stone-name": "Ancient StoneRod",
+    "stone-family": "ancientstone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 828,
+        "name": "Ancient StoneRod",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 332,
+        "name": "Worn Spear",
+        "type": "lance",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 105,
+        "name": "Knight Lance",
+        "type": "lance",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 108,
+        "name": "Paladin Lance",
+        "type": "lance",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1507,
+    "stone-id": 827,
+    "stone-name": "Sm Ancient Stone",
+    "stone-family": "ancientstone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 827,
+        "name": "Sm Ancient Stone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 362,
+        "name": "Worn Blades",
+        "type": "dual-blades",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 156,
+        "name": "Odyssey",
+        "type": "sword",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 546,
+        "name": "Twin Dagger+",
+        "type": "dual-blades",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1508,
+    "stone-id": 826,
+    "stone-name": "Lg Ancient Stone",
+    "stone-family": "ancientstone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 826,
+        "name": "Lg Ancient Stone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 310,
+        "name": "Worn Hammer",
+        "type": "hammer",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 55,
+        "name": "Iron Devil",
+        "type": "hammer",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 60,
+        "name": "Iron Striker",
+        "type": "hammer",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1509,
+    "stone-id": 819,
+    "stone-name": "Ruststone",
+    "stone-family": "ruststone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 819,
+        "name": "Ruststone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 32,
+        "name": "Demonlock",
+        "type": "light-bowgun",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 71,
+        "name": "Rapidcaster",
+        "type": "heavy-bowgun",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 5,
+        "name": "Shotgun (Green)",
+        "type": "light-bowgun",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  },
+  {
+    "operation-id": 1510,
+    "stone-id": 824,
+    "stone-name": "Ancient Stone",
+    "stone-family": "ancientstone",
+    "price": 1000,
+    "materials": [
+      {
+        "id": 824,
+        "name": "Ancient Stone",
+        "amount": 1
+      }
+    ],
+    "outcomes": [
+      {
+        "id": 67,
+        "name": "Island of the Gods",
+        "type": "light-bowgun",
+        "roll-min": 0,
+        "roll-max": 4
+      },
+      {
+        "id": 84,
+        "name": "Meteor Cannon",
+        "type": "heavy-bowgun",
+        "roll-min": 5,
+        "roll-max": 29
+      },
+      {
+        "id": 21,
+        "name": "Grenade Launcher",
+        "type": "light-bowgun",
+        "roll-min": 30,
+        "roll-max": 99
+      }
+    ]
+  }
+]
