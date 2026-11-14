@@ -2,7 +2,7 @@ I'm reworking mhfu-db to make it better.
 
 - [x] armors.json
 - [x] armors-image.json
-- [ ] awards.json
+- [x] awards.json
 - [ ] Comrade/skills.json
 - [ ] Comrade/stats.json
 - [ ] Comrade/temperament.json
