@@ -60,6 +60,7 @@ I'm reworking mhfu-db to make it better.
 - [ ] trenya.json
 - [ ] veggie-elder.json
 - [x] Weapons/ammo.json
+- [x] Weapons/bowgun-upgrades.json
 - [x] Weapons/bows.json
 - [x] Weapons/coatings.json
 - [x] Weapons/horns.json

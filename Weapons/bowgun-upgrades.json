@@ -1,0 +1,7554 @@
+[
+  {
+    "id": 1,
+    "name": "Shooter's Barrel",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 96,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 108,
+        "price": 180
+      },
+      {
+        "level": 3,
+        "attack": 120,
+        "price": 270
+      },
+      {
+        "level": 4,
+        "attack": 132,
+        "price": 720
+      },
+      {
+        "level": 5,
+        "attack": 156,
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chain Blitz",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 108,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 120,
+        "price": 240
+      },
+      {
+        "level": 3,
+        "attack": 132,
+        "price": 360
+      },
+      {
+        "level": 4,
+        "attack": 144,
+        "price": 960
+      },
+      {
+        "level": 5,
+        "attack": 168,
+        "price": 1800
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Shotgun (White)",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 120,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 132,
+        "price": 400
+      },
+      {
+        "level": 3,
+        "attack": 144,
+        "price": 600
+      },
+      {
+        "level": 4,
+        "attack": 156,
+        "price": 1600
+      },
+      {
+        "level": 5,
+        "attack": 180,
+        "price": 3000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Shotgun (Azure)",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 108,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 120,
+        "price": 220
+      },
+      {
+        "level": 3,
+        "attack": 132,
+        "price": 330
+      },
+      {
+        "level": 4,
+        "attack": 144,
+        "price": 880
+      },
+      {
+        "level": 5,
+        "attack": 168,
+        "price": 1650
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Shotgun (Green)",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 120,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 132,
+        "price": 300
+      },
+      {
+        "level": 3,
+        "attack": 144,
+        "price": 450
+      },
+      {
+        "level": 4,
+        "attack": 156,
+        "price": 1200
+      },
+      {
+        "level": 5,
+        "attack": 180,
+        "price": 2250
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Shotgun (Blood)",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 132,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 144,
+        "price": 360
+      },
+      {
+        "level": 3,
+        "attack": 156,
+        "price": 540
+      },
+      {
+        "level": 4,
+        "attack": 168,
+        "price": 1440
+      },
+      {
+        "level": 5,
+        "attack": 192,
+        "price": 2700
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Desert Storm",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 120,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 132,
+        "price": 440
+      },
+      {
+        "level": 3,
+        "attack": 144,
+        "price": 660
+      },
+      {
+        "level": 4,
+        "attack": 156,
+        "price": 1760
+      },
+      {
+        "level": 5,
+        "attack": 180,
+        "price": 3300
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sandfall",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 156,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 168,
+        "price": 790
+      },
+      {
+        "level": 3,
+        "attack": 180,
+        "price": 1185
+      },
+      {
+        "level": 4,
+        "attack": 192,
+        "price": 3160
+      },
+      {
+        "level": 5,
+        "attack": 216,
+        "price": 5925
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Maelstrom",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 120,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 132,
+        "price": 460
+      },
+      {
+        "level": 3,
+        "attack": 144,
+        "price": 690
+      },
+      {
+        "level": 4,
+        "attack": 156,
+        "price": 1840
+      },
+      {
+        "level": 5,
+        "attack": 180,
+        "price": 3450
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Jade Storm",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 132,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 144,
+        "price": 550
+      },
+      {
+        "level": 3,
+        "attack": 156,
+        "price": 825
+      },
+      {
+        "level": 4,
+        "attack": 168,
+        "price": 2200
+      },
+      {
+        "level": 5,
+        "attack": 192,
+        "price": 4125
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Lobster Gun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 144,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 156,
+        "price": 460
+      },
+      {
+        "level": 3,
+        "attack": 168,
+        "price": 690
+      },
+      {
+        "level": 4,
+        "attack": 180,
+        "price": 1840
+      },
+      {
+        "level": 5,
+        "attack": 204,
+        "price": 3450
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Amezari Crossbow",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 156,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 168,
+        "price": 550
+      },
+      {
+        "level": 3,
+        "attack": 180,
+        "price": 825
+      },
+      {
+        "level": 4,
+        "attack": 192,
+        "price": 2200
+      },
+      {
+        "level": 5,
+        "attack": 216,
+        "price": 4125
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Tail String",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 132,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 144,
+        "price": 460
+      },
+      {
+        "level": 3,
+        "attack": 156,
+        "price": 690
+      },
+      {
+        "level": 4,
+        "attack": 168,
+        "price": 1840
+      },
+      {
+        "level": 5,
+        "attack": 192,
+        "price": 3450
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Tail String+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 168,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 180,
+        "price": 690
+      },
+      {
+        "level": 3,
+        "attack": 192,
+        "price": 1035
+      },
+      {
+        "level": 4,
+        "attack": 204,
+        "price": 2760
+      },
+      {
+        "level": 5,
+        "attack": 228,
+        "price": 5175
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kut-Ku Anger",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 156,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 180,
+        "price": 480
+      },
+      {
+        "level": 3,
+        "attack": 192,
+        "price": 720
+      },
+      {
+        "level": 4,
+        "attack": 204,
+        "price": 1920
+      },
+      {
+        "level": 5,
+        "attack": 216,
+        "price": 3600
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Kut-Ku Rage",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 180,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 204,
+        "price": 570
+      },
+      {
+        "level": 3,
+        "attack": 216,
+        "price": 855
+      },
+      {
+        "level": 4,
+        "attack": 228,
+        "price": 2280
+      },
+      {
+        "level": 5,
+        "attack": 240,
+        "price": 4275
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Raven Do",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 180,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 204,
+        "price": 690
+      },
+      {
+        "level": 3,
+        "attack": 216,
+        "price": 1035
+      },
+      {
+        "level": 4,
+        "attack": 228,
+        "price": 2760
+      },
+      {
+        "level": 5,
+        "attack": 240,
+        "price": 5175
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Angel Parasol",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 144,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 156,
+        "price": 480
+      },
+      {
+        "level": 3,
+        "attack": 168,
+        "price": 720
+      },
+      {
+        "level": 4,
+        "attack": 180,
+        "price": 1920
+      },
+      {
+        "level": 5,
+        "attack": 204,
+        "price": 3600
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sakura Parasol",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 156,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 168,
+        "price": 570
+      },
+      {
+        "level": 3,
+        "attack": 180,
+        "price": 855
+      },
+      {
+        "level": 4,
+        "attack": 192,
+        "price": 2280
+      },
+      {
+        "level": 5,
+        "attack": 216,
+        "price": 4275
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tigrex Tank",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 204,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 780
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 1170
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 3120
+      },
+      {
+        "level": 5,
+        "attack": 264,
+        "price": 5850
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Grenade Launcher",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 132,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 156,
+        "price": 630
+      },
+      {
+        "level": 3,
+        "attack": 168,
+        "price": 945
+      },
+      {
+        "level": 4,
+        "attack": 180,
+        "price": 2520
+      },
+      {
+        "level": 5,
+        "attack": 192,
+        "price": 4725
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Titan Launcher",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 192,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 780
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 1170
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 3120
+      },
+      {
+        "level": 5,
+        "attack": 252,
+        "price": 5850
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Uranos Grenade",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 192,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 930
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 1395
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 3720
+      },
+      {
+        "level": 5,
+        "attack": 252,
+        "price": 6975
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Valkyrie Fire",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 168,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 180,
+        "price": 750
+      },
+      {
+        "level": 3,
+        "attack": 192,
+        "price": 1125
+      },
+      {
+        "level": 4,
+        "attack": 204,
+        "price": 3000
+      },
+      {
+        "level": 5,
+        "attack": 228,
+        "price": 5625
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Valkyrie Heart",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 180,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 192,
+        "price": 900
+      },
+      {
+        "level": 3,
+        "attack": 204,
+        "price": 1350
+      },
+      {
+        "level": 4,
+        "attack": 216,
+        "price": 3600
+      },
+      {
+        "level": 5,
+        "attack": 240,
+        "price": 6750
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Spartacus Fire",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 180,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 204,
+        "price": 780
+      },
+      {
+        "level": 3,
+        "attack": 216,
+        "price": 1170
+      },
+      {
+        "level": 4,
+        "attack": 228,
+        "price": 3120
+      },
+      {
+        "level": 5,
+        "attack": 240,
+        "price": 5850
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Spartacus Soul",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 192,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 930
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 1395
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 3720
+      },
+      {
+        "level": 5,
+        "attack": 252,
+        "price": 6975
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Azure Sakura",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 180,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 204,
+        "price": 1080
+      },
+      {
+        "level": 3,
+        "attack": 216,
+        "price": 1620
+      },
+      {
+        "level": 4,
+        "attack": 228,
+        "price": 4320
+      },
+      {
+        "level": 5,
+        "attack": 240,
+        "price": 8100
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Felyne Ragdoll",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 144,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 168,
+        "price": 550
+      },
+      {
+        "level": 3,
+        "attack": 180,
+        "price": 825
+      },
+      {
+        "level": 4,
+        "attack": 192,
+        "price": 2200
+      },
+      {
+        "level": 5,
+        "attack": 204,
+        "price": 4125
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Melynx Ragdoll",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 144,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 168,
+        "price": 550
+      },
+      {
+        "level": 3,
+        "attack": 180,
+        "price": 825
+      },
+      {
+        "level": 4,
+        "attack": 192,
+        "price": 2200
+      },
+      {
+        "level": 5,
+        "attack": 204,
+        "price": 4125
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Black Belt Bowgun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 168,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 180,
+        "price": 750
+      },
+      {
+        "level": 3,
+        "attack": 192,
+        "price": 1125
+      },
+      {
+        "level": 4,
+        "attack": 204,
+        "price": 3000
+      },
+      {
+        "level": 5,
+        "attack": 228,
+        "price": 5625
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Demonlock",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 108,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 132,
+        "price": 900
+      },
+      {
+        "level": 3,
+        "attack": 144,
+        "price": 1350
+      },
+      {
+        "level": 4,
+        "attack": 156,
+        "price": 3600
+      },
+      {
+        "level": 5,
+        "attack": 168,
+        "price": 6750
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Blessed Lamp",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 156,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 168,
+        "price": 900
+      },
+      {
+        "level": 3,
+        "attack": 180,
+        "price": 1350
+      },
+      {
+        "level": 4,
+        "attack": 192,
+        "price": 3600
+      },
+      {
+        "level": 5,
+        "attack": 216,
+        "price": 6750
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Black Parasol",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 168,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 180,
+        "price": 1200
+      },
+      {
+        "level": 3,
+        "attack": 192,
+        "price": 1800
+      },
+      {
+        "level": 4,
+        "attack": 204,
+        "price": 4800
+      },
+      {
+        "level": 5,
+        "attack": 228,
+        "price": 9000
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Great Crossbow Gun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 252,
+        "price": 980
+      },
+      {
+        "level": 3,
+        "attack": 264,
+        "price": 1470
+      },
+      {
+        "level": 4,
+        "attack": 276,
+        "price": 3920
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 7350
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Hornet Gun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 980
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 1470
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 3920
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 7350
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Bullet Storm",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 1050
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 1575
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 4200
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 7875
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Aqua Blade Shower",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 204,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 480
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 720
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 1920
+      },
+      {
+        "level": 5,
+        "attack": 264,
+        "price": 3600
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Green Blade Shower",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 660
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 990
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 2640
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 4950
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Crimson Blade Shower",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 790
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1185
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 3160
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 5925
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Desert Tempest",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 960
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 1440
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 3840
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 7200
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Sandfall+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1160
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1740
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 4640
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 8700
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Maelstrom+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 204,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 1010
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 1515
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 4040
+      },
+      {
+        "level": 5,
+        "attack": 264,
+        "price": 7575
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Jade Tempest",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 1210
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 1815
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 4840
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 9075
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "King Lobster Gun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1010
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1515
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 4040
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 7575
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Tail Catapult",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 1010
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 1515
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 4040
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 7575
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Wolf Do",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 1520
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 2280
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 6080
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 11400
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Peach Parasol",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 252,
+        "price": 1260
+      },
+      {
+        "level": 3,
+        "attack": 264,
+        "price": 1890
+      },
+      {
+        "level": 4,
+        "attack": 276,
+        "price": 5040
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 9450
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Tigrex Wargun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 1140
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 1710
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 4560
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 8550
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Grenade Launcher+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 920
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1380
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 3680
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 6900
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Titan Launcher+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1140
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 1710
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 4560
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 8550
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Chronos Grenade",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1370
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2055
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 5480
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 10275
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Rajang Barrage",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 276,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 336,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Valkyrie Blaze",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1100
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1650
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 4400
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 8250
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Valkyrie Heart+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 252,
+        "price": 1320
+      },
+      {
+        "level": 3,
+        "attack": 264,
+        "price": 1980
+      },
+      {
+        "level": 4,
+        "attack": 276,
+        "price": 5280
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 9900
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Gold Valkyrie",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 1580
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 2370
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 6320
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 11850
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Spartacus Blaze",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 1140
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 1710
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 4560
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 8550
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Spartacus Soul+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1370
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2055
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 5480
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 10275
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Silver Spartacus",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 1640
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 2460
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 6560
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 12300
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Crimson Blue",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 1320
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 1980
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 5280
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 9900
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Supreme Azure Sakura",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1580
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2370
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 6320
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 11850
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Profusion",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Fire Wrath",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 276,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 1840
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 2760
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 7360
+      },
+      {
+        "level": 5,
+        "attack": 336,
+        "price": 13800
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Felyne Helldoll",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 252,
+        "price": 1210
+      },
+      {
+        "level": 3,
+        "attack": 264,
+        "price": 1815
+      },
+      {
+        "level": 4,
+        "attack": 276,
+        "price": 4840
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 9075
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Melynx Helldoll",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 252,
+        "price": 1210
+      },
+      {
+        "level": 3,
+        "attack": 264,
+        "price": 1815
+      },
+      {
+        "level": 4,
+        "attack": 276,
+        "price": 4840
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 9075
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Expert Bowgun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1100
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1650
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 4400
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 8250
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Island of the Gods",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 204,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 1320
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 1980
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 5280
+      },
+      {
+        "level": 5,
+        "attack": 264,
+        "price": 9900
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Cursed Lamp",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 252,
+        "price": 1320
+      },
+      {
+        "level": 3,
+        "attack": 264,
+        "price": 1980
+      },
+      {
+        "level": 4,
+        "attack": 276,
+        "price": 5280
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 9900
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dark Parasol",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1760
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2640
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 7040
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 13200
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Bone Shooter",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 156,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 168,
+        "price": 280
+      },
+      {
+        "level": 3,
+        "attack": 180,
+        "price": 420
+      },
+      {
+        "level": 4,
+        "attack": 192,
+        "price": 1120
+      },
+      {
+        "level": 5,
+        "attack": 216,
+        "price": 2100
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Rapidcaster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 180,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 204,
+        "price": 400
+      },
+      {
+        "level": 3,
+        "attack": 216,
+        "price": 600
+      },
+      {
+        "level": 4,
+        "attack": 228,
+        "price": 1600
+      },
+      {
+        "level": 5,
+        "attack": 240,
+        "price": 3000
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Monodevilcaster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 252,
+        "price": 1220
+      },
+      {
+        "level": 3,
+        "attack": 264,
+        "price": 1830
+      },
+      {
+        "level": 4,
+        "attack": 276,
+        "price": 4880
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 9150
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Duelcaster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 1920
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 2880
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 7680
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 14400
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Quickcaster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1720
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2580
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 6880
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 12900
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Injector Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 168,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 180,
+        "price": 360
+      },
+      {
+        "level": 3,
+        "attack": 192,
+        "price": 540
+      },
+      {
+        "level": 4,
+        "attack": 204,
+        "price": 1440
+      },
+      {
+        "level": 5,
+        "attack": 228,
+        "price": 2700
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Flechette Gun",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1350
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 2025
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 5400
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 10125
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ladybug Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 204,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 800
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 1200
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 3200
+      },
+      {
+        "level": 5,
+        "attack": 264,
+        "price": 6000
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Yian Kut-Ku Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1070
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1605
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 4280
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 8025
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Blue Kut-Ku Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1600
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2400
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 6400
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 12000
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Raven Heirloom",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 1920
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 2880
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 7680
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 14400
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Tankmage",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 180,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 192,
+        "price": 560
+      },
+      {
+        "level": 3,
+        "attack": 204,
+        "price": 840
+      },
+      {
+        "level": 4,
+        "attack": 216,
+        "price": 2240
+      },
+      {
+        "level": 5,
+        "attack": 240,
+        "price": 4200
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Bastionmage",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 192,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 204,
+        "price": 670
+      },
+      {
+        "level": 3,
+        "attack": 216,
+        "price": 1005
+      },
+      {
+        "level": 4,
+        "attack": 228,
+        "price": 2680
+      },
+      {
+        "level": 5,
+        "attack": 252,
+        "price": 5025
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Crab Buster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1100
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1650
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 4400
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 8250
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Meteor Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 1200
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 1800
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 4800
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 9000
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Rock Eater",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 216,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1300
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1950
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 5200
+      },
+      {
+        "level": 5,
+        "attack": 276,
+        "price": 9750
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Tigrex Howl",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 1920
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 2880
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 7680
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 14400
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Daora's Delphinidae",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 2160
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 3240
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 8640
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 16200
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Lunastra's Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 2100
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 3150
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 8400
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 15750
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Teostra's Artillery",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 276,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 336,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Lao-Shan Lung Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2400
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3600
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 9600
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 18000
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Bronze Fire",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 276,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 336,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Black Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Great Arbalest",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Monodevilcaster+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 1800
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 2700
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 7200
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 13500
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Duelcaster+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2810
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 4215
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 11240
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 21075
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Quickcaster+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2500
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3750
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 10000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 18750
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Honeycomber",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 312,
+        "price": 1980
+      },
+      {
+        "level": 3,
+        "attack": 324,
+        "price": 2970
+      },
+      {
+        "level": 4,
+        "attack": 336,
+        "price": 7920
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 14850
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Ladybug Cannon+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 312,
+        "price": 1760
+      },
+      {
+        "level": 3,
+        "attack": 324,
+        "price": 2640
+      },
+      {
+        "level": 4,
+        "attack": 336,
+        "price": 7040
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 13200
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Mega Kut-Ku Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2820
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 4230
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 11280
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 21150
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Wolf Heirloom",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 3380
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 5070
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 13520
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 25350
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Tankmage+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 1230
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 1845
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 4920
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 9225
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Blastion Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 312,
+        "price": 1470
+      },
+      {
+        "level": 3,
+        "attack": 324,
+        "price": 2205
+      },
+      {
+        "level": 4,
+        "attack": 336,
+        "price": 5880
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 11025
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Heavy Buster Crab",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2420
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3630
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 9680
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 18150
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Meteor Buster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 1760
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 2640
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 7040
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 13200
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Earth Eater",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 1890
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 2835
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 7560
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 14175
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Tigrex Skull",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 2810
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 4215
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 11240
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 21075
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Gravios Howl",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2640
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3960
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 10560
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 19800
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Gravios Roar",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 3160
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 4740
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 12640
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 23700
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Daora Grande",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 3080
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 4620
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 12320
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 23100
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Teostra's Flames",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 3210
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 4815
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 12840
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 24075
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Supreme Lao-Shan Can",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 3520
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 5280
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 14080
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 26400
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Empr Lao-Shan Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 408,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 420,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 432,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Gaoren's Fire",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 372,
+        "price": 3210
+      },
+      {
+        "level": 3,
+        "attack": 384,
+        "price": 4815
+      },
+      {
+        "level": 4,
+        "attack": 396,
+        "price": 12840
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 24075
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Vor Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2940
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 4410
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 11760
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 22050
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Destiny's Hand",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 3530
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 5295
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 14120
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 26475
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Assault Conga",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 132,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 156,
+        "price": 500
+      },
+      {
+        "level": 3,
+        "attack": 168,
+        "price": 750
+      },
+      {
+        "level": 4,
+        "attack": 180,
+        "price": 2000
+      },
+      {
+        "level": 5,
+        "attack": 192,
+        "price": 3750
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Shakalaka Prized Bow",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 228,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 240,
+        "price": 1310
+      },
+      {
+        "level": 3,
+        "attack": 252,
+        "price": 1965
+      },
+      {
+        "level": 4,
+        "attack": 264,
+        "price": 5240
+      },
+      {
+        "level": 5,
+        "attack": 288,
+        "price": 9825
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Assault Conga+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 1160
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 1740
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 4640
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 8700
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Hidden Gaze",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 204,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 228,
+        "price": 1500
+      },
+      {
+        "level": 3,
+        "attack": 240,
+        "price": 2250
+      },
+      {
+        "level": 4,
+        "attack": 252,
+        "price": 6000
+      },
+      {
+        "level": 5,
+        "attack": 264,
+        "price": 11250
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Hi Chain Blitz",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 1200
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 1800
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 4800
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 9000
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Nebula Storm",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1400
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2100
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 5600
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 10500
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Jade Typhoon",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 264,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 276,
+        "price": 1600
+      },
+      {
+        "level": 3,
+        "attack": 288,
+        "price": 2400
+      },
+      {
+        "level": 4,
+        "attack": 300,
+        "price": 6400
+      },
+      {
+        "level": 5,
+        "attack": 324,
+        "price": 12000
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Royal Lobster Gun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 276,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 1500
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 2250
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 6000
+      },
+      {
+        "level": 5,
+        "attack": 336,
+        "price": 11250
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Hexed Shaka Bow",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 276,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 1800
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 2700
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 7200
+      },
+      {
+        "level": 5,
+        "attack": 336,
+        "price": 13500
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Heartfelt Cast",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 300,
+        "price": 1600
+      },
+      {
+        "level": 3,
+        "attack": 312,
+        "price": 2400
+      },
+      {
+        "level": 4,
+        "attack": 324,
+        "price": 6400
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 12000
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Combat Conga",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 312,
+        "price": 1500
+      },
+      {
+        "level": 3,
+        "attack": 324,
+        "price": 2250
+      },
+      {
+        "level": 4,
+        "attack": 336,
+        "price": 6000
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 11250
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Jungle Assault",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 312,
+        "price": 1700
+      },
+      {
+        "level": 3,
+        "attack": 324,
+        "price": 2550
+      },
+      {
+        "level": 4,
+        "attack": 336,
+        "price": 6800
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 12750
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Kut-Ku Counterattack",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 1400
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 2100
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 5600
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 10500
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Kut-Ku Barrage",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 300,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 1600
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 2400
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 6400
+      },
+      {
+        "level": 5,
+        "attack": 360,
+        "price": 12000
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Owl's Eye Darkbow",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 312,
+        "price": 2400
+      },
+      {
+        "level": 3,
+        "attack": 324,
+        "price": 3600
+      },
+      {
+        "level": 4,
+        "attack": 336,
+        "price": 9600
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 18000
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Grenade Revolver",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 1400
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 2100
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 5600
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 10500
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Warrior's Bowgun",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 1700
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 2550
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 6800
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 12750
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Fierce Moss Green",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 1600
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 2400
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 6400
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 12000
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Fierce Wine Red",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 1800
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 2700
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 7200
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 13500
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Promenade",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Shotgun (Snake)",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 1800
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 2700
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 7200
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 13500
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Sakura Semi-Auto",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Azure Semi-Auto",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Pollination",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2600
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3900
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 10400
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 19500
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Tail Launcher",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 1600
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 2400
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 6400
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 12000
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Crow Do",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Lava Storm",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Desert Tail",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Mythical Three-Horn",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 3200
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 4800
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 12800
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 24000
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Gold Semi-Auto",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2400
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3600
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 9600
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 18000
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Silver Semi-Auto",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2600
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 3900
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 10400
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 19500
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Prosperity",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 3000
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 4500
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 12000
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 22500
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Genie's Lamp",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2800
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 4200
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 11200
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 21000
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Titan Panzer",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 372,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 384,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 396,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Chronos Panzer",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 372,
+        "price": 2400
+      },
+      {
+        "level": 3,
+        "attack": 384,
+        "price": 3600
+      },
+      {
+        "level": 4,
+        "attack": 396,
+        "price": 9600
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 18000
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "EngravedFireWyvnBow",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 2800
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 4200
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 11200
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 21000
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Ten-Thousand Volts",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 3000
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 4500
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 12000
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 22500
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Tigrex Wargun+",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 372,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 432,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Absolute Bow",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Ukanlos Flame Bow",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 432,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 492,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Island of the Gods G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Crossbow Gun G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 252,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 312,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Shotgun (White) G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Shotgun (Azure) G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Shotgun (Emerald) G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Shotgun (Blood) G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Hornet Gun G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Desert Tempest G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Sandfall G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Angel Parasol G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Peach Parasol G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Felyne Helldoll G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Melynx Helldoll G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Maelstrom G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Jade Typhoon G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "name": "King Lobster Gun G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Amezari Crossbow G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Hexed Shaka Bow G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Heartfelt Cast G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Combat Conga G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Jungle Assault G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Kut-Ku Counteratk G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Kut-Ku Barrage G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Dark Parasol G",
+    "type": "light-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 2000
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 3000
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 8000
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Sand Diver",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 192,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 216,
+        "price": 500
+      },
+      {
+        "level": 3,
+        "attack": 228,
+        "price": 750
+      },
+      {
+        "level": 4,
+        "attack": 240,
+        "price": 2000
+      },
+      {
+        "level": 5,
+        "attack": 252,
+        "price": 3750
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Piercing Crab",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 240,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 264,
+        "price": 1500
+      },
+      {
+        "level": 3,
+        "attack": 276,
+        "price": 2250
+      },
+      {
+        "level": 4,
+        "attack": 288,
+        "price": 6000
+      },
+      {
+        "level": 5,
+        "attack": 300,
+        "price": 11250
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Desert Diver",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 288,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 312,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 324,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 336,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 348,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Heavy Piercing Crab",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2600
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3900
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 10400
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 19500
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Lunastra's Flames",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 3010
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 4515
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 12040
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 22575
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Hidden Sniper",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 276,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 288,
+        "price": 2900
+      },
+      {
+        "level": 3,
+        "attack": 300,
+        "price": 4350
+      },
+      {
+        "level": 4,
+        "attack": 312,
+        "price": 11600
+      },
+      {
+        "level": 5,
+        "attack": 336,
+        "price": 21750
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Great Arbalest+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 324,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 336,
+        "price": 2200
+      },
+      {
+        "level": 3,
+        "attack": 348,
+        "price": 3300
+      },
+      {
+        "level": 4,
+        "attack": 360,
+        "price": 8800
+      },
+      {
+        "level": 5,
+        "attack": 384,
+        "price": 16500
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Tanksorcerer",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2400
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3600
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 9600
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 18000
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Bastionwitch",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 336,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 348,
+        "price": 2600
+      },
+      {
+        "level": 3,
+        "attack": 360,
+        "price": 3900
+      },
+      {
+        "level": 4,
+        "attack": 372,
+        "price": 10400
+      },
+      {
+        "level": 5,
+        "attack": 396,
+        "price": 19500
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Pressurized Plesioth",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 3200
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 4800
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 12800
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 24000
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Queen Needle",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 3400
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 5100
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 13600
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 25500
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Power Stinger",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 348,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 360,
+        "price": 3000
+      },
+      {
+        "level": 3,
+        "attack": 372,
+        "price": 4500
+      },
+      {
+        "level": 4,
+        "attack": 384,
+        "price": 12000
+      },
+      {
+        "level": 5,
+        "attack": 408,
+        "price": 22500
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Violet Punisher",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 384,
+        "price": 3700
+      },
+      {
+        "level": 3,
+        "attack": 396,
+        "price": 5550
+      },
+      {
+        "level": 4,
+        "attack": 408,
+        "price": 14800
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 27750
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Super Kut-Ku Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 372,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 3400
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 5100
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 13600
+      },
+      {
+        "level": 5,
+        "attack": 432,
+        "price": 25500
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Ultra Kut-Ku Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 372,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 3600
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 5400
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 14400
+      },
+      {
+        "level": 5,
+        "attack": 432,
+        "price": 27000
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Evil Wind Darkcannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 360,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 372,
+        "price": 4400
+      },
+      {
+        "level": 3,
+        "attack": 384,
+        "price": 6600
+      },
+      {
+        "level": 4,
+        "attack": 396,
+        "price": 17600
+      },
+      {
+        "level": 5,
+        "attack": 420,
+        "price": 33000
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Meteor Shower",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 3000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 4500
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 12000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 22500
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "name": "GreatLadybugCannon+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 396,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 408,
+        "price": 2600
+      },
+      {
+        "level": 3,
+        "attack": 420,
+        "price": 3900
+      },
+      {
+        "level": 4,
+        "attack": 432,
+        "price": 10400
+      },
+      {
+        "level": 5,
+        "attack": 456,
+        "price": 19500
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Gaia Eater",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 396,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 420,
+        "price": 3000
+      },
+      {
+        "level": 3,
+        "attack": 432,
+        "price": 4500
+      },
+      {
+        "level": 4,
+        "attack": 444,
+        "price": 12000
+      },
+      {
+        "level": 5,
+        "attack": 456,
+        "price": 22500
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Icethrower",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 396,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 408,
+        "price": 3400
+      },
+      {
+        "level": 3,
+        "attack": 420,
+        "price": 5100
+      },
+      {
+        "level": 4,
+        "attack": 432,
+        "price": 13600
+      },
+      {
+        "level": 5,
+        "attack": 456,
+        "price": 25500
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Crow Heirloom",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 408,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 468,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Ceanataur Blaster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 408,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 468,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Terra C Blaster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 408,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4200
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 6300
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 16800
+      },
+      {
+        "level": 5,
+        "attack": 468,
+        "price": 31500
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "name": "UltimateLao-ShaoCan",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 480,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 504,
+        "price": 6000
+      },
+      {
+        "level": 3,
+        "attack": 516,
+        "price": 9000
+      },
+      {
+        "level": 4,
+        "attack": 528,
+        "price": 24000
+      },
+      {
+        "level": 5,
+        "attack": 540,
+        "price": 45000
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Quick Quiver",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 396,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 420,
+        "price": 4300
+      },
+      {
+        "level": 3,
+        "attack": 432,
+        "price": 6450
+      },
+      {
+        "level": 4,
+        "attack": 444,
+        "price": 17200
+      },
+      {
+        "level": 5,
+        "attack": 456,
+        "price": 32250
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Destiny's Arm",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 420,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 8000
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 12000
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 32000
+      },
+      {
+        "level": 5,
+        "attack": 480,
+        "price": 60000
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Daora's Ceti",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 408,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4700
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 7050
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 18800
+      },
+      {
+        "level": 5,
+        "attack": 468,
+        "price": 35250
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Gravios Gigahowl",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 420,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 4400
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 6600
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 17600
+      },
+      {
+        "level": 5,
+        "attack": 480,
+        "price": 33000
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Gravios Gigaroar",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 420,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 4600
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 6900
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 18400
+      },
+      {
+        "level": 5,
+        "attack": 480,
+        "price": 34500
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Teostra Flamethrower",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 420,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 4800
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 7200
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 19200
+      },
+      {
+        "level": 5,
+        "attack": 480,
+        "price": 36000
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Vor Buster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 432,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 456,
+        "price": 6000
+      },
+      {
+        "level": 3,
+        "attack": 468,
+        "price": 9000
+      },
+      {
+        "level": 4,
+        "attack": 480,
+        "price": 24000
+      },
+      {
+        "level": 5,
+        "attack": 492,
+        "price": 45000
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Dark Duelcaster",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 432,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 4600
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 6900
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 18400
+      },
+      {
+        "level": 5,
+        "attack": 492,
+        "price": 34500
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Tigrex Skull+",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 444,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 468,
+        "price": 4200
+      },
+      {
+        "level": 3,
+        "attack": 480,
+        "price": 6300
+      },
+      {
+        "level": 4,
+        "attack": 492,
+        "price": 16800
+      },
+      {
+        "level": 5,
+        "attack": 504,
+        "price": 31500
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "name": "AncientDrgnwoodCan",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 444,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 456,
+        "price": 5200
+      },
+      {
+        "level": 3,
+        "attack": 468,
+        "price": 7800
+      },
+      {
+        "level": 4,
+        "attack": 480,
+        "price": 20800
+      },
+      {
+        "level": 5,
+        "attack": 504,
+        "price": 39000
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Gaoren Orb",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 444,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 468,
+        "price": 5000
+      },
+      {
+        "level": 3,
+        "attack": 480,
+        "price": 7500
+      },
+      {
+        "level": 4,
+        "attack": 492,
+        "price": 20000
+      },
+      {
+        "level": 5,
+        "attack": 504,
+        "price": 37500
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Ukanlos Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 504,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 528,
+        "price": 8000
+      },
+      {
+        "level": 3,
+        "attack": 540,
+        "price": 12000
+      },
+      {
+        "level": 4,
+        "attack": 552,
+        "price": 32000
+      },
+      {
+        "level": 5,
+        "attack": 564,
+        "price": 60000
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Arbalest G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 312,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 324,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 336,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 348,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 372,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Injector Cannon G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Rapidcaster G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 408,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 420,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 432,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Honeycomber G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Tanksorcerer G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Bastionwitch G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Desert Diver G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 408,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 420,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 432,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "name": "PressurizedPlesiothG",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 396,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 420,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 432,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 444,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 456,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Meteor Cannon G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Black Cannon G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 408,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 468,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Power Stinger G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Queen Needle G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 396,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 408,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 420,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Lunastra's Flames G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 420,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 480,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "name": "SuperKut-KuCannon G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 408,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 468,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "name": "UltraKut-KuCannon G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 408,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 468,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Crab Buster G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 384,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 408,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 420,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 432,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 444,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Violet Punisher G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 396,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 420,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 432,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 444,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 456,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Monodevilcaster G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 420,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 432,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 444,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 456,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 480,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Duelcaster G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 432,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 492,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Lao-ShanLungCannon G",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 456,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 480,
+        "price": 4000
+      },
+      {
+        "level": 3,
+        "attack": 492,
+        "price": 6000
+      },
+      {
+        "level": 4,
+        "attack": 504,
+        "price": 16000
+      },
+      {
+        "level": 5,
+        "attack": 516,
+        "price": 30000
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Pirate J Cannon",
+    "type": "heavy-bowgun",
+    "levels": [
+      {
+        "level": 1,
+        "attack": 420,
+        "price": null
+      },
+      {
+        "level": 2,
+        "attack": 444,
+        "price": 92
+      },
+      {
+        "level": 3,
+        "attack": 456,
+        "price": 138
+      },
+      {
+        "level": 4,
+        "attack": 468,
+        "price": 368
+      },
+      {
+        "level": 5,
+        "attack": 480,
+        "price": 690
+      }
+    ]
+  }
+]
