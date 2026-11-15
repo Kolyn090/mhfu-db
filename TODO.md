@@ -1,8 +1,8 @@
 I'm reworking mhfu-db to make it better.
 
-- [x] Armors/armors.json
-- [x] Armors/armors-availability.json
-- [x] Armors/armors-image.json
+- [ ] Armors/armors.json
+- [ ] Armors/armors-availability.json
+- [ ] Armors/armors-image.json
 - [ ] Armors/decorations.json
 - [ ] Comrade/skills.json
 - [ ] Comrade/stats.json
@@ -23,8 +23,8 @@ I'm reworking mhfu-db to make it better.
 - [ ] Gameplay/awards.json
     (add: unlock condition)
 - [ ] Gameplay/guild-titles.json
-- [x] Gameplay/magazines.json
-- [x] Gameplay/skills.json
+- [ ] Gameplay/magazines.json
+- [ ] Gameplay/skills.json
 - [ ] Hunter/attack-modifiers.json
     (note: Sharpness multipliers, critical hits, and damage modifiers)
 - [ ] Hunter/hunter-actions.json
@@ -34,7 +34,7 @@ I'm reworking mhfu-db to make it better.
     (note: Movement speed, sheathing, reload times, recoil...)
 - [ ] Hunter/weapon-moves.json
     (note: Attack moves, motion values, elemental modifiers, and hit properties)
-- [x] Maps/gathering-spots.json
+- [ ] Maps/gathering-spots.json
 - [x] Items/items.json
 - [x] Items/items-combine.json
 - [x] Items/items-note.json
@@ -52,14 +52,14 @@ I'm reworking mhfu-db to make it better.
 - [ ] Monsters/knockout-small-monsters.json
 - [ ] Monsters/monsters.json
 - [ ] Monsters/monsters-material.json
-- [x] Monsters/monsters-spawn.json
-- [x] Monsters/monsters-spawn-condition.json
+- [ ] Monsters/monsters-spawn.json
+- [ ] Monsters/monsters-spawn-condition.json
 - [ ] Monsters/movement-speed.json
 - [ ] Monsters/size.json
 - [ ] Monsters/stats.json
 - [ ] Monsters/status-effectiveness.json
 - [ ] Monsters/weapon-effectiveness.json
-- [x] Npc/npc-dialogue.json
+- [ ] Npc/npc-dialogue.json
 - [ ] Npc/trenya.json
 - [ ] Npc/veggie-elder.json
 - [ ] Quests/elder.json
@@ -74,19 +74,19 @@ I'm reworking mhfu-db to make it better.
 - [ ] Quests/training-group.json
 - [ ] Quests/treasure-hunt.json
 - [ ] Quests/quest-supply.json
-- [x] Weapons/ammo.json
-- [x] Weapons/bowgun-shot-profiles.json
-- [x] Weapons/bowgun-upgrades.json
-- [x] Weapons/bows.json
-- [x] Weapons/coatings.json
-- [x] Weapons/horns.json
-- [x] Weapons/melodies.json
-- [x] Weapons/rapid-shot.json
-- [x] Weapons/sharpness.json
-- [x] Weapons/shelling.json
-- [x] Weapons/stone-crafting.json
-- [x] Weapons/weapons.json
-- [x] Weapons/weapons-craft-availability.json
-- [x] Weapons/weapons-craft.json
-- [x] Weapons/weapons-image.json
-- [x] Weapons/weapons-menu-position.json
+- [ ] Weapons/ammo.json
+- [ ] Weapons/bowgun-shot-profiles.json
+- [ ] Weapons/bowgun-upgrades.json
+- [ ] Weapons/bows.json
+- [ ] Weapons/coatings.json
+- [ ] Weapons/horns.json
+- [ ] Weapons/melodies.json
+- [ ] Weapons/rapid-shot.json
+- [ ] Weapons/sharpness.json
+- [ ] Weapons/shelling.json
+- [ ] Weapons/stone-crafting.json
+- [ ] Weapons/weapons.json
+- [ ] Weapons/weapons-craft-availability.json
+- [ ] Weapons/weapons-craft.json
+- [ ] Weapons/weapons-image.json
+- [ ] Weapons/weapons-menu-position.json
