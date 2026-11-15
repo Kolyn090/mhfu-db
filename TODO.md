@@ -24,9 +24,9 @@ I'm reworking mhfu-db to make it better.
 - [x] Gameplay/magazines.json
 - [x] Gameplay/skills.json
 - [x] Maps/gathering-spots.json
-- [ ] Items/item-notes.json
 - [x] Items/items.json
 - [x] Items/items-combine.json
+- [x] Items/items-note.json
 - [ ] Kitchen/meal-effects.json
 - [ ] Kitchen/meals.json
 - ~~[ ] Maps/maps.json~~ (Better version: gathering-spots.json)
