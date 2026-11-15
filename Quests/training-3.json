@@ -2,2892 +2,3730 @@
   {
     "id": 21016,
     "name": "Hypnocatrice Training",
-    "time-limit": 50,
-    "location": "GrtForest(Day)",
-    "main-monsters": [
-      "Hypnocatrice"
-    ],
     "goal-condition": "Slay the Hypnocatrice",
-    "quest-details": "Considering all the monsters you've hunted up to this point, ~C05this exercise should be nothing~C00! Off you go! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 1,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Black Doom Flame",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Kut-Ku Helm U",
-        "decorations": [
-          "Celebrity Jewel"
-        ]
-      },
-      {
-        "name": "Kut-Ku Mail U",
-        "decorations": [
-          "Expert Jewel"
-        ]
-      },
-      {
-        "name": "Kut-Ku Vambraces U",
-        "decorations": [
-          "Strength Jewel"
-        ]
-      },
-      {
-        "name": "Kut-Ku Tasset U",
-        "decorations": [
-          "Strength Jewel"
-        ]
-      },
-      {
-        "name": "Kut-Ku Greaves U",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Sply Pitfall Trp",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21016,
-    "name": "Hypnocatrice Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nPaintball ........... Area 6\nMega Potion ......... Area 2\nFarcaster ........... Area 4\nFlash Bomb ... Egg (1 only!)",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 2000,
     "time-limit": 50,
+    "map-id": 30,
     "location": "GrtForest(Day)",
-    "main-monsters": [
-      "Hypnocatrice"
-    ],
-    "goal-condition": "Slay the Hypnocatrice",
-    "quest-details": "Behold the ~C05invincible~C00 Hypnocatrice! So what should you do? Create a weak spot, of course! Aim for its ~C05legs~C00 and ~C05bring it down~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 1,
-    "point-multiplier": 90,
-    "weapon": {
-      "name": "Monoblos Scythe+",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 1,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Hypnocatrice",
+    "loadouts": [
       {
-        "name": "Piercing of Fate",
-        "decorations": []
-      },
-      {
-        "name": "Hunter's Mail S",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 449,
+          "name": "Black Doom Flame",
+          "type": "sword",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 267,
+            "part": "helmet",
+            "name": "Kut-Ku Helm U",
+            "decorations": [
+              {
+                "id": 1063,
+                "name": "Celebrity Jewel"
+              }
+            ]
+          },
+          {
+            "id": 86,
+            "part": "plate",
+            "name": "Kut-Ku Mail U",
+            "decorations": [
+              {
+                "id": 967,
+                "name": "Expert Jewel"
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "part": "gauntlet",
+            "name": "Kut-Ku Vambraces U",
+            "decorations": [
+              {
+                "id": 962,
+                "name": "Strength Jewel"
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "part": "waist",
+            "name": "Kut-Ku Tasset U",
+            "decorations": [
+              {
+                "id": 962,
+                "name": "Strength Jewel"
+              }
+            ]
+          },
+          {
+            "id": 251,
+            "part": "legging",
+            "name": "Kut-Ku Greaves U",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 871,
+            "name": "Sply Pitfall Trp",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Hunter's Vambraces S",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 1,
+        "point-multiplier": 90,
+        "weapon": {
+          "id": 604,
+          "name": "Monoblos Scythe+",
+          "type": "long-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 248,
+            "part": "helmet",
+            "name": "Piercing of Fate",
+            "decorations": []
+          },
+          {
+            "id": 129,
+            "part": "plate",
+            "name": "Hunter's Mail S",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 127,
+            "part": "gauntlet",
+            "name": "Hunter's Vambraces S",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 125,
+            "part": "waist",
+            "name": "Hunter's Tasset S",
+            "decorations": [
+              {
+                "id": 1062,
+                "name": "SpeedyRecvrJewel"
+              }
+            ]
+          },
+          {
+            "id": 124,
+            "part": "legging",
+            "name": "Hunter's Greaves S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 24,
+            "name": "Psychoserum",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Hunter's Tasset S",
-        "decorations": [
-          "SpeedyRecvrJewel"
+        "loadout-id": 2,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 1036,
+          "name": "Wolf Shamisen",
+          "type": "hunting-horn",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 83,
+            "part": "helmet",
+            "name": "Vespoid Helm U",
+            "decorations": []
+          },
+          {
+            "id": 78,
+            "part": "plate",
+            "name": "Vespoid Mail U",
+            "decorations": []
+          },
+          {
+            "id": 76,
+            "part": "gauntlet",
+            "name": "Vespoid Vambraces U",
+            "decorations": []
+          },
+          {
+            "id": 76,
+            "part": "waist",
+            "name": "Vespoid Tasset U",
+            "decorations": []
+          },
+          {
+            "id": 76,
+            "part": "legging",
+            "name": "Vespoid Greaves U",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Hunter's Greaves S",
-        "decorations": []
+        "loadout-id": 3,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 407,
+          "name": "Scissor Cannon",
+          "type": "gunlance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 143,
+            "part": "helmet",
+            "name": "Hi-Metal Helm S",
+            "decorations": []
+          },
+          {
+            "id": 186,
+            "part": "plate",
+            "name": "Hermitaur Mail S",
+            "decorations": []
+          },
+          {
+            "id": 139,
+            "part": "gauntlet",
+            "name": "Hi-Metal Vambraces S",
+            "decorations": []
+          },
+          {
+            "id": 180,
+            "part": "waist",
+            "name": "Hermitaur Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 136,
+            "part": "legging",
+            "name": "Hi-Metal Greaves S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "loadout-id": 4,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 122,
+          "name": "Hunter's PowerBowIII",
+          "type": "bow",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 55,
+            "part": "helmet",
+            "name": "Yellow Piercing",
+            "decorations": []
+          },
+          {
+            "id": 150,
+            "part": "plate",
+            "name": "Gypceros Vest S",
+            "decorations": []
+          },
+          {
+            "id": 159,
+            "part": "gauntlet",
+            "name": "Plesioth Guards S",
+            "decorations": []
+          },
+          {
+            "id": 146,
+            "part": "waist",
+            "name": "Gypceros Coat S",
+            "decorations": []
+          },
+          {
+            "id": 145,
+            "part": "legging",
+            "name": "Gypceros Leggings S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 130,
+            "name": "Power Coating",
+            "count": 30
+          },
+          {
+            "id": 131,
+            "name": "Poison Coating",
+            "count": 20
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          }
+        ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Psychoserum",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21016,
-    "name": "Hypnocatrice Training",
-    "time-limit": 50,
-    "location": "GrtForest(Day)",
-    "main-monsters": [
-      "Hypnocatrice"
-    ],
-    "goal-condition": "Slay the Hypnocatrice",
-    "quest-details": "It's everybody's favorite: Hunting Horn Lessons! Give ~C05Purple-Purple-Red-Red-Yellow~C00 a bellow! And as always, use it ~C05twice~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 1,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Wolf Shamisen",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Vespoid Helm U",
-        "decorations": []
-      },
-      {
-        "name": "Vespoid Mail U",
-        "decorations": []
-      },
-      {
-        "name": "Vespoid Vambraces U",
-        "decorations": []
-      },
-      {
-        "name": "Vespoid Tasset U",
-        "decorations": []
-      },
-      {
-        "name": "Vespoid Greaves U",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21016,
-    "name": "Hypnocatrice Training",
-    "time-limit": 50,
-    "location": "GrtForest(Day)",
-    "main-monsters": [
-      "Hypnocatrice"
-    ],
-    "goal-condition": "Slay the Hypnocatrice",
-    "quest-details": "You ~C05can't guard~C00 against Sleep Breath! Dodge when you have to and attack when you can. ~C05Being aware of your position~C00 is everything! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 1,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Scissor Cannon",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Hi-Metal Helm S",
-        "decorations": []
-      },
-      {
-        "name": "Hermitaur Mail S",
-        "decorations": []
-      },
-      {
-        "name": "Hi-Metal Vambraces S",
-        "decorations": []
-      },
-      {
-        "name": "Hermitaur Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Hi-Metal Greaves S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21016,
-    "name": "Hypnocatrice Training",
-    "time-limit": 50,
-    "location": "GrtForest(Day)",
-    "main-monsters": [
-      "Hypnocatrice"
-    ],
-    "goal-condition": "Slay the Hypnocatrice",
-    "quest-details": "Hunting with a bow! The ~C05best way to reach out and nail a beast from a great distance~C00! Just be wary of its kicks! Yeowch! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 1,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Hunter's Power Bow III",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Yellow Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Gypceros Vest S",
-        "decorations": []
-      },
-      {
-        "name": "Plesioth Guards S",
-        "decorations": []
-      },
-      {
-        "name": "Gypceros Coat S",
-        "decorations": []
-      },
-      {
-        "name": "Gypceros Leggings S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Power Coating",
-        "count": 30
-      },
-      {
-        "name": "Poison Coating",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 21017,
     "name": "Emerald Congalala Training",
-    "time-limit": 50,
-    "location": "Old Jungle",
-    "main-monsters": [
-      "Emerald Congalala"
-    ],
     "goal-condition": "Slay the Emerald Congalala",
-    "quest-details": "This armor is ~C05resistant to smells~C00! You'll stay ~C05lemon- fresh~C00 no matter what! But it's not invincible, so good luck dodging! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Icicle Daggers",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Conga Helm S",
-        "decorations": []
-      },
-      {
-        "name": "Conga Mail S",
-        "decorations": []
-      },
-      {
-        "name": "Conga Vambraces S",
-        "decorations": []
-      },
-      {
-        "name": "Conga Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Conga Greaves S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 2
-      },
-      {
-        "name": "Power Juice",
-        "count": 1
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Tainted Meat",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21017,
-    "name": "Emerald Congalala Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nTrap Tool ........... Area 3\nMega Potion ..... Usual spot\nDeodorant ........... Area 9\nMax Potion ..... Furthest in",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 2500,
     "time-limit": 50,
+    "map-id": 26,
     "location": "Old Jungle",
-    "main-monsters": [
-      "Emerald Congalala"
-    ],
-    "goal-condition": "Slay the Emerald Congalala",
-    "quest-details": "Got the ol' ~C05Trap Master~C00 skill on I see! That ensures a 100%~C00 combination success rate! Materials? Still got to ~C05get those yourself~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Enforcer's Axe",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 2,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Emerald Congalala",
+    "loadouts": [
       {
-        "name": "Battle Helm S",
-        "decorations": [
-          "TrapMasterJewel"
+        "loadout-id": 0,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 875,
+          "name": "Icicle Daggers",
+          "type": "dual-blades",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 193,
+            "part": "helmet",
+            "name": "Conga Helm S",
+            "decorations": []
+          },
+          {
+            "id": 192,
+            "part": "plate",
+            "name": "Conga Mail S",
+            "decorations": []
+          },
+          {
+            "id": 190,
+            "part": "gauntlet",
+            "name": "Conga Vambraces S",
+            "decorations": []
+          },
+          {
+            "id": 186,
+            "part": "waist",
+            "name": "Conga Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 186,
+            "part": "legging",
+            "name": "Conga Greaves S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 2
+          },
+          {
+            "id": 13,
+            "name": "Power Juice",
+            "count": 1
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 45,
+            "name": "Tainted Meat",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Battle Mail S",
-        "decorations": [
-          "TrapMasterJewel"
+        "loadout-id": 1,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 278,
+          "name": "Enforcer's Axe",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 137,
+            "part": "helmet",
+            "name": "Battle Helm S",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          },
+          {
+            "id": 135,
+            "part": "plate",
+            "name": "Battle Mail S",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          },
+          {
+            "id": 133,
+            "part": "gauntlet",
+            "name": "Battle Vambraces S",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          },
+          {
+            "id": 131,
+            "part": "waist",
+            "name": "Battle Tasset S",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          },
+          {
+            "id": 130,
+            "part": "legging",
+            "name": "Battle Greaves S",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          },
+          {
+            "id": 180,
+            "name": "Toadstool",
+            "count": 1
+          },
+          {
+            "id": 167,
+            "name": "Sleep Herb",
+            "count": 1
+          },
+          {
+            "id": 145,
+            "name": "Iron Pickaxe",
+            "count": 1
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 4
+          }
         ]
       },
       {
-        "name": "Battle Vambraces S",
-        "decorations": [
-          "TrapMasterJewel"
+        "loadout-id": 2,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 213,
+          "name": "Onslaught Hammer",
+          "type": "hammer",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 247,
+            "part": "helmet",
+            "name": "Piercing of Might",
+            "decorations": []
+          },
+          {
+            "id": 367,
+            "part": "plate",
+            "name": "Hypno Mail S",
+            "decorations": [
+              {
+                "id": 1028,
+                "name": "Marathon Jewel"
+              }
+            ]
+          },
+          {
+            "id": 147,
+            "part": "gauntlet",
+            "name": "Gypceros Vambraces S",
+            "decorations": [
+              {
+                "id": 1028,
+                "name": "Marathon Jewel"
+              }
+            ]
+          },
+          {
+            "id": 359,
+            "part": "waist",
+            "name": "Hypno Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 368,
+            "part": "legging",
+            "name": "Hypno Greaves S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 3
+          }
         ]
       },
       {
-        "name": "Battle Tasset S",
-        "decorations": [
-          "TrapMasterJewel"
+        "loadout-id": 3,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 760,
+          "name": "Frost Icicle",
+          "type": "lance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 185,
+            "part": "helmet",
+            "name": "Hermitaur Helm U",
+            "decorations": []
+          },
+          {
+            "id": 184,
+            "part": "plate",
+            "name": "Hermitaur Mail U",
+            "decorations": []
+          },
+          {
+            "id": 182,
+            "part": "gauntlet",
+            "name": "Hermitaur Braces U",
+            "decorations": []
+          },
+          {
+            "id": 178,
+            "part": "waist",
+            "name": "Hermitaur Tasset U",
+            "decorations": []
+          },
+          {
+            "id": 178,
+            "part": "legging",
+            "name": "Hermitaur Greaves U",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 45,
+            "name": "Tainted Meat",
+            "count": 2
+          },
+          {
+            "id": 61,
+            "name": "Paralyze Thr Knf",
+            "count": 4
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 2
+          }
         ]
       },
       {
-        "name": "Battle Greaves S",
-        "decorations": [
-          "TrapMasterJewel"
+        "loadout-id": 4,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 96,
+          "name": "Quickcaster+",
+          "type": "heavy-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 192,
+            "part": "helmet",
+            "name": "Conga Cap U",
+            "decorations": [
+              {
+                "id": 987,
+                "name": "No Food Jewel"
+              }
+            ]
+          },
+          {
+            "id": 191,
+            "part": "plate",
+            "name": "Conga Vest U",
+            "decorations": []
+          },
+          {
+            "id": 189,
+            "part": "gauntlet",
+            "name": "Conga Guards U",
+            "decorations": []
+          },
+          {
+            "id": 185,
+            "part": "waist",
+            "name": "Conga Coat U",
+            "decorations": []
+          },
+          {
+            "id": 185,
+            "part": "legging",
+            "name": "Conga Leggings U",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 50
+          },
+          {
+            "id": 100,
+            "name": "Pierce S Lv2",
+            "count": 40
+          },
+          {
+            "id": 103,
+            "name": "Pellet S Lv2",
+            "count": 30
+          },
+          {
+            "id": 114,
+            "name": "Freeze S",
+            "count": 40
+          },
+          {
+            "id": 123,
+            "name": "Sleep S Lv2",
+            "count": 8
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 46,
+            "name": "Drugged Meat",
+            "count": 1
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 2
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 3
+          }
         ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Paintball",
-        "count": 2
-      },
-      {
-        "name": "Toadstool",
-        "count": 1
-      },
-      {
-        "name": "Sleep Herb",
-        "count": 1
-      },
-      {
-        "name": "Iron Pickaxe",
-        "count": 1
-      },
-      {
-        "name": "Deodorant",
-        "count": 4
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21017,
-    "name": "Emerald Congalala Training",
-    "time-limit": 50,
-    "location": "Old Jungle",
-    "main-monsters": [
-      "Emerald Congalala"
-    ],
-    "goal-condition": "Slay the Emerald Congalala",
-    "quest-details": "It may be powerful, but so are you! This is going to be a match of strength! ~C05Go for its head and show it what you've got~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Onslaught Hammer",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Piercing of Might",
-        "decorations": []
-      },
-      {
-        "name": "Hypno Mail S",
-        "decorations": [
-          "Marathon Jewel"
-        ]
-      },
-      {
-        "name": "Gypceros Vambraces S",
-        "decorations": [
-          "Marathon Jewel"
-        ]
-      },
-      {
-        "name": "Hypno Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Hypno Greaves S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Deodorant",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21017,
-    "name": "Emerald Congalala Training",
-    "time-limit": 50,
-    "location": "Old Jungle",
-    "main-monsters": [
-      "Emerald Congalala"
-    ],
-    "goal-condition": "Slay the Emerald Congalala",
-    "quest-details": "Usually, even if you guard, the smell lingers on. But ~C05no need to worry~C00 with this! Guard well and then counterattack away! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Frost Icicle",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Hermitaur Helm U",
-        "decorations": []
-      },
-      {
-        "name": "Hermitaur Mail U",
-        "decorations": []
-      },
-      {
-        "name": "Hermitaur Braces U",
-        "decorations": []
-      },
-      {
-        "name": "Hermitaur Tasset U",
-        "decorations": []
-      },
-      {
-        "name": "Hermitaur Greaves U",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Tainted Meat",
-        "count": 2
-      },
-      {
-        "name": "Paralyze Thr Knf",
-        "count": 4
-      },
-      {
-        "name": "Deodorant",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21017,
-    "name": "Emerald Congalala Training",
-    "time-limit": 50,
-    "location": "Old Jungle",
-    "main-monsters": [
-      "Emerald Congalala"
-    ],
-    "goal-condition": "Slay the Emerald Congalala",
-    "quest-details": "Attacking those things it lobs with its tail isn't going to get you very far. ~C05Dodge, then attack~C00. One false step and... ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Quickcaster+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Conga Cap U",
-        "decorations": [
-          "No Food Jewel"
-        ]
-      },
-      {
-        "name": "Conga Vest U",
-        "decorations": []
-      },
-      {
-        "name": "Conga Guards U",
-        "decorations": []
-      },
-      {
-        "name": "Conga Coat U",
-        "decorations": []
-      },
-      {
-        "name": "Conga Leggings U",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 50
-      },
-      {
-        "name": "Pierce S Lv2",
-        "count": 40
-      },
-      {
-        "name": "Pellet S Lv2",
-        "count": 30
-      },
-      {
-        "name": "Freeze S",
-        "count": 40
-      },
-      {
-        "name": "Sleep S Lv2",
-        "count": 8
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Drugged Meat",
-        "count": 1
-      },
-      {
-        "name": "Sply Lg Brrl Bmb",
-        "count": 2
-      },
-      {
-        "name": "Deodorant",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 21018,
     "name": "Plum D.Hermitaur Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Plum D.Hermitaur"
-    ],
     "goal-condition": "Slay the Plum D.Hermitaur",
-    "quest-details": "Juggling bombs and a sword... Pretty hot stuff if you ask me. Better to ~C05stick to one~C00 or ~C05risk embarrassing yourself royally~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Expert Sword",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Genprey Helm S",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Genprey Mail S",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Genprey Vambraces S",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Genprey Tasset S",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Genprey Greaves S",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Paintball",
-        "count": 2
-      },
-      {
-        "name": "Sply Lg Brrl Bmb",
-        "count": 2
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Sm Barrel-Bomb",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21018,
-    "name": "Plum D.Hermitaur Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nBook of Combos 1 .... Area 2\nMega Potion ......... Area 8\nIron Pickaxe ........ Area 8\nTrap Tool + Genprey Fang = !",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 2500,
     "time-limit": 50,
+    "map-id": 27,
     "location": "Old Desert",
-    "main-monsters": [
-      "Plum D.Hermitaur"
-    ],
-    "goal-condition": "Slay the Plum D.Hermitaur",
-    "quest-details": "Ha ha! Too much stuff can get in your way, so here, ~C05let me take some of it off your hands~C00! Thanks... Hey, ~C05what's that face for~C00? ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "True Dragon's Jaw",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 2,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Plum D.Hermitaur",
+    "loadouts": [
       {
-        "name": "Cephalos Helm U",
-        "decorations": []
-      },
-      {
-        "name": "Cephalos Mail U",
-        "decorations": []
-      },
-      {
-        "name": "Cephalos Vambraces U",
-        "decorations": []
-      },
-      {
-        "name": "Cephalos Tasset U",
-        "decorations": []
-      },
-      {
-        "name": "Cephalos Greaves U",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21018,
-    "name": "Plum D.Hermitaur Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Plum D.Hermitaur"
-    ],
-    "goal-condition": "Slay the Plum D.Hermitaur",
-    "quest-details": "Three Yellows make ~C05supersonic waves~C00, so remem... huh? The usual? ~C05Purple-Purple-Green-Green-Yellow- Purple-Yellow~C00, OK!? ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Velociprey Balloon",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Bone Helm S",
-        "decorations": []
-      },
-      {
-        "name": "Bone Mail S",
-        "decorations": []
-      },
-      {
-        "name": "Bone Vambraces S",
-        "decorations": []
-      },
-      {
-        "name": "Bone Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Bone Greaves S",
-        "decorations": [
-          "Map Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Power Seed",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21018,
-    "name": "Plum D.Hermitaur Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Plum D.Hermitaur"
-    ],
-    "goal-condition": "Slay the Plum D.Hermitaur",
-    "quest-details": "\"Clash of the Titans, Part 2!\" is what I'd say if going head-on wasn't going to get you ~C05squashed~C00. Go get it ~C05from the side~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Ceanataur Piercer",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Black Belt Helm S",
-        "decorations": []
-      },
-      {
-        "name": "Narga Mail S",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 354,
+          "name": "Expert Sword",
+          "type": "sword",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 145,
+            "part": "helmet",
+            "name": "Genprey Helm S",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 143,
+            "part": "plate",
+            "name": "Genprey Mail S",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 141,
+            "part": "gauntlet",
+            "name": "Genprey Vambraces S",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 139,
+            "part": "waist",
+            "name": "Genprey Tasset S",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 138,
+            "part": "legging",
+            "name": "Genprey Greaves S",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 2
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 84,
+            "name": "Sm Barrel-Bomb",
+            "count": 3
+          }
         ]
       },
       {
-        "name": "BlackBeltVambraces S",
-        "decorations": []
+        "loadout-id": 1,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 270,
+          "name": "True Dragon's Jaw",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 95,
+            "part": "helmet",
+            "name": "Cephalos Helm U",
+            "decorations": []
+          },
+          {
+            "id": 92,
+            "part": "plate",
+            "name": "Cephalos Mail U",
+            "decorations": []
+          },
+          {
+            "id": 90,
+            "part": "gauntlet",
+            "name": "Cephalos Vambraces U",
+            "decorations": []
+          },
+          {
+            "id": 90,
+            "part": "waist",
+            "name": "Cephalos Tasset U",
+            "decorations": []
+          },
+          {
+            "id": 88,
+            "part": "legging",
+            "name": "Cephalos Greaves U",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 4
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          }
+        ]
       },
       {
-        "name": "Chrome Metal Coat",
-        "decorations": []
+        "loadout-id": 2,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 1056,
+          "name": "Velociprey Balloon",
+          "type": "hunting-horn",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 133,
+            "part": "helmet",
+            "name": "Bone Helm S",
+            "decorations": []
+          },
+          {
+            "id": 131,
+            "part": "plate",
+            "name": "Bone Mail S",
+            "decorations": []
+          },
+          {
+            "id": 129,
+            "part": "gauntlet",
+            "name": "Bone Vambraces S",
+            "decorations": []
+          },
+          {
+            "id": 127,
+            "part": "waist",
+            "name": "Bone Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 126,
+            "part": "legging",
+            "name": "Bone Greaves S",
+            "decorations": [
+              {
+                "id": 1013,
+                "name": "Map Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 186,
+            "name": "Power Seed",
+            "count": 2
+          }
+        ]
       },
       {
-        "name": "Narga Greaves S",
-        "decorations": [
-          "Jumping Jewel"
+        "loadout-id": 3,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 441,
+          "name": "Ceanataur Piercer",
+          "type": "lance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 227,
+            "part": "helmet",
+            "name": "Black Belt Helm S",
+            "decorations": []
+          },
+          {
+            "id": 371,
+            "part": "plate",
+            "name": "Narga Mail S",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 224,
+            "part": "gauntlet",
+            "name": "BlackBeltVambraces S",
+            "decorations": []
+          },
+          {
+            "id": 22,
+            "part": "waist",
+            "name": "Chrome Metal Coat",
+            "decorations": []
+          },
+          {
+            "id": 372,
+            "part": "legging",
+            "name": "Narga Greaves S",
+            "decorations": [
+              {
+                "id": 1041,
+                "name": "Jumping Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "loadout-id": 4,
+        "point-multiplier": 90,
+        "weapon": {
+          "id": 46,
+          "name": "Tail Catapult",
+          "type": "light-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 310,
+            "part": "helmet",
+            "name": "Barrage Piercing",
+            "decorations": []
+          },
+          {
+            "id": 106,
+            "part": "plate",
+            "name": "Diablo Vest U",
+            "decorations": []
+          },
+          {
+            "id": 104,
+            "part": "gauntlet",
+            "name": "Diablo Guards U",
+            "decorations": []
+          },
+          {
+            "id": 22,
+            "part": "waist",
+            "name": "Chrome Metal Coat",
+            "decorations": []
+          },
+          {
+            "id": 22,
+            "part": "legging",
+            "name": "Chrome Metal Boots",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 50
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 40
+          },
+          {
+            "id": 100,
+            "name": "Pierce S Lv2",
+            "count": 30
+          },
+          {
+            "id": 104,
+            "name": "Pellet S Lv3",
+            "count": 30
+          },
+          {
+            "id": 114,
+            "name": "Freeze S",
+            "count": 30
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 2
+          }
         ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21018,
-    "name": "Plum D.Hermitaur Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Plum D.Hermitaur"
-    ],
-    "goal-condition": "Slay the Plum D.Hermitaur",
-    "quest-details": "When it's mad, stay the heck away, ~C05the farther the better~C00, unless you want to be ~C05Breathed or Pressed to kingdom come~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 90,
-    "weapon": {
-      "name": "Tail Catapult",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Barrage Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Diablo Vest U",
-        "decorations": []
-      },
-      {
-        "name": "Diablo Guards U",
-        "decorations": []
-      },
-      {
-        "name": "Chrome Metal Coat",
-        "decorations": []
-      },
-      {
-        "name": "Chrome Metal Boots",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 50
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 40
-      },
-      {
-        "name": "Pierce S Lv2",
-        "count": 30
-      },
-      {
-        "name": "Pellet S Lv3",
-        "count": 30
-      },
-      {
-        "name": "Freeze S",
-        "count": 30
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 21019,
     "name": "Nargacuga Training",
-    "time-limit": 50,
-    "location": "GrtForest(Nght)",
-    "main-monsters": [
-      "Nargacuga"
-    ],
     "goal-condition": "Slay the Nargacuga",
-    "quest-details": "You win Dual Blades fights by ~C05sticking close~C00, so look for openings and stab away! Don't let those chances ~C05dance away~C00 from you!! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Melting Wail+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Diablo Helm U",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Hornet Mail S",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Hornet Vambraces S",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Diablo Coil U",
-        "decorations": []
-      },
-      {
-        "name": "Hornet Greaves S",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 2
-      },
-      {
-        "name": "Power Juice",
-        "count": 2
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21019,
-    "name": "Nargacuga Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nSonic Bomb .......... Area 4\nMega Potion ......... Area 8\nPitfall Trap ........ Area 3\nMax Potion .......... Bugnet",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 3000,
     "time-limit": 50,
+    "map-id": 31,
     "location": "GrtForest(Nght)",
-    "main-monsters": [
-      "Nargacuga"
-    ],
-    "goal-condition": "Slay the Nargacuga",
-    "quest-details": "Your chance to deal serious damage lies in when it's charging up! Attack ~C05while it's still targeting~C00! And use ~C05THAT~C00 thing!! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Wyvern Blade \"Maple\"",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 3,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Nargacuga",
+    "loadouts": [
       {
-        "name": "Kirin Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Giaprey Mail U",
-        "decorations": [
-          "Dodge Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 364,
+          "name": "Melting Wail+",
+          "type": "dual-blades",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 107,
+            "part": "helmet",
+            "name": "Diablo Helm U",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 139,
+            "part": "plate",
+            "name": "Hornet Mail S",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 137,
+            "part": "gauntlet",
+            "name": "Hornet Vambraces S",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 101,
+            "part": "waist",
+            "name": "Diablo Coil U",
+            "decorations": []
+          },
+          {
+            "id": 134,
+            "part": "legging",
+            "name": "Hornet Greaves S",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 4
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 2
+          },
+          {
+            "id": 13,
+            "name": "Power Juice",
+            "count": 2
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 3
+          }
         ]
       },
       {
-        "name": "Giaprey Vambraces U",
-        "decorations": [
-          "Dodge Jewel"
+        "loadout-id": 1,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 389,
+          "name": "Wyvern Blade \"Maple\"",
+          "type": "long-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 246,
+            "part": "helmet",
+            "name": "Kirin Piercing",
+            "decorations": []
+          },
+          {
+            "id": 74,
+            "part": "plate",
+            "name": "Giaprey Mail U",
+            "decorations": [
+              {
+                "id": 1080,
+                "name": "Dodge Jewel"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "part": "gauntlet",
+            "name": "Giaprey Vambraces U",
+            "decorations": [
+              {
+                "id": 1080,
+                "name": "Dodge Jewel"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "part": "waist",
+            "name": "Giaprey Tasset U",
+            "decorations": [
+              {
+                "id": 1025,
+                "name": "Evade Jewel"
+              }
+            ]
+          },
+          {
+            "id": 72,
+            "part": "legging",
+            "name": "Giaprey Greaves U",
+            "decorations": [
+              {
+                "id": 1080,
+                "name": "Dodge Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 871,
+            "name": "Sply Pitfall Trp",
+            "count": 1
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 3
+          }
         ]
       },
       {
-        "name": "Giaprey Tasset U",
-        "decorations": [
-          "Evade Jewel"
+        "loadout-id": 2,
+        "point-multiplier": 110,
+        "weapon": {
+          "id": 1026,
+          "name": "Devil Masher+",
+          "type": "hammer",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 55,
+            "part": "helmet",
+            "name": "Yellow Piercing",
+            "decorations": [
+              {
+                "id": 1067,
+                "name": "SpecialAtkJewel+"
+              }
+            ]
+          },
+          {
+            "id": 367,
+            "part": "plate",
+            "name": "Hypno Mail S",
+            "decorations": [
+              {
+                "id": 1067,
+                "name": "SpecialAtkJewel+"
+              }
+            ]
+          },
+          {
+            "id": 147,
+            "part": "gauntlet",
+            "name": "Gypceros Vambraces S",
+            "decorations": [
+              {
+                "id": 1067,
+                "name": "SpecialAtkJewel+"
+              }
+            ]
+          },
+          {
+            "id": 359,
+            "part": "waist",
+            "name": "Hypno Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 368,
+            "part": "legging",
+            "name": "Hypno Greaves S",
+            "decorations": [
+              {
+                "id": 983,
+                "name": "SpecialAtk Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 4
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 871,
+            "name": "Sply Pitfall Trp",
+            "count": 1
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 3
+          }
         ]
       },
       {
-        "name": "Giaprey Greaves U",
-        "decorations": [
-          "Dodge Jewel"
+        "loadout-id": 3,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 535,
+          "name": "Tigrex Gunlance",
+          "type": "gunlance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 203,
+            "part": "helmet",
+            "name": "Ceanataur Helm U",
+            "decorations": []
+          },
+          {
+            "id": 202,
+            "part": "plate",
+            "name": "Ceanataur Mail U",
+            "decorations": []
+          },
+          {
+            "id": 200,
+            "part": "gauntlet",
+            "name": "Ceanataur Braces U",
+            "decorations": []
+          },
+          {
+            "id": 196,
+            "part": "waist",
+            "name": "Ceanataur Tasset U",
+            "decorations": []
+          },
+          {
+            "id": 196,
+            "part": "legging",
+            "name": "Ceanataur Greaves U",
+            "decorations": [
+              {
+                "id": 962,
+                "name": "Strength Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 4
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "loadout-id": 4,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 63,
+          "name": "Fire Wrath",
+          "type": "light-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 56,
+            "part": "helmet",
+            "name": "Black Piercing",
+            "decorations": []
+          },
+          {
+            "id": 205,
+            "part": "plate",
+            "name": "Ceanataur Vest S",
+            "decorations": [
+              {
+                "id": 976,
+                "name": "Pierce Jewel"
+              }
+            ]
+          },
+          {
+            "id": 201,
+            "part": "gauntlet",
+            "name": "Ceanataur Guards U",
+            "decorations": [
+              {
+                "id": 1100,
+                "name": "Pierce Jewel+"
+              }
+            ]
+          },
+          {
+            "id": 197,
+            "part": "waist",
+            "name": "Ceanataur Coat U",
+            "decorations": [
+              {
+                "id": 976,
+                "name": "Pierce Jewel"
+              }
+            ]
+          },
+          {
+            "id": 199,
+            "part": "legging",
+            "name": "Ceanataur Leggings S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 60
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 15
+          },
+          {
+            "id": 100,
+            "name": "Pierce S Lv2",
+            "count": 30
+          },
+          {
+            "id": 101,
+            "name": "Pierce S Lv3",
+            "count": 20
+          },
+          {
+            "id": 111,
+            "name": "Flaming S",
+            "count": 20
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          }
         ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Sply Pitfall Trp",
-        "count": 1
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21019,
-    "name": "Nargacuga Training",
-    "time-limit": 50,
-    "location": "GrtForest(Nght)",
-    "main-monsters": [
-      "Nargacuga"
-    ],
-    "goal-condition": "Slay the Nargacuga",
-    "quest-details": "Your weapon this time is a nice one that can cause ~C05Paralysis~C00! Use it to ~C05stop the monster~C00 and... You know the rest! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 110,
-    "weapon": {
-      "name": "Devil Masher+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Yellow Piercing",
-        "decorations": [
-          "SpecialAtk Jewel"
-        ]
-      },
-      {
-        "name": "Hypno Mail S",
-        "decorations": [
-          "SpecialAtk Jewel"
-        ]
-      },
-      {
-        "name": "Gypceros Vambraces S",
-        "decorations": [
-          "SpecialAtk Jewel"
-        ]
-      },
-      {
-        "name": "Hypno Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Hypno Greaves S",
-        "decorations": [
-          "SpecialAtk Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Mega Potion",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Sply Pitfall Trp",
-        "count": 1
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21019,
-    "name": "Nargacuga Training",
-    "time-limit": 50,
-    "location": "GrtForest(Nght)",
-    "main-monsters": [
-      "Nargacuga"
-    ],
-    "goal-condition": "Slay the Nargacuga",
-    "quest-details": "You're not going to be able to keep up with this bad boy with a ~C05slow~C00 Gunlance. Best to ~C05lie in wait~C00, if you know what I mean! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Tigrex Gunlance",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Ceanataur Helm U",
-        "decorations": []
-      },
-      {
-        "name": "Ceanataur Mail U",
-        "decorations": []
-      },
-      {
-        "name": "Ceanataur Braces U",
-        "decorations": []
-      },
-      {
-        "name": "Ceanataur Tasset U",
-        "decorations": []
-      },
-      {
-        "name": "Ceanataur Greaves U",
-        "decorations": [
-          "Strength Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21019,
-    "name": "Nargacuga Training",
-    "time-limit": 50,
-    "location": "GrtForest(Nght)",
-    "main-monsters": [
-      "Nargacuga"
-    ],
-    "goal-condition": "Slay the Nargacuga",
-    "quest-details": "~C05Striking and retreating a distance~C00 as a tactic ~C05isn't going to work~C00 against this one. Watch its movements well and react! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Fire Wrath",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Black Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Ceanataur Vest S",
-        "decorations": [
-          "Pierce Jewel"
-        ]
-      },
-      {
-        "name": "Ceanataur Guards U",
-        "decorations": [
-          "Pierce Jewel+"
-        ]
-      },
-      {
-        "name": "Ceanataur Coat U",
-        "decorations": [
-          "Pierce Jewel"
-        ]
-      },
-      {
-        "name": "Ceanataur Leggings S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 60
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 15
-      },
-      {
-        "name": "Pierce S Lv2",
-        "count": 30
-      },
-      {
-        "name": "Pierce S Lv3",
-        "count": 20
-      },
-      {
-        "name": "Flaming S",
-        "count": 20
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 21020,
     "name": "Copper Blangonga Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Copper Blangonga"
-    ],
     "goal-condition": "Slay the Copper Blangonga",
-    "quest-details": "Don't get it mad or you're in for a world of pain! The trick here is to ~C05get the first strike~C00! ~C05Aim true for its fangs~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Glacial Medusa",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Kirin Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Velociprey Mail S",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Gypceros Vambraces U",
-        "decorations": [
-          "Steadfast Jewel"
-        ]
-      },
-      {
-        "name": "Velociprey Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Gypceros Greaves U",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 6
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 3
-      },
-      {
-        "name": "Power Juice",
-        "count": 1
-      },
-      {
-        "name": "Cool Drink",
-        "count": 2
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21020,
-    "name": "Copper Blangonga Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nArmorskin .......... Remobra\nMega Potion ......... Area 9\nDemondrug .... A cool desert\nMax Potion ..... Underground",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 3000,
     "time-limit": 50,
+    "map-id": 27,
     "location": "Old Desert",
-    "main-monsters": [
-      "Copper Blangonga"
-    ],
-    "goal-condition": "Slay the Copper Blangonga",
-    "quest-details": "I see you've got ~C05Art of Unsheathing~C00 activated on that armor! Dash in on your target and ~C05give it a mouthful of steel~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Daora's Decimator",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 3,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Copper Blangonga",
+    "loadouts": [
       {
-        "name": "Monoblos Helm S",
-        "decorations": []
-      },
-      {
-        "name": "Gravios Mail U",
-        "decorations": [
-          "UnsheathingJewel"
+        "loadout-id": 0,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 869,
+          "name": "Glacial Medusa",
+          "type": "dual-blades",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 246,
+            "part": "helmet",
+            "name": "Kirin Piercing",
+            "decorations": []
+          },
+          {
+            "id": 133,
+            "part": "plate",
+            "name": "Velociprey Mail S",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 88,
+            "part": "gauntlet",
+            "name": "Gypceros Vambraces U",
+            "decorations": [
+              {
+                "id": 952,
+                "name": "Steadfast Jewel"
+              }
+            ]
+          },
+          {
+            "id": 129,
+            "part": "waist",
+            "name": "Velociprey Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 86,
+            "part": "legging",
+            "name": "Gypceros Greaves U",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 6
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 3
+          },
+          {
+            "id": 13,
+            "name": "Power Juice",
+            "count": 1
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 2
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Monoblos Vambraces S",
-        "decorations": [
-          "UnsheathingJewel"
+        "loadout-id": 1,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 414,
+          "name": "Daora's Decimator",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 167,
+            "part": "helmet",
+            "name": "Monoblos Helm S",
+            "decorations": []
+          },
+          {
+            "id": 109,
+            "part": "plate",
+            "name": "Gravios Mail U",
+            "decorations": [
+              {
+                "id": 1087,
+                "name": "UnsheathingJewel"
+              }
+            ]
+          },
+          {
+            "id": 164,
+            "part": "gauntlet",
+            "name": "Monoblos Vambraces S",
+            "decorations": [
+              {
+                "id": 1087,
+                "name": "UnsheathingJewel"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "part": "waist",
+            "name": "Chrome Metal Coat",
+            "decorations": []
+          },
+          {
+            "id": 160,
+            "part": "legging",
+            "name": "Monoblos Greaves S",
+            "decorations": [
+              {
+                "id": 1042,
+                "name": "Sword Draw Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 2
+          }
         ]
       },
       {
-        "name": "Chrome Metal Coat",
-        "decorations": []
+        "loadout-id": 2,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 301,
+          "name": "War Basher",
+          "type": "hammer",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 247,
+            "part": "helmet",
+            "name": "Piercing of Might",
+            "decorations": []
+          },
+          {
+            "id": 80,
+            "part": "plate",
+            "name": "Hornet Mail U",
+            "decorations": []
+          },
+          {
+            "id": 78,
+            "part": "gauntlet",
+            "name": "Hornet Vambraces U",
+            "decorations": []
+          },
+          {
+            "id": 78,
+            "part": "waist",
+            "name": "Hornet Tasset U",
+            "decorations": []
+          },
+          {
+            "id": 78,
+            "part": "legging",
+            "name": "Hornet Greaves U",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 5
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 2
+          }
+        ]
       },
       {
-        "name": "Monoblos Greaves S",
-        "decorations": [
-          "Sword Draw Jewel"
+        "loadout-id": 3,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 404,
+          "name": "Hellstinger",
+          "type": "gunlance",
+          "decorations": [
+            {
+              "id": 1078,
+              "name": "Cure All Jewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 287,
+            "part": "helmet",
+            "name": "Tigrex Helm S",
+            "decorations": [
+              {
+                "id": 1078,
+                "name": "Cure All Jewel"
+              }
+            ]
+          },
+          {
+            "id": 97,
+            "part": "plate",
+            "name": "Khezu Mail U",
+            "decorations": [
+              {
+                "id": 1084,
+                "name": "Fast Food Jewel"
+              }
+            ]
+          },
+          {
+            "id": 268,
+            "part": "gauntlet",
+            "name": "Tigrex Vambraces S",
+            "decorations": [
+              {
+                "id": 1078,
+                "name": "Cure All Jewel"
+              }
+            ]
+          },
+          {
+            "id": 95,
+            "part": "waist",
+            "name": "Khezu Tasset U",
+            "decorations": [
+              {
+                "id": 1084,
+                "name": "Fast Food Jewel"
+              }
+            ]
+          },
+          {
+            "id": 271,
+            "part": "legging",
+            "name": "Tigrex Greaves S",
+            "decorations": [
+              {
+                "id": 1078,
+                "name": "Cure All Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 4
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 2
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "loadout-id": 4,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 291,
+          "name": "Icicle Bow II",
+          "type": "bow",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 390,
+            "part": "helmet",
+            "name": "Monodevil Cap U",
+            "decorations": [
+              {
+                "id": 1026,
+                "name": "Danger Jewel"
+              },
+              {
+                "id": 1026,
+                "name": "Danger Jewel"
+              }
+            ]
+          },
+          {
+            "id": 374,
+            "part": "plate",
+            "name": "Monodevil Vest U",
+            "decorations": [
+              {
+                "id": 1026,
+                "name": "Danger Jewel"
+              }
+            ]
+          },
+          {
+            "id": 368,
+            "part": "gauntlet",
+            "name": "Monodevil Guards U",
+            "decorations": []
+          },
+          {
+            "id": 366,
+            "part": "waist",
+            "name": "Monodevil Coat U",
+            "decorations": [
+              {
+                "id": 991,
+                "name": "Protection Jewel"
+              },
+              {
+                "id": 991,
+                "name": "Protection Jewel"
+              }
+            ]
+          },
+          {
+            "id": 375,
+            "part": "legging",
+            "name": "Monodevil Leggings U",
+            "decorations": [
+              {
+                "id": 991,
+                "name": "Protection Jewel"
+              },
+              {
+                "id": 991,
+                "name": "Protection Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 130,
+            "name": "Power Coating",
+            "count": 30
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 2
+          },
+          {
+            "id": 10,
+            "name": "Mega Nutrients",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          }
         ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21020,
-    "name": "Copper Blangonga Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Copper Blangonga"
-    ],
-    "goal-condition": "Slay the Copper Blangonga",
-    "quest-details": "All that dashing back and forth sure ~C05can be harsh~C00! But if you can ~C05focus and dish out a lot of small damage all at once~C00...! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "War Basher",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Piercing of Might",
-        "decorations": []
-      },
-      {
-        "name": "Hornet Mail U",
-        "decorations": []
-      },
-      {
-        "name": "Hornet Vambraces U",
-        "decorations": []
-      },
-      {
-        "name": "Hornet Tasset U",
-        "decorations": []
-      },
-      {
-        "name": "Hornet Greaves U",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Cool Drink",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21020,
-    "name": "Copper Blangonga Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Copper Blangonga"
-    ],
-    "goal-condition": "Slay the Copper Blangonga",
-    "quest-details": "If you kill a Genprey and carve it up just right, you might get a ~C05Paralyze Throwing Knife~C00! Use the knife well to ~C05stop your prey~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Hellstinger",
-      "decorations": [
-        "Cure All Jewel"
-      ]
-    },
-    "armors": [
-      {
-        "name": "Tigrex Helm S",
-        "decorations": [
-          "Cure All Jewel"
-        ]
-      },
-      {
-        "name": "Khezu Mail U",
-        "decorations": [
-          "Fast Food Jewel"
-        ]
-      },
-      {
-        "name": "Tigrex Vambraces S",
-        "decorations": [
-          "Cure All Jewel"
-        ]
-      },
-      {
-        "name": "Khezu Tasset U",
-        "decorations": [
-          "Fast Food Jewel"
-        ]
-      },
-      {
-        "name": "Tigrex Greaves S",
-        "decorations": [
-          "Cure All Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Mega Potion",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 2
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21020,
-    "name": "Copper Blangonga Training",
-    "time-limit": 50,
-    "location": "Old Desert",
-    "main-monsters": [
-      "Copper Blangonga"
-    ],
-    "goal-condition": "Slay the Copper Blangonga",
-    "quest-details": "Low on defense, Gunners tend to get into big trouble at a single blow, but that's where you ~C05shine~C00! ~C05Show me your will to survive~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Icicle Bow II",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Monodevil Cap U",
-        "decorations": [
-          "Danger Jewel",
-          "Danger Jewel"
-        ]
-      },
-      {
-        "name": "Monodevil Vest U",
-        "decorations": [
-          "Danger Jewel"
-        ]
-      },
-      {
-        "name": "Monodevil Guards U",
-        "decorations": []
-      },
-      {
-        "name": "Monodevil Coat U",
-        "decorations": [
-          "Protection Jewel",
-          "Protection Jewel"
-        ]
-      },
-      {
-        "name": "Monodevil Leggings U",
-        "decorations": [
-          "Protection Jewel",
-          "Protection Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Power Coating",
-        "count": 30
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 2
-      },
-      {
-        "name": "Mega Nutrients",
-        "count": 2
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 21021,
     "name": "Lavasioth Training",
-    "time-limit": 50,
-    "location": "Volcano(Night)",
-    "main-monsters": [
-      "Lavasioth"
-    ],
     "goal-condition": "Slay the Lavasioth",
-    "quest-details": "~C05Finally~C00! It's time for your ever favorite Bomb Training! What? No Bombs? You do know how to use an ~C05Iron Pickaxe~C00, right? ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "High Sandman Spike",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Shinobi Mask (Sky)",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Shinobi Suit (Sky)",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Shinobi Kote (Sky)",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Shinobi Belt (Sky)",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Shinobi Boots (Sky)",
-        "decorations": [
-          "Dodge Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Sm Barrel-Bomb",
-        "count": 3
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 3
-      },
-      {
-        "name": "Sply Lg Brrl Bmb",
-        "count": 2
-      },
-      {
-        "name": "Iron Pickaxe",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21021,
-    "name": "Lavasioth Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nLg Barrel-Bomb ...... Area 2\nMega Potion ......... Area 6\nIron Pickaxe ........ Area 3\nMax Potion .... A cool place",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 3000,
     "time-limit": 50,
+    "map-id": 19,
     "location": "Volcano(Night)",
-    "main-monsters": [
-      "Lavasioth"
-    ],
-    "goal-condition": "Slay the Lavasioth",
-    "quest-details": "Sure it ~C05breathes~C00 molten rocks at you, but it's also got a huge weakness. Give its hollow ~C05legs~C00 a good whack for me, will ya!? ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 110,
-    "weapon": {
-      "name": "Decider",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 4,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Lavasioth",
+    "loadouts": [
       {
-        "name": "Red Piercing",
-        "decorations": [
-          "ShortChargeJewel",
-          "ShortChargeJewel"
+        "loadout-id": 0,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 351,
+          "name": "High Sandman Spike",
+          "type": "sword",
+          "decorations": [
+            {
+              "id": 985,
+              "name": "Bombardier Jewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 113,
+            "part": "helmet",
+            "name": "Shinobi Mask (Sky)",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 111,
+            "part": "plate",
+            "name": "Shinobi Suit (Sky)",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 109,
+            "part": "gauntlet",
+            "name": "Shinobi Kote (Sky)",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 107,
+            "part": "waist",
+            "name": "Shinobi Belt (Sky)",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 106,
+            "part": "legging",
+            "name": "Shinobi Boots (Sky)",
+            "decorations": [
+              {
+                "id": 1080,
+                "name": "Dodge Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 84,
+            "name": "Sm Barrel-Bomb",
+            "count": 3
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 3
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 2
+          },
+          {
+            "id": 145,
+            "name": "Iron Pickaxe",
+            "count": 2
+          }
         ]
       },
       {
-        "name": "Hypno Mail S",
-        "decorations": [
-          "RapidChargeJewel"
+        "loadout-id": 1,
+        "point-multiplier": 110,
+        "weapon": {
+          "id": 609,
+          "name": "Decider",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 53,
+            "part": "helmet",
+            "name": "Red Piercing",
+            "decorations": [
+              {
+                "id": 1056,
+                "name": "ShortChargeJewel"
+              },
+              {
+                "id": 1056,
+                "name": "ShortChargeJewel"
+              }
+            ]
+          },
+          {
+            "id": 367,
+            "part": "plate",
+            "name": "Hypno Mail S",
+            "decorations": [
+              {
+                "id": 1114,
+                "name": "RapidChargeJewel"
+              }
+            ]
+          },
+          {
+            "id": 200,
+            "part": "gauntlet",
+            "name": "Ceanataur Braces U",
+            "decorations": [
+              {
+                "id": 1096,
+                "name": "Hermit Jewel"
+              }
+            ]
+          },
+          {
+            "id": 84,
+            "part": "waist",
+            "name": "Kut-Ku Tasset U",
+            "decorations": [
+              {
+                "id": 1063,
+                "name": "Celebrity Jewel"
+              }
+            ]
+          },
+          {
+            "id": 142,
+            "part": "legging",
+            "name": "Ioprey Greaves S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 7
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 61,
+            "name": "Paralyze Thr Knf",
+            "count": 3
+          }
         ]
       },
       {
-        "name": "Ceanataur Braces U",
-        "decorations": [
-          "Hermit Jewel"
+        "loadout-id": 2,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 1047,
+          "name": "Shell Castanet+",
+          "type": "hunting-horn",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 249,
+            "part": "helmet",
+            "name": "Echo Piercing",
+            "decorations": []
+          },
+          {
+            "id": 190,
+            "part": "plate",
+            "name": "Conga Mail U",
+            "decorations": [
+              {
+                "id": 1081,
+                "name": "Pinch Jewel"
+              }
+            ]
+          },
+          {
+            "id": 188,
+            "part": "gauntlet",
+            "name": "Conga Vambraces U",
+            "decorations": [
+              {
+                "id": 1081,
+                "name": "Pinch Jewel"
+              }
+            ]
+          },
+          {
+            "id": 184,
+            "part": "waist",
+            "name": "Conga Tasset U",
+            "decorations": [
+              {
+                "id": 985,
+                "name": "Bombardier Jewel"
+              }
+            ]
+          },
+          {
+            "id": 184,
+            "part": "legging",
+            "name": "Conga Greaves U",
+            "decorations": [
+              {
+                "id": 1068,
+                "name": "Fasting Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 2
+          }
         ]
       },
       {
-        "name": "Kut-Ku Tasset U",
-        "decorations": [
-          "Celebrity Jewel"
+        "loadout-id": 3,
+        "point-multiplier": 90,
+        "weapon": {
+          "id": 752,
+          "name": "Sadalsuud",
+          "type": "lance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 153,
+            "part": "helmet",
+            "name": "Cephalos Helm S",
+            "decorations": [
+              {
+                "id": 1008,
+                "name": "CoolBreeze Jewel"
+              }
+            ]
+          },
+          {
+            "id": 153,
+            "part": "plate",
+            "name": "Steel Mail S",
+            "decorations": []
+          },
+          {
+            "id": 286,
+            "part": "gauntlet",
+            "name": "UltimateIndraGloves",
+            "decorations": [
+              {
+                "id": 1009,
+                "name": "ColdBreezeJewel"
+              }
+            ]
+          },
+          {
+            "id": 180,
+            "part": "waist",
+            "name": "Hermitaur Tasset S",
+            "decorations": [
+              {
+                "id": 1064,
+                "name": "IronCurtainJewel"
+              }
+            ]
+          },
+          {
+            "id": 289,
+            "part": "legging",
+            "name": "UltimateIndraLggings",
+            "decorations": [
+              {
+                "id": 1009,
+                "name": "ColdBreezeJewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 3
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          }
         ]
       },
       {
-        "name": "Ioprey Greaves S",
-        "decorations": []
+        "loadout-id": 4,
+        "point-multiplier": 115,
+        "weapon": {
+          "id": 238,
+          "name": "Great Arbalest+",
+          "type": "heavy-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 227,
+            "part": "helmet",
+            "name": "Black Belt Helm S",
+            "decorations": []
+          },
+          {
+            "id": 372,
+            "part": "plate",
+            "name": "Narga Vest S",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 224,
+            "part": "gauntlet",
+            "name": "BlackBeltVambraces S",
+            "decorations": []
+          },
+          {
+            "id": 22,
+            "part": "waist",
+            "name": "Chrome Metal Coat",
+            "decorations": []
+          },
+          {
+            "id": 373,
+            "part": "legging",
+            "name": "Narga Leggings S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 70
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 50
+          },
+          {
+            "id": 100,
+            "name": "Pierce S Lv2",
+            "count": 40
+          },
+          {
+            "id": 103,
+            "name": "Pellet S Lv2",
+            "count": 30
+          },
+          {
+            "id": 106,
+            "name": "Crag S Lv2",
+            "count": 8
+          },
+          {
+            "id": 112,
+            "name": "Water S",
+            "count": 40
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 7
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 870,
+            "name": "Sply Max Potion",
+            "count": 1
+          }
+        ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 7
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Paralyze Thr Knf",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21021,
-    "name": "Lavasioth Training",
-    "time-limit": 50,
-    "location": "Volcano(Night)",
-    "main-monsters": [
-      "Lavasioth"
-    ],
-    "goal-condition": "Slay the Lavasioth",
-    "quest-details": "That's a winner's Horn you've got there! ~C05Purple- Red-Red~C00 for Attack Up, and ~C05Red-Blue-Red-Purple~C00 will boost your Health! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Shell Castanet+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Echo Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Conga Mail U",
-        "decorations": [
-          "Pinch Jewel"
-        ]
-      },
-      {
-        "name": "Conga Vambraces U",
-        "decorations": [
-          "Pinch Jewel"
-        ]
-      },
-      {
-        "name": "Conga Tasset U",
-        "decorations": [
-          "Bombardier Jewel"
-        ]
-      },
-      {
-        "name": "Conga Greaves U",
-        "decorations": [
-          "Fasting Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Sply Lg Brrl Bmb",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21021,
-    "name": "Lavasioth Training",
-    "time-limit": 50,
-    "location": "Volcano(Night)",
-    "main-monsters": [
-      "Lavasioth"
-    ],
-    "goal-condition": "Slay the Lavasioth",
-    "quest-details": "Even if your target's stronger than an ox, you'll be alright in your \"~C05Iron Curtain~C00\" armor! But... ~C05the rest is up to you~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 90,
-    "weapon": {
-      "name": "Sadalsuud",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Cephalos Helm S",
-        "decorations": [
-          "CoolBreeze Jewel"
-        ]
-      },
-      {
-        "name": "Steel Mail S",
-        "decorations": []
-      },
-      {
-        "name": "UltimateIndraGloves",
-        "decorations": [
-          "CoolBreeze Jewel"
-        ]
-      },
-      {
-        "name": "Hermitaur Tasset S",
-        "decorations": [
-          "IronCurtainJewel"
-        ]
-      },
-      {
-        "name": "UltimateIndraLggings",
-        "decorations": [
-          "ColdBreezeJewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21021,
-    "name": "Lavasioth Training",
-    "time-limit": 50,
-    "location": "Volcano(Night)",
-    "main-monsters": [
-      "Lavasioth"
-    ],
-    "goal-condition": "Slay the Lavasioth",
-    "quest-details": "~C05Don't get caught between a rock and a hard place~C00! One strike from this heavy-hitter and you're out! ~C05Head for wide areas~C00! Evade! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 115,
-    "weapon": {
-      "name": "Great Arbalest+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Black Belt Helm S",
-        "decorations": []
-      },
-      {
-        "name": "Narga Vest S",
-        "decorations": [
-          "Attack Jewel"
-        ]
-      },
-      {
-        "name": "BlackBeltVambraces S",
-        "decorations": []
-      },
-      {
-        "name": "Chrome Metal Coat",
-        "decorations": []
-      },
-      {
-        "name": "Narga Leggings S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 70
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 50
-      },
-      {
-        "name": "Pierce S Lv2",
-        "count": 40
-      },
-      {
-        "name": "Pellet S Lv2",
-        "count": 30
-      },
-      {
-        "name": "Crag S Lv2",
-        "count": 8
-      },
-      {
-        "name": "Water S",
-        "count": 40
-      },
-      {
-        "name": "Mega Potion",
-        "count": 7
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Sply Max Potion",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 21022,
     "name": "Terra S.Ceanataur Training",
-    "time-limit": 50,
-    "location": "Old Swamp",
-    "main-monsters": [
-      "Terra S.Ceanataur"
-    ],
     "goal-condition": "Slay the Terra S.Ceanataur",
-    "quest-details": "There's only one way to use Dual Blades: ~C05go for its legs and bring it down~C00! The key to conquering danger is ~C05the will to fight~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Tornado Tomahawks",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Giaprey Helm U",
-        "decorations": [
-          "Dodge Jewel"
-        ]
-      },
-      {
-        "name": "Hypno Mail S",
-        "decorations": [
-          "Sprinter Jewel"
-        ]
-      },
-      {
-        "name": "Plesioth Vambraces S",
-        "decorations": [
-          "Evade Jewel"
-        ]
-      },
-      {
-        "name": "Hypno Tasset S",
-        "decorations": [
-          "Dodge Jewel"
-        ]
-      },
-      {
-        "name": "Black Belt Greaves S",
-        "decorations": [
-          "Evade Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 7
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 5
-      },
-      {
-        "name": "Hot Drink",
-        "count": 2
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21022,
-    "name": "Terra S.Ceanataur Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nThr Knife ..... Veggie Elder\nMega Potion ........ Area 10\nIron Pickaxe ........ Area 5\nMax Potion .... Grassy field\n         (bugnet) under tree",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 3000,
     "time-limit": 50,
+    "map-id": 28,
     "location": "Old Swamp",
-    "main-monsters": [
-      "Terra S.Ceanataur"
-    ],
-    "goal-condition": "Slay the Terra S.Ceanataur",
-    "quest-details": "This weapon can crack even the ~C05hardest of hard~C00 crab shells. Now go ~C05stab one good in the back~C00, and bring some home for supper! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Aqua Guardian",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 4,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Terra S.Ceanataur",
+    "loadouts": [
       {
-        "name": "Sword Saint Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Rathian Heart Mail U",
-        "decorations": []
-      },
-      {
-        "name": "Rthan Heart Braces U",
-        "decorations": [
-          "Cure All Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 886,
+          "name": "Tornado Tomahawks",
+          "type": "dual-blades",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 79,
+            "part": "helmet",
+            "name": "Giaprey Helm U",
+            "decorations": [
+              {
+                "id": 1080,
+                "name": "Dodge Jewel"
+              }
+            ]
+          },
+          {
+            "id": 367,
+            "part": "plate",
+            "name": "Hypno Mail S",
+            "decorations": [
+              {
+                "id": 1109,
+                "name": "Sprinter Jewel"
+              }
+            ]
+          },
+          {
+            "id": 158,
+            "part": "gauntlet",
+            "name": "Plesioth Vambraces S",
+            "decorations": [
+              {
+                "id": 1025,
+                "name": "Evade Jewel"
+              }
+            ]
+          },
+          {
+            "id": 359,
+            "part": "waist",
+            "name": "Hypno Tasset S",
+            "decorations": [
+              {
+                "id": 1080,
+                "name": "Dodge Jewel"
+              }
+            ]
+          },
+          {
+            "id": 220,
+            "part": "legging",
+            "name": "Black Belt Greaves S",
+            "decorations": [
+              {
+                "id": 1025,
+                "name": "Evade Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 7
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 5
+          },
+          {
+            "id": 22,
+            "name": "Hot Drink",
+            "count": 2
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Rathian Heart Coil U",
-        "decorations": []
+        "loadout-id": 1,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 617,
+          "name": "Aqua Guardian",
+          "type": "long-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 309,
+            "part": "helmet",
+            "name": "Sword Saint Piercing",
+            "decorations": []
+          },
+          {
+            "id": 287,
+            "part": "plate",
+            "name": "Rathian Heart Mail U",
+            "decorations": []
+          },
+          {
+            "id": 282,
+            "part": "gauntlet",
+            "name": "Rthan Heart Braces U",
+            "decorations": [
+              {
+                "id": 1078,
+                "name": "Cure All Jewel"
+              }
+            ]
+          },
+          {
+            "id": 280,
+            "part": "waist",
+            "name": "Rathian Heart Coil U",
+            "decorations": []
+          },
+          {
+            "id": 285,
+            "part": "legging",
+            "name": "RathianHeartGreavesU",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 4
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 22,
+            "name": "Hot Drink",
+            "count": 2
+          },
+          {
+            "id": 24,
+            "name": "Psychoserum",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "RathianHeartGreavesU",
-        "decorations": []
+        "loadout-id": 2,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 399,
+          "name": "Blood Flute",
+          "type": "hunting-horn",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 249,
+            "part": "helmet",
+            "name": "Echo Piercing",
+            "decorations": []
+          },
+          {
+            "id": 273,
+            "part": "plate",
+            "name": "Tigrex Mail S",
+            "decorations": [
+              {
+                "id": 1032,
+                "name": "QuickEaterJewel"
+              }
+            ]
+          },
+          {
+            "id": 268,
+            "part": "gauntlet",
+            "name": "Tigrex Vambraces S",
+            "decorations": [
+              {
+                "id": 1084,
+                "name": "Fast Food Jewel"
+              }
+            ]
+          },
+          {
+            "id": 266,
+            "part": "waist",
+            "name": "Tigrex Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 271,
+            "part": "legging",
+            "name": "Tigrex Greaves S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 4
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 22,
+            "name": "Hot Drink",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "loadout-id": 3,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 757,
+          "name": "Spark Plug",
+          "type": "lance",
+          "decorations": [
+            {
+              "id": 1053,
+              "name": "ConstitutnJewel"
+            },
+            {
+              "id": 1053,
+              "name": "ConstitutnJewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 227,
+            "part": "helmet",
+            "name": "Black Belt Helm S",
+            "decorations": []
+          },
+          {
+            "id": 371,
+            "part": "plate",
+            "name": "Narga Mail S",
+            "decorations": [
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              }
+            ]
+          },
+          {
+            "id": 92,
+            "part": "gauntlet",
+            "name": "Steel Vambraces U",
+            "decorations": [
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              },
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              }
+            ]
+          },
+          {
+            "id": 92,
+            "part": "waist",
+            "name": "Steel Belt U",
+            "decorations": [
+              {
+                "id": 1091,
+                "name": "Health Jewel"
+              }
+            ]
+          },
+          {
+            "id": 372,
+            "part": "legging",
+            "name": "Narga Greaves S",
+            "decorations": [
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 5
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 22,
+            "name": "Hot Drink",
+            "count": 2
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "loadout-id": 4,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 173,
+          "name": "Nebula Storm",
+          "type": "light-bowgun",
+          "decorations": [
+            {
+              "id": 1023,
+              "name": "Armory Jewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 245,
+            "part": "helmet",
+            "name": "Piercing of Pursuit",
+            "decorations": []
+          },
+          {
+            "id": 226,
+            "part": "plate",
+            "name": "Black Belt Mail S",
+            "decorations": [
+              {
+                "id": 1029,
+                "name": "Ammo Box Jewel"
+              }
+            ]
+          },
+          {
+            "id": 224,
+            "part": "gauntlet",
+            "name": "BlackBeltVambraces S",
+            "decorations": []
+          },
+          {
+            "id": 222,
+            "part": "waist",
+            "name": "Black Belt Tasset S",
+            "decorations": [
+              {
+                "id": 1023,
+                "name": "Armory Jewel"
+              },
+              {
+                "id": 1023,
+                "name": "Armory Jewel"
+              }
+            ]
+          },
+          {
+            "id": 220,
+            "part": "legging",
+            "name": "Black Belt Greaves S",
+            "decorations": [
+              {
+                "id": 1023,
+                "name": "Armory Jewel"
+              },
+              {
+                "id": 1023,
+                "name": "Armory Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 93,
+            "name": "Huskberry",
+            "count": 26
+          },
+          {
+            "id": 348,
+            "name": "Velociprey Fang",
+            "count": 20
+          },
+          {
+            "id": 191,
+            "name": "Bomberry",
+            "count": 6
+          },
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 30
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 60
+          },
+          {
+            "id": 112,
+            "name": "Water S",
+            "count": 30
+          },
+          {
+            "id": 119,
+            "name": "Poison S Lv2",
+            "count": 8
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 4
+          },
+          {
+            "id": 22,
+            "name": "Hot Drink",
+            "count": 2
+          }
+        ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Hot Drink",
-        "count": 2
-      },
-      {
-        "name": "Psychoserum",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21022,
-    "name": "Terra S.Ceanataur Training",
-    "time-limit": 50,
-    "location": "Old Swamp",
-    "main-monsters": [
-      "Terra S.Ceanataur"
-    ],
-    "goal-condition": "Slay the Terra S.Ceanataur",
-    "quest-details": "A fierce Horn from a fierce Carapaceon! Plus, play ~C05Purple-Purple-Red-Red-Green-Red~C00 to ~C05put some pep into your step~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Blood Flute",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Echo Piercing",
-        "decorations": []
-      },
-      {
-        "name": "Tigrex Mail S",
-        "decorations": [
-          "QuickEaterJewel"
-        ]
-      },
-      {
-        "name": "Tigrex Vambraces S",
-        "decorations": [
-          "Fast Food Jewel"
-        ]
-      },
-      {
-        "name": "Tigrex Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Tigrex Greaves S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Mega Potion",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Hot Drink",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21022,
-    "name": "Terra S.Ceanataur Training",
-    "time-limit": 50,
-    "location": "Old Swamp",
-    "main-monsters": [
-      "Terra S.Ceanataur"
-    ],
-    "goal-condition": "Slay the Terra S.Ceanataur",
-    "quest-details": "A ~C05test of endurance~C00 if I ever saw one. Let the raging waves hit you over and over, but keep an eye out for openings. Then strike! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Spark Plug",
-      "decorations": [
-        "Constitutn Jewel",
-        "Constitutn Jewel"
-      ]
-    },
-    "armors": [
-      {
-        "name": "Black Belt Helm S",
-        "decorations": []
-      },
-      {
-        "name": "Narga Mail S",
-        "decorations": [
-          "Psychic Jewel"
-        ]
-      },
-      {
-        "name": "Steel Vambraces U",
-        "decorations": [
-          "Psychic Jewel",
-          "Psychic Jewel"
-        ]
-      },
-      {
-        "name": "Steel Belt U",
-        "decorations": [
-          "Health Jewel"
-        ]
-      },
-      {
-        "name": "Narga Greaves S",
-        "decorations": [
-          "Psychic Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Mega Potion",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Hot Drink",
-        "count": 2
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21022,
-    "name": "Terra S.Ceanataur Training",
-    "time-limit": 50,
-    "location": "Old Swamp",
-    "main-monsters": [
-      "Terra S.Ceanataur"
-    ],
-    "goal-condition": "Slay the Terra S.Ceanataur",
-    "quest-details": "Those ~C05Water S~C00 you're carrying will ~C05freeze that crab's shell~C00 right over, causing enormous amounts of damage! Use them well! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Nebula Storm",
-      "decorations": [
-        "Armory Jewel"
-      ]
-    },
-    "armors": [
-      {
-        "name": "Piercing of Pursuit",
-        "decorations": []
-      },
-      {
-        "name": "Black Belt Mail S",
-        "decorations": [
-          "Ammo Box Jewel"
-        ]
-      },
-      {
-        "name": "BlackBeltVambraces S",
-        "decorations": []
-      },
-      {
-        "name": "Black Belt Tasset S",
-        "decorations": [
-          "Ammo Box Jewel",
-          "Ammo Box Jewel"
-        ]
-      },
-      {
-        "name": "Black Belt Greaves S",
-        "decorations": [
-          "Ammo Box Jewel",
-          "Ammo Box Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 30
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 60
-      },
-      {
-        "name": "Huskberry",
-        "count": 26
-      },
-      {
-        "name": "Velociprey Fang",
-        "count": 20
-      },
-      {
-        "name": "Bomberry",
-        "count": 6
-      },
-      {
-        "name": "Water S",
-        "count": 30
-      },
-      {
-        "name": "Poison S Lv2",
-        "count": 8
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 4
-      },
-      {
-        "name": "Hot Drink",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 21023,
     "name": "Rajang Training",
-    "time-limit": 50,
-    "location": "Old Volcano",
-    "main-monsters": [
-      "Rajang"
-    ],
     "goal-condition": "Slay the Rajang",
-    "quest-details": "Wow! You're definitely the cream of the crop! ~C05I am deeply impressed~C00! I have nothing more to say. ~C05SHOW ME YOUR HUNTER'S PRIDE~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 5,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Hexed Shaka Hatchet",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Piercing of Might",
-        "decorations": []
-      },
-      {
-        "name": "Garuga Mail X",
-        "decorations": [
-          "Grinder Jewel",
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Garuga Vambraces X",
-        "decorations": [
-          "TrapMasterJewel",
-          "TrapMasterJewel"
-        ]
-      },
-      {
-        "name": "Garuga Tasset X",
-        "decorations": [
-          "TrapMasterJewel",
-          "TrapMasterJewel"
-        ]
-      },
-      {
-        "name": "Garuga Greaves X",
-        "decorations": [
-          "TrapMasterJewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 6
-      },
-      {
-        "name": "Mega Potion",
-        "count": 8
-      },
-      {
-        "name": "Ration",
-        "count": 5
-      },
-      {
-        "name": "Cool Drink",
-        "count": 4
-      },
-      {
-        "name": "Ancient Potion",
-        "count": 1
-      },
-      {
-        "name": "Pitfall Trap",
-        "count": 1
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Sply Lg Brrl Bmb",
-        "count": 2
-      },
-      {
-        "name": "Paintball",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 21023,
-    "name": "Rajang Training",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": " ▲▼Instructor's Note▲▼\nNet .... Area 4 (South East)\nMega Potion .... Furthest in\nDemondrug ........... Area 7\nMax Potion .. Near base camp",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 4000,
     "time-limit": 50,
+    "map-id": 29,
     "location": "Old Volcano",
-    "main-monsters": [
-      "Rajang"
-    ],
-    "goal-condition": "Slay the Rajang",
-    "quest-details": "Wow! You're definitely the cream of the crop! ~C05I am deeply impressed~C00! I have nothing more to say. ~C05SHOW ME YOUR HUNTER'S PRIDE~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 5,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Edelweiss Ice Blade",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 5,
+    "rank-code": 4,
+    "time-limit-ticks": 90000,
+    "monster-display-text": "Rajang",
+    "loadouts": [
       {
-        "name": "Narga Helm X",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 917,
+          "name": "Hexed Shaka Hatchet",
+          "type": "sword",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 247,
+            "part": "helmet",
+            "name": "Piercing of Might",
+            "decorations": []
+          },
+          {
+            "id": 304,
+            "part": "plate",
+            "name": "Garuga Mail X",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              },
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 298,
+            "part": "gauntlet",
+            "name": "Garuga Vambraces X",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              },
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          },
+          {
+            "id": 296,
+            "part": "waist",
+            "name": "Garuga Tasset X",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              },
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          },
+          {
+            "id": 305,
+            "part": "legging",
+            "name": "Garuga Greaves X",
+            "decorations": [
+              {
+                "id": 1046,
+                "name": "TrapMasterJewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 6
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 5
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 4
+          },
+          {
+            "id": 32,
+            "name": "Ancient Potion",
+            "count": 1
+          },
+          {
+            "id": 78,
+            "name": "Pitfall Trap",
+            "count": 1
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 2
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          }
         ]
       },
       {
-        "name": "Black Belt Mail S",
-        "decorations": [
-          "Jumping Jewel"
+        "loadout-id": 1,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 619,
+          "name": "Edelweiss Ice Blade",
+          "type": "long-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 417,
+            "part": "helmet",
+            "name": "Narga Helm X",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 226,
+            "part": "plate",
+            "name": "Black Belt Mail S",
+            "decorations": [
+              {
+                "id": 1041,
+                "name": "Jumping Jewel"
+              }
+            ]
+          },
+          {
+            "id": 395,
+            "part": "gauntlet",
+            "name": "Narga Vambraces X",
+            "decorations": [
+              {
+                "id": 965,
+                "name": "Artisan Jewel"
+              },
+              {
+                "id": 965,
+                "name": "Artisan Jewel"
+              }
+            ]
+          },
+          {
+            "id": 393,
+            "part": "waist",
+            "name": "Narga Tasset X",
+            "decorations": [
+              {
+                "id": 965,
+                "name": "Artisan Jewel"
+              },
+              {
+                "id": 965,
+                "name": "Artisan Jewel"
+              }
+            ]
+          },
+          {
+            "id": 402,
+            "part": "legging",
+            "name": "Narga Greaves X",
+            "decorations": [
+              {
+                "id": 1094,
+                "name": "Master Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 5
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 5
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 4
+          },
+          {
+            "id": 32,
+            "name": "Ancient Potion",
+            "count": 1
+          },
+          {
+            "id": 78,
+            "name": "Pitfall Trap",
+            "count": 1
+          },
+          {
+            "id": 24,
+            "name": "Psychoserum",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Narga Vambraces X",
-        "decorations": [
-          "Artisan Jewel",
-          "Artisan Jewel"
+        "loadout-id": 2,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 1029,
+          "name": "Icy Impact",
+          "type": "hammer",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 334,
+            "part": "helmet",
+            "name": "Conga Helm Z",
+            "decorations": []
+          },
+          {
+            "id": 318,
+            "part": "plate",
+            "name": "Conga Mail Z",
+            "decorations": [
+              {
+                "id": 964,
+                "name": "Razor Jewel"
+              }
+            ]
+          },
+          {
+            "id": 312,
+            "part": "gauntlet",
+            "name": "Conga Vambraces Z",
+            "decorations": [
+              {
+                "id": 964,
+                "name": "Razor Jewel"
+              }
+            ]
+          },
+          {
+            "id": 310,
+            "part": "waist",
+            "name": "Conga Tasset Z",
+            "decorations": [
+              {
+                "id": 1035,
+                "name": "Anchor Jewel"
+              }
+            ]
+          },
+          {
+            "id": 319,
+            "part": "legging",
+            "name": "Conga Greaves Z",
+            "decorations": [
+              {
+                "id": 1086,
+                "name": "Tectonic Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 5
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 5
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 4
+          },
+          {
+            "id": 32,
+            "name": "Ancient Potion",
+            "count": 1
+          },
+          {
+            "id": 79,
+            "name": "Shock Trap",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Narga Tasset X",
-        "decorations": [
-          "Artisan Jewel",
-          "Artisan Jewel"
+        "loadout-id": 3,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 770,
+          "name": "Violet Cannon",
+          "type": "gunlance",
+          "decorations": [
+            {
+              "id": 1069,
+              "name": "Fierce Jewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 332,
+            "part": "helmet",
+            "name": "Hermitaur Helm Z",
+            "decorations": [
+              {
+                "id": 1064,
+                "name": "IronCurtainJewel"
+              }
+            ]
+          },
+          {
+            "id": 316,
+            "part": "plate",
+            "name": "Hermitaur Mail Z",
+            "decorations": [
+              {
+                "id": 1069,
+                "name": "Fierce Jewel"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "part": "gauntlet",
+            "name": "UltimateIndraGloves",
+            "decorations": [
+              {
+                "id": 969,
+                "name": "Stone Wall Jewel"
+              }
+            ]
+          },
+          {
+            "id": 308,
+            "part": "waist",
+            "name": "Hermitaur Tasset Z",
+            "decorations": [
+              {
+                "id": 1103,
+                "name": "Strongest Jewel"
+              }
+            ]
+          },
+          {
+            "id": 289,
+            "part": "legging",
+            "name": "UltimateIndraLggings",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 153,
+            "name": "Whetstone",
+            "count": 5
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 5
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 4
+          },
+          {
+            "id": 32,
+            "name": "Ancient Potion",
+            "count": 1
+          },
+          {
+            "id": 78,
+            "name": "Pitfall Trap",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Narga Greaves X",
-        "decorations": [
-          "Master Jewel"
+        "loadout-id": 4,
+        "point-multiplier": 90,
+        "weapon": {
+          "id": 293,
+          "name": "Abominable Bow II",
+          "type": "bow",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 319,
+            "part": "helmet",
+            "name": "Lava Cap X",
+            "decorations": []
+          },
+          {
+            "id": 303,
+            "part": "plate",
+            "name": "Lava Vest X",
+            "decorations": []
+          },
+          {
+            "id": 297,
+            "part": "gauntlet",
+            "name": "Lava Guards X",
+            "decorations": []
+          },
+          {
+            "id": 295,
+            "part": "waist",
+            "name": "Lava Coat X",
+            "decorations": []
+          },
+          {
+            "id": 304,
+            "part": "legging",
+            "name": "Lava Leggings X",
+            "decorations": [
+              {
+                "id": 1022,
+                "name": "Professor Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 130,
+            "name": "Power Coating",
+            "count": 50
+          },
+          {
+            "id": 133,
+            "name": "Sleep Coating",
+            "count": 20
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 5
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 4
+          }
         ]
       }
     ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Mega Potion",
-        "count": 8
-      },
-      {
-        "name": "Ration",
-        "count": 5
-      },
-      {
-        "name": "Cool Drink",
-        "count": 4
-      },
-      {
-        "name": "Ancient Potion",
-        "count": 1
-      },
-      {
-        "name": "Pitfall Trap",
-        "count": 1
-      },
-      {
-        "name": "Psychoserum",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 21023,
-    "name": "Rajang Training",
-    "time-limit": 50,
-    "location": "Old Volcano",
-    "main-monsters": [
-      "Rajang"
-    ],
-    "goal-condition": "Slay the Rajang",
-    "quest-details": "Wow! You're definitely the cream of the crop! ~C05I am deeply impressed~C00! I have nothing more to say. ~C05SHOW ME YOUR HUNTER'S PRIDE~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 5,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Icy Impact",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Conga Helm Z",
-        "decorations": []
-      },
-      {
-        "name": "Conga Mail Z",
-        "decorations": [
-          "Razor Jewel"
-        ]
-      },
-      {
-        "name": "Conga Vambraces Z",
-        "decorations": [
-          "Razor Jewel"
-        ]
-      },
-      {
-        "name": "Conga Tasset Z",
-        "decorations": [
-          "Anchor Jewel"
-        ]
-      },
-      {
-        "name": "Conga Greaves Z",
-        "decorations": [
-          "Tectonic Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Mega Potion",
-        "count": 8
-      },
-      {
-        "name": "Ration",
-        "count": 5
-      },
-      {
-        "name": "Cool Drink",
-        "count": 4
-      },
-      {
-        "name": "Ancient Potion",
-        "count": 1
-      },
-      {
-        "name": "Shock Trap",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 21023,
-    "name": "Rajang Training",
-    "time-limit": 50,
-    "location": "Old Volcano",
-    "main-monsters": [
-      "Rajang"
-    ],
-    "goal-condition": "Slay the Rajang",
-    "quest-details": "Wow! You're definitely the cream of the crop! ~C05I am deeply impressed~C00! I have nothing more to say. ~C05SHOW ME YOUR HUNTER'S PRIDE~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 5,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Violet Cannon",
-      "decorations": [
-        "Fierce Jewel"
-      ]
-    },
-    "armors": [
-      {
-        "name": "Hermitaur Helm Z",
-        "decorations": [
-          "IronCurtainJewel"
-        ]
-      },
-      {
-        "name": "Hermitaur Mail Z",
-        "decorations": [
-          "Fierce Jewel"
-        ]
-      },
-      {
-        "name": "UltimateIndraGloves",
-        "decorations": [
-          "Stone Wall Jewel"
-        ]
-      },
-      {
-        "name": "Hermitaur Tasset Z",
-        "decorations": [
-          "Strongest Jewel"
-        ]
-      },
-      {
-        "name": "UltimateIndraLggings",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Mega Potion",
-        "count": 8
-      },
-      {
-        "name": "Ration",
-        "count": 5
-      },
-      {
-        "name": "Cool Drink",
-        "count": 4
-      },
-      {
-        "name": "Ancient Potion",
-        "count": 1
-      },
-      {
-        "name": "Pitfall Trap",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 21023,
-    "name": "Rajang Training",
-    "time-limit": 50,
-    "location": "Old Volcano",
-    "main-monsters": [
-      "Rajang"
-    ],
-    "goal-condition": "Slay the Rajang",
-    "quest-details": "Wow! You're definitely the cream of the crop! ~C05I am deeply impressed~C00! I have nothing more to say. ~C05SHOW ME YOUR HUNTER'S PRIDE~C00! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 5,
-    "point-multiplier": 90,
-    "weapon": {
-      "name": "Abominable Bow II",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Lava Cap X",
-        "decorations": []
-      },
-      {
-        "name": "Lava Vest X",
-        "decorations": []
-      },
-      {
-        "name": "Lava Guards X",
-        "decorations": []
-      },
-      {
-        "name": "Lava Coat X",
-        "decorations": []
-      },
-      {
-        "name": "Lava Leggings X",
-        "decorations": [
-          "Professor Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Power Coating",
-        "count": 50
-      },
-      {
-        "name": "Sleep Coating",
-        "count": 20
-      },
-      {
-        "name": "Mega Potion",
-        "count": 8
-      },
-      {
-        "name": "Ration",
-        "count": 5
-      },
-      {
-        "name": "Cool Drink",
-        "count": 4
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 1,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   }
 ]

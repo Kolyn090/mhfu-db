@@ -2,2052 +2,3010 @@
   {
     "id": 22001,
     "name": "Blue Yian Kut-Ku Exercises",
-    "max-party": 2,
-    "time-limit": 50,
+    "goal-condition": "Slay the Blue Yian Kut-Ku",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": "It is I, your esteemed\ninstructor. If you can clear\nthis Group Training in time,\nyour reward will explode!\nFaster! Smarter! Set a new\nrecord!",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 900,
+    "time-limit": 10,
+    "map-id": 9,
     "location": "Great Arena",
-    "main-monsters": [
-      "Yian Kut-Ku"
-    ],
-    "goal-condition": "Slay the Yian Kut-Ku",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Poison Battleaxe",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 2,
+    "rank-code": 4,
+    "time-limit-ticks": 18000,
+    "monster-display-text": "Blue Yian Kut-Ku",
+    "loadouts": [
       {
-        "name": "Genprey Helm",
-        "decorations": []
+        "loadout-id": 0,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 177,
+          "name": "Poison Battleaxe",
+          "type": "sword",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 17,
+            "part": "helmet",
+            "name": "Genprey Helm",
+            "decorations": []
+          },
+          {
+            "id": 9,
+            "part": "plate",
+            "name": "Battle Mail",
+            "decorations": []
+          },
+          {
+            "id": 17,
+            "part": "gauntlet",
+            "name": "Genprey Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 11,
+            "part": "waist",
+            "name": "Battle Tasset",
+            "decorations": []
+          },
+          {
+            "id": 7,
+            "part": "legging",
+            "name": "Velociprey Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 1
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 200,
+            "name": "Stone",
+            "count": 2
+          },
+          {
+            "id": 871,
+            "name": "Sply Pitfall Trp",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Battle Mail",
-        "decorations": []
+        "loadout-id": 1,
+        "point-multiplier": 90,
+        "weapon": {
+          "id": 35,
+          "name": "Valkyrie Blade",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 3,
+            "part": "helmet",
+            "name": "Hunter's Helm",
+            "decorations": []
+          },
+          {
+            "id": 9,
+            "part": "plate",
+            "name": "Battle Mail",
+            "decorations": []
+          },
+          {
+            "id": 3,
+            "part": "waist",
+            "name": "Chain Belt",
+            "decorations": []
+          },
+          {
+            "id": 9,
+            "part": "legging",
+            "name": "Battle Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 3
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 1
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Genprey Vambraces",
-        "decorations": []
+        "loadout-id": 2,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 65,
+          "name": "Spiked Hammer+",
+          "type": "hammer",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 7,
+            "part": "helmet",
+            "name": "Velociprey Helm",
+            "decorations": []
+          },
+          {
+            "id": 7,
+            "part": "plate",
+            "name": "Velociprey Mail",
+            "decorations": []
+          },
+          {
+            "id": 250,
+            "part": "gauntlet",
+            "name": "Gypceros Vambraces D",
+            "decorations": []
+          },
+          {
+            "id": 22,
+            "part": "waist",
+            "name": "Chrome Metal Coat",
+            "decorations": []
+          },
+          {
+            "id": 7,
+            "part": "legging",
+            "name": "Velociprey Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 2
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 200,
+            "name": "Stone",
+            "count": 1
+          },
+          {
+            "id": 66,
+            "name": "Sonic Bomb",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Battle Tasset",
-        "decorations": []
+        "loadout-id": 3,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 108,
+          "name": "Paladin Lance",
+          "type": "lance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 17,
+            "part": "helmet",
+            "name": "Genprey Helm",
+            "decorations": []
+          },
+          {
+            "id": 9,
+            "part": "plate",
+            "name": "Battle Mail",
+            "decorations": []
+          },
+          {
+            "id": 17,
+            "part": "gauntlet",
+            "name": "Genprey Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 11,
+            "part": "waist",
+            "name": "Battle Tasset",
+            "decorations": []
+          },
+          {
+            "id": 7,
+            "part": "legging",
+            "name": "Velociprey Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 3
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 200,
+            "name": "Stone",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Velociprey Greaves",
-        "decorations": []
+        "loadout-id": 4,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 7,
+          "name": "Desert Storm",
+          "type": "light-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 10,
+            "part": "helmet",
+            "name": "Battle Cap",
+            "decorations": []
+          },
+          {
+            "id": 189,
+            "part": "plate",
+            "name": "Conga Vest",
+            "decorations": []
+          },
+          {
+            "id": 10,
+            "part": "gauntlet",
+            "name": "Battle Guards",
+            "decorations": []
+          },
+          {
+            "id": 183,
+            "part": "waist",
+            "name": "Conga Coat",
+            "decorations": []
+          },
+          {
+            "id": 4,
+            "part": "legging",
+            "name": "Hunter's Leggings",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 15,
+            "name": "Demondrug",
+            "count": 2
+          },
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 105,
+            "name": "Crag S Lv1",
+            "count": 9
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 40
+          },
+          {
+            "id": 98,
+            "name": "Normal S Lv3",
+            "count": 20
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 50
+          },
+          {
+            "id": 120,
+            "name": "Para S Lv1",
+            "count": 5
+          },
+          {
+            "id": 108,
+            "name": "Clust S Lv1",
+            "count": 3
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          }
+        ]
       }
     ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 1
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Stone",
-        "count": 2
-      },
-      {
-        "name": "Sply Pitfall Trp",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 22001,
-    "name": "Blue Yian Kut-Ku Exercises",
     "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Yian Kut-Ku"
-    ],
-    "goal-condition": "Slay the Yian Kut-Ku",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 90,
-    "weapon": {
-      "name": "Valkyrie Blade",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Hunter's Helm",
-        "decorations": []
-      },
-      {
-        "name": "Battle Mail",
-        "decorations": []
-      },
-      {
-        "name": "Chain Belt",
-        "decorations": []
-      },
-      {
-        "name": "Battle Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 1
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 22001,
-    "name": "Blue Yian Kut-Ku Exercises",
-    "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Yian Kut-Ku"
-    ],
-    "goal-condition": "Slay the Yian Kut-Ku",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Spiked Hammer",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Velociprey Helm",
-        "decorations": []
-      },
-      {
-        "name": "Velociprey Mail",
-        "decorations": []
-      },
-      {
-        "name": "Gypceros Vambraces D",
-        "decorations": []
-      },
-      {
-        "name": "Chrome Metal Coat",
-        "decorations": []
-      },
-      {
-        "name": "Velociprey Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 2
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Stone",
-        "count": 1
-      },
-      {
-        "name": "Sonic Bomb",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 22001,
-    "name": "Blue Yian Kut-Ku Exercises",
-    "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Yian Kut-Ku"
-    ],
-    "goal-condition": "Slay the Yian Kut-Ku",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Paladin Lance",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Genprey Helm",
-        "decorations": []
-      },
-      {
-        "name": "Battle Mail",
-        "decorations": []
-      },
-      {
-        "name": "Genprey Vambraces",
-        "decorations": []
-      },
-      {
-        "name": "Battle Tasset",
-        "decorations": []
-      },
-      {
-        "name": "Velociprey Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Stone",
-        "count": 2
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 22001,
-    "name": "Blue Yian Kut-Ku Exercises",
-    "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Yian Kut-Ku"
-    ],
-    "goal-condition": "Slay the Yian Kut-Ku",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Desert Storm",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Battle Cap",
-        "decorations": []
-      },
-      {
-        "name": "Conga Vest",
-        "decorations": []
-      },
-      {
-        "name": "Battle Guards",
-        "decorations": []
-      },
-      {
-        "name": "Conga Coat",
-        "decorations": []
-      },
-      {
-        "name": "Hunter's Leggings",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Demondrug",
-        "count": 2
-      },
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Crag S Lv1",
-        "count": 9
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 40
-      },
-      {
-        "name": "Normal S Lv3",
-        "count": 20
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 50
-      },
-      {
-        "name": "Para S Lv1",
-        "count": 5
-      },
-      {
-        "name": "Clust S Lv1",
-        "count": 3
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 22002,
     "name": "Cephadrome Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Desert(Day)",
-    "main-monsters": [
-      "Cephadrome"
-    ],
     "goal-condition": "Slay the Cephadrome",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Velociprey Bite",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Piercing of Pursuit",
-        "decorations": []
-      },
-      {
-        "name": "Leather Armor",
-        "decorations": []
-      },
-      {
-        "name": "Leather Vambraces",
-        "decorations": []
-      },
-      {
-        "name": "Leather Belt",
-        "decorations": []
-      },
-      {
-        "name": "Green Pants",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 2
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Large Barrel",
-        "count": 5
-      },
-      {
-        "name": "Sm Barrel-Bomb",
-        "count": 3
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Paintball",
-        "count": 2
-      },
-      {
-        "name": "Screamer",
-        "count": 3
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 22002,
-    "name": "Cephadrome Exercises",
-    "max-party": 4,
-    "time-limit": 50,
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": "It is I, your esteemed\ninstructor. An all out\nassault will only lower your\ntime marginally. Victory\nrests on what you have and\nwhat you can combine it with\nin the southern desert.",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 2100,
+    "time-limit": 30,
+    "map-id": 3,
     "location": "Desert(Day)",
-    "main-monsters": [
-      "Cephadrome"
-    ],
-    "goal-condition": "Slay the Cephadrome",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 90,
-    "weapon": {
-      "name": "Golem Blade+",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 3,
+    "rank-code": 4,
+    "time-limit-ticks": 54000,
+    "monster-display-text": "Cephadrome",
+    "loadouts": [
       {
-        "name": "Kut-Ku Helm",
-        "decorations": []
-      },
-      {
-        "name": "Rathalos Tasset",
-        "decorations": []
-      },
-      {
-        "name": "Kut-Ku Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 6
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 2
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Lifepowder",
-        "count": 2
-      },
-      {
-        "name": "Power Pill",
-        "count": 1
-      },
-      {
-        "name": "Large Barrel",
-        "count": 5
-      },
-      {
-        "name": "Sm Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Paintball",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 22002,
-    "name": "Cephadrome Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Desert(Day)",
-    "main-monsters": [
-      "Cephadrome"
-    ],
-    "goal-condition": "Slay the Cephadrome",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Giaprey Balloon+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Bone Helm",
-        "decorations": []
-      },
-      {
-        "name": "Bone Mail",
-        "decorations": []
-      },
-      {
-        "name": "Bone Vambraces",
-        "decorations": []
-      },
-      {
-        "name": "Bone Tasset",
-        "decorations": []
-      },
-      {
-        "name": "Bone Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 8
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 2
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Large Barrel",
-        "count": 5
-      },
-      {
-        "name": "Sm Barrel-Bomb",
-        "count": 3
-      },
-      {
-        "name": "Paintball",
-        "count": 2
-      },
-      {
-        "name": "Paralyze Thr Knf",
-        "count": 5
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 22002,
-    "name": "Cephadrome Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Desert(Day)",
-    "main-monsters": [
-      "Cephadrome"
-    ],
-    "goal-condition": "Slay the Cephadrome",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Dark Lance",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Cephalos Vambraces",
-        "decorations": []
-      },
-      {
-        "name": "Cephalos Tasset",
-        "decorations": []
-      },
-      {
-        "name": "Cephalos Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 9
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 2
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Cool Drink",
-        "count": 3
-      },
-      {
-        "name": "Large Barrel",
-        "count": 5
-      },
-      {
-        "name": "Sm Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Paintball",
-        "count": 2
-      },
-      {
-        "name": "Paralyze Thr Knf",
-        "count": 2
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 22002,
-    "name": "Cephadrome Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Desert(Day)",
-    "main-monsters": [
-      "Cephadrome"
-    ],
-    "goal-condition": "Slay the Cephadrome",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 3,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Tankmage",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Hunter's Vest",
-        "decorations": []
-      },
-      {
-        "name": "Hunter's Guards",
-        "decorations": []
-      },
-      {
-        "name": "Hunter's Coat",
-        "decorations": [
-          "Psychic Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 166,
+          "name": "Velocidrome Bite",
+          "type": "sword",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 245,
+            "part": "helmet",
+            "name": "Piercing of Pursuit",
+            "decorations": []
+          },
+          {
+            "id": 1,
+            "part": "plate",
+            "name": "Leather Armor",
+            "decorations": []
+          },
+          {
+            "id": 1,
+            "part": "gauntlet",
+            "name": "Leather Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 1,
+            "part": "waist",
+            "name": "Leather Belt",
+            "decorations": []
+          },
+          {
+            "id": 1,
+            "part": "legging",
+            "name": "Green Pants",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 7
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 2
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 83,
+            "name": "Large Barrel",
+            "count": 5
+          },
+          {
+            "id": 84,
+            "name": "Sm Barrel-Bomb",
+            "count": 3
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          },
+          {
+            "id": 266,
+            "name": "Screamer",
+            "count": 3
+          }
         ]
       },
       {
-        "name": "Hunter's Leggings",
-        "decorations": [
-          "Psychic Jewel"
+        "loadout-id": 1,
+        "point-multiplier": 90,
+        "weapon": {
+          "id": 492,
+          "name": "Golem Blade+",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 263,
+            "part": "helmet",
+            "name": "Kut-Ku Helm",
+            "decorations": []
+          },
+          {
+            "id": 36,
+            "part": "waist",
+            "name": "Rathalos Tasset",
+            "decorations": []
+          },
+          {
+            "id": 247,
+            "part": "legging",
+            "name": "Kut-Ku Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 2
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 2
+          },
+          {
+            "id": 17,
+            "name": "Power Pill",
+            "count": 1
+          },
+          {
+            "id": 83,
+            "name": "Large Barrel",
+            "count": 5
+          },
+          {
+            "id": 84,
+            "name": "Sm Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "loadout-id": 2,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 580,
+          "name": "Giaprey Balloon+",
+          "type": "hunting-horn",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 5,
+            "part": "helmet",
+            "name": "Bone Helm",
+            "decorations": []
+          },
+          {
+            "id": 5,
+            "part": "plate",
+            "name": "Bone Mail",
+            "decorations": []
+          },
+          {
+            "id": 5,
+            "part": "gauntlet",
+            "name": "Bone Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 7,
+            "part": "waist",
+            "name": "Bone Tasset",
+            "decorations": []
+          },
+          {
+            "id": 5,
+            "part": "legging",
+            "name": "Bone Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 2
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 83,
+            "name": "Large Barrel",
+            "count": 5
+          },
+          {
+            "id": 84,
+            "name": "Sm Barrel-Bomb",
+            "count": 3
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          },
+          {
+            "id": 61,
+            "name": "Paralyze Thr Knf",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "loadout-id": 3,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 115,
+          "name": "Dark Lance",
+          "type": "lance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 25,
+            "part": "gauntlet",
+            "name": "Cephalos Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 29,
+            "part": "waist",
+            "name": "Cephalos Tasset",
+            "decorations": []
+          },
+          {
+            "id": 27,
+            "part": "legging",
+            "name": "Cephalos Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 9
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 2
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 83,
+            "name": "Large Barrel",
+            "count": 5
+          },
+          {
+            "id": 84,
+            "name": "Sm Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          },
+          {
+            "id": 61,
+            "name": "Paralyze Thr Knf",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "loadout-id": 4,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 81,
+          "name": "Tankmage",
+          "type": "heavy-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 4,
+            "part": "plate",
+            "name": "Hunter's Vest",
+            "decorations": []
+          },
+          {
+            "id": 4,
+            "part": "gauntlet",
+            "name": "Hunter's Guards",
+            "decorations": []
+          },
+          {
+            "id": 6,
+            "part": "waist",
+            "name": "Hunter's Coat",
+            "decorations": [
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "part": "legging",
+            "name": "Hunter's Leggings",
+            "decorations": [
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 7
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 21,
+            "name": "Cool Drink",
+            "count": 3
+          },
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 70
+          },
+          {
+            "id": 104,
+            "name": "Pellet S Lv3",
+            "count": 40
+          },
+          {
+            "id": 105,
+            "name": "Crag S Lv1",
+            "count": 5
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 15
+          },
+          {
+            "id": 113,
+            "name": "Thunder S",
+            "count": 30
+          },
+          {
+            "id": 118,
+            "name": "Poison S Lv1",
+            "count": 10
+          },
+          {
+            "id": 83,
+            "name": "Large Barrel",
+            "count": 5
+          }
         ]
       }
     ],
-    "items": [
+    "max-party": 4,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
+  },
+  {
+    "id": 22003,
+    "name": "Rathian Exercises",
+    "goal-condition": "Slay the Rathian",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": "It is I, your esteemed\ninstructor. No time for\ntricks, just use your skills\nand finish this beast off!\nUse everything you've\nlearned about \"cooperation\"\nand obliterate your foe!",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 4200,
+    "time-limit": 40,
+    "map-id": 6,
+    "location": "Jungle(Day)",
+    "star-code": 4,
+    "rank-code": 4,
+    "time-limit-ticks": 72000,
+    "monster-display-text": "Rathian",
+    "loadouts": [
       {
-        "name": "Mega Potion",
-        "count": 7
+        "loadout-id": 0,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 243,
+          "name": "Holy Saber",
+          "type": "dual-blades",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 201,
+            "part": "helmet",
+            "name": "Ceanataur Helm",
+            "decorations": []
+          },
+          {
+            "id": 200,
+            "part": "plate",
+            "name": "Ceanataur Mail",
+            "decorations": []
+          },
+          {
+            "id": 198,
+            "part": "gauntlet",
+            "name": "Ceanataur Braces",
+            "decorations": [
+              {
+                "id": 990,
+                "name": "Defense Jewel"
+              }
+            ]
+          },
+          {
+            "id": 194,
+            "part": "waist",
+            "name": "Ceanataur Tasset",
+            "decorations": []
+          },
+          {
+            "id": 194,
+            "part": "legging",
+            "name": "Ceanataur Greaves",
+            "decorations": [
+              {
+                "id": 1070,
+                "name": "Turtle Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 13,
+            "name": "Power Juice",
+            "count": 1
+          },
+          {
+            "id": 11,
+            "name": "Antidote",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          }
+        ]
       },
       {
-        "name": "Ration",
-        "count": 6
+        "loadout-id": 1,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 17,
+          "name": "Black Katana Mk.II",
+          "type": "long-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 241,
+            "part": "helmet",
+            "name": "Piercing of Rage",
+            "decorations": []
+          },
+          {
+            "id": 13,
+            "part": "plate",
+            "name": "Hornet Mail",
+            "decorations": []
+          },
+          {
+            "id": 13,
+            "part": "gauntlet",
+            "name": "Hornet Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 238,
+            "part": "waist",
+            "name": "Giaprey Tasset",
+            "decorations": []
+          },
+          {
+            "id": 94,
+            "part": "legging",
+            "name": "Rathalos SoulGreaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 7
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 2
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 11,
+            "name": "Antidote",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 24,
+            "name": "Psychoserum",
+            "count": 2
+          }
+        ]
       },
       {
-        "name": "Cool Drink",
-        "count": 3
+        "loadout-id": 2,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 576,
+          "name": "Khezu Horn+",
+          "type": "hunting-horn",
+          "decorations": [
+            {
+              "id": 1027,
+              "name": "StayingPwr Jewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 207,
+            "part": "helmet",
+            "name": "Kirin Horn",
+            "decorations": [
+              {
+                "id": 1039,
+                "name": "Fife Jewel"
+              }
+            ]
+          },
+          {
+            "id": 206,
+            "part": "plate",
+            "name": "Kirin Jacket",
+            "decorations": [
+              {
+                "id": 1039,
+                "name": "Fife Jewel"
+              }
+            ]
+          },
+          {
+            "id": 204,
+            "part": "gauntlet",
+            "name": "Kirin Longarms",
+            "decorations": [
+              {
+                "id": 1039,
+                "name": "Fife Jewel"
+              }
+            ]
+          },
+          {
+            "id": 200,
+            "part": "waist",
+            "name": "Kirin Hoop",
+            "decorations": [
+              {
+                "id": 1039,
+                "name": "Fife Jewel"
+              }
+            ]
+          },
+          {
+            "id": 200,
+            "part": "legging",
+            "name": "Kirin Leg Guards",
+            "decorations": [
+              {
+                "id": 1039,
+                "name": "Fife Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 8
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 4
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 11,
+            "name": "Antidote",
+            "count": 2
+          },
+          {
+            "id": 61,
+            "name": "Paralyze Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 2
+          }
+        ]
       },
       {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
+        "loadout-id": 3,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 126,
+          "name": "White Gunlance",
+          "type": "gunlance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 9,
+            "part": "helmet",
+            "name": "Battle Helm",
+            "decorations": []
+          },
+          {
+            "id": 244,
+            "part": "plate",
+            "name": "Giaprey Mail",
+            "decorations": []
+          },
+          {
+            "id": 9,
+            "part": "gauntlet",
+            "name": "Battle Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 238,
+            "part": "waist",
+            "name": "Giaprey Tasset",
+            "decorations": []
+          },
+          {
+            "id": 237,
+            "part": "legging",
+            "name": "Giaprey Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 6
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 11,
+            "name": "Antidote",
+            "count": 2
+          },
+          {
+            "id": 871,
+            "name": "Sply Pitfall Trp",
+            "count": 1
+          },
+          {
+            "id": 870,
+            "name": "Sply Max Potion",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 3
+          }
+        ]
       },
       {
-        "name": "Normal S Lv2",
-        "count": 70
-      },
-      {
-        "name": "Pellet S Lv3",
-        "count": 40
-      },
-      {
-        "name": "Crag S Lv1",
-        "count": 5
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 15
-      },
-      {
-        "name": "Thunder S",
-        "count": 30
-      },
-      {
-        "name": "Poison S Lv1",
-        "count": 10
-      },
-      {
-        "name": "Large Barrel",
-        "count": 5
+        "loadout-id": 4,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 121,
+          "name": "Hunter's Power BowII",
+          "type": "bow",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 310,
+            "part": "helmet",
+            "name": "Barrage Piercing",
+            "decorations": []
+          },
+          {
+            "id": 4,
+            "part": "plate",
+            "name": "Hunter's Vest",
+            "decorations": []
+          },
+          {
+            "id": 4,
+            "part": "gauntlet",
+            "name": "Hunter's Guards",
+            "decorations": [
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "part": "waist",
+            "name": "Hunter's Coat",
+            "decorations": [
+              {
+                "id": 1020,
+                "name": "Psychic Jewel"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "part": "legging",
+            "name": "Hunter's Leggings",
+            "decorations": [
+              {
+                "id": 975,
+                "name": "StrongShot Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 7
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 130,
+            "name": "Power Coating",
+            "count": 40
+          },
+          {
+            "id": 131,
+            "name": "Poison Coating",
+            "count": 20
+          },
+          {
+            "id": 133,
+            "name": "Sleep Coating",
+            "count": 20
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 1
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          }
+        ]
       }
     ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 4,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 22004,
     "name": "Congalala Exercises",
-    "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Congalala"
-    ],
     "goal-condition": "Slay the Congalala",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Dual Tomahawk",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Hunter's Helm",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Battle Mail",
-        "decorations": []
-      },
-      {
-        "name": "Hunter's Vambraces",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Hide Belt",
-        "decorations": []
-      },
-      {
-        "name": "Battle Greaves",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 10
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 1
-      },
-      {
-        "name": "Stone",
-        "count": 1
-      },
-      {
-        "name": "Deodorant",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 22004,
-    "name": "Congalala Exercises",
-    "max-party": 2,
-    "time-limit": 50,
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": "It is I, your esteemed\ninstructor. I want to see\nyour true power on this one!\nGive it all you've got, you\nhear!? But don't leave your\nfriends in the dust. Be as\none! Fight as one!",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 900,
+    "time-limit": 10,
+    "map-id": 9,
     "location": "Great Arena",
-    "main-monsters": [
-      "Congalala"
-    ],
-    "goal-condition": "Slay the Congalala",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Red Wing",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 2,
+    "rank-code": 4,
+    "time-limit-ticks": 18000,
+    "monster-display-text": "Congalala",
+    "loadouts": [
       {
-        "name": "Piercing of Rage",
-        "decorations": []
-      },
-      {
-        "name": "Chain Mail",
-        "decorations": []
-      },
-      {
-        "name": "Chain Vambraces",
-        "decorations": []
-      },
-      {
-        "name": "Chain Belt",
-        "decorations": []
-      },
-      {
-        "name": "Blue Pants",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 4
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      },
-      {
-        "name": "Deodorant",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 22004,
-    "name": "Congalala Exercises",
-    "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Congalala"
-    ],
-    "goal-condition": "Slay the Congalala",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Metal Bagpipe",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Kut-Ku Helm D",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 239,
+          "name": "Dual Tomahawk",
+          "type": "dual-blades",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 3,
+            "part": "helmet",
+            "name": "Hunter's Helm",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "part": "plate",
+            "name": "Battle Mail",
+            "decorations": []
+          },
+          {
+            "id": 3,
+            "part": "gauntlet",
+            "name": "Hunter's Vambraces",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "part": "waist",
+            "name": "Hide Belt",
+            "decorations": []
+          },
+          {
+            "id": 9,
+            "part": "legging",
+            "name": "Battle Greaves",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 10
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 1
+          },
+          {
+            "id": 200,
+            "name": "Stone",
+            "count": 1
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Kut-Ku Mail D",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 1,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 42,
+          "name": "Red Wing",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 241,
+            "part": "helmet",
+            "name": "Piercing of Rage",
+            "decorations": []
+          },
+          {
+            "id": 2,
+            "part": "plate",
+            "name": "Chain Mail",
+            "decorations": []
+          },
+          {
+            "id": 2,
+            "part": "gauntlet",
+            "name": "Chain Vambraces",
+            "decorations": [
+              {
+                "id": 962,
+                "name": "Strength Jewel"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "part": "waist",
+            "name": "Chain Belt",
+            "decorations": [
+              {
+                "id": 962,
+                "name": "Strength Jewel"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "part": "legging",
+            "name": "Blue Pants",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 4
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Kut-Ku Vambraces",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 2,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 302,
+          "name": "Metal Bagpipe",
+          "type": "hunting-horn",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 265,
+            "part": "helmet",
+            "name": "Kut-Ku Helm D",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 253,
+            "part": "plate",
+            "name": "Kut-Ku Mail D",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "part": "gauntlet",
+            "name": "Kut-Ku Vambraces",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          },
+          {
+            "id": 248,
+            "part": "waist",
+            "name": "Kut-Ku Tasset D",
+            "decorations": []
+          },
+          {
+            "id": 247,
+            "part": "legging",
+            "name": "Kut-Ku Greaves",
+            "decorations": [
+              {
+                "id": 989,
+                "name": "Attack Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 3
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 200,
+            "name": "Stone",
+            "count": 1
+          },
+          {
+            "id": 871,
+            "name": "Sply Pitfall Trp",
+            "count": 1
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Kut-Ku Tasset D",
-        "decorations": []
+        "loadout-id": 3,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 113,
+          "name": "Iron Gunlance+",
+          "type": "gunlance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 27,
+            "part": "plate",
+            "name": "Steel Mail",
+            "decorations": []
+          },
+          {
+            "id": 9,
+            "part": "gauntlet",
+            "name": "Battle Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 11,
+            "part": "waist",
+            "name": "Battle Tasset",
+            "decorations": []
+          },
+          {
+            "id": 19,
+            "part": "legging",
+            "name": "Genprey Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 200,
+            "name": "Stone",
+            "count": 2
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Kut-Ku Greaves",
-        "decorations": [
-          "Attack Jewel"
+        "loadout-id": 4,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 10,
+          "name": "Jade Storm",
+          "type": "light-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 4,
+            "part": "plate",
+            "name": "Hunter's Vest",
+            "decorations": []
+          },
+          {
+            "id": 187,
+            "part": "gauntlet",
+            "name": "Conga Guards ",
+            "decorations": []
+          },
+          {
+            "id": 6,
+            "part": "waist",
+            "name": "Hunter's Coat",
+            "decorations": []
+          },
+          {
+            "id": 4,
+            "part": "legging",
+            "name": "Hunter's Leggings",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 10
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 50
+          },
+          {
+            "id": 111,
+            "name": "Flaming S",
+            "count": 30
+          },
+          {
+            "id": 107,
+            "name": "Crag S Lv3",
+            "count": 7
+          },
+          {
+            "id": 108,
+            "name": "Clust S Lv1",
+            "count": 3
+          },
+          {
+            "id": 121,
+            "name": "Para S Lv2",
+            "count": 5
+          },
+          {
+            "id": 73,
+            "name": "Deodorant",
+            "count": 1
+          }
         ]
       }
     ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Stone",
-        "count": 1
-      },
-      {
-        "name": "Sply Pitfall Trp",
-        "count": 1
-      },
-      {
-        "name": "Deodorant",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 22004,
-    "name": "Congalala Exercises",
-    "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Congalala"
-    ],
-    "goal-condition": "Slay the Congalala",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Iron Gunlance+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Steel Mail",
-        "decorations": []
-      },
-      {
-        "name": "Battle Vambraces",
-        "decorations": []
-      },
-      {
-        "name": "Battle Tasset",
-        "decorations": []
-      },
-      {
-        "name": "Genprey Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Stone",
-        "count": 2
-      },
-      {
-        "name": "Deodorant",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 22004,
-    "name": "Congalala Exercises",
-    "max-party": 2,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Congalala"
-    ],
-    "goal-condition": "Slay the Congalala",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 2,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Jade Storm",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Hunter's Vest",
-        "decorations": []
-      },
-      {
-        "name": "Conga Guards",
-        "decorations": []
-      },
-      {
-        "name": "Hunter's Coat",
-        "decorations": []
-      },
-      {
-        "name": "Hunter's Leggings",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 10
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 50
-      },
-      {
-        "name": "Flaming S",
-        "count": 30
-      },
-      {
-        "name": "Crag S Lv3",
-        "count": 7
-      },
-      {
-        "name": "Clust S Lv1",
-        "count": 3
-      },
-      {
-        "name": "Para S Lv2",
-        "count": 5
-      },
-      {
-        "name": "Deodorant",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "max-party": 4,
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 22005,
     "name": "Shogun Ceanataur Exercises",
-    "max-party": 4,
-    "time-limit": 50,
+    "goal-condition": "Slay 1 Shogun Ceanataur",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": "It is I, your esteemed\ninstructor. Your opponent\nthis time is a pair of\nShogun Ceanataurs. You only\nhave to beat one to clear\nthe quest, so remember which\none you're going after!",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 6000,
+    "time-limit": 40,
+    "map-id": 9,
     "location": "Great Arena",
-    "main-monsters": [
-      "Shogun Ceanataur"
-    ],
-    "goal-condition": "Slay the Shogun Ceanataur",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Deathprize",
-      "decorations": []
-    },
-    "armors": [
+    "star-code": 4,
+    "rank-code": 4,
+    "time-limit-ticks": 72000,
+    "monster-display-text": "2 Shogun Ceanataurs",
+    "required-hr": 4,
+    "loadouts": [
       {
-        "name": "Chaoshroom",
-        "decorations": []
+        "loadout-id": 0,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 169,
+          "name": "Deathprize",
+          "type": "sword",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 45,
+            "part": "helmet",
+            "name": "Chaoshroom",
+            "decorations": []
+          },
+          {
+            "id": 3,
+            "part": "plate",
+            "name": "Hunter's Mail",
+            "decorations": []
+          },
+          {
+            "id": 3,
+            "part": "gauntlet",
+            "name": "Hunter's Vambraces",
+            "decorations": []
+          },
+          {
+            "id": 5,
+            "part": "waist",
+            "name": "Hunter's Tasset",
+            "decorations": []
+          },
+          {
+            "id": 33,
+            "part": "legging",
+            "name": "Rathalos Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 3
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 60,
+            "name": "Sleeping Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 3
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Hunter's Mail",
-        "decorations": []
+        "loadout-id": 1,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 346,
+          "name": "Rouge Flames",
+          "type": "dual-blades",
+          "decorations": [
+            {
+              "id": 1080,
+              "name": "Dodge Jewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 54,
+            "part": "helmet",
+            "name": "Blue Piercing",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "part": "plate",
+            "name": "Lobster Mail",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "part": "gauntlet",
+            "name": "Lobster Vambraces",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 232,
+            "part": "waist",
+            "name": "Lobster Coil",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 231,
+            "part": "legging",
+            "name": "Lobster Greaves",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 10
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 13,
+            "name": "Power Juice",
+            "count": 3
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 3
+          },
+          {
+            "id": 60,
+            "name": "Sleeping Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Hunter's Vambraces",
-        "decorations": []
+        "loadout-id": 2,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 377,
+          "name": "Kirin Thundersword",
+          "type": "great-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 265,
+            "part": "helmet",
+            "name": "Kut-Ku Helm D",
+            "decorations": [
+              {
+                "id": 1069,
+                "name": "Fierce Jewel"
+              }
+            ]
+          },
+          {
+            "id": 206,
+            "part": "plate",
+            "name": "Kirin Jacket",
+            "decorations": [
+              {
+                "id": 984,
+                "name": "Element Jewel"
+              }
+            ]
+          },
+          {
+            "id": 204,
+            "part": "gauntlet",
+            "name": "Kirin Longarms",
+            "decorations": []
+          },
+          {
+            "id": 200,
+            "part": "waist",
+            "name": "Kirin Hoop",
+            "decorations": [
+              {
+                "id": 984,
+                "name": "Element Jewel"
+              }
+            ]
+          },
+          {
+            "id": 249,
+            "part": "legging",
+            "name": "Kut-Ku Greaves D",
+            "decorations": [
+              {
+                "id": 1069,
+                "name": "Fierce Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 3
+          },
+          {
+            "id": 60,
+            "name": "Sleeping Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Hunter's Tasset",
-        "decorations": []
+        "loadout-id": 3,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 212,
+          "name": "Finishing Hammer",
+          "type": "hammer",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 229,
+            "part": "helmet",
+            "name": "Remobra Face",
+            "decorations": []
+          },
+          {
+            "id": 34,
+            "part": "plate",
+            "name": "Plesioth Mail",
+            "decorations": []
+          },
+          {
+            "id": 4,
+            "part": "waist",
+            "name": "Iron Belt",
+            "decorations": [
+              {
+                "id": 997,
+                "name": "Impervious Jewel"
+              }
+            ]
+          },
+          {
+            "id": 222,
+            "part": "legging",
+            "name": "Remobra Feet",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 3
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 5
+          },
+          {
+            "id": 60,
+            "name": "Sleeping Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
+        ]
       },
       {
-        "name": "Rathalos Greaves",
-        "decorations": []
+        "loadout-id": 4,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 152,
+          "name": "Ceanataur Stinger",
+          "type": "lance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 33,
+            "part": "helmet",
+            "name": "Lobster Helm",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              },
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "part": "plate",
+            "name": "Lobster Mail",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "part": "gauntlet",
+            "name": "Lobster Vambraces",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 232,
+            "part": "waist",
+            "name": "Lobster Coil",
+            "decorations": [
+              {
+                "id": 968,
+                "name": "Grinder Jewel"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "part": "legging",
+            "name": "Genprey Greaves",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 5
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 6
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 13,
+            "name": "Power Juice",
+            "count": 3
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 64,
+            "name": "Paintball",
+            "count": 5
+          },
+          {
+            "id": 60,
+            "name": "Sleeping Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
+        ]
       }
     ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Sleeping Thr Knf",
-        "count": 5
-      },
-      {
-        "name": "Paintball",
-        "count": 3
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 22005,
-    "name": "Shogun Ceanataur Exercises",
     "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Shogun Ceanataur"
-    ],
-    "goal-condition": "Slay the Shogun Ceanataur",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Rouge Flames",
-      "decorations": [
-        "Dodge Jewel"
-      ]
-    },
-    "armors": [
-      {
-        "name": "Blue Piercing",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Lobster Mail",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Lobster Vambraces",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Lobster Coil",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Lobster Greaves",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 10
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Power Juice",
-        "count": 3
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Paintball",
-        "count": 3
-      },
-      {
-        "name": "Sleeping Thr Knf",
-        "count": 5
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
-  },
-  {
-    "id": 22005,
-    "name": "Shogun Ceanataur Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Shogun Ceanataur"
-    ],
-    "goal-condition": "Slay the Shogun Ceanataur",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Kirin Thundersword",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Kut-Ku Helm D",
-        "decorations": [
-          "Fierce Jewel"
-        ]
-      },
-      {
-        "name": "Kirin Jacket",
-        "decorations": [
-          "Element Jewel"
-        ]
-      },
-      {
-        "name": "Kirin Longarms",
-        "decorations": []
-      },
-      {
-        "name": "Kirin Hoop",
-        "decorations": [
-          "Element Jewel"
-        ]
-      },
-      {
-        "name": "Kut-Ku Greaves D",
-        "decorations": [
-          "Fierce Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Paintball",
-        "count": 3
-      },
-      {
-        "name": "Sleeping Thr Knf",
-        "count": 5
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 22005,
-    "name": "Shogun Ceanataur Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Shogun Ceanataur"
-    ],
-    "goal-condition": "Slay the Shogun Ceanataur",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Finishing Hammer",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Remobra Face",
-        "decorations": []
-      },
-      {
-        "name": "Plesioth Mail",
-        "decorations": []
-      },
-      {
-        "name": "Iron Belt",
-        "decorations": [
-          "Impervious Jewel"
-        ]
-      },
-      {
-        "name": "Remobra Feet",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 3
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Paintball",
-        "count": 5
-      },
-      {
-        "name": "Sleeping Thr Knf",
-        "count": 5
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 22005,
-    "name": "Shogun Ceanataur Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Shogun Ceanataur"
-    ],
-    "goal-condition": "Slay the Shogun Ceanataur",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Ceanataur Stinger",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Lobster Helm",
-        "decorations": [
-          "Grinder Jewel",
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Lobster Mail",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Lobster Vambraces",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Lobster Coil",
-        "decorations": [
-          "Grinder Jewel"
-        ]
-      },
-      {
-        "name": "Genprey Greaves",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 5
-      },
-      {
-        "name": "Ration",
-        "count": 6
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Power Juice",
-        "count": 3
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Paintball",
-        "count": 5
-      },
-      {
-        "name": "Sleeping Thr Knf",
-        "count": 5
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
-  },
-  {
-    "id": 22006,
-    "name": "Tigrex Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Tigrex"
-    ],
-    "goal-condition": "Slay the Tigrex",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Odyssey+",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Ceanataur Helm S",
-        "decorations": [
-          "Defense Jewel"
-        ]
-      },
-      {
-        "name": "Ceanataur Mail S",
-        "decorations": []
-      },
-      {
-        "name": "Ceanataur Braces S",
-        "decorations": [
-          "Defense Jewel"
-        ]
-      },
-      {
-        "name": "Ceanataur Tasset S",
-        "decorations": [
-          "Defense Jewel",
-          "Defense Jewel"
-        ]
-      },
-      {
-        "name": "Ceanataur Greaves S",
-        "decorations": [
-          "Defense Jewel",
-          "Defense Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 8
-      },
-      {
-        "name": "Ration",
-        "count": 10
-      },
-      {
-        "name": "Sply Max Potion",
-        "count": 2
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      },
-      {
-        "name": "Sply Pitfall Trp",
-        "count": 1
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 0
-  },
-  {
-    "id": 22006,
-    "name": "Tigrex Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Tigrex"
-    ],
-    "goal-condition": "Slay the Tigrex",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 105,
-    "weapon": {
-      "name": "Wyvern Blade \"Holly\"",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Blango Helm U",
-        "decorations": [
-          "Anti-Thaw Jewel"
-        ]
-      },
-      {
-        "name": "Blango Mail U",
-        "decorations": [
-          "Earplug Jewel"
-        ]
-      },
-      {
-        "name": "Blango Vambraces U",
-        "decorations": [
-          "Earplug Jewel"
-        ]
-      },
-      {
-        "name": "Blango Tasset U",
-        "decorations": [
-          "Earplug Jewel"
-        ]
-      },
-      {
-        "name": "Blango Greaves U",
-        "decorations": [
-          "Earplug Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 10
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Sply Max Potion",
-        "count": 2
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      },
-      {
-        "name": "Sleeping Thr Knf",
-        "count": 5
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 1
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   },
   {
     "id": 22006,
     "name": "Tigrex Exercises",
-    "max-party": 4,
-    "time-limit": 50,
+    "goal-condition": "Slay 2 Tigrex",
+    "fail-condition": "Reward Zero\nTime Over",
+    "quest-details": "It is I, your esteemed\ninstructor. You'll be going\nafter 2 Tigrex back to\nback today. Try not to\nattack when it's infuriated,\nand use whatever you've got\nto create an opening!",
+    "client": "Instructor",
+    "contract-fee": 0,
+    "reward": 8000,
+    "time-limit": 40,
+    "map-id": 9,
     "location": "Great Arena",
-    "main-monsters": [
-      "Tigrex"
-    ],
-    "goal-condition": "Slay the Tigrex",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Great Nova",
-      "decorations": [
-        "PickyEater Jewel"
-      ]
-    },
-    "armors": [
+    "star-code": 5,
+    "rank-code": 4,
+    "time-limit-ticks": 72000,
+    "monster-display-text": "2 Tigrex",
+    "required-hr": 7,
+    "loadouts": [
       {
-        "name": "Gypceros Helm S",
-        "decorations": [
-          "Paralysis Jewel"
+        "loadout-id": 0,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 223,
+          "name": "Odyssey+",
+          "type": "sword",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 205,
+            "part": "helmet",
+            "name": "Ceanataur Helm S",
+            "decorations": [
+              {
+                "id": 990,
+                "name": "Defense Jewel"
+              }
+            ]
+          },
+          {
+            "id": 204,
+            "part": "plate",
+            "name": "Ceanataur Mail S",
+            "decorations": []
+          },
+          {
+            "id": 202,
+            "part": "gauntlet",
+            "name": "Ceanataur Braces S",
+            "decorations": [
+              {
+                "id": 990,
+                "name": "Defense Jewel"
+              }
+            ]
+          },
+          {
+            "id": 198,
+            "part": "waist",
+            "name": "Ceanataur Tasset S",
+            "decorations": [
+              {
+                "id": 990,
+                "name": "Defense Jewel"
+              },
+              {
+                "id": 990,
+                "name": "Defense Jewel"
+              }
+            ]
+          },
+          {
+            "id": 198,
+            "part": "legging",
+            "name": "Ceanataur Greaves S",
+            "decorations": [
+              {
+                "id": 990,
+                "name": "Defense Jewel"
+              },
+              {
+                "id": 990,
+                "name": "Defense Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 8
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 10
+          },
+          {
+            "id": 870,
+            "name": "Sply Max Potion",
+            "count": 2
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 871,
+            "name": "Sply Pitfall Trp",
+            "count": 1
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Gypceros Mail S",
-        "decorations": [
-          "Paralysis Jewel"
+        "loadout-id": 1,
+        "point-multiplier": 105,
+        "weapon": {
+          "id": 478,
+          "name": "Wyvern Blade \"Holly\"",
+          "type": "long-swd",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 197,
+            "part": "helmet",
+            "name": "Blango Helm U",
+            "decorations": [
+              {
+                "id": 1085,
+                "name": "Anti-Thaw Jewel"
+              }
+            ]
+          },
+          {
+            "id": 196,
+            "part": "plate",
+            "name": "Blango Mail U",
+            "decorations": [
+              {
+                "id": 993,
+                "name": "Earplug Jewel"
+              }
+            ]
+          },
+          {
+            "id": 194,
+            "part": "gauntlet",
+            "name": "Blango Vambraces U",
+            "decorations": [
+              {
+                "id": 993,
+                "name": "Earplug Jewel"
+              }
+            ]
+          },
+          {
+            "id": 190,
+            "part": "waist",
+            "name": "Blango Tasset U",
+            "decorations": [
+              {
+                "id": 993,
+                "name": "Earplug Jewel"
+              }
+            ]
+          },
+          {
+            "id": 190,
+            "part": "legging",
+            "name": "Blango Greaves U",
+            "decorations": [
+              {
+                "id": 993,
+                "name": "Earplug Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 10
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 870,
+            "name": "Sply Max Potion",
+            "count": 2
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 60,
+            "name": "Sleeping Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "UltimateIndraGloves",
-        "decorations": [
-          "Paralysis Jewel"
+        "loadout-id": 2,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 306,
+          "name": "Great Nova",
+          "type": "hammer",
+          "decorations": [
+            {
+              "id": 986,
+              "name": "PickyEater Jewel"
+            }
+          ]
+        },
+        "armors": [
+          {
+            "id": 151,
+            "part": "helmet",
+            "name": "Gypceros Helm S",
+            "decorations": [
+              {
+                "id": 948,
+                "name": "Paralysis Jewel"
+              }
+            ]
+          },
+          {
+            "id": 149,
+            "part": "plate",
+            "name": "Gypceros Mail S",
+            "decorations": [
+              {
+                "id": 948,
+                "name": "Paralysis Jewel"
+              }
+            ]
+          },
+          {
+            "id": 286,
+            "part": "gauntlet",
+            "name": "UltimateIndraGloves",
+            "decorations": [
+              {
+                "id": 948,
+                "name": "Paralysis Jewel"
+              }
+            ]
+          },
+          {
+            "id": 145,
+            "part": "waist",
+            "name": "Gypceros Tasset S",
+            "decorations": [
+              {
+                "id": 1028,
+                "name": "Marathon Jewel"
+              }
+            ]
+          },
+          {
+            "id": 144,
+            "part": "legging",
+            "name": "Gypceros Greaves S",
+            "decorations": [
+              {
+                "id": 1028,
+                "name": "Marathon Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 7
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 10
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 870,
+            "name": "Sply Max Potion",
+            "count": 2
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Gypceros Tasset S",
-        "decorations": [
-          "Marathon Jewel"
+        "loadout-id": 3,
+        "point-multiplier": 100,
+        "weapon": {
+          "id": 503,
+          "name": "Devta Serpentblade",
+          "type": "lance",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 241,
+            "part": "helmet",
+            "name": "Piercing of Rage",
+            "decorations": []
+          },
+          {
+            "id": 154,
+            "part": "plate",
+            "name": "Rathian Mail S",
+            "decorations": [
+              {
+                "id": 962,
+                "name": "Strength Jewel"
+              }
+            ]
+          },
+          {
+            "id": 152,
+            "part": "gauntlet",
+            "name": "Rathian Vambraces S",
+            "decorations": [
+              {
+                "id": 962,
+                "name": "Strength Jewel"
+              }
+            ]
+          },
+          {
+            "id": 150,
+            "part": "waist",
+            "name": "Rathian Tasset S",
+            "decorations": []
+          },
+          {
+            "id": 148,
+            "part": "legging",
+            "name": "Rathian Greaves S",
+            "decorations": []
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 5
+          },
+          {
+            "id": 163,
+            "name": "Herb",
+            "count": 10
+          },
+          {
+            "id": 867,
+            "name": "Mini Whetstone",
+            "count": 6
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 10
+          },
+          {
+            "id": 13,
+            "name": "Power Juice",
+            "count": 2
+          },
+          {
+            "id": 37,
+            "name": "Lifepowder",
+            "count": 1
+          },
+          {
+            "id": 86,
+            "name": "Lg Barrel-Bomb",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 60,
+            "name": "Sleeping Thr Knf",
+            "count": 5
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          }
         ]
       },
       {
-        "name": "Gypceros Greaves S",
-        "decorations": [
-          "Marathon Jewel"
+        "loadout-id": 4,
+        "point-multiplier": 95,
+        "weapon": {
+          "id": 53,
+          "name": "Rajang Barrage",
+          "type": "light-bowgun",
+          "decorations": []
+        },
+        "armors": [
+          {
+            "id": 224,
+            "part": "helmet",
+            "name": "Puppet Master Mask",
+            "decorations": [
+              {
+                "id": 1038,
+                "name": "Howitzer Jewel"
+              }
+            ]
+          },
+          {
+            "id": 292,
+            "part": "plate",
+            "name": "SupremeSteadfastVest",
+            "decorations": [
+              {
+                "id": 1038,
+                "name": "Howitzer Jewel"
+              }
+            ]
+          },
+          {
+            "id": 221,
+            "part": "gauntlet",
+            "name": "PuppetMaster Gloves",
+            "decorations": [
+              {
+                "id": 1038,
+                "name": "Howitzer Jewel"
+              }
+            ]
+          },
+          {
+            "id": 285,
+            "part": "waist",
+            "name": "SupremeSteadfastCoat",
+            "decorations": [
+              {
+                "id": 1038,
+                "name": "Howitzer Jewel"
+              }
+            ]
+          },
+          {
+            "id": 290,
+            "part": "legging",
+            "name": "SupremSteadfastBoots",
+            "decorations": [
+              {
+                "id": 1038,
+                "name": "Howitzer Jewel"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": 7,
+            "name": "Potion",
+            "count": 10
+          },
+          {
+            "id": 8,
+            "name": "Mega Potion",
+            "count": 10
+          },
+          {
+            "id": 865,
+            "name": "Ration",
+            "count": 10
+          },
+          {
+            "id": 870,
+            "name": "Sply Max Potion",
+            "count": 2
+          },
+          {
+            "id": 872,
+            "name": "Sply Lg Brrl Bmb",
+            "count": 2
+          },
+          {
+            "id": 869,
+            "name": "Supply Flash Bmb",
+            "count": 1
+          },
+          {
+            "id": 868,
+            "name": "Prtbl Shock Trap",
+            "count": 1
+          },
+          {
+            "id": 72,
+            "name": "Farcaster",
+            "count": 1
+          },
+          {
+            "id": 96,
+            "name": "Normal S Lv1",
+            "count": 255
+          },
+          {
+            "id": 97,
+            "name": "Normal S Lv2",
+            "count": 99
+          },
+          {
+            "id": 98,
+            "name": "Normal S Lv3",
+            "count": 50
+          },
+          {
+            "id": 99,
+            "name": "Pierce S Lv1",
+            "count": 60
+          },
+          {
+            "id": 100,
+            "name": "Pierce S Lv2",
+            "count": 50
+          },
+          {
+            "id": 101,
+            "name": "Pierce S Lv3",
+            "count": 40
+          },
+          {
+            "id": 105,
+            "name": "Crag S Lv1",
+            "count": 9
+          },
+          {
+            "id": 106,
+            "name": "Crag S Lv2",
+            "count": 9
+          },
+          {
+            "id": 107,
+            "name": "Crag S Lv3",
+            "count": 9
+          },
+          {
+            "id": 108,
+            "name": "Clust S Lv1",
+            "count": 3
+          },
+          {
+            "id": 121,
+            "name": "Para S Lv2",
+            "count": 6
+          }
         ]
       }
     ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 7
-      },
-      {
-        "name": "Ration",
-        "count": 10
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Sply Max Potion",
-        "count": 2
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 2
-  },
-  {
-    "id": 22006,
-    "name": "Tigrex Exercises",
     "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Tigrex"
-    ],
-    "goal-condition": "Slay the Tigrex",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 100,
-    "weapon": {
-      "name": "Devta Serpentblade",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Piercing of Rage",
-        "decorations": []
-      },
-      {
-        "name": "Rathian Mail S",
-        "decorations": [
-          "Strength Jewel"
-        ]
-      },
-      {
-        "name": "Rathian Vambraces S",
-        "decorations": [
-          "Strength Jewel"
-        ]
-      },
-      {
-        "name": "Rathian Tasset S",
-        "decorations": []
-      },
-      {
-        "name": "Rathian Greaves S",
-        "decorations": []
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 5
-      },
-      {
-        "name": "Herb",
-        "count": 10
-      },
-      {
-        "name": "Mini Whetstone",
-        "count": 6
-      },
-      {
-        "name": "Ration",
-        "count": 10
-      },
-      {
-        "name": "Power Juice",
-        "count": 2
-      },
-      {
-        "name": "Lifepowder",
-        "count": 1
-      },
-      {
-        "name": "Lg Barrel-Bomb",
-        "count": 2
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 5
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 3
-  },
-  {
-    "id": 22006,
-    "name": "Tigrex Exercises",
-    "max-party": 4,
-    "time-limit": 50,
-    "location": "Great Arena",
-    "main-monsters": [
-      "Tigrex"
-    ],
-    "goal-condition": "Slay the Tigrex",
-    "quest-details": "Now it's time to choose your equipment. Select the right weapon and point multiplier for you! ~C02Current Point Multiplier:%d%~C00",
-    "difficulty": 4,
-    "point-multiplier": 95,
-    "weapon": {
-      "name": "Rajang Barrage",
-      "decorations": []
-    },
-    "armors": [
-      {
-        "name": "Puppet Master Mask",
-        "decorations": [
-          "Howitzer Jewel"
-        ]
-      },
-      {
-        "name": "SupremeSteadfastVest",
-        "decorations": [
-          "Howitzer Jewel"
-        ]
-      },
-      {
-        "name": "PuppetMaster Gloves",
-        "decorations": [
-          "Howitzer Jewel"
-        ]
-      },
-      {
-        "name": "SupremeSteadfastCoat",
-        "decorations": [
-          "Howitzer Jewel"
-        ]
-      },
-      {
-        "name": "SupremSteadfastBoots",
-        "decorations": [
-          "Howitzer Jewel"
-        ]
-      }
-    ],
-    "items": [
-      {
-        "name": "Potion",
-        "count": 10
-      },
-      {
-        "name": "Mega Potion",
-        "count": 10
-      },
-      {
-        "name": "Ration",
-        "count": 10
-      },
-      {
-        "name": "Sply Max Potion",
-        "count": 2
-      },
-      {
-        "name": "Sply Lg Brrl Bmb",
-        "count": 2
-      },
-      {
-        "name": "Sply Flash Bmb",
-        "count": 1
-      },
-      {
-        "name": "Prtbl Shock Trap",
-        "count": 1
-      },
-      {
-        "name": "Farcaster",
-        "count": 1
-      },
-      {
-        "name": "Normal S Lv1",
-        "count": "Infinity"
-      },
-      {
-        "name": "Normal S Lv2",
-        "count": 99
-      },
-      {
-        "name": "Normal S Lv3",
-        "count": 50
-      },
-      {
-        "name": "Pierce S Lv1",
-        "count": 60
-      },
-      {
-        "name": "Pierce S Lv2",
-        "count": 50
-      },
-      {
-        "name": "Pierce S Lv3",
-        "count": 40
-      },
-      {
-        "name": "Crag S Lv1",
-        "count": 9
-      },
-      {
-        "name": "Crag S Lv2",
-        "count": 9
-      },
-      {
-        "name": "Crag S Lv3",
-        "count": 9
-      },
-      {
-        "name": "Clust S Lv1",
-        "count": 3
-      },
-      {
-        "name": "Para S Lv2",
-        "count": 6
-      }
-    ],
-    "unlock-condition": null,
-    "loadout-id": 4
+    "appearance": "category-member",
+    "menu-tier-index": null,
+    "quest-type": null,
+    "unlock-condition": null
   }
 ]

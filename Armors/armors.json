@@ -113,6 +113,65 @@
     },
     {
         "armor-id": 3,
+        "forge-id": 3,
+        "part": "helmet",
+        "name": "Hunter's Helm",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "BG",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Custom helmet for hunters.\nValued for its sturdy yet\ncomfortable design.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 2
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Kelbi Hide",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 3,
+        "recipe-ref": [
+            1285946,
+            1285998
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 3,
         "forge-id": 5,
         "part": "helmet",
         "name": "Hunter's Helm",
@@ -161,6 +220,65 @@
         "blacksmith-index": 4,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 4,
+        "forge-id": 4,
+        "part": "helmet",
+        "name": "Hunter's Cap",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "BG",
+        "defense": 6,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "Precision",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Cap made for hunters.\nNotable for its eye-covering\nbuilt-in scope.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 2
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Kelbi Hide",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 4,
+        "recipe-ref": [
+            1285972,
+            1286024
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 5,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 5
     },
     {
         "armor-id": 4,
@@ -215,6 +333,65 @@
     },
     {
         "armor-id": 5,
+        "forge-id": 8,
+        "part": "helmet",
+        "name": "Bone Helm",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "BG",
+        "defense": 14,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 2
+            },
+            {
+                "name": "Alchemy",
+                "points": 3
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Helm made from a monster's \nbone. Still reeks of the \nbeast's stench.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Unknown Skull",
+                "amount": 1
+            },
+            {
+                "name": "Blango Pelt",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 8,
+        "recipe-ref": [
+            1286076,
+            1286128
+        ],
+        "blacksmith-page": 2,
+        "blacksmith-index": 1,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 5,
         "forge-id": 10,
         "part": "helmet",
         "name": "Bone Helm",
@@ -265,6 +442,65 @@
         ],
         "blacksmith-page": 2,
         "blacksmith-index": 1,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 6,
+        "forge-id": 9,
+        "part": "helmet",
+        "name": "Bone Cap",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "BG",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            },
+            {
+                "name": "Alchemy",
+                "points": 3
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Cap with mysterious bone \nornamentation. The item you \nwant when the time comes.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Unknown Skull",
+                "amount": 1
+            },
+            {
+                "name": "Blango Pelt",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 9,
+        "recipe-ref": [
+            1286102,
+            1286154
+        ],
+        "blacksmith-page": 2,
+        "blacksmith-index": 2,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -813,6 +1049,65 @@
     },
     {
         "armor-id": 15,
+        "forge-id": 20,
+        "part": "helmet",
+        "name": "Hi-Metal Helm",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 3
+            },
+            {
+                "name": "Whim",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Headgear made from rare ore.\nLoved by hunters for its\neasy handling.",
+        "slots": 1,
+        "fire-res": -2,
+        "water-res": -2,
+        "thundr-res": 3,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 20,
+        "recipe-ref": [
+            1286388,
+            1286440
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 5,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 15,
         "forge-id": 22,
         "part": "helmet",
         "name": "Hi-Metal Helm",
@@ -863,6 +1158,65 @@
         ],
         "blacksmith-page": 3,
         "blacksmith-index": 5,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 16,
+        "forge-id": 21,
+        "part": "helmet",
+        "name": "Hi-Metal Cap",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 10,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 2
+            },
+            {
+                "name": "Crag S Add",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Headgear made from rare ore.\nMany see it as the pinnacle\nof beauty.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 5,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Lightcrystal",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 21,
+        "recipe-ref": [
+            1286414,
+            1286466
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 6,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -7521,6 +7875,61 @@
     },
     {
         "armor-id": 129,
+        "forge-id": 151,
+        "part": "helmet",
+        "name": "Leather Helm S",
+        "rare": 6,
+        "price": 1350,
+        "hunter-type": "BG",
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "Shot Mix",
+                "points": 10
+            },
+            {
+                "name": "Cooking",
+                "points": -1
+            }
+        ],
+        "description": "Made from light materials.\nIts reliable crafting gives\npeace of mind.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 6
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 2
+            },
+            {
+                "name": "High Qualty Pelt",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 145,
+        "recipe-ref": [
+            1289794,
+            1289820
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 6,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 129,
         "forge-id": 152,
         "part": "helmet",
         "name": "Leather Helm S",
@@ -7563,6 +7972,61 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 6,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 130,
+        "forge-id": 153,
+        "part": "helmet",
+        "name": "Chain Helm S",
+        "rare": 6,
+        "price": 1650,
+        "hunter-type": "BG",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 2
+            },
+            {
+                "name": "Whim",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": 2
+            },
+            {
+                "name": "Paralysis",
+                "points": -1
+            }
+        ],
+        "description": "Armor made from ore. A helm\nthat has a history of\nserving many hunters well.",
+        "slots": 2,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 15
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 147,
+        "recipe-ref": [
+            1289846,
+            1289872
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 8,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -7623,6 +8087,69 @@
     },
     {
         "armor-id": 131,
+        "forge-id": 155,
+        "part": "helmet",
+        "name": "Hunter's Helm S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "BG",
+        "defense": 38,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Custom helmet for hunters.\nValued for its sturdy yet\ncomfortable design.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 3
+            },
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 149,
+        "recipe-ref": [
+            1289898,
+            1289950
+        ],
+        "blacksmith-page": 19,
+        "blacksmith-index": 2,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 131,
         "forge-id": 157,
         "part": "helmet",
         "name": "Hunter's Helm S",
@@ -7673,6 +8200,69 @@
         ],
         "blacksmith-page": 19,
         "blacksmith-index": 2,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 132,
+        "forge-id": 156,
+        "part": "helmet",
+        "name": "Hunter's Cap S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "BG",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Cap made for hunters.\nNotable for its eye-covering\nbuilt-in scope.",
+        "slots": 2,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 3
+            },
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 150,
+        "recipe-ref": [
+            1289924,
+            1289976
+        ],
+        "blacksmith-page": 19,
+        "blacksmith-index": 3,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -7733,6 +8323,69 @@
     },
     {
         "armor-id": 133,
+        "forge-id": 159,
+        "part": "helmet",
+        "name": "Bone Helm S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "BG",
+        "defense": 44,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 1
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Helm made from a base of\nbone. Still reeks of the \nbeast's stench.",
+        "slots": 2,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "King Scarab",
+                "amount": 2
+            },
+            {
+                "name": "Master's Skull",
+                "amount": 1
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 3
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 153,
+        "recipe-ref": [
+            1290002,
+            1290054
+        ],
+        "blacksmith-page": 19,
+        "blacksmith-index": 6,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 133,
         "forge-id": 161,
         "part": "helmet",
         "name": "Bone Helm S",
@@ -7783,6 +8436,69 @@
         ],
         "blacksmith-page": 19,
         "blacksmith-index": 6,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 134,
+        "forge-id": 160,
+        "part": "helmet",
+        "name": "Bone Cap S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "BG",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Fishing",
+                "points": 1
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Cap with mysterious bone \nornamentation. The item you \nwant when the time comes.",
+        "slots": 2,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "King Scarab",
+                "amount": 2
+            },
+            {
+                "name": "Master's Skull",
+                "amount": 1
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 3
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 154,
+        "recipe-ref": [
+            1290028,
+            1290080
+        ],
+        "blacksmith-page": 19,
+        "blacksmith-index": 7,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -7951,6 +8667,69 @@
     },
     {
         "armor-id": 137,
+        "forge-id": 163,
+        "part": "helmet",
+        "name": "Battle Helm S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "BG",
+        "defense": 46,
+        "skill-points": [
+            {
+                "name": "SwdShrpner",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 1
+            },
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Helm made for hunters. A\nspecial piece unattainable \nby mere novices.",
+        "slots": 2,
+        "fire-res": 2,
+        "water-res": -2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 2
+            },
+            {
+                "name": "Rathian Scale",
+                "amount": 3
+            },
+            {
+                "name": "King Scarab",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 157,
+        "recipe-ref": [
+            1290106,
+            1290158
+        ],
+        "blacksmith-page": 20,
+        "blacksmith-index": 2,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 137,
         "forge-id": 165,
         "part": "helmet",
         "name": "Battle Helm S",
@@ -8001,6 +8780,69 @@
         ],
         "blacksmith-page": 20,
         "blacksmith-index": 2,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 138,
+        "forge-id": 164,
+        "part": "helmet",
+        "name": "Battle Cap S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "BG",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Reload",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 1
+            },
+            {
+                "name": "ClustS Add",
+                "points": 2
+            },
+            {
+                "name": "Hunger",
+                "points": -2
+            }
+        ],
+        "description": "Cap made for hunters. This\nproves one's place among\nhunting's upper echelon.",
+        "slots": 2,
+        "fire-res": 4,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 2,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 2
+            },
+            {
+                "name": "Rathian Scale",
+                "amount": 3
+            },
+            {
+                "name": "King Scarab",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 158,
+        "recipe-ref": [
+            1290132,
+            1290184
+        ],
+        "blacksmith-page": 20,
+        "blacksmith-index": 3,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -14066,626 +14908,6 @@
         "felyne-vendor-index": null
     },
     {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 239,
-        "forge-id": 45,
-        "part": "helmet",
-        "name": "Lobster Cap",
-        "rare": 3,
-        "price": 4150,
-        "hunter-type": "BG",
-        "defense": 17,
-        "skill-points": [
-            {
-                "name": "Evade",
-                "points": 3
-            },
-            {
-                "name": "Fishing",
-                "points": 2
-            },
-            {
-                "name": "Water Res",
-                "points": 2
-            },
-            {
-                "name": "Precision",
-                "points": -2
-            }
-        ],
-        "description": "Lavishly uses rare King\nLobster Shell. Surprisingly\nsolid armor.",
-        "slots": 1,
-        "fire-res": 0,
-        "water-res": 6,
-        "thundr-res": -5,
-        "dragon-res": 0,
-        "ice-res": 3,
-        "materials": [
-            {
-                "name": "Sm Lobstershell",
-                "amount": 1
-            },
-            {
-                "name": "Plesioth Fin",
-                "amount": 2
-            },
-            {
-                "name": "Carpenterbug",
-                "amount": 3
-            },
-            {
-                "name": "Iron Ore",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 45,
-        "recipe-ref": [
-            1287038
-        ],
-        "blacksmith-page": 6,
-        "blacksmith-index": 6,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
         "armor-id": 250,
         "forge-id": 141,
         "part": "helmet",
@@ -14850,6 +15072,65 @@
         "blacksmith-index": 1,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 1
+    },
+    {
+        "armor-id": 253,
+        "forge-id": 149,
+        "part": "helmet",
+        "name": "Mafumofu Hood S",
+        "rare": 6,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Heat Res",
+                "points": -2
+            }
+        ],
+        "description": "Special product of Pokke.\nThe intense cold of the \nmountains is not a problem.",
+        "slots": 2,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 2
+            },
+            {
+                "name": "Rainbow Insect",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 143,
+        "recipe-ref": [
+            1289742,
+            1289768
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
     },
     {
         "armor-id": 253,
@@ -18131,130 +18412,6 @@
         ],
         "blacksmith-page": 35,
         "blacksmith-index": 8,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 308,
-        "forge-id": 302,
-        "part": "helmet",
-        "name": "Dark Akantor Fangs",
-        "rare": 8,
-        "price": 21000,
-        "hunter-type": "BG",
-        "defense": 34,
-        "skill-points": [
-            {
-                "name": "Capacity",
-                "points": 2
-            },
-            {
-                "name": "Expert",
-                "points": 4
-            },
-            {
-                "name": "HearProtct",
-                "points": 1
-            },
-            {
-                "name": "ShortCharg",
-                "points": -2
-            }
-        ],
-        "description": "Made from Akantor material.\nThe terrifying \"living\narmor\" proves one's power.",
-        "slots": 1,
-        "fire-res": 3,
-        "water-res": 4,
-        "thundr-res": 0,
-        "dragon-res": -2,
-        "ice-res": 5,
-        "materials": [
-            {
-                "name": "Akantor Claw",
-                "amount": 2
-            },
-            {
-                "name": "Akantor Shell",
-                "amount": 2
-            },
-            {
-                "name": "Akantor Scale",
-                "amount": 3
-            },
-            {
-                "name": "Wyvern Stone",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 290,
-        "recipe-ref": [
-            1293720
-        ],
-        "blacksmith-page": 36,
-        "blacksmith-index": 1,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
-        "armor-id": 308,
-        "forge-id": 302,
-        "part": "helmet",
-        "name": "Dark Akantor Fangs",
-        "rare": 8,
-        "price": 21000,
-        "hunter-type": "BG",
-        "defense": 34,
-        "skill-points": [
-            {
-                "name": "Capacity",
-                "points": 2
-            },
-            {
-                "name": "Expert",
-                "points": 4
-            },
-            {
-                "name": "HearProtct",
-                "points": 1
-            },
-            {
-                "name": "ShortCharg",
-                "points": -2
-            }
-        ],
-        "description": "Made from Akantor material.\nThe terrifying \"living\narmor\" proves one's power.",
-        "slots": 1,
-        "fire-res": 3,
-        "water-res": 4,
-        "thundr-res": 0,
-        "dragon-res": -2,
-        "ice-res": 5,
-        "materials": [
-            {
-                "name": "Akantor Claw",
-                "amount": 2
-            },
-            {
-                "name": "Akantor Shell",
-                "amount": 2
-            },
-            {
-                "name": "Akantor Scale",
-                "amount": 3
-            },
-            {
-                "name": "Wyvern Stone",
-                "amount": 5
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 290,
-        "recipe-ref": [
-            1293720
-        ],
-        "blacksmith-page": 36,
-        "blacksmith-index": 1,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -25580,70 +25737,8 @@
         "felyne-vendor-index": null
     },
     {
-        "armor-id": 432,
-        "forge-id": 122,
-        "part": "helmet",
-        "name": "Lava Cap",
-        "rare": 5,
-        "price": 5800,
-        "hunter-type": "BG",
-        "defense": 20,
-        "skill-points": [
-            {
-                "name": "Terrain",
-                "points": 3
-            },
-            {
-                "name": "Rec Speed",
-                "points": 2
-            },
-            {
-                "name": "Recoil",
-                "points": 2
-            },
-            {
-                "name": "Faint",
-                "points": -2
-            }
-        ],
-        "description": "The Lavasioth, with light,\nigneous stone and strong,\nleather scales, is the base.",
-        "slots": 1,
-        "fire-res": 5,
-        "water-res": -1,
-        "thundr-res": 2,
-        "dragon-res": 2,
-        "ice-res": 2,
-        "materials": [
-            {
-                "name": "Lavasioth Ticket",
-                "amount": 1
-            },
-            {
-                "name": "ThckLavasiothScl",
-                "amount": 3
-            },
-            {
-                "name": "SpecLavasioFin+",
-                "amount": 1
-            },
-            {
-                "name": "Monster Fluid",
-                "amount": 3
-            }
-        ],
-        "sex": "unisex",
-        "raw-menu-index": 65535,
-        "recipe-ref": [
-            1289040
-        ],
-        "blacksmith-page": 15,
-        "blacksmith-index": 5,
-        "felyne-vendor-page": null,
-        "felyne-vendor-index": null
-    },
-    {
         "armor-id": 434,
-        "forge-id": 90,
+        "forge-id": 89,
         "part": "helmet",
         "name": "Comrade Piercing",
         "rare": 5,
@@ -25665,8 +25760,20 @@
         "ice-res": 0,
         "materials": [
             {
-                "name": "Comrade Ticket",
+                "name": "Commendation G",
                 "amount": 8
+            },
+            {
+                "name": "Felyne Fur Ruby",
+                "amount": 2
+            },
+            {
+                "name": "Emperor Cricket",
+                "amount": 10
+            },
+            {
+                "name": "FlynMealPassPlus",
+                "amount": 10
             }
         ],
         "sex": "unisex",
@@ -25837,6 +25944,65 @@
     },
     {
         "armor-id": 3,
+        "forge-id": 440,
+        "part": "plate",
+        "name": "Hunter's Mail",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "B",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "BBQ",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Custom armor for hunters.\nOne of the most common types\nof armor.",
+        "slots": 0,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 321,
+        "recipe-ref": [
+            1297308,
+            1297360
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 3,
         "forge-id": 442,
         "part": "plate",
         "name": "Hunter's Mail",
@@ -25885,6 +26051,65 @@
         "blacksmith-index": 4,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 4,
+        "forge-id": 441,
+        "part": "plate",
+        "name": "Hunter's Vest",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "G",
+        "defense": 6,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "NormalS Up",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Vest made for hunters.\nImpressive parts defend \nvital areas like the throat.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 322,
+        "recipe-ref": [
+            1297334,
+            1297386
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 5,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 5
     },
     {
         "armor-id": 4,
@@ -25939,6 +26164,69 @@
     },
     {
         "armor-id": 5,
+        "forge-id": 444,
+        "part": "plate",
+        "name": "Bone Mail",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "B",
+        "defense": 14,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 3
+            },
+            {
+                "name": "Horn",
+                "points": 2
+            },
+            {
+                "name": "Alchemy",
+                "points": 2
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Mail made from a base of \nmonster bone. Experience the\nwonders of the wilderness.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Giaprey Hide",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 325,
+        "recipe-ref": [
+            1297412,
+            1297464
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 5,
         "forge-id": 446,
         "part": "plate",
         "name": "Bone Mail",
@@ -25989,6 +26277,69 @@
         ],
         "blacksmith-page": 1,
         "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 6,
+        "forge-id": 445,
+        "part": "plate",
+        "name": "Bone Vest",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "G",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 3
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            },
+            {
+                "name": "Alchemy",
+                "points": 2
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Vest made by using monster \nbone. Looks worthless, but \nactually highly protective.",
+        "slots": 0,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Giaprey Hide",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 326,
+        "recipe-ref": [
+            1297438,
+            1297490
+        ],
+        "blacksmith-page": 2,
+        "blacksmith-index": 1,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -26529,6 +26880,65 @@
     },
     {
         "armor-id": 15,
+        "forge-id": 456,
+        "part": "plate",
+        "name": "Hi-Metal Mail",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "B",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 2
+            },
+            {
+                "name": "Whim",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "description": "Mail made from rare ore.\nBoasts difficult to damage\nstrength.",
+        "slots": 1,
+        "fire-res": -2,
+        "water-res": -2,
+        "thundr-res": 3,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 337,
+        "recipe-ref": [
+            1297724,
+            1297776
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 15,
         "forge-id": 458,
         "part": "plate",
         "name": "Hi-Metal Mail",
@@ -26579,6 +26989,65 @@
         ],
         "blacksmith-page": 3,
         "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 16,
+        "forge-id": 457,
+        "part": "plate",
+        "name": "Hi-Metal Vest",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "G",
+        "defense": 10,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 2
+            },
+            {
+                "name": "Crag S Add",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "description": "Made primarily from precious\nore, this vest has a high\nresistance to Thunder.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 5,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 338,
+        "recipe-ref": [
+            1297750,
+            1297802
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 5,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -27238,6 +27707,61 @@
         ],
         "blacksmith-page": 5,
         "blacksmith-index": 3,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 27,
+        "forge-id": 464,
+        "part": "plate",
+        "name": "Steel Mail",
+        "rare": 3,
+        "price": 1650,
+        "hunter-type": "B",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Guard",
+                "points": 4
+            },
+            {
+                "name": "Map",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -3
+            }
+        ],
+        "description": "Uses precious ore in\nabundance for unparalleled\nprotection and style.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 10
+            },
+            {
+                "name": "Rubbery Hide",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 345,
+        "recipe-ref": [
+            1297932,
+            1297958
+        ],
+        "blacksmith-page": 4,
+        "blacksmith-index": 4,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -33178,6 +33702,61 @@
     },
     {
         "armor-id": 127,
+        "forge-id": 580,
+        "part": "plate",
+        "name": "Leather Armor S",
+        "rare": 6,
+        "price": 1350,
+        "hunter-type": "BG",
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "Gathering",
+                "points": 5
+            },
+            {
+                "name": "Backpackng",
+                "points": 4
+            }
+        ],
+        "description": "Made from light materials on\na base of leather.\nProtective and easy to use.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Kelbi Hide",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 457,
+        "recipe-ref": [
+            1300948,
+            1300974
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 5,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 127,
         "forge-id": 581,
         "part": "plate",
         "name": "Leather Armor S",
@@ -33220,6 +33799,69 @@
         ],
         "blacksmith-page": 17,
         "blacksmith-index": 5,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 128,
+        "forge-id": 582,
+        "part": "plate",
+        "name": "Chain Mail S",
+        "rare": 6,
+        "price": 1650,
+        "hunter-type": "BG",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 2
+            },
+            {
+                "name": "Whim",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": 2
+            },
+            {
+                "name": "Paralysis",
+                "points": -1
+            }
+        ],
+        "description": "Mail made from woven chain. \nA piece of armor that has\nprotected many hunters.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 6
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Velociprey Hide+",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 459,
+        "recipe-ref": [
+            1301000,
+            1301026
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 7,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -33280,6 +33922,69 @@
     },
     {
         "armor-id": 129,
+        "forge-id": 584,
+        "part": "plate",
+        "name": "Hunter's Mail S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "B",
+        "defense": 38,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Custom armor for hunters.\nOne of the most common types\nof armor.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Ioprey Hide+",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 2
+            },
+            {
+                "name": "Bulldrome Hide",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 461,
+        "recipe-ref": [
+            1301052,
+            1301104
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 1,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 129,
         "forge-id": 586,
         "part": "plate",
         "name": "Hunter's Mail S",
@@ -33330,6 +34035,69 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 1,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 130,
+        "forge-id": 585,
+        "part": "plate",
+        "name": "Hunter's Vest S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Vest made for hunters.\nImpressive parts defend \nvital areas like the throat.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Ioprey Hide+",
+                "amount": 5
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 2
+            },
+            {
+                "name": "Bulldrome Hide",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 462,
+        "recipe-ref": [
+            1301078,
+            1301130
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 2,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -33390,6 +34158,69 @@
     },
     {
         "armor-id": 131,
+        "forge-id": 588,
+        "part": "plate",
+        "name": "Bone Mail S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "B",
+        "defense": 44,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 1
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Mail made from a base of \nmonster bone. Experience the\nwonders of the wilderness.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 3
+            },
+            {
+                "name": "King Scarab",
+                "amount": 3
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 465,
+        "recipe-ref": [
+            1301156,
+            1301208
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 5,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 131,
         "forge-id": 590,
         "part": "plate",
         "name": "Bone Mail S",
@@ -33440,6 +34271,69 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 5,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 132,
+        "forge-id": 589,
+        "part": "plate",
+        "name": "Bone Vest S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Fishing",
+                "points": 1
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Vest made by using monster \nbone. Looks worthless, but \nactually highly protective.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 3
+            },
+            {
+                "name": "King Scarab",
+                "amount": 3
+            },
+            {
+                "name": "Wyvern Skull Shl",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 466,
+        "recipe-ref": [
+            1301182,
+            1301234
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 6,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -33616,6 +34510,69 @@
     },
     {
         "armor-id": 135,
+        "forge-id": 592,
+        "part": "plate",
+        "name": "Battle Mail S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "B",
+        "defense": 46,
+        "skill-points": [
+            {
+                "name": "SwdShrpner",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -1
+            }
+        ],
+        "description": "Custom mail made for \nhunters. Protection and ease\nof use one can truly trust.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": -2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Genprey Scale+",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 469,
+        "recipe-ref": [
+            1301260,
+            1301312
+        ],
+        "blacksmith-page": 19,
+        "blacksmith-index": 1,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 135,
         "forge-id": 594,
         "part": "plate",
         "name": "Battle Mail S",
@@ -33666,6 +34623,69 @@
         ],
         "blacksmith-page": 19,
         "blacksmith-index": 1,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 136,
+        "forge-id": 593,
+        "part": "plate",
+        "name": "Battle Vest S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Reload",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "ClustS Add",
+                "points": 2
+            },
+            {
+                "name": "Hunger",
+                "points": -1
+            }
+        ],
+        "description": "Vest made for hunters. It\nhas convenient pockets for\nbullets on the chest.",
+        "slots": 1,
+        "fire-res": 4,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 2,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Genprey Scale+",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 4
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 470,
+        "recipe-ref": [
+            1301286,
+            1301338
+        ],
+        "blacksmith-page": 19,
+        "blacksmith-index": 2,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -40011,6 +41031,61 @@
         "blacksmith-index": 1,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 1
+    },
+    {
+        "armor-id": 243,
+        "forge-id": 578,
+        "part": "plate",
+        "name": "Mafumofu Jacket S",
+        "rare": 6,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 3
+            },
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Heat Res",
+                "points": -2
+            }
+        ],
+        "description": "Special product of Pokke.\nThe fluffy feeling makes you\nwant to wear it everywhere.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "High Qualty Pelt",
+                "amount": 3
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 3
+            },
+            {
+                "name": "Rainbow Insect",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 455,
+        "recipe-ref": [
+            1300896,
+            1300922
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 3,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
     },
     {
         "armor-id": 243,
@@ -50640,6 +51715,65 @@
     },
     {
         "armor-id": 3,
+        "forge-id": 875,
+        "part": "gauntlet",
+        "name": "Hunter's Vambraces",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "B",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Custom arm protection for\nhunters. Strong yet supple\nfor easy movement.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 2
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Ivy",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 636,
+        "recipe-ref": [
+            1308618,
+            1308670
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 3,
         "forge-id": 877,
         "part": "gauntlet",
         "name": "Hunter's Vambraces",
@@ -50688,6 +51822,65 @@
         "blacksmith-index": 4,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 4,
+        "forge-id": 876,
+        "part": "gauntlet",
+        "name": "Hunter's Guards",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "G",
+        "defense": 6,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "Precision",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Arm guards for hunters.\nLow protection, but strong\nagainst the elements.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 2
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Ivy",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 637,
+        "recipe-ref": [
+            1308644,
+            1308696
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 5,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 5
     },
     {
         "armor-id": 4,
@@ -50742,6 +51935,69 @@
     },
     {
         "armor-id": 5,
+        "forge-id": 879,
+        "part": "gauntlet",
+        "name": "Bone Vambraces",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "B",
+        "defense": 14,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 2
+            },
+            {
+                "name": "Gluttony",
+                "points": 3
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Vambraces crafted from \nmonster bone. Awakens the \nwild instincts within you.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "Anteka Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Giaprey Scale",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 640,
+        "recipe-ref": [
+            1308722,
+            1308774
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 5,
         "forge-id": 881,
         "part": "gauntlet",
         "name": "Bone Vambraces",
@@ -50792,6 +52048,69 @@
         ],
         "blacksmith-page": 1,
         "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 6,
+        "forge-id": 880,
+        "part": "gauntlet",
+        "name": "Bone Guards",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "G",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            },
+            {
+                "name": "Gluttony",
+                "points": 3
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Decorated with monster bone.\nSharpens the senses and lets\none read the wind for info.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Sm Monster Bone",
+                "amount": 5
+            },
+            {
+                "name": "Anteka Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Giaprey Scale",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 641,
+        "recipe-ref": [
+            1308748,
+            1308800
+        ],
+        "blacksmith-page": 2,
+        "blacksmith-index": 1,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -51356,6 +52675,65 @@
     },
     {
         "armor-id": 15,
+        "forge-id": 891,
+        "part": "gauntlet",
+        "name": "Hi-Metal Vambraces",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "B",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 2
+            },
+            {
+                "name": "Whim",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Made from rare ore. Even\nwhen trampled by a wyvern,\nthey don't lose their shape.",
+        "slots": 1,
+        "fire-res": -2,
+        "water-res": -2,
+        "thundr-res": 3,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 4
+            },
+            {
+                "name": "Carpenterbug",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 652,
+        "recipe-ref": [
+            1309034,
+            1309086
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 15,
         "forge-id": 893,
         "part": "gauntlet",
         "name": "Hi-Metal Vambraces",
@@ -51406,6 +52784,65 @@
         ],
         "blacksmith-page": 3,
         "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 16,
+        "forge-id": 892,
+        "part": "gauntlet",
+        "name": "Hi-Metal Guards",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "G",
+        "defense": 10,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 3
+            },
+            {
+                "name": "Crag S Add",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Primarily made of a rare\nore. Gunner's armor, but\nstill highly protective.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 5,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 4
+            },
+            {
+                "name": "Carpenterbug",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 653,
+        "recipe-ref": [
+            1309060,
+            1309112
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 5,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -52077,6 +53514,65 @@
         ],
         "blacksmith-page": 5,
         "blacksmith-index": 3,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 27,
+        "forge-id": 899,
+        "part": "gauntlet",
+        "name": "Steel Vambraces",
+        "rare": 3,
+        "price": 1650,
+        "hunter-type": "B",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            }
+        ],
+        "description": "Vambraces of precious ore\nthat feature a simple and\npractical design.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 10
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 6
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 660,
+        "recipe-ref": [
+            1309242,
+            1309268
+        ],
+        "blacksmith-page": 4,
+        "blacksmith-index": 4,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -57889,6 +59385,61 @@
     },
     {
         "armor-id": 125,
+        "forge-id": 1012,
+        "part": "gauntlet",
+        "name": "Leather Vambraces S",
+        "rare": 6,
+        "price": 1350,
+        "hunter-type": "BG",
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "HiSpdGathr",
+                "points": 10
+            },
+            {
+                "name": "Cooking",
+                "points": -1
+            }
+        ],
+        "description": "Made from light materials on\na base of leather. Crafted\nwith ease of use in mind.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Kelbi Hide",
+                "amount": 2
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 769,
+        "recipe-ref": [
+            1312180,
+            1312206
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 3,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 125,
         "forge-id": 1013,
         "part": "gauntlet",
         "name": "Leather Vambraces S",
@@ -57931,6 +59482,65 @@
         ],
         "blacksmith-page": 17,
         "blacksmith-index": 3,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 126,
+        "forge-id": 1014,
+        "part": "gauntlet",
+        "name": "Chain Vambraces S",
+        "rare": 6,
+        "price": 1650,
+        "hunter-type": "BG",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 4
+            },
+            {
+                "name": "Whim",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": 2
+            },
+            {
+                "name": "Paralysis",
+                "points": -1
+            }
+        ],
+        "description": "Arm protectors made from\nwoven chain. Stronger than\nleather.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 771,
+        "recipe-ref": [
+            1312232,
+            1312258
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 5,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -57991,6 +59601,69 @@
     },
     {
         "armor-id": 127,
+        "forge-id": 1016,
+        "part": "gauntlet",
+        "name": "Hunter's Vambraces S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "B",
+        "defense": 38,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Custom arm protection for\nhunters. Strong yet supple\nfor easy movement.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 773,
+        "recipe-ref": [
+            1312284,
+            1312336
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 7,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 127,
         "forge-id": 1018,
         "part": "gauntlet",
         "name": "Hunter's Vambraces S",
@@ -58041,6 +59714,69 @@
         ],
         "blacksmith-page": 17,
         "blacksmith-index": 7,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 128,
+        "forge-id": 1017,
+        "part": "gauntlet",
+        "name": "Hunter's Guards S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Arm guards for hunters.\nLow protection, but strong\nagainst the elements.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "Brute Bone",
+                "amount": 3
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 774,
+        "recipe-ref": [
+            1312310,
+            1312362
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 8,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -58101,6 +59837,69 @@
     },
     {
         "armor-id": 129,
+        "forge-id": 1020,
+        "part": "gauntlet",
+        "name": "Bone Vambraces S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "B",
+        "defense": 44,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 3
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Vambraces crafted from \nmonster bone. Awakens the \nwild instincts within you.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Inferno Sac",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 2
+            },
+            {
+                "name": "King Scarab",
+                "amount": 4
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 777,
+        "recipe-ref": [
+            1312388,
+            1312440
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 3,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 129,
         "forge-id": 1022,
         "part": "gauntlet",
         "name": "Bone Vambraces S",
@@ -58151,6 +59950,69 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 3,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 130,
+        "forge-id": 1021,
+        "part": "gauntlet",
+        "name": "Bone Guards S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Fishing",
+                "points": 3
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Decorated with monster bone.\nSharpens the senses and lets\none read the wind for info.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Inferno Sac",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 2
+            },
+            {
+                "name": "King Scarab",
+                "amount": 4
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 778,
+        "recipe-ref": [
+            1312414,
+            1312466
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 4,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -58327,6 +60189,69 @@
     },
     {
         "armor-id": 133,
+        "forge-id": 1024,
+        "part": "gauntlet",
+        "name": "Battle Vambraces S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "B",
+        "defense": 46,
+        "skill-points": [
+            {
+                "name": "SwdShrpner",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 3
+            },
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Vambraces made for hunters. \nEase of movement makes these\nextremely practical.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": -2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Scale",
+                "amount": 3
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 3
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 781,
+        "recipe-ref": [
+            1312492,
+            1312544
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 7,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 133,
         "forge-id": 1026,
         "part": "gauntlet",
         "name": "Battle Vambraces S",
@@ -58377,6 +60302,69 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 7,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 134,
+        "forge-id": 1025,
+        "part": "gauntlet",
+        "name": "Battle Guards S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Reload",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 3
+            },
+            {
+                "name": "ClustS Add",
+                "points": 2
+            },
+            {
+                "name": "Hunger",
+                "points": -2
+            }
+        ],
+        "description": "Custom-made guards for \nhunters. Allows movement \nduring successive firing.",
+        "slots": 1,
+        "fire-res": 4,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 2,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Scale",
+                "amount": 3
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 3
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 782,
+        "recipe-ref": [
+            1312518,
+            1312570
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 8,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -64568,6 +66556,61 @@
         "blacksmith-index": 1,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 1
+    },
+    {
+        "armor-id": 238,
+        "forge-id": 1010,
+        "part": "gauntlet",
+        "name": "Mafumofu Mittens S",
+        "rare": 6,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 5
+            },
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Heat Res",
+                "points": -2
+            }
+        ],
+        "description": "Special product of Pokke.\nThese thick mittens are \nfamed for their ease of use.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 1
+            },
+            {
+                "name": "Rainbow Insect",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 767,
+        "recipe-ref": [
+            1312128,
+            1312154
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 1,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
     },
     {
         "armor-id": 238,
@@ -75081,6 +77124,61 @@
     },
     {
         "armor-id": 5,
+        "forge-id": 1303,
+        "part": "waist",
+        "name": "Hunter's Tasset",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "B",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "BBQ",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Waist armor for hunters.\nValued by hunters for its\nflexible protection.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 1
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 947,
+        "recipe-ref": [
+            1319746,
+            1319798
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 6,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 5
+    },
+    {
+        "armor-id": 5,
         "forge-id": 1305,
         "part": "waist",
         "name": "Hunter's Tasset",
@@ -75129,6 +77227,61 @@
         "blacksmith-index": 6,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 5
+    },
+    {
+        "armor-id": 6,
+        "forge-id": 1304,
+        "part": "waist",
+        "name": "Hunter's Coat",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "G",
+        "defense": 6,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "NormalS Up",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Waist armor for hunters. \nConstructed with a pleasant \nattention to detail.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 1
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 948,
+        "recipe-ref": [
+            1319772,
+            1319824
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 7,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 6
     },
     {
         "armor-id": 6,
@@ -75183,6 +77336,69 @@
     },
     {
         "armor-id": 7,
+        "forge-id": 1307,
+        "part": "waist",
+        "name": "Bone Tasset",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "B",
+        "defense": 14,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 3
+            },
+            {
+                "name": "Horn",
+                "points": 2
+            },
+            {
+                "name": "Alchemy",
+                "points": 2
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Tasset made from monster \nbone. The bone on the back \nmakes this a wild protector.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Unknown Skull",
+                "amount": 1
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Anteka Pelt",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 951,
+        "recipe-ref": [
+            1319850,
+            1319902
+        ],
+        "blacksmith-page": 2,
+        "blacksmith-index": 2,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 7,
         "forge-id": 1309,
         "part": "waist",
         "name": "Bone Tasset",
@@ -75233,6 +77449,69 @@
         ],
         "blacksmith-page": 2,
         "blacksmith-index": 2,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 8,
+        "forge-id": 1308,
+        "part": "waist",
+        "name": "Bone Coat",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "G",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 3
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            },
+            {
+                "name": "Alchemy",
+                "points": 2
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Coat made of monster bone. \nFew gaps, thus it is highly\nprotective.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Carpenterbug",
+                "amount": 2
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Sm Bone Husk",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 952,
+        "recipe-ref": [
+            1319876,
+            1319928
+        ],
+        "blacksmith-page": 2,
+        "blacksmith-index": 3,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -75823,6 +78102,65 @@
     },
     {
         "armor-id": 18,
+        "forge-id": 1320,
+        "part": "waist",
+        "name": "Hi-Metal Tasset",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "B",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 3
+            },
+            {
+                "name": "Whim",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Primarily made of a rare\nore. Strength above that\nof normal wyvern armor.",
+        "slots": 1,
+        "fire-res": -2,
+        "water-res": -2,
+        "thundr-res": 3,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 3
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 964,
+        "recipe-ref": [
+            1320188,
+            1320240
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 7,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 18,
         "forge-id": 1322,
         "part": "waist",
         "name": "Hi-Metal Tasset",
@@ -75873,6 +78211,65 @@
         ],
         "blacksmith-page": 3,
         "blacksmith-index": 7,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 19,
+        "forge-id": 1321,
+        "part": "waist",
+        "name": "Hi-Metal Coat",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "G",
+        "defense": 10,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 3
+            },
+            {
+                "name": "Crag S Add",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Primarily made of a heavy\nore. An incredibly strong,\nbut flexible alloy.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 5,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Disk Stone",
+                "amount": 3
+            },
+            {
+                "name": "Thunderbug",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 965,
+        "recipe-ref": [
+            1320214,
+            1320266
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 8,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -76574,6 +78971,65 @@
         ],
         "blacksmith-page": 5,
         "blacksmith-index": 7,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 31,
+        "forge-id": 1329,
+        "part": "waist",
+        "name": "Steel Belt",
+        "rare": 3,
+        "price": 1650,
+        "hunter-type": "B",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": 4
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            }
+        ],
+        "description": "While the scope of its\nprotection is small, it\ncleverly hides vital spots.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 8
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 12
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 973,
+        "recipe-ref": [
+            1320422,
+            1320448
+        ],
+        "blacksmith-page": 4,
+        "blacksmith-index": 8,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -82022,6 +84478,61 @@
     },
     {
         "armor-id": 123,
+        "forge-id": 1437,
+        "part": "waist",
+        "name": "Leather Belt S",
+        "rare": 6,
+        "price": 1350,
+        "hunter-type": "BG",
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "MixSucRate",
+                "points": 10
+            },
+            {
+                "name": "Cooking",
+                "points": -1
+            }
+        ],
+        "description": "Made from light materials on\na base of leather. A basic\nbelt aimed at the masses.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 10
+            },
+            {
+                "name": "Kelbi Hide",
+                "amount": 2
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1077,
+        "recipe-ref": [
+            1323230,
+            1323256
+        ],
+        "blacksmith-page": 16,
+        "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 123,
         "forge-id": 1438,
         "part": "waist",
         "name": "Leather Belt S",
@@ -82064,6 +84575,65 @@
         ],
         "blacksmith-page": 16,
         "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 124,
+        "forge-id": 1439,
+        "part": "waist",
+        "name": "Chain Belt S",
+        "rare": 6,
+        "price": 1650,
+        "hunter-type": "BG",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 4
+            },
+            {
+                "name": "Whim",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": 2
+            },
+            {
+                "name": "Paralysis",
+                "points": -1
+            }
+        ],
+        "description": "Made of carefully connected,\nperfectly molded chain.\nStronger than leather. ",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Velociprey Hide+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1079,
+        "recipe-ref": [
+            1323282,
+            1323308
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 2,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -82124,6 +84694,69 @@
     },
     {
         "armor-id": 125,
+        "forge-id": 1441,
+        "part": "waist",
+        "name": "Hunter's Tasset S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "B",
+        "defense": 38,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Waist armor for hunters.\nValued by hunters for its\nflexible protection.",
+        "slots": 2,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "King Scarab",
+                "amount": 2
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 4
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1081,
+        "recipe-ref": [
+            1323334,
+            1323386
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 125,
         "forge-id": 1443,
         "part": "waist",
         "name": "Hunter's Tasset S",
@@ -82174,6 +84807,69 @@
         ],
         "blacksmith-page": 17,
         "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 126,
+        "forge-id": 1442,
+        "part": "waist",
+        "name": "Hunter's Coat S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Waist armor for hunters. \nConstructed with a pleasant \nattention to detail.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 12
+            },
+            {
+                "name": "King Scarab",
+                "amount": 2
+            },
+            {
+                "name": "Rathalos Scale",
+                "amount": 4
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1082,
+        "recipe-ref": [
+            1323360,
+            1323412
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 5,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -82234,6 +84930,69 @@
     },
     {
         "armor-id": 127,
+        "forge-id": 1445,
+        "part": "waist",
+        "name": "Bone Tasset S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "B",
+        "defense": 44,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 3
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Tasset made from monster \nbone. The bone on the back \nmakes this a wild protector.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Stout Bone",
+                "amount": 3
+            },
+            {
+                "name": "Master's Skull",
+                "amount": 1
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 3
+            },
+            {
+                "name": "High Qualty Pelt",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1085,
+        "recipe-ref": [
+            1323438,
+            1323490
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 127,
         "forge-id": 1447,
         "part": "waist",
         "name": "Bone Tasset S",
@@ -82284,6 +85043,69 @@
         ],
         "blacksmith-page": 17,
         "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 128,
+        "forge-id": 1446,
+        "part": "waist",
+        "name": "Bone Coat S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Fishing",
+                "points": 3
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Coat made of monster bone. \nFew gaps, thus it is highly\nprotective.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Stout Bone",
+                "amount": 3
+            },
+            {
+                "name": "Monster Broth",
+                "amount": 2
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 3
+            },
+            {
+                "name": "Lg Bone Husk",
+                "amount": 5
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1086,
+        "recipe-ref": [
+            1323464,
+            1323516
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 1,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -82444,6 +85266,69 @@
     },
     {
         "armor-id": 131,
+        "forge-id": 1449,
+        "part": "waist",
+        "name": "Battle Tasset S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "B",
+        "defense": 46,
+        "skill-points": [
+            {
+                "name": "SwdShrpner",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 1
+            },
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Custom waist armor for\nhunters. Stylish, with an\nimpressive design.",
+        "slots": 2,
+        "fire-res": 2,
+        "water-res": -2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Bulldrome Tusk",
+                "amount": 3
+            },
+            {
+                "name": "Remobra Skin",
+                "amount": 2
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1089,
+        "recipe-ref": [
+            1323542,
+            1323594
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 131,
         "forge-id": 1451,
         "part": "waist",
         "name": "Battle Tasset S",
@@ -82494,6 +85379,69 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 132,
+        "forge-id": 1450,
+        "part": "waist",
+        "name": "Battle Coat S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Reload",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 3
+            },
+            {
+                "name": "ClustS Add",
+                "points": 2
+            },
+            {
+                "name": "Hunger",
+                "points": -2
+            }
+        ],
+        "description": "Waist armor for hunters. \nMade with light materials \nfor high functionality.",
+        "slots": 1,
+        "fire-res": 4,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 2,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 4
+            },
+            {
+                "name": "Bulldrome Tusk",
+                "amount": 3
+            },
+            {
+                "name": "Remobra Skin",
+                "amount": 2
+            },
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1090,
+        "recipe-ref": [
+            1323568,
+            1323620
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 5,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -88751,6 +91699,61 @@
         "blacksmith-index": 1,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 1
+    },
+    {
+        "armor-id": 237,
+        "forge-id": 1435,
+        "part": "waist",
+        "name": "Mafumofu Coat S",
+        "rare": 6,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 5
+            },
+            {
+                "name": "Protection",
+                "points": 2
+            },
+            {
+                "name": "Heat Res",
+                "points": -2
+            }
+        ],
+        "description": "Special product of Pokke.\nIts warmth and fluffiness\nare absolutely lovely.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 1
+            },
+            {
+                "name": "Rainbow Insect",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1075,
+        "recipe-ref": [
+            1323178,
+            1323204
+        ],
+        "blacksmith-page": 16,
+        "blacksmith-index": 6,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
     },
     {
         "armor-id": 237,
@@ -99106,6 +102109,65 @@
     },
     {
         "armor-id": 3,
+        "forge-id": 1725,
+        "part": "legging",
+        "name": "Hunter's Greaves",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "B",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "BBQ",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Leg armor for hunters.\nSturdy and designed for ease\nof movement.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1252,
+        "recipe-ref": [
+            1330718,
+            1330770
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 3,
         "forge-id": 1727,
         "part": "legging",
         "name": "Hunter's Greaves",
@@ -99154,6 +102216,65 @@
         "blacksmith-index": 4,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 4
+    },
+    {
+        "armor-id": 4,
+        "forge-id": 1726,
+        "part": "legging",
+        "name": "Hunter's Leggings",
+        "rare": 1,
+        "price": 450,
+        "hunter-type": "G",
+        "defense": 6,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Carving",
+                "points": 2
+            },
+            {
+                "name": "NormalS Up",
+                "points": 3
+            },
+            {
+                "name": "Faint",
+                "points": -1
+            }
+        ],
+        "description": "Leggings for hunters.\nLightweight and resistant to\nelemental attacks.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Bullfango Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Earth Crystal",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1253,
+        "recipe-ref": [
+            1330744,
+            1330796
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 5,
+        "felyne-vendor-page": 1,
+        "felyne-vendor-index": 5
     },
     {
         "armor-id": 4,
@@ -99208,6 +102329,69 @@
     },
     {
         "armor-id": 5,
+        "forge-id": 1729,
+        "part": "legging",
+        "name": "Bone Greaves",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "B",
+        "defense": 14,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 2
+            },
+            {
+                "name": "Gluttony",
+                "points": 3
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Covers the legs with monster\nbone. Marvel at the wonders\nof the great outdoors.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 4
+            },
+            {
+                "name": "Anteka Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Giaprey Hide",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1256,
+        "recipe-ref": [
+            1330822,
+            1330874
+        ],
+        "blacksmith-page": 1,
+        "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 5,
         "forge-id": 1731,
         "part": "legging",
         "name": "Bone Greaves",
@@ -99258,6 +102442,69 @@
         ],
         "blacksmith-page": 1,
         "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 6,
+        "forge-id": 1730,
+        "part": "legging",
+        "name": "Bone Leggings",
+        "rare": 2,
+        "price": 650,
+        "hunter-type": "G",
+        "defense": 8,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "BBQ",
+                "points": 2
+            },
+            {
+                "name": "Gluttony",
+                "points": 3
+            },
+            {
+                "name": "PsychicVis",
+                "points": 1
+            },
+            {
+                "name": "Map",
+                "points": -1
+            }
+        ],
+        "description": "Covers the legs with monster\nbone. The leggings still \nreek of the beast's stench.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Brute Bone",
+                "amount": 4
+            },
+            {
+                "name": "Anteka Pelt",
+                "amount": 1
+            },
+            {
+                "name": "Giaprey Hide",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1257,
+        "recipe-ref": [
+            1330848,
+            1330900
+        ],
+        "blacksmith-page": 2,
+        "blacksmith-index": 1,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -99852,6 +103099,65 @@
     },
     {
         "armor-id": 16,
+        "forge-id": 1743,
+        "part": "legging",
+        "name": "Hi-Metal Greaves",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "B",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 3
+            },
+            {
+                "name": "Whim",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Primarily made of a rare\nore. Quite powerful against\nphysical attacks.",
+        "slots": 1,
+        "fire-res": -2,
+        "water-res": -2,
+        "thundr-res": 3,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1270,
+        "recipe-ref": [
+            1331186,
+            1331238
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 6,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 16,
         "forge-id": 1745,
         "part": "legging",
         "name": "Hi-Metal Greaves",
@@ -99902,6 +103208,65 @@
         ],
         "blacksmith-page": 3,
         "blacksmith-index": 6,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 17,
+        "forge-id": 1744,
+        "part": "legging",
+        "name": "Hi-Metal Leggings",
+        "rare": 3,
+        "price": 1150,
+        "hunter-type": "G",
+        "defense": 10,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 3
+            },
+            {
+                "name": "Gunnery",
+                "points": 3
+            },
+            {
+                "name": "Crag S Add",
+                "points": 1
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Primarily made of a heavy\nore. Careful crafting gives\nway to excellent armor.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 5,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Machalite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Iron Ore",
+                "amount": 3
+            },
+            {
+                "name": "Velociprey Hide",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1271,
+        "recipe-ref": [
+            1331212,
+            1331264
+        ],
+        "blacksmith-page": 3,
+        "blacksmith-index": 7,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -106076,6 +109441,61 @@
     },
     {
         "armor-id": 122,
+        "forge-id": 1868,
+        "part": "legging",
+        "name": "Green Pants S",
+        "rare": 6,
+        "price": 1350,
+        "hunter-type": "BG",
+        "defense": 22,
+        "skill-points": [
+            {
+                "name": "Gathering",
+                "points": 5
+            },
+            {
+                "name": "Backpackng",
+                "points": 6
+            }
+        ],
+        "description": "The basic leggings of a \nhunter. Light and easy to \nmove around in.",
+        "slots": 0,
+        "fire-res": 2,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 1
+            },
+            {
+                "name": "Machalite Ore",
+                "amount": 7
+            },
+            {
+                "name": "Kelbi Hide",
+                "amount": 1
+            },
+            {
+                "name": "Stout Bone",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1391,
+        "recipe-ref": [
+            1334436,
+            1334462
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 122,
         "forge-id": 1869,
         "part": "legging",
         "name": "Green Pants S",
@@ -106118,6 +109538,65 @@
         ],
         "blacksmith-page": 17,
         "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 123,
+        "forge-id": 1870,
+        "part": "legging",
+        "name": "Blue Pants S",
+        "rare": 6,
+        "price": 1650,
+        "hunter-type": "BG",
+        "defense": 24,
+        "skill-points": [
+            {
+                "name": "Health",
+                "points": 4
+            },
+            {
+                "name": "Whim",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": 2
+            },
+            {
+                "name": "Paralysis",
+                "points": -1
+            }
+        ],
+        "description": "Durable crafted pants.\nSparingly uses metal to\nmaintain mobility.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 1,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 2
+            },
+            {
+                "name": "Velociprey Hide+",
+                "amount": 4
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1393,
+        "recipe-ref": [
+            1334488,
+            1334514
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 6,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -106178,6 +109657,69 @@
     },
     {
         "armor-id": 124,
+        "forge-id": 1872,
+        "part": "legging",
+        "name": "Hunter's Greaves S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "B",
+        "defense": 38,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Leg armor for hunters.\nSturdy and designed for ease\nof movement.",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": -4,
+        "dragon-res": 0,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Ioprey Hide+",
+                "amount": 5
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1395,
+        "recipe-ref": [
+            1334540,
+            1334592
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 124,
         "forge-id": 1874,
         "part": "legging",
         "name": "Hunter's Greaves S",
@@ -106228,6 +109770,69 @@
         ],
         "blacksmith-page": 17,
         "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 125,
+        "forge-id": 1873,
+        "part": "legging",
+        "name": "Hunter's Leggings S",
+        "rare": 6,
+        "price": 5350,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "PsychicVis",
+                "points": 3
+            },
+            {
+                "name": "Attack",
+                "points": 2
+            },
+            {
+                "name": "Rec Speed",
+                "points": 2
+            },
+            {
+                "name": "Faint",
+                "points": -2
+            }
+        ],
+        "description": "Leggings for hunters.\nLightweight and resistant to\nelemental attacks.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": 2,
+        "materials": [
+            {
+                "name": "Carbalite Ore",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            },
+            {
+                "name": "Lg Monster Bone",
+                "amount": 2
+            },
+            {
+                "name": "Ioprey Hide+",
+                "amount": 5
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1396,
+        "recipe-ref": [
+            1334566,
+            1334618
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 1,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -106288,6 +109893,69 @@
     },
     {
         "armor-id": 126,
+        "forge-id": 1876,
+        "part": "legging",
+        "name": "Bone Greaves S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "B",
+        "defense": 44,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Horn",
+                "points": 3
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Covers the legs with monster\nbone. Marvel at the wonders\nof the great outdoors.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": 2,
+        "thundr-res": -2,
+        "dragon-res": -2,
+        "ice-res": -2,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 4
+            },
+            {
+                "name": "King Scarab",
+                "amount": 2
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 4
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1399,
+        "recipe-ref": [
+            1334644,
+            1334696
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 126,
         "forge-id": 1878,
         "part": "legging",
         "name": "Bone Greaves S",
@@ -106338,6 +110006,69 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 4,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 127,
+        "forge-id": 1877,
+        "part": "legging",
+        "name": "Bone Leggings S",
+        "rare": 6,
+        "price": 7200,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Anti-Theft",
+                "points": 2
+            },
+            {
+                "name": "Fishing",
+                "points": 3
+            },
+            {
+                "name": "Cooking",
+                "points": 2
+            },
+            {
+                "name": "Map",
+                "points": -2
+            }
+        ],
+        "description": "Covers the legs with monster\nbone. The leggings still \nreek of the beast's stench.",
+        "slots": 1,
+        "fire-res": 5,
+        "water-res": 5,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 4
+            },
+            {
+                "name": "King Scarab",
+                "amount": 2
+            },
+            {
+                "name": "Giant Bone",
+                "amount": 4
+            },
+            {
+                "name": "Monster Bone+",
+                "amount": 1
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1400,
+        "recipe-ref": [
+            1334670,
+            1334722
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 5,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -106514,6 +110245,69 @@
     },
     {
         "armor-id": 130,
+        "forge-id": 1880,
+        "part": "legging",
+        "name": "Battle Greaves S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "B",
+        "defense": 46,
+        "skill-points": [
+            {
+                "name": "SwdShrpner",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 3
+            },
+            {
+                "name": "Guard",
+                "points": 2
+            },
+            {
+                "name": "Stamina",
+                "points": -2
+            }
+        ],
+        "description": "Custom greaves designed for\nhunters. Prized for their\nhigh quality.",
+        "slots": 1,
+        "fire-res": 2,
+        "water-res": -2,
+        "thundr-res": -2,
+        "dragon-res": 0,
+        "ice-res": -1,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Shell",
+                "amount": 2
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1403,
+        "recipe-ref": [
+            1334748,
+            1334800
+        ],
+        "blacksmith-page": 18,
+        "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 130,
         "forge-id": 1882,
         "part": "legging",
         "name": "Battle Greaves S",
@@ -106564,6 +110358,69 @@
         ],
         "blacksmith-page": 18,
         "blacksmith-index": 8,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
+    },
+    {
+        "armor-id": 131,
+        "forge-id": 1881,
+        "part": "legging",
+        "name": "Battle Leggings S",
+        "rare": 6,
+        "price": 7500,
+        "hunter-type": "G",
+        "defense": 26,
+        "skill-points": [
+            {
+                "name": "Reload",
+                "points": 2
+            },
+            {
+                "name": "Attack",
+                "points": 1
+            },
+            {
+                "name": "ClustS Add",
+                "points": 2
+            },
+            {
+                "name": "Hunger",
+                "points": -2
+            }
+        ],
+        "description": "Leggings for hunters. A\ncrystallization of design \nwithout compromise.",
+        "slots": 2,
+        "fire-res": 4,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 2,
+        "ice-res": 0,
+        "materials": [
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 3
+            },
+            {
+                "name": "Rathian Shell",
+                "amount": 2
+            },
+            {
+                "name": "Conga Pelt+",
+                "amount": 4
+            },
+            {
+                "name": "Dragonite Ore",
+                "amount": 3
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1404,
+        "recipe-ref": [
+            1334774,
+            1334826
+        ],
+        "blacksmith-page": 19,
+        "blacksmith-index": 1,
         "felyne-vendor-page": null,
         "felyne-vendor-index": null
     },
@@ -112829,6 +116686,65 @@
         "blacksmith-index": 1,
         "felyne-vendor-page": 1,
         "felyne-vendor-index": 1
+    },
+    {
+        "armor-id": 236,
+        "forge-id": 1866,
+        "part": "legging",
+        "name": "Mafumofu Boots S",
+        "rare": 6,
+        "price": 1150,
+        "hunter-type": "BG",
+        "defense": 20,
+        "skill-points": [
+            {
+                "name": "Cold Res",
+                "points": 4
+            },
+            {
+                "name": "Protection",
+                "points": 3
+            },
+            {
+                "name": "Heat Res",
+                "points": -2
+            }
+        ],
+        "description": "Special product of Pokke.\nRetains heat and allows for\neasy movement in the snow. ",
+        "slots": 1,
+        "fire-res": 0,
+        "water-res": 0,
+        "thundr-res": 0,
+        "dragon-res": 0,
+        "ice-res": 3,
+        "materials": [
+            {
+                "name": "High Qualty Pelt",
+                "amount": 2
+            },
+            {
+                "name": "Blango Pelt+",
+                "amount": 1
+            },
+            {
+                "name": "Rainbow Insect",
+                "amount": 1
+            },
+            {
+                "name": "Bulldrome Hide+",
+                "amount": 2
+            }
+        ],
+        "sex": "unisex",
+        "raw-menu-index": 1389,
+        "recipe-ref": [
+            1334384,
+            1334410
+        ],
+        "blacksmith-page": 17,
+        "blacksmith-index": 2,
+        "felyne-vendor-page": null,
+        "felyne-vendor-index": null
     },
     {
         "armor-id": 236,
