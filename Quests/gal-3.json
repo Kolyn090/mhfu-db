@@ -40,9 +40,14 @@
         {
           "type": "quest-not-cleared",
           "quest-id": 3009
+        },
+        {
+          "type": "hunter-rank",
+          "minimum": 6
         }
       ]
-    }
+    },
+    "required-hr": 6
   },
   {
     "id": 3001,
@@ -60,7 +65,8 @@
     "client": "Guild Manager",
     "quest-details": "A daytime gathering quest in the Great Forest. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3002,
@@ -78,7 +84,8 @@
     "client": "Guild Manager",
     "quest-details": "A gathering quest in the Old Jungle. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3003,
@@ -96,7 +103,8 @@
     "client": "Guild Manager",
     "quest-details": "A gathering quest in the Old Desert. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3004,
@@ -114,7 +122,8 @@
     "client": "Guild Manager",
     "quest-details": "A gathering quest in the Old Swamp. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3005,
@@ -132,7 +141,8 @@
     "client": "Guild Manager",
     "quest-details": "A gathering quest in the Snowy Mountains. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3006,
@@ -150,7 +160,8 @@
     "client": "Shifty Merchant",
     "quest-details": "This time, I need a hunter to come with us as we go in search of treasure in the heart of the Great Forest. More specifically, I need you to be on the look-out for Shakalakas as we travel.",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3007,
@@ -168,7 +179,8 @@
     "client": "Jungle Researcher",
     "quest-details": "It's no use. No matter where I look, I can't seem to find the Vespoid Queen! Perhaps if you slayed a large number of Vespoids to make her feel that her swarm was in grave danger, she might appear...",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3008,
@@ -186,7 +198,8 @@
     "client": "Shifty Merchant",
     "quest-details": "The Hypnocatrice, the sleep-inducing bird wyvern of the Great Forest. Those who face it usually end up taking a dirt nap, so its materials are highly coveted. So... You gonna give it a shot?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3009,
@@ -204,7 +217,8 @@
     "client": "Brave Prince",
     "quest-details": "The Hypnocatrice is hurting so many people, so I tried to sneak out to the Great Forest. Unfortunately, I was spotted by a guard. Please, I ask that someone deal with that menace in my stead!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 6
   },
   {
     "id": 3010,
@@ -222,7 +236,8 @@
     "client": "Beautiful Lady",
     "quest-details": "The Yian Kut-Ku are circling, screaming in their shrill voices. Everyone is trapped inside the town! Please do something!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3011,
@@ -240,7 +255,8 @@
     "client": "Lynian Clan Leader",
     "quest-details": "We came here to the Old Jungle in search of some materials when a giant crab chased us out of the area, nya! We can't make a living as long as that cretin is there. Please help us, nya!!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3012,
@@ -258,7 +274,8 @@
     "client": "Merchant of the East",
     "quest-details": "I spotted an unusual variety of Daimyo Hermitaur out in the Old Desert. I don't know what it was, but I swear it was evil! Anyway, here's my proposition: Hunt the crab and make a fortune. Deal?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3013,
@@ -276,7 +293,8 @@
     "client": "TrinketLover'sGrddtr",
     "quest-details": "My grandfather stumbled on a fight between two famous warriors. They say that it's the dream of a warrior to die on the battlefield, but not by their own hands! Please go and help them!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3014,
@@ -294,7 +312,8 @@
     "client": "Madam Merchant",
     "quest-details": "Just when I thought that maybe this time the peace would last, this happens! As long as that Khezu just sits there, we can't get out of the Old Jungle. Please, come to our rescue, hunter!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3015,
@@ -312,7 +331,8 @@
     "client": "Uncomfortable Butler",
     "quest-details": "I've always longed to venture into the Snowy Mountains! I think I could hunt down an Anteka, but I could never fight a wyvern. Maybe you could take care of a special monster for me...",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3016,
@@ -330,7 +350,8 @@
     "client": "Horror-Loving Youth",
     "quest-details": "Ever since a long time ago, 2 gruesome wyverns have lived in the depths of the cave in the Old Swamp, their blood-red bodies surrounded in a sharp, blue glow... *gasp!* Look, behind you!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3017,
@@ -348,7 +369,8 @@
     "client": "OldDesertWepnSmiths",
     "quest-details": "The Plesioth of the Old Desert's underground lake... We've received an SOS from the group of secret hunters who were hunting this beast. Can you keep the Plesioth at bay while we rescue them?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3018,
@@ -366,7 +388,8 @@
     "client": "Hasty High Official",
     "quest-details": "Help! I've received word that a Green Plesioth has appeared along our Queen's route to another land. Please take care of it in secret for us before she enters the area!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3019,
@@ -384,7 +407,8 @@
     "client": "Very Suspect Peddler",
     "quest-details": "Congas have gathered in the Swamp and are destroying all the good mining points. Now, I'd hate for this to leak, but there's a great mining point in a secret place. Just keep that mum, OK?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3020,
@@ -402,7 +426,8 @@
     "client": "Beautiful Swordsman",
     "quest-details": "Hmph, how rude! Can you believe that awful beast spewed some nasty gunk at me three times in a row!? ...I beg your pardon? I still stink!? How dare you, you uncouth heathen!?",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3021,
@@ -420,7 +445,8 @@
     "client": "Distinguished Lady",
     "quest-details": "There is a child wandering lost deep in the Great Forest. Our rescue efforts have thus far failed due to a strange and rare, bearded beast... I ask that someone please hunt that thing down!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3022,
@@ -438,7 +464,8 @@
     "client": "Compassionate Hunter",
     "quest-details": "That Gypceros stole my very important Book of Combos, and then, right after that, a band of Melynx stole my BBQ Spit! At this rate, I'm going to be forced into early retirement! Heeeeelp!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3023,
@@ -456,7 +483,8 @@
     "client": "Wyverian Workshop",
     "quest-details": "Gypceros are covered in a rubbery skin that's mostly waterproof, yet despite this, they like to live in areas of high humidity. Hmm... To solve this riddle, I'll require more data!",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3024,
@@ -475,7 +503,8 @@
     "client": "Materials Old-Timer",
     "quest-details": "Add a Blue Yian Kut-Ku to a Green Plesioth and you get a Plum D.Hermitaur. Seriously, uniquely-colored equipment is selling like hotcakes, especially with young folks. Wish I could get in on that.",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3025,
@@ -494,7 +523,8 @@
     "client": "Honest Retainer",
     "quest-details": "Recently, the number of people disappearing in the swamplands has been on the rise and we think the reason is linked to monsters in the area. If you can, please help look into this for us.",
     "difficulty": 9,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3103,
@@ -530,9 +560,14 @@
         {
           "type": "quest-not-cleared",
           "quest-id": 3103
+        },
+        {
+          "type": "hunter-rank",
+          "minimum": 7
         }
       ]
-    }
+    },
+    "required-hr": 7
   },
   {
     "id": 3101,
@@ -550,7 +585,8 @@
     "client": "Guild Manager",
     "quest-details": "A daytime gathering quest in the Great Forest. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3102,
@@ -568,7 +604,8 @@
     "client": "Guild Manager",
     "quest-details": "A gathering quest in the Old Jungle. Gather all the materials you can from the field, then deliver the Paw Pass Ticket to finish up. Just be aware of the G-Level monsters, OK?",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3103,
@@ -586,7 +623,8 @@
     "client": "PrivilegedLadyKnight",
     "quest-details": "I saw a demon in the Great Forest so fast that I could barely even register its shadow as it flew by. My trusty partner is my sword, and I hate to beg, but I need some backup here!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3104,
@@ -604,7 +642,8 @@
     "client": "Bearded Soldier",
     "quest-details": "Our head drill sergeant was attacked while out on an expedition in the Old Swamp by an unknown assailant. We think it's probably a monster, but we require the assistance of a hunter!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3105,
@@ -622,7 +661,8 @@
     "client": "Terrified Aristocrat",
     "quest-details": "From within the midst of the Great Forest's mist, I saw two blood-red eyes! Rest assured I will pay you well, just please, someone come defeat this creature quick!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3106,
@@ -640,7 +680,8 @@
     "client": "Selfish Princess",
     "quest-details": "I'm in a fishing competition with my elder brother. We agreed to compare rubbings to determine the winner. Well, imagine how much I'd win by if I had a Lavasioth rubbing! I'm a genius!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3107,
@@ -658,7 +699,8 @@
     "client": "Mine Owner",
     "quest-details": "From out of the rivers of lava came 2 Lavasioths! I am dead serious. And right in front of a good Powderstone deposit! Please, dear hunter! Hunt these two down so we may get back to work!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3108,
@@ -676,7 +718,8 @@
     "client": "Arena Manager",
     "quest-details": "The Arena! A place to show your skills to the world! For this event, we have released two crab-like enemies into the arena! All those ready to test their skills are welcome!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3109,
@@ -694,7 +737,8 @@
     "client": "Chief Weapon Smith",
     "quest-details": "Upon our trip into the cave at the volcano, an enormous Shogun Ceanataur dropped down from the ceiling right on top of us! Its ambush caused massive damage! Rid the world of that scourge!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3110,
@@ -711,7 +755,8 @@
     "client": "Selfish Felyne",
     "quest-details": "I was going to get some materials after my catnap from what I thought was an empty black shell, but it took off, nya! I'm so mad that I didn't get anything! You'd better help me, nya!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3111,
@@ -729,7 +774,8 @@
     "client": "TrinketLover'sGrddtr",
     "quest-details": "My grandfather stumbled on a fight between two famous warriors. They say that it's the dream of a warrior to die on the battlefield, but not by their own hands! Please go and help them!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3112,
@@ -746,7 +792,8 @@
     "client": "Gaggle of Mistresses",
     "quest-details": "We were enjoying a lovely picnic in the forest, where even the small birds had come out of hiding to bathe in the sunlight. But then, a lick of flame came out of nowhere! What was that!?",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3113,
@@ -764,7 +811,8 @@
     "client": "MightyMountainMonks",
     "quest-details": "Unbelievably, the king of all wyverns has appeared in the Old Volcano belt. To protect our temple, we went to fight it, but to no avail. Please, we humbly ask for your assistance, hunter!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3114,
@@ -782,7 +830,8 @@
     "client": "Brave Boys",
     "quest-details": "Do you hear that? A voice that makes the earth tremble. Soldiers who have never known defeat are knocked about by this sky king's roar, but that's what hunters are for, right?",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3115,
@@ -800,7 +849,8 @@
     "client": "Powerful Ambassador",
     "quest-details": "In order to hunt down the ferocious Rathian in our lands, we are asking for volunteers. Hunters! Show us your strength and hunt that which is called \"Empress\".",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3116,
@@ -818,7 +868,8 @@
     "client": "Sharp Eyed Count",
     "quest-details": "The terrible Pink Rathian. It invades other monsters' territory and throws them into disarray, and picks fights with them as well. We must quickly rid the world of such a dangerous monster!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3117,
@@ -836,7 +887,8 @@
     "client": "Lone Wolf Hunter",
     "quest-details": "Heh, at long last I have laid eyes upon my prey, the Great Forest's Yian Garuga, though never in my wildest dreams did I think it would be so strong! Hunter, I call upon your assistance now.",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3118,
@@ -854,7 +906,8 @@
     "client": "Lovely Princess",
     "quest-details": "Yian Garuga have appeared in the forest areas one by one. Unending cycles of inflamed violence has caused many casualties in the area. For the sake of the people, please do something quick!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3119,
@@ -872,7 +925,8 @@
     "client": "Foothills Villager",
     "quest-details": "A Blangonga has staked its claim to a piece of the snowy mountains. Now we can't enter the area to gather firewood. Exterminate the Blangonga!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3120,
@@ -890,7 +944,8 @@
     "client": "ForgttnScholarStudnt",
     "quest-details": "My teacher believed that a subspecies of Blangonga lives in the arid sands of a desert, and went in search of it. People have forgotten about my teacher, but I want to know what happened!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3121,
@@ -908,7 +963,8 @@
     "client": "Confused Bar Owner",
     "quest-details": "Oh my! I'm sure that was a Blangonga, but they only live in areas of extreme cold! What is one doing out here!? Ahh, I have no idea what's going on anymore, but please do something!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3122,
@@ -925,7 +981,8 @@
     "client": "Unlucky Journey Lady",
     "quest-details": "I was hiding from a Basarios behind some boulders when it turned out to be another one! I thought I could hide behind some other boulders ahead of me, but it was yet another one! Somebody, help!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3123,
@@ -944,7 +1001,8 @@
     "client": "Guild Messenger",
     "quest-details": "We've received word that an airship made an emergency landing in the Jungle, but the area is home to a Daimyo Hermitaur, a Gypceros, and a Rathian. Hurry to the region and help hunt them down!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3124,
@@ -963,7 +1021,8 @@
     "client": "Guild Big-Wig",
     "quest-details": "There's something strange in the air, and it's attracting all manner of monsters all at once! Right now, there's only 1 hunter for every 3 monsters so any help you can give would be fantastic!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3125,
@@ -982,7 +1041,8 @@
     "client": "Uncomfortable Butler",
     "quest-details": "The young master has gone on a most impossible hunt, I'm afraid; all for the hand of a certain beautiful lady knight. I fear it will not end well, so I ask that you please help him along!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3126,
@@ -1001,7 +1061,8 @@
     "client": "DesertedArenaManager",
     "quest-details": "I went to open up the arena that no one has used in a while. Lo and behold, it's now a den of monsters! They seem to like it there so much they were immediately up in arms. Please help me!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3127,
@@ -1019,7 +1080,8 @@
     "client": "Guild Master",
     "quest-details": "It seems that once again our land is in crisis. The giant elder dragon Lao-Shan Lung is approaching the village from the mountains. Head to the fort and defend our way of life!",
     "difficulty": 10,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3228,
@@ -1055,9 +1117,14 @@
         {
           "type": "quest-not-cleared",
           "quest-id": 3228
+        },
+        {
+          "type": "hunter-rank",
+          "minimum": 8
         }
       ]
-    }
+    },
+    "required-hr": 7
   },
   {
     "id": 3201,
@@ -1075,7 +1142,8 @@
     "client": "Guild Master",
     "quest-details": "At last, the Tigrex has appeared! It is said the beast's origins are as a flying wyvern. It is too powerful to be allowed to run free. The village is in danger! Hunt it quickly!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3202,
@@ -1093,7 +1161,8 @@
     "client": "Guild Master",
     "quest-details": "A group of highly skilled hunters went off to slay two Tigrex, but they became the hunted. Please destroy the two Tigrex and open a clear route for our rescue team.",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3203,
@@ -1111,7 +1180,8 @@
     "client": "Envoy to the King",
     "quest-details": "I have heard that there is a hunter in this village of great skill. We have sent scores of soldiers, yet they are no match for the Diablos of the Old Desert. Please lend us your power, Hunter!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3204,
@@ -1129,7 +1199,8 @@
     "client": "Failed Millionaire",
     "quest-details": "I had hired the most skilled hunters imaginable, and went on a safari for the famed Diablos... But what we found was no mere Diablos! We must slay that black horned wyvern! No matter what!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3205,
@@ -1147,7 +1218,8 @@
     "client": "Surviving Trooper",
     "quest-details": "SOS! Two gigantic black towers came rising out of the ground and threw us into disarray. The pressure of tens of thousands of troops on us; so this is a wyvern's might. Please help us out!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3206,
@@ -1165,7 +1237,8 @@
     "client": "Friendly Head Knight",
     "quest-details": "Even us knights can't stand up to the Gravios's mighty heat ray. I know this is a big request, but can you please go and hunt this armored beast in our stead?",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3207,
@@ -1183,7 +1256,8 @@
     "client": "Troubled Noble",
     "quest-details": "A fearsome Gravios has appeared amidst the magma and desolation of the Volcanic Belt. Hunt down the fire breather for us!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3208,
@@ -1201,7 +1275,8 @@
     "client": "Guild Messenger",
     "quest-details": "Hunters who were escorting some scholars were attacked by a few Gravios. They managed to fend them off, but they are unable to leave the area. Please hurry to their rescue!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3209,
@@ -1218,7 +1293,8 @@
     "client": "Hunchbacked Old Lady",
     "quest-details": "I'll tell you about a secret hunting ground, I will. It doesn't matter if it's day or night, the silver sun always shines, giving would- be hunters a good workout... Heh, heh, heh...!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3210,
@@ -1235,7 +1311,8 @@
     "client": "Well-Dressed Youth",
     "quest-details": "We were dazed and lost in a haze for days when we came upon a mysterious land. There, we spied a golden moon. If I tell you the location, will you look into the area for me in secret?",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3211,
@@ -1253,7 +1330,8 @@
     "client": "SharpWittedGentleman",
     "quest-details": "The silver-winged king and his gold-bodied queen. Whoever successfully hunts them both shall be known as the King of Hunters. I await your return with a glass held high!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3212,
@@ -1270,7 +1348,8 @@
     "client": "Elite Hunter",
     "quest-details": "The legendary Rajang has appeared at last, however, I will leave it for you other hunters as I have other matters to attend to. I have people back home waiting for my return, after all.",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3213,
@@ -1288,7 +1367,8 @@
     "client": "Scarlet Mystery Man",
     "quest-details": "There are two Rajang, each with golden fur. Hunters, I have prepared a special stage for your grandest performance. Demonstrate your true power... He he he...",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3214,
@@ -1305,7 +1385,8 @@
     "client": "Exploration Junkie",
     "quest-details": "They say there's a secret place where all manners of ancient monsters live together, and I have found it at long last... If you want, I will show this virgin land to you!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3215,
@@ -1322,7 +1403,8 @@
     "client": "Practicality Scholar",
     "quest-details": "There's something causing lightning strikes in the heart of the Old Swamp. My theory is that this is proof that the mythical beast has come out of hiding. Isn't it absolutely fascinating?",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3216,
@@ -1341,7 +1423,8 @@
     "client": "Guild Master",
     "quest-details": "The sprawling city in the oasis is under siege by a number of monsters. This is unprecedented! We must do what we can before something terrible befalls the city!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3217,
@@ -1360,7 +1443,8 @@
     "client": "Guild Heavyweight",
     "quest-details": "I'm checking out the disturbance in the Swamp. The large monsters are going crazy and there are a ton of casualties. Help fend them off so that we can find the source of the trouble.",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3218,
@@ -1379,7 +1463,8 @@
     "client": "Mantled Huntress",
     "quest-details": "I don't usually make requests, but today's an exception since I don't feel my best. ...What? H-How dare you!? I-I could do this job in my sleep! It's that easy! Ah, just come back safe...",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3219,
@@ -1397,7 +1482,8 @@
     "client": "Base Village Elder",
     "quest-details": "Recently, the weather around the Snowy Mountains has been bad nonstop. Further, the monsters are hungry from a lack of food, and have started to violently attack each other. Please help us!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3220,
@@ -1417,7 +1503,8 @@
     "client": "DesertedArenaManager",
     "quest-details": "I went to open up the arena that no one has used in a while. Lo and behold, it's now a den of monsters! They seem to like it there so much they were immediately up in arms. Please help me!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3221,
@@ -1436,7 +1523,8 @@
     "client": "PrivilegedLadyKnight",
     "quest-details": "If I don't pass this exercise, my father will force me to marry. But I've already sworn to myself that my only partner in life would be my trusty sword. Please, I need your help!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3222,
@@ -1453,7 +1541,8 @@
     "client": "Old Tribe's Prince",
     "quest-details": "If you see a giant twister at night out on the dunes, you'd best run. That is no ordinary sandstorm, but a legendary Elder Dragon. But if you think you can defeat it, then please go ahead!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3223,
@@ -1470,7 +1559,8 @@
     "client": "Jungle Psychic",
     "quest-details": "There was surely a vortex inside of that downpour. The wind wrapped around and revealed the elder dragon, Kushala Daora! There isn't a single soul who can combat it alone, so fight together!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3225,
@@ -1487,7 +1577,8 @@
     "client": "Heroic General",
     "quest-details": "I have an earnest request of you... As the last of my responsibilities, I request your help. I want you to fight the elder fire dragon we cornered in the Volcanic Belt, but beware its flames!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3224,
@@ -1504,7 +1595,8 @@
     "client": "Ill-ReputedInformant",
     "quest-details": "The Teostra's hideaway can only be found during the darkest hour, but I have done it. Now, if you can keep a secret, I'll tell you where it is, and of course you will be well rewarded...",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3226,
@@ -1521,7 +1613,8 @@
     "client": "Jungle Ancient",
     "quest-details": "People think it's impossible to fight an enemy you cannot see, however, if one were to focus and \"see\" with their gut instinct... Well, if all else fails, just swing your weapon round and round!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3227,
@@ -1538,7 +1631,8 @@
     "client": "Grim Aristocrat",
     "quest-details": "It seems an unknown elder dragon has appeared in the swamp zone. However, no one truly got a clear look at it. What could the beast have been? Slay it, but proceed with caution!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3228,
@@ -1556,7 +1650,8 @@
     "client": "E. Dragon Obs Office",
     "quest-details": "We have confirmed the Yama Tsukami's location at the old Tower! There is so much we have yet to understand about this floating dragon that we can't let this chance escape! Move out!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3229,
@@ -1573,7 +1668,8 @@
     "client": "Guild Master",
     "quest-details": "Our town is embroiled in an unprecedented conflict. A fortress-like shelled monster is threatening our safety. We need help immediately!",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 7
   },
   {
     "id": 3230,
@@ -1590,7 +1686,8 @@
     "client": "Benevolent Monarch",
     "quest-details": "The legendary black dragon... It really exists then? We've prepared all instruments of war to assist you in your quest to destroy the dragon. The fate of the nation lies in your hands.",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 9
   },
   {
     "id": 3231,
@@ -1607,7 +1704,8 @@
     "client": "Scarlet Mystery Man",
     "quest-details": "It appears the time has finally come. The bloodstained scales of the red dragon have graced the earth again in flaming glory. If you can stop this beast...",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 9
   },
   {
     "id": 3232,
@@ -1624,7 +1722,8 @@
     "client": "Scarlet Mystery Man",
     "quest-details": "Hee hee hee... The time has come. Here is your invitation to the ball. Wear your Sunday best and bring your greatest weapon, for it is time to go to the dance with the king of disaster.",
     "difficulty": 11,
-    "unlock-condition": null
+    "unlock-condition": null,
+    "required-hr": 9
   },
   {
     "id": 3233,
@@ -1656,8 +1755,13 @@
             3210,
             3229
           ]
+        },
+        {
+          "type": "hunter-rank",
+          "minimum": 9
         }
       ]
-    }
+    },
+    "required-hr": 9
   }
 ]

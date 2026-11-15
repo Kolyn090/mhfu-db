@@ -1257,6 +1257,10 @@
         {
           "type": "quest-not-cleared",
           "quest-id": 1201
+        },
+        {
+          "type": "hunter-rank",
+          "minimum": 2
         }
       ]
     }
@@ -1611,8 +1615,13 @@
         {
           "type": "quest-not-cleared",
           "quest-id": 1218
+        },
+        {
+          "type": "hunter-rank",
+          "minimum": 3
         }
       ]
-    }
+    },
+    "required-hr": 3
   }
 ]

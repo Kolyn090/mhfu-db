@@ -1740,6 +1740,17 @@
     "client": "Loyal Minister",
     "quest-details": "A giant dragon has attacked our fort! If the fort falls, so too do our lands! Use its installed weaponry to make this beast pay for its indiscretions!",
     "difficulty": 6,
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "complete-quests",
+          "quest-ids": [
+            10509
+          ]
+        }
+      ]
+    }
   }
 ]

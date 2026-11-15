@@ -31,7 +31,18 @@
     "client": "Treshi",
     "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
     "difficulty": 2,
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "complete-quests",
+          "quest-ids": [
+            10104
+          ]
+        }
+      ]
+    }
   },
   {
     "id": 4003,
@@ -49,7 +60,18 @@
     "client": "Treshi",
     "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
     "difficulty": 2,
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "complete-quests",
+          "quest-ids": [
+            10104
+          ]
+        }
+      ]
+    }
   },
   {
     "id": 4004,
@@ -68,7 +90,18 @@
     "client": "Treshi",
     "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
     "difficulty": 3,
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "complete-quests",
+          "quest-ids": [
+            10203
+          ]
+        }
+      ]
+    }
   },
   {
     "id": 4005,
@@ -87,7 +120,18 @@
     "client": "Treshi",
     "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
     "difficulty": 3,
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "complete-quests",
+          "quest-ids": [
+            10203
+          ]
+        }
+      ]
+    }
   },
   {
     "id": 4006,
@@ -106,7 +150,18 @@
     "client": "Treshi",
     "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
     "difficulty": 4,
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "complete-quests",
+          "quest-ids": [
+            10302
+          ]
+        }
+      ]
+    }
   },
   {
     "id": 4007,
@@ -124,6 +179,18 @@
     "client": "Treshi",
     "quest-details": "Gather the treasure that lies sleeping in the field to earn points. I will calculate your total and reward you based on how much you can collect. Leave no treasure undiscovered!",
     "difficulty": 8,
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "complete-quests",
+          "quest-ids": [
+            3009
+          ]
+        }
+      ]
+    },
+    "required-hr": 4
   }
 ]
