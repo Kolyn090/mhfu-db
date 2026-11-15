@@ -74,3 +74,4 @@ I'm reworking mhfu-db to make it better.
 - [x] Weapons/weapons-craft-availability.json
 - [x] Weapons/weapons-craft.json
 - [x] Weapons/weapons-image.json
+- [x] Weapons/weapons-menu-position.json
