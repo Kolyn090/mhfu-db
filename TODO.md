@@ -1,12 +1,12 @@
 I'm reworking mhfu-db to make it better.
 
-- [x] armors.json
-- [x] armors-image.json
-- [x] awards.json
+- [x] Armors/armors.json
+- [ ] Armors/armors-availability.json
+- [x] Armors/armors-image.json
+- [ ] Armors/decorations.json
 - [ ] Comrade/skills.json
 - [ ] Comrade/stats.json
 - [ ] Comrade/temperament.json
-- [ ] decorations.json
 - [ ] Farm/beehive.json
 - [ ] Farm/bug-catch.json
 - [ ] Farm/bug-tree.json
@@ -20,14 +20,16 @@ I'm reworking mhfu-db to make it better.
 - [ ] Farm/mushroom-tree.json
 - [ ] Farm/plants-addition.json
 - [ ] Farm/seeds.json
-- [x] gathering-spots.json
-- [ ] item-notes.json
-- [x] items.json
-- [x] items-combine.json
+- [x] Gameplay/awards.json
+- [x] Gameplay/magazines.json
+- [x] Gameplay/skills.json
+- [x] Maps/gathering-spots.json
+- [ ] Items/item-notes.json
+- [x] Items/items.json
+- [x] Items/items-combine.json
 - [ ] Kitchen/meal-effects.json
 - [ ] Kitchen/meals.json
-- ~~[ ] maps.json~~ (Better version: gathering-spots.json)
-- [x] magazines.json
+- ~~[ ] Maps/maps.json~~ (Better version: gathering-spots.json)
 - [ ] Merchants/merchant.json
 - [ ] Merchants/merchant-gal.json
 - [ ] Merchants/peddling-granny.json
@@ -45,7 +47,9 @@ I'm reworking mhfu-db to make it better.
 - [ ] Monsters/stats.json
 - [ ] Monsters/status-effectiveness.json
 - [ ] Monsters/weapon-effectiveness.json
-- [x] npc-dialogue.json
+- [x] Npc/npc-dialogue.json
+- [ ] Npc/trenya.json
+- [ ] Npc/veggie-elder.json
 - [ ] Quests/elder.json
 - [ ] Quests/gal-1.json
 - [ ] Quests/gal-2.json
@@ -56,9 +60,6 @@ I'm reworking mhfu-db to make it better.
 - [ ] Quests/training-3.json
 - [ ] Quests/training-group.json
 - [ ] Quests/treasure-hunt.json
-- [x] skills.json
-- [ ] trenya.json
-- [ ] veggie-elder.json
 - [x] Weapons/ammo.json
 - [x] Weapons/bowgun-upgrades.json
 - [x] Weapons/bows.json
@@ -71,5 +72,5 @@ I'm reworking mhfu-db to make it better.
 - [x] Weapons/stone-crafting.json
 - [x] Weapons/weapons.json
 - [x] Weapons/weapons-craft-availability.json
-- [ ] Weapons/weapons-craft.json
+- [x] Weapons/weapons-craft.json
 - [x] Weapons/weapons-image.json

@@ -2,6 +2,20 @@
 
 Record structural changes only. For each change, include its status (Planned or Completed), affected files, fields added, removed or modified, field types and meanings, compatibility implications, and implementation date when known.
 
+## Project Reorganization
+
+Reorganized the MHFU database into a cleaner, category-based directory structure for easier navigation and maintenance.
+
+### Changes
+- Grouped JSON datasets into dedicated folders such as `Armors/`, `Weapons/`, `Items/`, `Monsters/`, `Quests/`, and others.
+- Standardized dataset locations across the repository.
+- Separated equipment image mappings from their main data files.
+- Updated weapon crafting schemas with canonical IDs and recipe references.
+- Improved consistency across related JSON datasets.
+
+### Migration Note
+**Breaking change:** Consumers must update their JSON import paths to match the new directory structure. Some weapon-related schemas have also changed.
+
 ### Items — Expanded Item Definitions
 
 **Status:** Completed  
