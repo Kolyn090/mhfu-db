@@ -1,7 +1,7 @@
 I'm reworking mhfu-db to make it better.
 
 - [x] Armors/armors.json
-- [ ] Armors/armors-availability.json
+- [x] Armors/armors-availability.json
 - [x] Armors/armors-image.json
 - [ ] Armors/decorations.json
 - [ ] Comrade/skills.json
