@@ -20,9 +20,20 @@ I'm reworking mhfu-db to make it better.
 - [ ] Farm/mushroom-tree.json
 - [ ] Farm/plants-addition.json
 - [ ] Farm/seeds.json
-- [x] Gameplay/awards.json
+- [ ] Gameplay/awards.json
+    (add: unlock condition)
+- [ ] Gameplay/guild-titles.json
 - [x] Gameplay/magazines.json
 - [x] Gameplay/skills.json
+- [ ] Hunter/attack-modifiers.json
+    (note: Sharpness multipliers, critical hits, and damage modifiers)
+- [ ] Hunter/hunter-actions.json
+    (note: Rolling, guarding, diving, climbing, and other hunter actions)
+- [ ] Hunter/status-effects.json
+- [ ] Hunter/weapon-handling.json
+    (note: Movement speed, sheathing, reload times, recoil...)
+- [ ] Hunter/weapon-moves.json
+    (note: Attack moves, motion values, elemental modifiers, and hit properties)
 - [x] Maps/gathering-spots.json
 - [x] Items/items.json
 - [x] Items/items-combine.json
@@ -43,6 +54,7 @@ I'm reworking mhfu-db to make it better.
 - [ ] Monsters/monsters-material.json
 - [x] Monsters/monsters-spawn.json
 - [x] Monsters/monsters-spawn-condition.json
+- [ ] Monsters/movement-speed.json
 - [ ] Monsters/size.json
 - [ ] Monsters/stats.json
 - [ ] Monsters/status-effectiveness.json
@@ -51,6 +63,7 @@ I'm reworking mhfu-db to make it better.
 - [ ] Npc/trenya.json
 - [ ] Npc/veggie-elder.json
 - [ ] Quests/elder.json
+    (add: unlock condition)
 - [ ] Quests/gal-1.json
 - [ ] Quests/gal-2.json
 - [ ] Quests/gal-3.json
@@ -60,6 +73,7 @@ I'm reworking mhfu-db to make it better.
 - [ ] Quests/training-3.json
 - [ ] Quests/training-group.json
 - [ ] Quests/treasure-hunt.json
+- [ ] Quests/quest-supply.json
 - [x] Weapons/ammo.json
 - [x] Weapons/bowgun-upgrades.json
 - [x] Weapons/bows.json
