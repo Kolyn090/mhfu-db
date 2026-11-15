@@ -75,6 +75,7 @@ I'm reworking mhfu-db to make it better.
 - [ ] Quests/treasure-hunt.json
 - [ ] Quests/quest-supply.json
 - [x] Weapons/ammo.json
+- [x] Weapons/bowgun-shot-profiles.json
 - [x] Weapons/bowgun-upgrades.json
 - [x] Weapons/bows.json
 - [x] Weapons/coatings.json
