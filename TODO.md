@@ -1,8 +1,8 @@
 I'm reworking mhfu-db to make it better.
 
-- [ ] Armors/armors.json
-- [ ] Armors/armors-availability.json
-- [ ] Armors/armors-image.json
+- [x] Armors/armors.json
+- [x] Armors/armors-availability.json
+- [x] Armors/armors-image.json
 - [ ] Armors/decorations.json
 - [ ] Comrade/skills.json
 - [ ] Comrade/stats.json
@@ -74,19 +74,19 @@ I'm reworking mhfu-db to make it better.
 - [ ] Quests/training-group.json
 - [ ] Quests/treasure-hunt.json
 - [ ] Quests/quest-supply.json
-- [ ] Weapons/ammo.json
-- [ ] Weapons/bowgun-shot-profiles.json
-- [ ] Weapons/bowgun-upgrades.json
-- [ ] Weapons/bows.json
-- [ ] Weapons/coatings.json
-- [ ] Weapons/horns.json
-- [ ] Weapons/melodies.json
-- [ ] Weapons/rapid-shot.json
-- [ ] Weapons/sharpness.json
-- [ ] Weapons/shelling.json
-- [ ] Weapons/stone-crafting.json
-- [ ] Weapons/weapons.json
-- [ ] Weapons/weapons-craft-availability.json
-- [ ] Weapons/weapons-craft.json
-- [ ] Weapons/weapons-image.json
-- [ ] Weapons/weapons-menu-position.json
+- [x] Weapons/ammo.json
+- [x] Weapons/bowgun-shot-profiles.json
+- [x] Weapons/bowgun-upgrades.json
+- [x] Weapons/bows.json
+- [x] Weapons/coatings.json
+- [x] Weapons/horns.json
+- [x] Weapons/melodies.json
+- [x] Weapons/rapid-shot.json
+- [x] Weapons/sharpness.json
+- [x] Weapons/shelling.json
+- [x] Weapons/stone-crafting.json
+- [x] Weapons/weapons.json
+- [x] Weapons/weapons-craft-availability.json
+- [x] Weapons/weapons-craft.json
+- [x] Weapons/weapons-image.json
+- [x] Weapons/weapons-menu-position.json
