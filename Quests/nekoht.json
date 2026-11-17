@@ -657,7 +657,78 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 7,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 430,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11117,
@@ -679,7 +750,78 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 7,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 431,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11118,
@@ -701,7 +843,78 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 7,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 432,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11119,
@@ -723,7 +936,42 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 7,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11014,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11112,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11113,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11114,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11115,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11201,
@@ -965,7 +1213,18 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "saved-counter-sum",
+          "target": 164426240,
+          "operator": ">=",
+          "value": 100
+        }
+      ]
+    }
   },
   {
     "id": 11212,
@@ -987,7 +1246,18 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "saved-counter-sum",
+          "target": 164426240,
+          "operator": ">=",
+          "value": 100
+        }
+      ]
+    }
   },
   {
     "id": 11213,
@@ -1014,11 +1284,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            11211,
-            11212
-          ]
+          "type": "quest-clear",
+          "target": 11211,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11212,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1065,7 +1340,24 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11201,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 434,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11216,
@@ -1175,7 +1467,126 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11201,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11202,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11204,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11205,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11207,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11209,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11211,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11212,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 435,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11221,
@@ -1197,7 +1608,126 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11201,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11202,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11204,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11205,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11207,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11209,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11211,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11212,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 436,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11222,
@@ -1219,7 +1749,126 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11201,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11202,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11204,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11205,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11207,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11209,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11211,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11212,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 437,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11223,
@@ -1241,7 +1890,126 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11201,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11202,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11204,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11205,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11207,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11209,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11211,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11212,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 438,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11224,
@@ -1307,7 +2075,360 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 8,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 11001,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11002,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11003,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11004,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11005,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11006,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11007,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11008,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11011,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11012,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11013,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11014,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11101,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11102,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11103,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11104,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11106,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11107,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11108,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11109,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11110,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11111,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11112,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11113,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11114,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11115,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11116,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11117,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11118,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11119,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11201,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11202,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11203,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11204,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11205,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11206,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11207,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11208,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11209,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11210,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11211,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11212,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11213,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11214,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11215,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11216,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11217,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11218,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11219,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11220,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11221,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11222,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11223,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11224,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11225,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 11005,
@@ -1332,15 +2453,30 @@
     "unlock-condition": {
       "scope": "urgent-selection",
       "complete": false,
-      "menu-tier-index": 5,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            10503,
-            10504,
-            10508
-          ]
+          "type": "quest-clear",
+          "target": 10503,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 10504,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 10508,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "menu-mode",
+          "target": 105,
+          "operator": "!=",
+          "value": 0
         }
       ]
     }
@@ -1368,16 +2504,30 @@
     "unlock-condition": {
       "scope": "urgent-selection",
       "complete": false,
-      "menu-tier-index": 6,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            11001,
-            11009,
-            11010,
-            11012
-          ]
+          "type": "quest-clear",
+          "target": 11001,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11010,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11012,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1405,16 +2555,30 @@
     "unlock-condition": {
       "scope": "urgent-selection",
       "complete": false,
-      "menu-tier-index": 7,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            11102,
-            11105,
-            11110,
-            11111
-          ]
+          "type": "quest-clear",
+          "target": 11102,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11105,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11110,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11111,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1442,16 +2606,30 @@
     "unlock-condition": {
       "scope": "urgent-selection",
       "complete": false,
-      "menu-tier-index": 8,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            11203,
-            11213,
-            11214,
-            11224
-          ]
+          "type": "quest-clear",
+          "target": 11203,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11213,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11214,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 11224,
+          "operator": "==",
+          "value": true
         }
       ]
     }

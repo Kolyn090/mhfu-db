@@ -1193,7 +1193,48 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 9,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "quest-clear",
+          "target": 3024,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3025,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3123,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3124,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3125,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3126,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 3201,
@@ -1520,14 +1561,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3228
-          ]
+          "type": "quest-clear",
+          "target": 3228,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 439
+          "type": "save-flag",
+          "target": 439,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1558,14 +1601,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3228
-          ]
+          "type": "quest-clear",
+          "target": 3228,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 440
+          "type": "save-flag",
+          "target": 440,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1734,14 +1779,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3127
-          ]
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 441
+          "type": "save-flag",
+          "target": 441,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1772,14 +1819,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3127
-          ]
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 442
+          "type": "save-flag",
+          "target": 442,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1810,14 +1859,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3127
-          ]
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 443
+          "type": "save-flag",
+          "target": 443,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1848,14 +1899,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3127
-          ]
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 444
+          "type": "save-flag",
+          "target": 444,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1886,14 +1939,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3127
-          ]
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 445
+          "type": "save-flag",
+          "target": 445,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -1924,14 +1979,16 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3127
-          ]
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "save-flag-set",
-          "flag-id": 446
+          "type": "save-flag",
+          "target": 446,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -2008,18 +2065,58 @@
       "complete": false,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3009,
-            21016,
-            21017,
-            21018,
-            21019,
-            21020,
-            21021,
-            21022,
-            21023
-          ]
+          "type": "quest-clear",
+          "target": 3009,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21016,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21017,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21018,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21019,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21020,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21021,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21022,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 21023,
+          "operator": "==",
+          "value": true
         }
       ]
     }
@@ -2045,7 +2142,102 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 10,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "save-flag",
+          "target": 213,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 214,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 215,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 216,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3214,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3215,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3222,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3223,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3224,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3225,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3226,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3227,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3228,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3009,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 3232,
@@ -2068,7 +2260,180 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 10,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "type": "save-flag",
+          "target": 217,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3024,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3025,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3123,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3124,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3125,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3126,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3216,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3217,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3218,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3219,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3220,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3221,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 213,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 214,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 215,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "save-flag",
+          "target": 216,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3127,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3214,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3215,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3222,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3223,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3224,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3225,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3226,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3227,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3228,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3009,
+          "operator": "==",
+          "value": true
+        }
+      ]
+    }
   },
   {
     "id": 3233,
@@ -2091,7 +2456,15 @@
     "appearance": "listed-candidate",
     "menu-tier-index": 10,
     "quest-type": "optional",
-    "unlock-condition": null
+    "unlock-condition": {
+      "scope": "menu-visibility",
+      "complete": false,
+      "all": [
+        {
+          "any": []
+        }
+      ]
+    }
   },
   {
     "id": 3103,
@@ -2117,25 +2490,48 @@
     "unlock-condition": {
       "scope": "urgent-selection",
       "complete": false,
-      "menu-tier-index": 8,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3012,
-            3014,
-            3017,
-            3020,
-            3023
-          ]
+          "type": "quest-clear",
+          "target": 3012,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "quest-not-cleared",
-          "quest-id": 3103
+          "type": "quest-clear",
+          "target": 3014,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3017,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3020,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3023,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3103,
+          "operator": "==",
+          "value": false
         },
         {
           "type": "hunter-rank",
-          "minimum": 7
+          "target": 17596,
+          "operator": ">=",
+          "value": 7
         }
       ]
     }
@@ -2164,25 +2560,48 @@
     "unlock-condition": {
       "scope": "urgent-selection",
       "complete": false,
-      "menu-tier-index": 9,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3106,
-            3111,
-            3113,
-            3115,
-            3121
-          ]
+          "type": "quest-clear",
+          "target": 3106,
+          "operator": "==",
+          "value": true
         },
         {
-          "type": "quest-not-cleared",
-          "quest-id": 3228
+          "type": "quest-clear",
+          "target": 3111,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3113,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3115,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3121,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3228,
+          "operator": "==",
+          "value": false
         },
         {
           "type": "hunter-rank",
-          "minimum": 8
+          "target": 17596,
+          "operator": ">=",
+          "value": 8
         }
       ]
     }
@@ -2211,22 +2630,48 @@
     "unlock-condition": {
       "scope": "urgent-selection",
       "complete": false,
-      "menu-tier-index": 10,
       "all": [
         {
-          "type": "complete-quests",
-          "quest-ids": [
-            3201,
-            3205,
-            3206,
-            3209,
-            3210,
-            3229
-          ]
+          "type": "quest-clear",
+          "target": 3201,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3205,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3206,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3209,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3210,
+          "operator": "==",
+          "value": true
+        },
+        {
+          "type": "quest-clear",
+          "target": 3229,
+          "operator": "==",
+          "value": true
         },
         {
           "type": "hunter-rank",
-          "minimum": 9
+          "target": 17596,
+          "operator": ">=",
+          "value": 9
         }
       ]
     }

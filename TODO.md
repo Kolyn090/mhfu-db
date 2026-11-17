@@ -62,18 +62,19 @@ I'm reworking mhfu-db to make it better.
 - [ ] Npc/npc-dialogue.json
 - [ ] Npc/trenya.json
 - [ ] Npc/veggie-elder.json
-- [ ] Quests/elder.json
+- [x] Quests/elder.json
     (add: unlock condition)
-- [ ] Quests/gal-1.json
-- [ ] Quests/gal-2.json
-- [ ] Quests/gal-3.json
-- [ ] Quests/nekoht.json
-- [ ] Quests/training-1.json
-- [ ] Quests/training-2.json
-- [ ] Quests/training-3.json
-- [ ] Quests/training-group.json
-- [ ] Quests/treasure-hunt.json
-- [ ] Quests/quest-supply.json
+- [x] Quests/gal-1.json
+- [x] Quests/gal-2.json
+- [x] Quests/gal-3.json
+- [x] Quests/nekoht.json
+- [x] Quests/training-1.json
+- [x] Quests/training-2.json
+- [x] Quests/training-3.json
+- [x] Quests/training-group.json
+- [x] Quests/treasure-hunt.json
+- [x] Quests/quest-supplies.json
+- [ ] Quests/event-quest.json
 - [x] Weapons/ammo.json
 - [x] Weapons/bowgun-shot-profiles.json
 - [x] Weapons/bowgun-upgrades.json
