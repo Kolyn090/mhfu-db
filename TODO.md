@@ -34,12 +34,12 @@ I'm reworking mhfu-db to make it better.
     (note: Movement speed, sheathing, reload times, recoil...)
 - [ ] Hunter/weapon-moves.json
     (note: Attack moves, motion values, elemental modifiers, and hit properties)
-- [ ] Maps/gathering-spots.json
 - [x] Items/items.json
 - [x] Items/items-combine.json
 - [x] Items/items-note.json
 - [ ] Kitchen/meal-effects.json
 - [ ] Kitchen/meals.json
+- [x] Maps/gathering-spots.json
 - ~~[ ] Maps/maps.json~~ (Better version: gathering-spots.json)
 - [ ] Merchants/merchant.json
 - [ ] Merchants/merchant-gal.json
@@ -52,16 +52,16 @@ I'm reworking mhfu-db to make it better.
 - [ ] Monsters/knockout-small-monsters.json
 - [ ] Monsters/monsters.json
 - [ ] Monsters/monsters-material.json
-- [ ] Monsters/monsters-spawn.json
-- [ ] Monsters/monsters-spawn-condition.json
+- [x] Monsters/monsters-spawn.json
+- [x] Monsters/monsters-spawn-condition.json
 - [ ] Monsters/movement-speed.json
 - [ ] Monsters/size.json
 - [ ] Monsters/stats.json
 - [ ] Monsters/status-effectiveness.json
 - [ ] Monsters/weapon-effectiveness.json
-- [ ] Npc/npc-dialogue.json
+- [x] Npc/npc-dialogue.json
 - [ ] Npc/trenya.json
-- [ ] Npc/veggie-elder.json
+- [x] Npc/veggie-elder.json
 - [x] Quests/elder.json
     (add: unlock condition)
 - [x] Quests/gal-1.json
