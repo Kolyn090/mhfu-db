@@ -60,7 +60,7 @@ I'm reworking mhfu-db to make it better.
 - [ ] Monsters/status-effectiveness.json
 - [ ] Monsters/weapon-effectiveness.json
 - [x] Npc/npc-dialogue.json
-- [ ] Npc/trenya.json
+- [x] Npc/trenya.json
 - [x] Npc/veggie-elder.json
 - [x] Quests/elder.json
     (add: unlock condition)
